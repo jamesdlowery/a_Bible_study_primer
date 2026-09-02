@@ -1,0 +1,192 @@
+name: Build Word / ODT / PDF / HTML
+
+# Runs whenever content changes on main, or manually via the Actions tab.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - 'build/**'
+      - '.github/workflows/build-docs.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed to read release history and publish new releases
+
+# Prevent two runs from computing the same version letter if pushes happen
+# in quick succession -- queue them instead of running in parallel.
+concurrency:
+  group: build-docs
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install pandoc, LibreOffice, and PyMuPDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice --no-install-recommends
+          pip install --quiet pymupdf
+
+      # Version format: vYYYYMMDDx -- YYYY/MM/DD is today's date in US
+      # Eastern time, and x is a lowercase letter a-z that increments each
+      # time this workflow runs on the same calendar day (reset to 'a' on a
+      # new day). Determined by checking existing release tags rather than
+      # any state file, so it's self-contained and needs no repo commits.
+      - name: Compute build version
+        id: version
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TODAY=$(TZ='America/New_York' date +%Y%m%d)
+          EXISTING=$(gh release list --limit 200 --json tagName -q '.[].tagName' \
+            | grep -E "^v${TODAY}[a-z]$" || true)
+          if [ -z "$EXISTING" ]; then
+            LETTER="a"
+          else
+            LAST=$(echo "$EXISTING" | sed "s/^v${TODAY}//" | sort | tail -1)
+            LETTER=$(python3 -c "print(chr(ord('$LAST') + 1))")
+          fi
+          VERSION="v${TODAY}${LETTER}"
+          echo "Computed version: $VERSION"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      # --- DOCX: pass 1 (measure), then pass 2 (apply blank pages) ---
+
+      - name: DOCX pass 1 - assemble without blank pages
+        env:
+          BUILD_VERSION: ${{ steps.version.outputs.version }}
+        run: python3 build/assemble.py docx "$GITHUB_WORKSPACE"
+
+      - name: DOCX pass 1 - build and render to PDF for measurement
+        run: |
+          pandoc build/full_document_docx.md -o pass1_docx.docx \
+            -f markdown+raw_attribute --wrap=none \
+            --reference-doc=build/custom-reference.docx
+          python3 build/postprocess_docx.py pass1_docx.docx "${{ steps.version.outputs.version }}"
+          soffice --headless --convert-to pdf pass1_docx.docx
+
+      - name: DOCX - detect required blank pages
+        run: python3 build/detect_pages.py docx pass1_docx.pdf build/targets_meta_docx.json build/blanks_docx.json
+
+      - name: DOCX pass 2 - assemble with blank pages applied
+        env:
+          BUILD_VERSION: ${{ steps.version.outputs.version }}
+        run: python3 build/assemble.py docx "$GITHUB_WORKSPACE" build/blanks_docx.json
+
+      - name: Generate final DOCX
+        run: |
+          pandoc build/full_document_docx.md \
+            -o A_Bible_Study_Primer.docx \
+            -f markdown+raw_attribute --wrap=none \
+            --reference-doc=build/custom-reference.docx
+          python3 build/postprocess_docx.py A_Bible_Study_Primer.docx "${{ steps.version.outputs.version }}"
+
+      # --- ODT: same two-pass process, independently measured (docx and
+      # odt can paginate slightly differently, so blank-page placement is
+      # computed separately for each rather than reused) ---
+
+      - name: ODT pass 1 - assemble without blank pages
+        env:
+          BUILD_VERSION: ${{ steps.version.outputs.version }}
+        run: python3 build/assemble.py odt "$GITHUB_WORKSPACE"
+
+      - name: ODT pass 1 - build and render to PDF for measurement
+        run: |
+          pandoc build/full_document_odt.md -o pass1_odt.odt \
+            -f markdown+raw_attribute --wrap=none \
+            --reference-doc=build/custom-reference.odt
+          python3 build/postprocess_odt.py pass1_odt.odt "${{ steps.version.outputs.version }}"
+          soffice --headless --convert-to pdf pass1_odt.odt
+
+      - name: ODT - detect required blank pages
+        run: python3 build/detect_pages.py odt pass1_odt.pdf build/targets_meta_odt.json build/blanks_odt.json
+
+      - name: ODT pass 2 - assemble with blank pages applied
+        env:
+          BUILD_VERSION: ${{ steps.version.outputs.version }}
+        run: python3 build/assemble.py odt "$GITHUB_WORKSPACE" build/blanks_odt.json
+
+      - name: Generate final ODT
+        run: |
+          pandoc build/full_document_odt.md \
+            -o A_Bible_Study_Primer.odt \
+            -f markdown+raw_attribute --wrap=none \
+            --reference-doc=build/custom-reference.odt
+          python3 build/postprocess_odt.py A_Bible_Study_Primer.odt "${{ steps.version.outputs.version }}"
+
+      - name: Generate PDF (rendered from the final DOCX, so it always matches)
+        run: soffice --headless --convert-to pdf A_Bible_Study_Primer.docx
+
+      # --- HTML: single pass, no pagination (page breaks are print-CSS only) ---
+
+      - name: Generate HTML
+        env:
+          BUILD_VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          python3 build/assemble.py html "$GITHUB_WORKSPACE"
+          python3 build/render_html.py build/full_document_html.md build/html_style.html A_Bible_Study_Primer.html
+
+      # Versioned copies (e.g. A_Bible_Study_Primer_v20260823a.docx) are the
+      # actual per-run artifacts. Stable, unversioned copies are also kept
+      # so the README's fixed "latest" download links never need editing --
+      # both sets live in the same release.
+      - name: Prepare versioned copies for release
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          for ext in docx odt pdf html; do
+            cp "A_Bible_Study_Primer.$ext" "A_Bible_Study_Primer_${VERSION}.$ext"
+          done
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          name: Build ${{ steps.version.outputs.version }}
+          body: >
+            Automatically generated from the current main branch.
+            Stable, unversioned filenames are also attached so existing
+            download links keep working.
+          make_latest: true
+          files: |
+            A_Bible_Study_Primer.docx
+            A_Bible_Study_Primer.odt
+            A_Bible_Study_Primer.pdf
+            A_Bible_Study_Primer.html
+            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.docx
+            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.odt
+            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.pdf
+            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.html
+
+      # Rewrites only the marked block in README.md (see README_snippet.md)
+      # to point at this run's exact versioned filenames, then commits that
+      # change back to main. Pushes made with the default GITHUB_TOKEN don't
+      # re-trigger this workflow, so this can't cause an infinite loop.
+      - name: Update README download links
+        run: python3 build/update_readme_links.py "${{ steps.version.outputs.version }}"
+
+      # Keeps the title page's own source file in sync with the version
+      # actually just released, so it never sits stale in the repo between
+      # releases (assemble.py's BUILD_VERSION override already makes every
+      # compiled document show the right version regardless, but this keeps
+      # the *source* markdown honest too).
+      - name: Update title page version
+        run: python3 build/update_title_page_version.py "${{ steps.version.outputs.version }}"
+
+      - name: Commit updated README and title page
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md "010 Title/010 Title Page.md"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update download links and title page to ${{ steps.version.outputs.version }}"
+            git fetch origin "${{ github.ref_name }}"
+            git rebase "origin/${{ github.ref_name }}"
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi

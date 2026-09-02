@@ -1,0 +1,135 @@
+<style>
+  h1.title { display: none; }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #000000;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2em 2.5em;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+  }
+
+  h1, h2, h4, h5 {
+    color: #1F4E79;
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+  }
+
+  h3, h6 {
+    color: #2E75B6;
+    font-weight: bold;
+    font-size: 1.15em;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+  }
+
+  /* Title page */
+  div[data-custom-style="HiddenHeading"] {
+    display: none;
+  }
+  div[data-custom-style="Title"] {
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #000000;
+    margin-top: 2em;
+    margin-bottom: 0.2em;
+  }
+  div[data-custom-style="Subtitle"] {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: normal;
+    color: #000000;
+    margin-bottom: 2em;
+  }
+
+  a {
+    color: #2E75B6;
+    text-decoration: underline;
+  }
+
+  a.back-link {
+    display: inline-block;
+    font-size: 0.85em;
+    margin-top: 1.5em;
+    padding-top: 0.6em;
+    border-top: 1px solid #DDDDDD;
+    color: #666666;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0 1.5em 0;
+  }
+  th, td {
+    border: 1px solid #BFBFBF;
+    padding: 0.5em 0.7em;
+    text-align: left;
+    vertical-align: top;
+  }
+  thead th {
+    background-color: #1F4E79;
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+
+  ul, ol {
+    margin-top: 0.3em;
+    margin-bottom: 0.8em;
+  }
+
+  /* Screen: page-break markers are invisible dividers.
+     Print: force an actual page break, matching the DOCX/ODT/PDF pagination. */
+  .print-page-break {
+    height: 0;
+    margin: 0;
+    border: none;
+  }
+  @media print {
+    .print-page-break {
+      page-break-before: always;
+    }
+  }
+
+  .closing-footer-rule {
+    margin-top: 2em;
+    border: none;
+    border-top: 1px solid #BFBFBF;
+  }
+  .closing-footer {
+    text-align: center;
+    color: #595959;
+    font-size: 0.9em;
+  }
+
+  /* "Release Candidate" watermark: a pure-CSS pseudo-element fixed to the
+     viewport, so it stays visible while scrolling on screen and (via
+     position:fixed) repeats on every printed page, matching the
+     DOCX/ODT/PDF watermark behavior -- no change to the page's actual
+     HTML content is needed. pointer-events:none keeps it from blocking
+     clicks on links beneath it. */
+  body::before {
+    content: "RELEASE CANDIDATE";
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-35deg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5.5em;
+    font-weight: bold;
+    color: #808080;
+    opacity: 0.5;
+    white-space: nowrap;
+    pointer-events: none;
+    z-index: 1000;
+  }
+</style>
