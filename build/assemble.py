@@ -205,11 +205,11 @@ def book_stats():
 
     # Each book's by-claim file has the full, deduplicated set of numbered
     # entries -- one row per alleged contradiction, not one per translation.
-    # Files live inside category subdirectories (Pentateuch, Historical
-    # Books, etc.), so this walks recursively rather than listing the top
-    # level directly -- a flat os.listdir() here would silently count zero
-    # files and never raise an error, exactly the kind of quiet failure
-    # this project has been bitten by before.
+    # Walked recursively (not a flat os.listdir()) as a defensive measure:
+    # if a future change ever nests these files in subdirectories again, a
+    # flat listdir would silently count zero files rather than raising an
+    # error -- exactly the kind of quiet failure this project has been
+    # bitten by before.
     rcp_dir = os.path.join(REPO, "110 Reportedly Contradicting Passages",
                            "015 Reportedly Contradicting Passages By Claim")
     rcp_count = 0
@@ -503,29 +503,31 @@ def build_targets():
     RCP_BY_CLAIM_DIR = "110 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
 
     prev_group = None
-    pending_testament_label = None
     for group_label, fn in rcp_all_books():
         if fn is None:
-            pending_testament_label = testament_labels[group_label]
+            # A real heading (not bold text) so this appears as its own
+            # entry in the PDF bookmarks/ToC navigation, matching how the
+            # Manuscript and Translation Differences section's testament
+            # dividers behave. Folded onto the same page as the next
+            # non-divider target, like that section's dividers are.
+            label = testament_labels[group_label]
+            def render_testament_divider(label=label):
+                return f"## {label}\n"
+            add(f"rcp_{group_label}_divider", label, render_testament_divider, is_divider=True)
             continue
         book_name = rcp_book_display(fn)
         book_folder = rcp_book_folder(fn)
-        # Files live inside a category subdirectory (Pentateuch, Historical
-        # Books, etc.), matching group_label -- except two labels contain a
-        # "/" (Pentateuch/Law/Torah, Wisdom/Poetic Books), which would be
-        # read as nested folders rather than one literal folder name, so
-        # those are sanitized to a hyphenated form for the actual directory.
-        category_folder = group_label.replace("/", "-")
-        rel_path = os.path.join(RCP_BY_CLAIM_DIR, category_folder, f"{book_folder}.md")
+        rel_path = os.path.join(RCP_BY_CLAIM_DIR, f"{book_folder}.md")
         if not os.path.exists(os.path.join(REPO, rel_path)):
             continue
 
         header_md = ""
-        if pending_testament_label:
-            header_md += f"**{pending_testament_label}**\n\n"
-        if group_label != prev_group and group_label != pending_testament_label:
-            header_md += f"**{group_label}**\n\n"
-        pending_testament_label = None
+        if group_label != prev_group:
+            # Also a real heading, one level deeper than the testament
+            # divider above, matching the category-level "### {group}"
+            # headings used the same way in Manuscript and Translation
+            # Differences.
+            header_md += f"### {group_label}\n\n"
         prev_group = group_label
 
         def render_book(rel_path=rel_path, book_name=book_name, header_md=header_md):
