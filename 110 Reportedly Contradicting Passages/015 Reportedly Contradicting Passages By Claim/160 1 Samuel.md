@@ -1,6 +1,6 @@
 # Reportedly Contradicting Passages in 1 Samuel
 
-This document catalogs 26 commonly cited alleged contradictions involving the book of 1
+This document catalogs 25 commonly cited alleged contradictions involving the book of 1
 Samuel, either entirely internal to 1 Samuel or between 1 Samuel and a directly related
 passage elsewhere (Deuteronomy, 2 Samuel, 1 Chronicles). For each item, this document states
 the claim as it is typically raised, notes how the **KJV** specifically renders the

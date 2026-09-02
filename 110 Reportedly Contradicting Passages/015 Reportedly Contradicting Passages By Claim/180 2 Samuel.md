@@ -259,7 +259,7 @@ primary texts and the cross-references directly.
 **The claim:** 2 Samuel 21:8 (Masoretic Hebrew) says Michal, daughter of Saul, bore five sons later handed over to the Gibeonites -- yet 1 Samuel 18:19 says Merab, not Michal, was the one married to Adriel, whose sons these were, and other texts describe Michal as childless.
 
 **How the ten translations render it:**
-- **AMP:** AMP reads 'Michal,' but adds bracketed/amplified commentary noting the Merab identification question.
+- **AMP:** AMP 2015 reads 'Merab' in the main text, with a footnote noting that the Masoretic Text has 'Michal.'
 - **CSB:** CSB reads 'Merab' in the main text at 2 Samuel 21:8, following the Merab identification (verified against the published text).
 - **ESV:** ESV reads 'Merab' in the main text, following the Hebrew manuscripts and the Merab identification, with a footnote on the majority Hebrew reading 'Michal.'
 - **KJV:** KJV reads 'Michal' at 2 Samuel 21:8, following the Masoretic Text as received, preserving the tension with 1 Samuel 18:19.
