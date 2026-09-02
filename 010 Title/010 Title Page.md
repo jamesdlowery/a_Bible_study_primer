@@ -2,4 +2,4 @@
 
 **A Bible Study Primer**
 
-v20260902a
+v20260830b
