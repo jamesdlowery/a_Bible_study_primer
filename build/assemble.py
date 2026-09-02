@@ -205,15 +205,32 @@ def book_stats():
 
     # Each book's by-claim file has the full, deduplicated set of numbered
     # entries -- one row per alleged contradiction, not one per translation.
+    # Files live inside category subdirectories (Pentateuch, Historical
+    # Books, etc.), so this walks recursively rather than listing the top
+    # level directly -- a flat os.listdir() here would silently count zero
+    # files and never raise an error, exactly the kind of quiet failure
+    # this project has been bitten by before.
     rcp_dir = os.path.join(REPO, "110 Reportedly Contradicting Passages",
                            "015 Reportedly Contradicting Passages By Claim")
     rcp_count = 0
-    for fn in os.listdir(rcp_dir):
-        if not fn.endswith(".md"):
-            continue
-        with open(os.path.join(rcp_dir, fn), encoding="utf-8") as f:
-            content = f.read()
-        rcp_count += len(re.findall(r'^### \d+\.', content, re.M))
+    rcp_files_found = 0
+    for _root, _dirs, _files in os.walk(rcp_dir):
+        for fn in _files:
+            if not fn.endswith(".md"):
+                continue
+            rcp_files_found += 1
+            with open(os.path.join(_root, fn), encoding="utf-8") as f:
+                content = f.read()
+            rcp_count += len(re.findall(r'^### \d+\.', content, re.M))
+
+    # Fail loudly rather than silently produce a wrong (too-low) count if a
+    # future path or naming change causes files to go unfound again.
+    if rcp_files_found < 70:
+        raise RuntimeError(
+            f"book_stats() only found {rcp_files_found} RCP by-claim files "
+            f"under {rcp_dir!r} -- expected around 73. A path or filename "
+            f"mismatch is likely silently hiding books from the build."
+        )
 
     return {
         "translation_count": translation_count,
@@ -493,7 +510,13 @@ def build_targets():
             continue
         book_name = rcp_book_display(fn)
         book_folder = rcp_book_folder(fn)
-        rel_path = os.path.join(RCP_BY_CLAIM_DIR, f"{book_folder}.md")
+        # Files live inside a category subdirectory (Pentateuch, Historical
+        # Books, etc.), matching group_label -- except two labels contain a
+        # "/" (Pentateuch/Law/Torah, Wisdom/Poetic Books), which would be
+        # read as nested folders rather than one literal folder name, so
+        # those are sanitized to a hyphenated form for the actual directory.
+        category_folder = group_label.replace("/", "-")
+        rel_path = os.path.join(RCP_BY_CLAIM_DIR, category_folder, f"{book_folder}.md")
         if not os.path.exists(os.path.join(REPO, rel_path)):
             continue
 
