@@ -1,6 +1,6 @@
 # Title Page
 **A Bible Study Primer**
-v20260902i
+v20260902j
 Dear Reader,
 
     If you come across any issues with the content, form, and/or function of this aid, 
