@@ -612,16 +612,36 @@ def build_title_md():
     manually typed in the repo's title file. Returns (markdown, version)
     so callers needing just the resolved version string (e.g. the HTML
     closing footer, which has no reference-doc template to bake a
-    {{BUILD_VERSION}} placeholder into) don't have to re-derive it."""
+    {{BUILD_VERSION}} placeholder into) don't have to re-derive it.
+
+    Anything in the source file after the title and version lines (e.g. a
+    personal note to readers) is preserved and rendered as ordinary body
+    text beneath the title block, rather than silently dropped -- this
+    file previously only ever contained exactly those two content lines,
+    so nothing read past them; a later addition of extra text below the
+    version line surfaced that gap."""
     with open(os.path.join(REPO, "010 Title/010 Title Page.md"), encoding="utf-8") as f:
-        lines = [l.strip() for l in f.read().split("\n") if l.strip()]
+        raw_lines = f.read().split("\n")
+    lines = [l.strip() for l in raw_lines if l.strip()]
     # Expected: ["# Title Page", "**A Bible Study Primer**", "v20260823a"]
     title_line = next((l for l in lines if l.startswith("**") and l.endswith("**")), None)
     version_line = next((l for l in lines[1:] if l != title_line), None)
     if title_line is None or version_line is None:
         raise ValueError(f"Could not parse title/version out of 010 Title Page.md; got lines: {lines!r}")
     title_text = title_line.strip("*")
-    version_line = os.environ.get("BUILD_VERSION", version_line)
+    version_line_resolved = os.environ.get("BUILD_VERSION", version_line)
+
+    # Everything after the version line, if anything, is extra body content
+    # (e.g. a note to readers) -- include it as plain paragraphs. Each
+    # source line is de-indented so an indented line in the source file
+    # (easy to introduce by accident when hand-editing) doesn't get
+    # misread as a Markdown code block instead of an ordinary paragraph.
+    version_idx = next(i for i, l in enumerate(lines) if l == version_line)
+    extra_lines = lines[version_idx + 1:]
+    extra_md = ""
+    if extra_lines:
+        extra_md = "\n\n" + "\n\n".join(l.strip() for l in extra_lines)
+
     md = f"""::: {{custom-style="HiddenHeading"}}
 Title Page
 :::
@@ -631,10 +651,11 @@ Title Page
 :::
 
 ::: {{custom-style="Subtitle"}}
-{version_line}
+{version_line_resolved}
 :::
+{extra_md}
 """
-    return md, version_line
+    return md, version_line_resolved
 
 title_md, BUILD_VERSION_RESOLVED = build_title_md()
 
