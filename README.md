@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260902c/A_Bible_Study_Primer_v20260902c.docx)
-- [📄 OpenDocument (.odt)](../../releases/download/v20260902c/A_Bible_Study_Primer_v20260902c.odt)
-- [📄 PDF](../../releases/download/v20260902c/A_Bible_Study_Primer_v20260902c.pdf)
-- [🌐 HTML](../../releases/download/v20260902c/A_Bible_Study_Primer_v20260902c.html)
+- [📄 Word (.docx)](../../releases/download/v20260830b/A_Bible_Study_Primer_v20260830b.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260830b/A_Bible_Study_Primer_v20260830b.odt)
+- [📄 PDF](../../releases/download/v20260830b/A_Bible_Study_Primer_v20260830b.pdf)
+- [🌐 HTML](../../releases/download/v20260830b/A_Bible_Study_Primer_v20260830b.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -29,9 +29,8 @@ Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases pa
 | [`060 Popular Bible Translations`](060%20Popular%20Bible%20Translations/010%20Popular%20Bible%20Translations.md) | Overview of English Bible translation philosophy |
 | [`070 Bible Translations and Their Source Manuscripts`](070%20Bible%20Translations%20and%20Their%20Source%20Manuscripts/010%20Bible%20Translations%20and%20Their%20Source%20Manuscripts.md) | Which manuscript traditions underlie which translations |
 | [`080 Histories of Various Bible Translations`](080%20Histories%20of%20Various%20Bible%20Translations) | A history for each of 26 major English translations (AKJV, ASV, CSB, ESV, KJV, NASB, NIV, NKJV, NLT, NRSVCE, RSV, WEB, YLT, and more) |
-| [`090 Well-documented Differences That Affect Meaning`](090%20Well-documented%20Differences%20That%20Affect%20Meaning/010%20Well-documented%20Differences%20That%20Affect%20Meaning.md) | High-level summary of key meaning-affecting differences (e.g. Isaiah 7:14, Psalm 22:16) |
-| [`100 Other Meaning-Affecting Variants`](100%20Other%20Meaning-Affecting%20Variants) | A dedicated page for every book of the Bible (Genesis–Revelation, plus the Apocrypha) detailing other textual variants across manuscript traditions |
-| [`110 Reportedly Contradicting Passages`](110%20Reportedly%20Contradicting%20Passages) | Commonly cited "Bible contradiction" claims and their harmonizations, arranged both by book of the Bible and by translation/version |
+| [`100 Manuscript and Translation Differences`](100%20Manuscript%20and%20Translation%20Differences) | A dedicated page for every book of the Bible (Genesis–Revelation, plus the Apocrypha) detailing textual variants across manuscript traditions, including the most well-known individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less familiar ones |
+| [`110 Reportedly Contradicting Passages`](110%20Reportedly%20Contradicting%20Passages) | Commonly cited "Bible contradiction" claims and their harmonizations, arranged by book of the Bible, noting how the ten tracked translations render the passages involved wherever that actually differs |
 | [`120 References for Further Reading`](120%20References%20for%20Further%20Reading/010%20References%20for%20Further%20Reading.md) | A bibliography of standard reference works for the manuscript, translation, and textual-variant content throughout this book |
 
 Folders are numbered in reading order, and files inside each folder are numbered the same way, so everything sorts correctly whether you're browsing on GitHub or in a file explorer.

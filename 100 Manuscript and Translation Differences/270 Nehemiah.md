@@ -8,4 +8,4 @@ A systematic search did not find a case in Nehemiah where the ten tracked transl
 
 ## Side note: an unresolved internal discrepancy, not a translation split
 
-- **Nehemiah 7:66** — this chapter's itemized list of returning exiles sums to 31,089, but the chapter's own stated grand total (matching Ezra 2:64) is 42,360. All ten of your translations render the numbers exactly as given, without reconciling the discrepancy.
+- **Nehemiah 7:66** — this chapter's itemized list of returning exiles sums to 31,089, but the chapter's own stated grand total (matching Ezra 2:64) is 42,360. All ten tracked translations render the numbers exactly as given, without reconciling the discrepancy.

@@ -176,7 +176,7 @@ OTHER_HISTORIES = [
     ("260 History of the Jewish Publication Society Bible.md", "Jewish Publication Society Bible"),
 ]
 
-VARIANTS_DIR = "100 Other Meaning-Affecting Variants"
+VARIANTS_DIR = "100 Manuscript and Translation Differences"
 
 # Headings in the variants files that introduce a secondary side-note,
 # closing summary, or background-context paragraph rather than a genuine,
@@ -432,9 +432,9 @@ def build_targets():
     add_history_group("histories_catholic_divider", "Catholic Bibles", CATHOLIC_HISTORIES)
     add_history_group("histories_jewish_divider", "Jewish Bibles", OTHER_HISTORIES)
 
-    add("variants_title", "Other Meaning-Affecting Variants",
+    add("variants_title", "Manuscript and Translation Differences",
         lambda: (
-            "# Other Meaning-Affecting Variants\n\n"
+            "# Manuscript and Translation Differences\n\n"
             "**A note on recurring patterns:** the variants documented book by book below fall "
             "into a few recurring types, worth naming once rather than repeating at every "
             "entry. Some are secondary expansions or liturgical/theological additions to an "
@@ -658,7 +658,7 @@ def build_toc_md(anchors):
     for fn, label in OTHER_HISTORIES:
         lines.append(f"    - {link(f'history_{fn}', label)}")
 
-    lines.append("- **Other Meaning-Affecting Text Variants:**")
+    lines.append("- **Manuscript and Translation Differences:**")
     lines.append("  - Old Testament")
     for group_title, files in OT_GROUPS:
         lines.append(f"    - {group_title}")

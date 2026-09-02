@@ -34,6 +34,6 @@ This file lists cases where the ten tracked translations actually render a verse
 
 ## Side notes: cases where all ten translations agree, but a real variant exists elsewhere in the manuscript tradition
 
-- **Genesis 2:2** — MT reads God finished his work on the "seventh" day; the Septuagint, Samaritan Pentateuch, and Peshitta all read "sixth" instead (avoiding the implication that God was still "working" on the seventh/rest day). All ten of your translations follow MT's "seventh."
-- **Genesis 46:27 / Exodus 1:5** — MT gives the number of Jacob's household who went to Egypt as "seventy"; the Septuagint and a Dead Sea Scrolls fragment give "seventy-five" (the number quoted in Acts 7:14). All ten of your translations follow MT's "seventy."
-- **Genesis 47:31** — MT has Jacob worshiping "leaning on the head of his bed"; the Septuagint reads "staff" instead of "bed" (a one-letter/vowel-pointing difference in Hebrew), which is the version quoted in Hebrews 11:21. All ten of your translations follow MT's "bed."
+- **Genesis 2:2** — MT reads God finished his work on the "seventh" day; the Septuagint, Samaritan Pentateuch, and Peshitta all read "sixth" instead (avoiding the implication that God was still "working" on the seventh/rest day). All ten tracked translations follow MT's "seventh."
+- **Genesis 46:27 / Exodus 1:5** — MT gives the number of Jacob's household who went to Egypt as "seventy"; the Septuagint and a Dead Sea Scrolls fragment give "seventy-five" (the number quoted in Acts 7:14). All ten tracked translations follow MT's "seventy."
+- **Genesis 47:31** — MT has Jacob worshiping "leaning on the head of his bed"; the Septuagint reads "staff" instead of "bed" (a one-letter/vowel-pointing difference in Hebrew), which is the version quoted in Hebrews 11:21. All ten tracked translations follow MT's "bed."

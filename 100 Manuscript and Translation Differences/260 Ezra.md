@@ -8,4 +8,4 @@ A systematic search did not find a case in Ezra where the ten tracked translatio
 
 ## Side note: an unresolved internal discrepancy, not a translation split
 
-- **Ezra 2:64** — the chapter's itemized, family-by-family list of returning exiles sums to 29,818, but the chapter's own stated grand total is 42,360. All ten of your translations render the numbers exactly as given, without attempting to reconcile the discrepancy (see also the parallel list in Nehemiah 7, which has the same stated total but a different itemized sum).
+- **Ezra 2:64** — the chapter's itemized, family-by-family list of returning exiles sums to 29,818, but the chapter's own stated grand total is 42,360. All ten tracked translations render the numbers exactly as given, without attempting to reconcile the discrepancy (see also the parallel list in Nehemiah 7, which has the same stated total but a different itemized sum).

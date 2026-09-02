@@ -32,3 +32,7 @@
 ## Side note: a related, lower-stakes numeral variant
 
 - Deuteronomy contains several places (e.g., troop counts, boundary measurements) where Samaritan Pentateuch or LXX numbers differ slightly from MT without producing a documented split among the ten tracked translations; these are not itemized here since none rises to a confirmed meaning-changing difference among the ten.
+
+## Side note: the Samaritan Pentateuch's Gerizim commandment
+
+- After the traditional tenth commandment, the Samaritan Pentateuch inserts a lengthy passage -- drawn mainly from material found elsewhere in this book, in chapters 27 and 11 -- commanding that an altar be built on Mount Gerizim and that sacrifice be offered there, effectively making this a tenth commandment in the Samaritan tradition and Gerizim, not Jerusalem, the uniquely chosen sanctuary from the very giving of the Law. Pre-Samaritan Dead Sea Scrolls fragments (4QpaleoExodᵐ, 4QNumᵇ) already show many of the same expansions and harmonizations, confirming these were genuine, circulating ancient Palestinian textual features that the Samaritan community later adopted and intensified, not an invention original to the Samaritans themselves. None of the ten tracked translations, all working from the Masoretic Hebrew tradition, includes this material.

@@ -15,17 +15,16 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Popular Bible Translations | An overview of English translation philosophy generally |
 | Bible Translations and Their Source Manuscripts | Which manuscript traditions underlie which translations |
 | Histories of Various Bible Translations | A history for each of 26 major translations |
-| Well-documented Differences That Affect Meaning | A short list of the most famous individual variants (e.g. Isaiah 7:14) |
-| Other Meaning-Affecting Variants | A dedicated page for every one of the 73 books, comparing all ten tracked translations |
+| Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all ten tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
 
 Within each folder, files are numbered the same way, so everything sorts correctly whether you're browsing on GitHub or reading the compiled document.
 
 ## Two Sections, Two Different Jobs
 
-It's easy to confuse *Other Meaning-Affecting Variants* with *Reportedly Contradicting Passages* because both compare passages across translations. They answer different questions (see *Purpose & Scope* for the full explanation), and are used differently:
+It's easy to confuse *Manuscript and Translation Differences* with *Reportedly Contradicting Passages* because both compare passages across translations. They answer different questions (see *Purpose & Scope* for the full explanation), and are used differently:
 
-- Go to **Other Meaning-Affecting Variants** when you're asking: *"Why does my Bible say something different here than my friend's Bible?"*
+- Go to **Manuscript and Translation Differences** when you're asking: *"Why does my Bible say something different here than my friend's Bible?"*
 - Go to **Reportedly Contradicting Passages** when you're asking: *"I heard this passage contradicts that one — is that true, and what's the explanation?"*
 
 ## Navigating "Reportedly Contradicting Passages"

@@ -14,7 +14,7 @@ When two English Bibles say something different, the difference comes from one o
 
 **Layer 2: Translators make different choices from the same underlying text.** Even when manuscripts agree completely, translating any ancient language into English requires choices — a Hebrew word with several possible senses, a Greek sentence structure with no natural English equivalent, a term that could be rendered formally (close to the original wording) or dynamically (closer to the original meaning, in more natural English). These choices vary by translation philosophy and can produce real differences in the English text, even with zero manuscript disagreement underneath.
 
-Most translation differences readers notice come from Layer 2, not Layer 1 — a fact often lost in popular discussion, where any two-translations-disagree moment gets treated as evidence of manuscript corruption. This book's *Other Meaning-Affecting Variants* section tries to make clear, entry by entry, which layer is actually responsible for a given difference.
+Most translation differences readers notice come from Layer 2, not Layer 1 — a fact often lost in popular discussion, where any two-translations-disagree moment gets treated as evidence of manuscript corruption. This book's *Manuscript and Translation Differences* section tries to make clear, entry by entry, which layer is actually responsible for a given difference.
 
 ## The Major Manuscript Families, Briefly
 
@@ -28,4 +28,4 @@ A short orientation to the traditions discussed throughout this book (each is co
 
 ## Why This Matters for Reading This Book
 
-Understanding these two layers — and this rough map of the manuscript landscape — is the foundation for everything else in this book. When *Other Meaning-Affecting Variants* says a difference traces to the manuscripts, or *Reportedly Contradicting Passages* explains that a claim involves no manuscript variant at all, this is the background those statements are drawing on.
+Understanding these two layers — and this rough map of the manuscript landscape — is the foundation for everything else in this book. When *Manuscript and Translation Differences* says a difference traces to the manuscripts, or *Reportedly Contradicting Passages* explains that a claim involves no manuscript variant at all, this is the background those statements are drawing on.

@@ -21,7 +21,7 @@ Where a work is available in multiple editions, the most recent edition at the t
 - Daniell, David. *The Bible in English: Its History and Influence*. New Haven: Yale University Press, 2003.
 - McGrath, Alister. *In the Beginning: The Story of the King James Bible and How It Changed a Nation, a Language, and a Culture*. New York: Anchor Books, 2002.
 
-## Other Meaning-Affecting Variants
+## Manuscript and Translation Differences
 
 *(In addition to the textual-criticism works listed above, which underlie this section generally:)*
 

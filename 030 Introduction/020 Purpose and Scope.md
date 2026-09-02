@@ -22,7 +22,7 @@ Concretely, this book:
 
 This book deliberately treats two different questions as two different sections, because conflating them causes real confusion:
 
-1. **"Does the text itself vary?"** — addressed in *Other Meaning-Affecting Variants*. This is a question about manuscripts and translation choices: did the underlying Hebrew, Aramaic, or Greek text vary across traditions, or did translators choose to render an ambiguous passage differently? This is answerable with reference to the manuscripts and the historical record.
+1. **"Does the text itself vary?"** — addressed in *Manuscript and Translation Differences*. This is a question about manuscripts and translation choices: did the underlying Hebrew, Aramaic, or Greek text vary across traditions, or did translators choose to render an ambiguous passage differently? This is answerable with reference to the manuscripts and the historical record.
 
 2. **"Is this passage commonly cited as a contradiction, and how is it usually resolved?"** — addressed in *Reportedly Contradicting Passages*. This is a question about a specific, often popular claim — not necessarily a textual-variant question at all. Many of the most famous "contradictions" (e.g., the order of events across the Gospels, or numbers that appear to disagree between Kings and Chronicles) involve no textual variant whatsoever; the entire text is well-attested and the same across every translation. The dispute is about how to read it, not what it says.
 
