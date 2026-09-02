@@ -33,10 +33,15 @@ jobs:
           pip install --quiet pymupdf
 
       # Version format: vYYYYMMDDx -- YYYY/MM/DD is today's date in US
-      # Eastern time, and x is a lowercase letter a-z that increments each
-      # time this workflow runs on the same calendar day (reset to 'a' on a
-      # new day). Determined by checking existing release tags rather than
-      # any state file, so it's self-contained and needs no repo commits.
+      # Eastern time, and x is a lowercase letter that increments each time
+      # this workflow runs on the same calendar day (reset to 'a' on a new
+      # day). Determined by checking existing release tags rather than any
+      # state file, so it's self-contained and needs no repo commits.
+      # 'l' and 'o' are skipped when computing the *next* letter -- they're
+      # too easily misread as the digits 1 and 0 in a version stamp (the
+      # same reasoning Crockford's Base32 excludes I, L, O, U). Existing
+      # tags that already used 'l' or 'o' from before this change are still
+      # matched and sorted correctly; only newly-computed letters skip them.
       - name: Compute build version
         id: version
         env:
@@ -49,7 +54,12 @@ jobs:
             LETTER="a"
           else
             LAST=$(echo "$EXISTING" | sed "s/^v${TODAY}//" | sort | tail -1)
-            LETTER=$(python3 -c "print(chr(ord('$LAST') + 1))")
+            LETTER=$(python3 -c "
+          skip = {'l', 'o'}
+          c = chr(ord('$LAST') + 1)
+          while c in skip:
+              c = chr(ord(c) + 1)
+          print(c)")
           fi
           VERSION="v${TODAY}${LETTER}"
           echo "Computed version: $VERSION"
