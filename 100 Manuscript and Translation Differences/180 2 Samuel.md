@@ -10,7 +10,7 @@
 
 **How the ten translations render it:**
 - **Supply "the brother of," harmonizing with 1 Chronicles 20:5:** KJV and NKJV (italicized to flag it as supplied, not a literal rendering of the Hebrew word-for-word), and also **NIV** (2011 revision) and **NLT**, both of which print "the brother of Goliath" plainly in their main text.
-- **Render literally, "killed Goliath the Gittite," leaving the apparent tension with 1 Samuel 17 unresolved in the text itself:** ESV, NASB, CSB.
-- I don't have solid, separately verified data for AMP, LSB, and RSV2CE on this specific verse.
+- **Render literally, "killed" or "struck down Goliath the Gittite," leaving the apparent tension with 1 Samuel 17 unresolved in the text itself:** ESV, NASB, CSB, and also **AMP** (which prints the literal reading without any bracketed harmonizing note) and **LSB** (which reads "struck down Goliath the Gittite," consistent with its general practice of tracking NASB's wording).
+- I don't have solid, separately verified data for RSV2CE on this specific verse.
 
 **The difference in meaning:** With "the brother of" supplied, the verse creates no conflict with 1 Samuel 17's account of David killing Goliath. Rendered literally, the verse appears (on a surface reading) to credit Elhanan with killing Goliath himself — the frequently-cited "Bible contradiction" example. Both readings describe the same underlying historical claim once Chronicles is factored in; the difference is whether the English translation resolves the ambiguity for the reader or leaves it for them to reconcile.

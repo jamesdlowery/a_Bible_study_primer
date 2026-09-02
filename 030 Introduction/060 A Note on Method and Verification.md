@@ -21,6 +21,7 @@ A few recurring pitfalls have shaped how entries are checked, worth stating plai
 - **The same error can appear independently in multiple places.** A verse cited in more than one book's document can carry the same mistake in both places, because fixing one occurrence doesn't propagate to the other. Cross-references are checked individually, not assumed consistent.
 - **"All ten translations agree" is not proof the underlying claim is accurate.** Several early entries in this project were found to state a "contradiction" confidently, with all ten translations cited in support, when the underlying premise itself didn't hold up under closer inspection. Translation agreement confirms what the text says; it doesn't confirm that a popular claim built on that text is sound.
 - **Attribution errors are easy to introduce and easy to miss.** Misattributing a specific translation's wording, or a specific historical detail about a translation's origin, has happened and been corrected before. Spot-checking against the primary source remains the most reliable safeguard.
+- **The total claim count can change, and that's expected, not a data error.** The catalog held 866 claims at one point; it holds 865 now. The difference is a single duplicate entry (two separate numbered entries in 1 Samuel that turned out to ask the identical question) that was found and merged into one. If this number moves again in the future for the same kind of reason, that's the ordinary, healthy result of catching a mistake — not a sign the catalog was miscounted.
 
 ## A Note on Perspective
 
