@@ -415,8 +415,6 @@ def build_targets():
         lambda: read("060 Popular Bible Translations/010 Popular Bible Translations.md"))
     add("bible_translations_and_sources", "Bible Translations and Their Source Manuscripts",
         lambda: read("070 Bible Translations and Their Source Manuscripts/010 Bible Translations and Their Source Manuscripts.md"))
-    add("well_documented_differences", "Well-documented Differences That Affect Meaning",
-        lambda: read("090 Well-documented Differences That Affect Meaning/010 Well-documented Differences That Affect Meaning.md"))
 
     add("histories_title", "Histories of Various Bible Translations",
         lambda: "# Histories of Various Bible Translations\n", is_divider=True)
@@ -435,7 +433,23 @@ def build_targets():
     add_history_group("histories_jewish_divider", "Jewish Bibles", OTHER_HISTORIES)
 
     add("variants_title", "Other Meaning-Affecting Variants",
-        lambda: "# Other Meaning-Affecting Variants\n", is_divider=True)
+        lambda: (
+            "# Other Meaning-Affecting Variants\n\n"
+            "**A note on recurring patterns:** the variants documented book by book below fall "
+            "into a few recurring types, worth naming once rather than repeating at every "
+            "entry. Some are secondary expansions or liturgical/theological additions to an "
+            "earlier, shorter text (the longer ending of Mark, the Pericope Adulterae, the "
+            "Comma Johanneum, and the Samaritan Pentateuch's Gerizim commandment in Deuteronomy "
+            "are the clearest examples). Others reflect genuine textual plurality already "
+            "present in the Second Temple period, before any Christian or sectarian editorial "
+            "interest existed to explain it away -- Jeremiah's two literary editions, Samuel's "
+            "unusually extensive Dead Sea Scrolls corrections, and Deuteronomy 32:8's \"sons of "
+            "God\" are the clearest examples of this. And in a few places, the Dead Sea Scrolls "
+            "or the Septuagint preserve an older reading that the later Masoretic or Byzantine "
+            "tradition appears to have altered, whether for theological, scribal, or unknown "
+            "reasons. None of this is unique to any one book; it recurs enough across the "
+            "biblical text that it's worth having in view from the start.\n"
+        ))
 
     add("old_testament_divider", "Old Testament", lambda: "## Old Testament\n", is_divider=True)
     for group_title, files in OT_GROUPS:
@@ -630,7 +644,6 @@ def build_toc_md(anchors):
     lines.append(f"- {link('note_on_method_and_verification', 'A Note on Method and Verification')}")
     lines.append(f"- {link('biblical_source_manuscripts', 'Biblical Source Manuscripts')}")
     lines.append(f"- {link('character_of_each_tradition', 'Character of Each Manuscript Tradition, Relationships, and Principles of Weighing')}")
-    lines.append(f"- {link('well_documented_differences', 'Well-documented Differences That Affect Meaning')}")
     lines.append(f"- {link('popular_bible_translations', 'Popular Bible Translations')}")
     lines.append(f"- {link('bible_translations_and_sources', 'Bible Translations and Their Source Manuscripts')}")
 
