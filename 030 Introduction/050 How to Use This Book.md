@@ -51,4 +51,4 @@ This section is arranged by book of the Bible, covering {{RCP_COUNT}} distinct c
 This book is maintained as a set of linked Markdown files on GitHub, and also published as compiled DOCX, ODT, PDF, and HTML documents. Both are generated from the same source content, but navigate slightly differently:
 
 - **On GitHub**, links jump to the *exact claim or variant* you clicked — down to the specific numbered entry.
-- **In the compiled document**, the "Arranged by Book of the Bible" index links to the right *book* within each translation's section (since a single linear document can't practically link to hundreds of individual claim anchors); from there, the specific numbered claim is easy to find since each book's section is short.
+- **In the compiled document**, the Table of Contents takes you directly to that book's chapter (since a single linear document can't practically link to hundreds of individual claim anchors); the numbered claims follow in order from there, and each book's chapter is short enough to scan quickly for a specific one.
