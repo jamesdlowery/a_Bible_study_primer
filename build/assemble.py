@@ -140,43 +140,43 @@ def demote(text, levels):
 # ---------------------------------------------------------------------------
 
 PROTESTANT_HISTORIES = [
-    ("060 History of the King James Version.md", "King James Version"),
-    ("070 History of Webster's Bible.md", "Webster's Bible"),
-    ("080 History of Young's Literal Translation.md", "Young's Literal Translation"),
-    ("090 History of Smith's Literal Translation.md", "Smith's Literal Translation"),
-    ("100 History of the Darby Bible.md", "Darby Bible"),
-    ("110 History of the American Standard Version.md", "American Standard Version"),
-    ("120 History of the Revised Standard Version.md", "Revised Standard Version"),
-    ("130 History of the Amplified Bible.md", "Amplified Bible"),
-    ("140 History of the New American Standard Bible.md", "New American Standard Bible"),
-    ("150 History of the New International Version.md", "New International Version"),
-    ("160 History of the New King James Version.md", "New King James Version"),
-    ("170 History of the Easy to Read Version.md", "Easy-to-Read Version"),
-    ("180 History of the New Living Translation.md", "New Living Translation"),
-    ("190 History of the American King James Version.md", "American King James Version"),
-    ("200 History of the World English Bible.md", "World English Bible"),
-    ("210 History of the English Standard Version.md", "English Standard Version"),
-    ("220 History of the New English Translation.md", "New English Translation"),
-    ("230 History of the Christian Standard Bible.md", "Christian Standard Bible"),
-    ("240 History of the Berean Standard Bible.md", "Berean Standard Bible"),
-    ("250 History of the Legacy Standard Bible.md", "Legacy Standard Bible"),
+    ("Protestant/010 History of the King James Version.md", "King James Version"),
+    ("Protestant/020 History of Webster's Bible.md", "Webster's Bible"),
+    ("Protestant/030 History of Young's Literal Translation.md", "Young's Literal Translation"),
+    ("Protestant/040 History of Smith's Literal Translation.md", "Smith's Literal Translation"),
+    ("Protestant/050 History of the Darby Bible.md", "Darby Bible"),
+    ("Protestant/060 History of the American Standard Version.md", "American Standard Version"),
+    ("Protestant/070 History of the Revised Standard Version.md", "Revised Standard Version"),
+    ("Protestant/080 History of the Amplified Bible.md", "Amplified Bible"),
+    ("Protestant/090 History of the New American Standard Bible.md", "New American Standard Bible"),
+    ("Protestant/100 History of the New International Version.md", "New International Version"),
+    ("Protestant/110 History of the New King James Version.md", "New King James Version"),
+    ("Protestant/120 History of the Easy to Read Version.md", "Easy-to-Read Version"),
+    ("Protestant/130 History of the New Living Translation.md", "New Living Translation"),
+    ("Protestant/140 History of the American King James Version.md", "American King James Version"),
+    ("Protestant/150 History of the World English Bible.md", "World English Bible"),
+    ("Protestant/160 History of the English Standard Version.md", "English Standard Version"),
+    ("Protestant/170 History of the New English Translation.md", "New English Translation"),
+    ("Protestant/180 History of the Christian Standard Bible.md", "Christian Standard Bible"),
+    ("Protestant/190 History of the Berean Standard Bible.md", "Berean Standard Bible"),
+    ("Protestant/200 History of the Legacy Standard Bible.md", "Legacy Standard Bible"),
 ]
 
 CATHOLIC_HISTORIES = [
-    ("010 History of the Douay Rheims Bible.md", "Douay-Rheims Bible"),
-    ("020 History of the New Revised Standard Version Catholic Edition.md", "New Revised Standard Version Catholic Edition"),
-    ("030 History of the Revised Standard Version Second Catholic Edition.md", "Revised Standard Version Second Catholic Edition"),
-    ("040 History of the Catholic Public Domain Version.md", "Catholic Public Domain Version"),
-    ("050 History of the New American Bible Revised Edition.md", "New American Bible Revised Edition"),
+    ("Catholic/010 History of the Douay Rheims Bible.md", "Douay-Rheims Bible"),
+    ("Catholic/020 History of the New Revised Standard Version Catholic Edition.md", "New Revised Standard Version Catholic Edition"),
+    ("Catholic/030 History of the Revised Standard Version Second Catholic Edition.md", "Revised Standard Version Second Catholic Edition"),
+    ("Catholic/040 History of the Catholic Public Domain Version.md", "Catholic Public Domain Version"),
+    ("Catholic/050 History of the New American Bible Revised Edition.md", "New American Bible Revised Edition"),
 ]
 
 # Neither Protestant nor Catholic (a Jewish translation of the Tanakh, no New
 # Testament) -- kept as its own group rather than shoehorned into either.
 OTHER_HISTORIES = [
-    ("260 History of the Jewish Publication Society Bible.md", "Jewish Publication Society Bible"),
+    ("Jewish/010 History of the Jewish Publication Society Bible.md", "Jewish Publication Society Bible"),
 ]
 
-VARIANTS_DIR = "100 Manuscript and Translation Differences"
+VARIANTS_DIR = "090 Manuscript and Translation Differences"
 
 # Headings in the variants files that introduce a secondary side-note,
 # closing summary, or background-context paragraph rather than a genuine,
@@ -210,7 +210,7 @@ def book_stats():
     # flat listdir would silently count zero files rather than raising an
     # error -- exactly the kind of quiet failure this project has been
     # bitten by before.
-    rcp_dir = os.path.join(REPO, "110 Reportedly Contradicting Passages",
+    rcp_dir = os.path.join(REPO, "100 Reportedly Contradicting Passages",
                            "015 Reportedly Contradicting Passages By Claim")
     rcp_count = 0
     rcp_files_found = 0
@@ -239,30 +239,30 @@ def book_stats():
     }
 
 OT_GROUPS = [
-    ("Pentateuch/Law/Torah", ["010 Genesis.md", "020 Exodus.md", "040 Leviticus.md", "060 Numbers.md", "080 Deuteronomy.md"]),
-    ("Historical Books", ["100 Joshua.md", "120 Judges.md", "140 Ruth.md", "160 1 Samuel.md", "180 2 Samuel.md",
-                           "200 1 Kings.md", "220 2 Kings.md", "240 1 Chronicles.md", "250 2 Chronicles.md",
-                           "260 Ezra.md", "270 Nehemiah.md", "280 Esther.md"]),
-    ("Wisdom/Poetic Books", ["290 Job.md", "300 Psalms.md", "310 Proverbs.md", "320 Ecclesiastes.md", "330 Song of Solomon.md"]),
-    ("Major Prophets", ["340 Isaiah.md", "360 Jeremiah.md", "370 Lamentations.md", "380 Ezekiel.md", "390 Daniel.md"]),
-    ("Minor Prophets", ["400 Hosea.md", "410 Joel.md", "420 Amos.md", "430 Obadiah.md", "440 Jonah.md", "450 Micah.md",
-                         "460 Nahum.md", "480 Habakkuk.md", "490 Zephaniah.md", "500 Haggai.md", "510 Zechariah.md",
-                         "520 Malachi.md"]),
+    ("Pentateuch/Law/Torah", ["010 Genesis.md", "020 Exodus.md", "030 Leviticus.md", "040 Numbers.md", "050 Deuteronomy.md"]),
+    ("Historical Books", ["060 Joshua.md", "070 Judges.md", "080 Ruth.md", "090 1 Samuel.md", "100 2 Samuel.md",
+                           "110 1 Kings.md", "120 2 Kings.md", "130 1 Chronicles.md", "140 2 Chronicles.md",
+                           "150 Ezra.md", "160 Nehemiah.md", "170 Esther.md"]),
+    ("Wisdom/Poetic Books", ["180 Job.md", "190 Psalms.md", "200 Proverbs.md", "210 Ecclesiastes.md", "220 Song of Solomon.md"]),
+    ("Major Prophets", ["230 Isaiah.md", "240 Jeremiah.md", "250 Lamentations.md", "260 Ezekiel.md", "270 Daniel.md"]),
+    ("Minor Prophets", ["280 Hosea.md", "290 Joel.md", "300 Amos.md", "310 Obadiah.md", "320 Jonah.md", "330 Micah.md",
+                         "340 Nahum.md", "350 Habakkuk.md", "360 Zephaniah.md", "370 Haggai.md", "380 Zechariah.md",
+                         "390 Malachi.md"]),
 ]
 
-APOCRYPHA = ["530 Tobit.md", "540 Judith.md", "550 Wisdom of Solomon.md", "560 Sirach.md", "570 Baruch.md",
-             "580 1 Maccabees.md", "590 2 Maccabees.md"]
+APOCRYPHA = ["391 Tobit.md", "392 Judith.md", "393 Wisdom of Solomon.md", "394 Sirach.md", "395 Baruch.md",
+             "396 1 Maccabees.md", "397 2 Maccabees.md"]
 
 NT_GROUPS = [
-    ("Gospels", ["600 Matthew.md", "610 Mark.md", "620 Luke.md", "630 John.md"]),
-    ("History", ["640 Acts.md"]),
-    ("Pauline Epistles", ["650 Romans.md", "660 1 Corinthians.md", "670 2 Corinthians.md", "680 Galatians.md",
-                           "690 Ephesians.md", "700 Philippians.md", "710 Colossians.md", "720 1 Thessalonians.md",
-                           "730 2 Thessalonians.md", "740 1 Timothy.md", "750 2 Timothy.md", "760 Titus.md",
-                           "770 Philemon.md"]),
-    ("General Epistles", ["780 Hebrews.md", "790 James.md", "800 1 Peter.md", "810 2 Peter.md", "820 1 John.md",
-                           "830 2 John.md", "840 3 John.md", "850 Jude.md"]),
-    ("Apocalyptic", ["860 Revelation.md"]),
+    ("Gospels", ["400 Matthew.md", "410 Mark.md", "420 Luke.md", "430 John.md"]),
+    ("History", ["440 Acts.md"]),
+    ("Pauline Epistles", ["450 Romans.md", "460 1 Corinthians.md", "470 2 Corinthians.md", "480 Galatians.md",
+                           "490 Ephesians.md", "500 Philippians.md", "510 Colossians.md", "520 1 Thessalonians.md",
+                           "530 2 Thessalonians.md", "540 1 Timothy.md", "550 2 Timothy.md", "560 Titus.md",
+                           "570 Philemon.md"]),
+    ("General Epistles", ["580 Hebrews.md", "590 James.md", "600 1 Peter.md", "610 2 Peter.md", "620 1 John.md",
+                           "630 2 John.md", "640 3 John.md", "650 Jude.md"]),
+    ("Apocalyptic", ["660 Revelation.md"]),
 ]
 
 # ---------------------------------------------------------------------------
@@ -274,7 +274,7 @@ NT_GROUPS = [
 # 100 Variants section) to drive both loops.
 # ---------------------------------------------------------------------------
 
-RCP_DIR = "110 Reportedly Contradicting Passages"
+RCP_DIR = "100 Reportedly Contradicting Passages"
 RCP_BY_TRANS_DIR = os.path.join(RCP_DIR, "010 Arranged By Bible Translation-Version")
 RCP_BY_BOOK_DIR = os.path.join(RCP_DIR, "020 Arranged By Books of the Bible")
 
@@ -416,18 +416,18 @@ def build_targets():
 
     add("purpose_and_scope", get_heading_text("030 Introduction/020 Purpose and Scope.md"),
         lambda: render_with_book_stats("030 Introduction/020 Purpose and Scope.md"))
-    add("what_is_the_word_of_god", get_heading_text("030 Introduction/022 What Is Meant by the Word of God.md"),
-        lambda: read("030 Introduction/022 What Is Meant by the Word of God.md"))
-    add("what_is_an_inerrant_word_of_god", get_heading_text("030 Introduction/024 What Is Meant by an Inerrant Word of God.md"),
-        lambda: read("030 Introduction/024 What Is Meant by an Inerrant Word of God.md"))
-    add("how_to_use_this_book", get_heading_text("030 Introduction/030 How to Use This Book.md"),
-        lambda: render_with_book_stats("030 Introduction/030 How to Use This Book.md"))
-    add("reading_paths", get_heading_text("030 Introduction/040 Reading Paths for Different Readers.md"),
-        lambda: read("030 Introduction/040 Reading Paths for Different Readers.md"))
-    add("background_on_textual_transmission", get_heading_text("030 Introduction/050 Background on Textual Transmission.md"),
-        lambda: read("030 Introduction/050 Background on Textual Transmission.md"))
-    add("note_on_method_and_verification", get_heading_text("030 Introduction/060 A Note on Method and Verification.md"),
-        lambda: read("030 Introduction/060 A Note on Method and Verification.md"))
+    add("what_is_the_word_of_god", get_heading_text("030 Introduction/030 What Is Meant by the Word of God.md"),
+        lambda: read("030 Introduction/030 What Is Meant by the Word of God.md"))
+    add("what_is_an_inerrant_word_of_god", get_heading_text("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"),
+        lambda: read("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"))
+    add("how_to_use_this_book", get_heading_text("030 Introduction/050 How to Use This Book.md"),
+        lambda: render_with_book_stats("030 Introduction/050 How to Use This Book.md"))
+    add("reading_paths", get_heading_text("030 Introduction/060 Reading Paths for Different Readers.md"),
+        lambda: read("030 Introduction/060 Reading Paths for Different Readers.md"))
+    add("background_on_textual_transmission", get_heading_text("030 Introduction/070 Background on Textual Transmission.md"),
+        lambda: read("030 Introduction/070 Background on Textual Transmission.md"))
+    add("note_on_method_and_verification", get_heading_text("030 Introduction/080 A Note on Method and Verification.md"),
+        lambda: read("030 Introduction/080 A Note on Method and Verification.md"))
     add("biblical_source_manuscripts", "Biblical Source Manuscripts",
         lambda: read("040 Biblical Source Manuscripts/010 Biblical Source Manuscripts.md"))
     add("character_of_each_tradition", get_heading_text("050 Character Of Each Source Manuscript Tradition/010 Character of Each Tradition.md"),
@@ -504,7 +504,7 @@ def build_targets():
     add("rcp_title", "Reportedly Contradicting Passages", lambda: "# Reportedly Contradicting Passages\n", is_divider=True)
 
     testament_labels = {"__OT__": "Old Testament", "__APOCRYPHA__": "Apocrypha", "__NT__": "New Testament"}
-    RCP_BY_CLAIM_DIR = "110 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
+    RCP_BY_CLAIM_DIR = "100 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
 
     prev_group = None
     for group_label, fn in rcp_all_books():
@@ -539,8 +539,8 @@ def build_targets():
         add(f"rcpbook_{fn}", book_name, render_book)
 
     # ---- Back matter ----
-    add("references", get_heading_text("120 References for Further Reading/010 References for Further Reading.md"),
-        lambda: read("120 References for Further Reading/010 References for Further Reading.md"))
+    add("references", get_heading_text("110 References for Further Reading/010 References for Further Reading.md"),
+        lambda: read("110 References for Further Reading/010 References for Further Reading.md"))
 
     return targets
 
