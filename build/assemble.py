@@ -416,6 +416,10 @@ def build_targets():
 
     add("purpose_and_scope", get_heading_text("030 Introduction/020 Purpose and Scope.md"),
         lambda: render_with_book_stats("030 Introduction/020 Purpose and Scope.md"))
+    add("what_is_the_word_of_god", get_heading_text("030 Introduction/022 What Is Meant by the Word of God.md"),
+        lambda: read("030 Introduction/022 What Is Meant by the Word of God.md"))
+    add("what_is_an_inerrant_word_of_god", get_heading_text("030 Introduction/024 What Is Meant by an Inerrant Word of God.md"),
+        lambda: read("030 Introduction/024 What Is Meant by an Inerrant Word of God.md"))
     add("how_to_use_this_book", get_heading_text("030 Introduction/030 How to Use This Book.md"),
         lambda: render_with_book_stats("030 Introduction/030 How to Use This Book.md"))
     add("reading_paths", get_heading_text("030 Introduction/040 Reading Paths for Different Readers.md"),
@@ -684,6 +688,8 @@ def build_toc_md(anchors):
     lines = ["# Table of Contents", ""]
     lines.append(f"- {link('preface', 'Preface')}")
     lines.append(f"- {link('purpose_and_scope', 'Purpose & Scope')}")
+    lines.append(f"- {link('what_is_the_word_of_god', 'What Is Meant by \"the Word of God\"?')}")
+    lines.append(f"- {link('what_is_an_inerrant_word_of_god', 'What Is Meant by an \"Inerrant\" Word of God?')}")
     lines.append(f"- {link('how_to_use_this_book', 'How to Use This Book')}")
     lines.append(f"- {link('reading_paths', 'Reading Paths for Different Readers')}")
     lines.append(f"- {link('background_on_textual_transmission', 'Background on Textual Transmission')}")
