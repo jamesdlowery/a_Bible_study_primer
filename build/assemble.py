@@ -176,7 +176,7 @@ OTHER_HISTORIES = [
     ("Jewish/010 History of the Jewish Publication Society Bible.md", "Jewish Publication Society Bible"),
 ]
 
-VARIANTS_DIR = "090 Manuscript and Translation Differences"
+VARIANTS_DIR = "110 Manuscript and Translation Differences"
 
 # Headings in the variants files that introduce a secondary side-note,
 # closing summary, or background-context paragraph rather than a genuine,
@@ -210,7 +210,7 @@ def book_stats():
     # flat listdir would silently count zero files rather than raising an
     # error -- exactly the kind of quiet failure this project has been
     # bitten by before.
-    rcp_dir = os.path.join(REPO, "100 Reportedly Contradicting Passages",
+    rcp_dir = os.path.join(REPO, "120 Reportedly Contradicting Passages",
                            "015 Reportedly Contradicting Passages By Claim")
     rcp_count = 0
     rcp_files_found = 0
@@ -274,9 +274,7 @@ NT_GROUPS = [
 # 100 Variants section) to drive both loops.
 # ---------------------------------------------------------------------------
 
-RCP_DIR = "100 Reportedly Contradicting Passages"
-RCP_BY_TRANS_DIR = os.path.join(RCP_DIR, "010 Arranged By Bible Translation-Version")
-RCP_BY_BOOK_DIR = os.path.join(RCP_DIR, "020 Arranged By Books of the Bible")
+RCP_DIR = "120 Reportedly Contradicting Passages"
 
 # Populated after resolve_anchors() runs (see bottom of file). The by-book
 # index's render functions are built before that point, but Python closures
@@ -453,6 +451,12 @@ def build_targets():
     add_history_group("histories_catholic_divider", "Catholic Bibles", CATHOLIC_HISTORIES)
     add_history_group("histories_jewish_divider", "Jewish Bibles", OTHER_HISTORIES)
 
+    add("top_denominations", get_heading_text("090 Top Christian Denominations/010 Top Christian Denominations.md"),
+        lambda: read("090 Top Christian Denominations/010 Top Christian Denominations.md"))
+
+    add("top_study_bibles", get_heading_text("100 Top Study Bibles/010 Top Study Bibles.md"),
+        lambda: read("100 Top Study Bibles/010 Top Study Bibles.md"))
+
     add("variants_title", "Manuscript and Translation Differences",
         lambda: (
             "# Manuscript and Translation Differences\n\n"
@@ -504,7 +508,7 @@ def build_targets():
     add("rcp_title", "Reportedly Contradicting Passages", lambda: "# Reportedly Contradicting Passages\n", is_divider=True)
 
     testament_labels = {"__OT__": "Old Testament", "__APOCRYPHA__": "Apocrypha", "__NT__": "New Testament"}
-    RCP_BY_CLAIM_DIR = "100 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
+    RCP_BY_CLAIM_DIR = "120 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
 
     prev_group = None
     for group_label, fn in rcp_all_books():
@@ -539,8 +543,8 @@ def build_targets():
         add(f"rcpbook_{fn}", book_name, render_book)
 
     # ---- Back matter ----
-    add("references", get_heading_text("110 References for Further Reading/010 References for Further Reading.md"),
-        lambda: read("110 References for Further Reading/010 References for Further Reading.md"))
+    add("references", get_heading_text("130 References for Further Reading/010 References for Further Reading.md"),
+        lambda: read("130 References for Further Reading/010 References for Further Reading.md"))
 
     return targets
 
@@ -709,6 +713,9 @@ def build_toc_md(anchors):
     lines.append("  - Jewish Bibles")
     for fn, label in OTHER_HISTORIES:
         lines.append(f"    - {link(f'history_{fn}', label)}")
+
+    lines.append(f"- {link('top_denominations', 'Top Christian Denominations')}")
+    lines.append(f"- {link('top_study_bibles', 'Top Study Bibles')}")
 
     lines.append("- **Manuscript and Translation Differences:**")
     lines.append("  - Old Testament")
