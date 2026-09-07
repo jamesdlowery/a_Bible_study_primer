@@ -8,6 +8,8 @@ Every entry in this book — whether a manuscript comparison, a translation hist
 2. **Check it against the primary text.** Translation-specific wording claims are verified against the actual published text of each of the ten tracked translations — not assumed from a translation's general reputation or philosophy.
 3. **Give the standard scholarly response.** Where a passage has a well-established harmonization or explanation, it's presented as such. Where scholars genuinely disagree, that disagreement is represented rather than resolved.
 
+The Top Christian Denominations and Top Study Bibles entries follow a related but distinct method, since the underlying claims are different in kind: a denomination's doctrinal and ethical positions are checked against that body's own official confessional statements, catechisms, or resolutions wherever available, rather than against a Bible translation's wording. For study Bibles specifically, this book distinguishes a general editor's own published personal views (well-documented in many cases) from independently confirmed content of that specific volume's own verse notes — the two are related but not the same kind of evidence, and entries say plainly which one is actually being reported where this matters.
+
 ## What "Verified" Means Here
 
 "Verified" in this book means a specific, checkable claim was confirmed against a primary or authoritative secondary source — most often the translation's own published wording, and secondarily well-established reference works and critical text apparatuses.

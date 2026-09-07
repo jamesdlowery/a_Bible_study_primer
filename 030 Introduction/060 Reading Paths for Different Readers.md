@@ -8,7 +8,7 @@ Go to **Manuscript and Translation Differences**, find the relevant book, and se
 
 ## "I heard this passage contradicts that one — is that true?"
 
-Go to **Reportedly Contradicting Passages**, either by book (if you know the passage) or by translation (if you want to see everything addressed in your own Bible). Each entry states the claim honestly, as it's actually raised, and gives the standard scholarly harmonization.
+Go to **Reportedly Contradicting Passages** and find the relevant book. Each entry states the claim honestly, as it's actually raised, and gives the standard scholarly harmonization.
 
 ## "I'm trying to decide which translation to use."
 
@@ -22,6 +22,10 @@ Start with **Background on Textual Transmission** for a plain-language orientati
 
 Go straight to **Manuscript and Translation Differences**, find the book, and look for the specific verse or passage -- each book's document is organized to be scanned quickly for a known reference. The most famous individual cases (e.g., Isaiah 7:14, Psalm 22:16, Mark 16:9-20) are addressed directly within their own book's entry, alongside the less well-known ones, rather than set apart in a separate list.
 
+## "I want to know what a specific denomination or study Bible actually teaches."
+
+Go to **Top Christian Denominations** for a specific denomination's core doctrine and its positions on abortion, homosexuality, and alcohol, sourced and distinguished from mere cultural practice. Go to **Top Study Bibles** if you're specifically evaluating a study Bible edition — it covers the same ethical/lifestyle questions where the volume's own commentary addresses them, the general editor's background, and cross-references back to the closest matching entry in Top Christian Denominations.
+
 ## "I want to read this book start to finish."
 
-The folder numbering is the intended reading order: front matter, then the manuscript and translation background, then the two comparison catalogs. Reading straight through gives the fullest picture of how manuscript history, translation choice, and popular claims about the Bible all relate to one another.
+The folder numbering is the intended reading order: front matter, then the manuscript and translation background, then the two comparison catalogs, then the denomination and study Bible profiles, then the bibliography. Reading straight through gives the fullest picture of how manuscript history, translation choice, popular claims about the Bible, and the denominational landscape all relate to one another.

@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260906d/A_Bible_Study_Primer_v20260906d.docx)
-- [📄 OpenDocument (.odt)](../../releases/download/v20260906d/A_Bible_Study_Primer_v20260906d.odt)
-- [📄 PDF](../../releases/download/v20260906d/A_Bible_Study_Primer_v20260906d.pdf)
-- [🌐 HTML](../../releases/download/v20260906d/A_Bible_Study_Primer_v20260906d.html)
+- [📄 Word (.docx)](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.odt)
+- [📄 PDF](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.pdf)
+- [🌐 HTML](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -39,7 +39,26 @@ Folders are numbered in reading order, and files inside each folder are numbered
 
 ## Contributing
 
-This is primarily a personal study resource, but corrections (typos, broken links, textual-variant citations that need updating) are welcome via issues or pull requests.
+This is primarily a personal study resource, but corrections and suggestions are genuinely welcome — this project has been substantially improved over time by outside feedback catching things a single author's own re-reading missed.
+
+**Found an error?** (a wrong date, a mistranslated quote, a denomination's position stated incorrectly, a broken link, a typo — anything)
+Open a [GitHub Issue](../../issues/new). Please include:
+- Which file or section it's in (the folder/file path, or just the book/denomination/translation name if you're not sure of the exact path)
+- What's wrong, as specifically as you can state it
+- A source or citation for the correct information, if you have one — this project tries to verify everything against primary sources, so a citation makes a fix much faster to confirm and apply
+
+**Have a suggestion?** (a denomination or study Bible you think should be added, a section that could be clearer, a topic you think is missing)
+Also welcome via a [GitHub Issue](../../issues/new) — there's no need for it to already be a fully worked-out fix. General feedback ("this section confused me," "this comparison would be useful") is genuinely useful even without a proposed solution attached.
+
+**Want to propose a fix yourself?**
+Pull requests are welcome. A few things that make one easier to review and merge:
+- Follow the existing file-naming and numbering convention (see "How to Use This Book" in the front matter for the full scheme) — new entries should generally fit into the existing numbering rather than requiring a renumber, unless the addition genuinely doesn't fit anywhere in the current sequence.
+- For factual changes (a denomination's stated position, a translation's history, a manuscript claim), include a source in the PR description, even if you don't add it to the bibliography yourself.
+- Keep the tone consistent with the rest of the book — descriptive rather than argumentative, and candid about genuine scholarly disagreement rather than picking a side. See "A Note on Method and Verification" in the front matter for the fuller standard this project tries to hold itself to.
+
+Note that this repository's build pipeline automatically recompiles and re-publishes the book (see "Download the latest build," above) whenever a change lands on `main`, including a version-bump commit back to the repository — so a merged pull request will show up in the next automatic release without further action needed.
+
+If you'd rather not use GitHub directly for a specific pull request or issue, the footer of every page in the compiled book links back to this repository, from which the Issues tab is one click away.
 
 ## License
 

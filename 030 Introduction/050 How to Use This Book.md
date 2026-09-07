@@ -9,7 +9,13 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Title | Title page |
 | Table of Contents | Full navigable contents, linked throughout |
 | Preface | The author's own account of why this project exists |
-| *(this section)* | Orientation for readers — purpose, navigation, method |
+| Purpose & Scope | What this book covers, and what it deliberately doesn't attempt |
+| What Is Meant by "the Word of God"? | The sense in which this book uses that phrase, and why it matters |
+| What Is Meant by an "Inerrant" Word of God? | What this doctrine does and doesn't claim, and why it matters for the rest of the book |
+| *(this section)* | Orientation for readers — navigation and method |
+| Reading Paths for Different Readers | Suggested starting points based on what you're trying to find |
+| Background on Textual Transmission | A plain-language orientation to why Bibles differ at all |
+| A Note on Method and Verification | How entries are built and checked, and how to report an error |
 | Biblical Source Manuscripts | The manuscript families behind the Bible, and how they relate |
 | Character of Each Source Manuscript Tradition | How those traditions are weighed against one another |
 | Popular Bible Translations | An overview of English translation philosophy generally |
@@ -17,6 +23,9 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Histories of Various Bible Translations | A history for each of 26 major translations |
 | Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all ten tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
+| Top Christian Denominations | Profiles of the 25 most prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
+| Top Study Bibles | Profiles of 25 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
+| References for Further Reading | A bibliography for readers who want to go deeper on any section |
 
 Within each folder, files are numbered the same way, so everything sorts correctly whether you're browsing on GitHub or reading the compiled document.
 

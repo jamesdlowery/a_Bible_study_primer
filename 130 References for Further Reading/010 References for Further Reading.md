@@ -34,3 +34,9 @@ Where a work is available in multiple editions, the most recent edition at the t
 - Kaiser, Walter C., Jr., Peter H. Davids, F. F. Bruce, and Manfred T. Brauch. *Hard Sayings of the Bible*. Downers Grove, IL: InterVarsity Press, 1996.
 
 (On the perspective these sources bring, and where to find a non-apologetic counterpart, see "A Note on Perspective" in the front matter.)
+
+## Top Christian Denominations / Top Study Bibles
+
+- Association of Statisticians of American Religious Bodies. *2020 U.S. Religion Census*. (The primary source for U.S. denominational adherent figures used throughout the Top Christian Denominations section.)
+- *The Chicago Statement on Biblical Inerrancy*. International Council on Biblical Inerrancy, 1978. (Referenced directly in "What Is Meant by an 'Inerrant' Word of God?" and in several denomination entries' discussion of the term.)
+- Each denomination's own confessional or catechetical documents are the primary source for that entry's doctrinal and ethical positions (e.g., the *Catechism of the Catholic Church*, the *Baptist Faith and Message*, the *Book of Concord*, the *Westminster Confession of Faith*, and each denomination's own general assembly, synod, or conference resolutions where cited). These are not separately listed here given their number; specific citations appear within each entry.

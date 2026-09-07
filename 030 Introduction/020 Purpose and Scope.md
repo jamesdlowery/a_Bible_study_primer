@@ -10,6 +10,7 @@ Concretely, this book:
 - Traces the history of {{TRANSLATION_COUNT}} major English translations, from the King James Version to modern critical-text translations.
 - Documents, for all 73 books of the Protestant Old and New Testaments plus the Catholic Deuterocanon, the {{VARIANT_COUNT}} significant places where ten tracked translations (AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, RSV2CE) render a passage differently in ways that affect meaning.
 - Catalogs the {{RCP_COUNT}} passages most commonly cited as biblical contradictions, book by book, together with the standard scholarly harmonization for each and a note of how the ten tracked translations render the passages involved wherever that actually differs.
+- Profiles the 25 most prominent U.S. Christian denominations and 25 prominent study Bibles, covering core doctrine, ethical/lifestyle positions, and (for study Bibles) the general editor's background and denominational leaning.
 
 ## What This Book Is Not
 
@@ -33,3 +34,4 @@ Keeping these separate means a reader can ask either question precisely, rather 
 - **Canon covered:** the 39 books of the Protestant Old Testament, the 27 books of the New Testament, and the 7 books of the Catholic Deuterocanon (Tobit, Judith, Wisdom of Solomon, Sirach, Baruch, 1 Maccabees, 2 Maccabees) — 73 books total.
 - **Translations tracked for direct comparison:** AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, and RSV2CE. {{TRANSLATION_COUNT}} translations in total have a documented history in this book, but these ten are the ones compared verse-by-verse throughout.
 - **Primary sources represented:** manuscript traditions are discussed at the level of well-established scholarly consensus (critical editions, published textual apparatuses, and standard reference works), not from original manual collation of manuscripts.
+- **Denomination and study Bible rankings:** the 25 denominations profiled are ranked primarily by U.S. adherents (per the 2020 U.S. Religion Census); the 25 study Bibles are chosen for a combination of sales prominence and denominational/traditional breadth. Neither list claims to be exhaustive or to settle which denomination or study Bible is "correct" or "best" — see the introductory note at the start of each section for the specific method and its limits.
