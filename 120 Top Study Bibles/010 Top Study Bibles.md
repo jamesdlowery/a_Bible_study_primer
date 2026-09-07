@@ -117,15 +117,23 @@ This is the one entry among this sample where the volume's own academic, histori
 
 ---
 
----
-
 ## 6. NIV Life Application Study Bible
 
 **Translation used:** New International Version (also available in KJV, NKJV, NLT, NASB, CSB, and other translations)
 **Publisher:** Tyndale House Publishers, first published 1986; the best-selling study Bible in the U.S. for over three decades, with roughly 10,000 application-focused notes.
-**Editorial credit:** Produced by the Tyndale House Publishers editorial staff as an institutional team project rather than credited to one or two named general editors, unlike several other entries in this list — this entry cannot responsibly profile "a biography" the way the ESV Study Bible or MacArthur Study Bible entries do, since no single person is publicly credited as its general editor.
-**Denominational leaning:** Broadly evangelical, cross-denominational; deliberately designed to be usable across a wide range of evangelical traditions rather than reflecting one denomination's specific confessional distinctives. Its notes emphasize practical, personal application of Scripture over deep theological or text-critical commentary, a different emphasis than the ESV Study Bible's or MacArthur Study Bible's more doctrinally systematic approach.
-**Ethical and lifestyle commentary:** Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Top Christian Denominations" for the closest parallel); specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
+
+### Editorial credit
+Produced by the Tyndale House Publishers editorial staff as an institutional team project rather than credited to one or two named general editors, unlike several other entries in this list — this entry cannot responsibly profile "a biography" the way the ESV Study Bible or MacArthur Study Bible entries do, since no single person is publicly credited as its general editor.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; deliberately designed to be usable across a wide range of evangelical traditions rather than reflecting one denomination's specific confessional distinctives. Its notes emphasize practical, personal application of Scripture over deep theological or text-critical commentary, a different emphasis than the ESV Study Bible's or MacArthur Study Bible's more doctrinally systematic approach.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Top Christian Denominations" for the closest parallel); specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -133,9 +141,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New International Version
 **Publisher:** Zondervan, first published 1985; among the best-selling study Bibles ever published (approximately 9 million copies).
-**Editorial credit:** Produced by a broad committee of evangelical scholars under Zondervan's own editorial leadership (Kenneth Barker served as General Editor for early editions); like the Life Application Study Bible, this is fundamentally an institutional, multi-scholar project rather than one identifiable author's personal work.
-**Denominational leaning:** Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible, though somewhat less explicitly Reformed/complementarian in its overall editorial framing.
-**Ethical and lifestyle commentary:** Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass.
+
+### Editorial credit
+Produced by a broad committee of evangelical scholars under Zondervan's own editorial leadership (Kenneth Barker served as General Editor for early editions); like the Life Application Study Bible, this is fundamentally an institutional, multi-scholar project rather than one identifiable author's personal work.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible, though somewhat less explicitly Reformed/complementarian in its overall editorial framing.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -143,8 +161,16 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** Christian Standard Bible
 **Publisher:** Holman Bible Publishers (Lifeway/B&H), tied closely to the Southern Baptist Convention's own publishing arm.
-**Denominational leaning:** Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Top Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
-**Ethical and lifestyle commentary:** Consistent with the SBC's Baptist Faith and Message on abortion (opposed) and homosexuality (considered sinful); on alcohol, note that the CSB Study Bible's contributor base is broader than the SBC's own confessional membership, so the SBC's specific formal abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification.
+
+### Denominational leaning
+Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Top Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with the SBC's Baptist Faith and Message: opposed. |
+| Homosexuality | Consistent with the SBC's Baptist Faith and Message: considered sinful. |
+| Alcohol | The CSB Study Bible's contributor base is broader than the SBC's own confessional membership, so the SBC's specific formal abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
 
 ---
 
@@ -152,9 +178,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** English Standard Version (current edition; earlier editions used the New King James Version)
 **Publisher:** Reformation Trust Publishing (the publishing arm of Ligonier Ministries)
-**General editor:** **R.C. Sproul** (1939–2017) — B.A., Westminster College; Ph.D., Free University of Amsterdam. Founder of Ligonier Ministries (1971) and a leading 20th-century popularizer of Reformed theology in America, known for his teaching ministry (*Renewing Your Mind* radio broadcast) and his book *The Holiness of God*. Sproul died in 2017; subsequent editions have been overseen by Ligonier's continuing editorial team.
-**Denominational leaning:** Explicitly and confessionally Reformed/Calvinist — reflects confessional covenant theology (in contrast to MacArthur's Calvinist-but-dispensationalist combination), closest among Denominations entries to the Presbyterian Church in America's theological orientation, though Sproul himself and Ligonier Ministries are not formally part of the PCA.
-**Ethical and lifestyle commentary:** Consistent with confessional Reformed evangelicalism generally: abortion opposed, homosexuality considered sinful, no prohibition on alcohol (drunkenness alone condemned) — specific verse-note wording not independently confirmed in this research pass.
+
+### General editor
+**R.C. Sproul** (1939–2017) — B.A., Westminster College; Ph.D., Free University of Amsterdam. Founder of Ligonier Ministries (1971) and a leading 20th-century popularizer of Reformed theology in America, known for his teaching ministry (*Renewing Your Mind* radio broadcast) and his book *The Holiness of God*. Sproul died in 2017; subsequent editions have been overseen by Ligonier's continuing editorial team.
+
+### Denominational leaning
+Explicitly and confessionally Reformed/Calvinist — reflects confessional covenant theology (in contrast to MacArthur's Calvinist-but-dispensationalist combination), closest among Denominations entries to the Presbyterian Church in America's theological orientation, though Sproul himself and Ligonier Ministries are not formally part of the PCA.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | No prohibition; drunkenness alone condemned, consistent with confessional Reformed tradition generally. |
 
 ---
 
@@ -162,8 +198,16 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New American Standard Bible
 **Publisher:** The Lockman Foundation (which also holds the NASB translation copyright) / Zondervan.
-**Denominational leaning:** Broadly evangelical, cross-denominational; the NASB itself is widely regarded as one of the most formally literal English translations, and this study Bible's notes are generally oriented toward close textual and grammatical study rather than one denomination's specific confessional framework.
-**Ethical and lifestyle commentary:** Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; the NASB itself is widely regarded as one of the most formally literal English translations, and this study Bible's notes are generally oriented toward close textual and grammatical study rather than one denomination's specific confessional framework.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -171,9 +215,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** Available in KJV, NASB, and NIV editions.
 **Publisher:** Moody Publishers, first published 1976 (revised 1994, 1995).
-**General editor:** **Charles C. Ryrie** (1925–2016) — Th.D., Dallas Theological Seminary; Ph.D., University of Edinburgh. Longtime professor of systematic theology at Dallas Theological Seminary, widely regarded as one of the most influential dispensationalist theologians of the 20th century.
-**Denominational leaning:** Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie Study Bible is one of the two most historically significant dispensationalist study Bibles alongside the Scofield Reference Bible (next entry), and shares its general theological framework with the MacArthur Study Bible's own dispensationalist orientation, though Ryrie's own moderate ("normative") dispensationalism differs in some particulars from other dispensationalist schools.
-**Ethical and lifestyle commentary:** Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass.
+
+### General editor
+**Charles C. Ryrie** (1925–2016) — Th.D., Dallas Theological Seminary; Ph.D., University of Edinburgh. Longtime professor of systematic theology at Dallas Theological Seminary, widely regarded as one of the most influential dispensationalist theologians of the 20th century.
+
+### Denominational leaning
+Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie Study Bible is one of the two most historically significant dispensationalist study Bibles alongside the Scofield Reference Bible (next entry), and shares its general theological framework with the MacArthur Study Bible's own dispensationalist orientation, though Ryrie's own moderate ("normative") dispensationalism differs in some particulars from other dispensationalist schools.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -181,9 +235,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** Originally King James Version (1909; revised 1917); a "New Scofield" revision appeared in 1967 and 1986, and a further revision ("Scofield III") in 2005.
 **Publisher:** Oxford University Press.
-**General editor:** **Cyrus Ingerson Scofield** (1843–1921), a pastor and Bible teacher whose extensive interpretive notes — printed directly alongside the biblical text rather than segregated as a separate commentary — are credited with popularizing dispensationalist theology (including the framework of successive biblical "dispensations" and the doctrine of a pretribulational rapture) more broadly and durably within American evangelicalism than any other single work.
-**Denominational leaning:** Broadly evangelical, foundational to 20th-century American dispensationalism specifically; historically influential on institutions including Dallas Theological Seminary. Later revisions (1967, 1986, 2005) softened or removed some of Scofield's own most historically controversial original notes while retaining the overall dispensationalist framework.
-**Ethical and lifestyle commentary:** Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address contemporary questions like abortion or homosexuality in the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary on these specific questions in this research pass.
+
+### General editor
+**Cyrus Ingerson Scofield** (1843–1921), a pastor and Bible teacher whose extensive interpretive notes — printed directly alongside the biblical text rather than segregated as a separate commentary — are credited with popularizing dispensationalist theology (including the framework of successive biblical "dispensations" and the doctrine of a pretribulational rapture) more broadly and durably within American evangelicalism than any other single work.
+
+### Denominational leaning
+Broadly evangelical, foundational to 20th-century American dispensationalism specifically; historically influential on institutions including Dallas Theological Seminary. Later revisions (1967, 1986, 2005) softened or removed some of Scofield's own most historically controversial original notes while retaining the overall dispensationalist framework.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary in this research pass. |
+| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions not independently confirmed. |
+| Alcohol | Not independently confirmed in this research pass. |
 
 ---
 
@@ -191,9 +255,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New International Version (Full Life Study Bible); also published as the "Fire Bible" in other translations.
 **Publisher:** Zondervan (Full Life); Life Publishers International (Fire Bible), closely associated with the Assemblies of God.
-**General editor:** **Donald Stamps** (1938–1995), an Assemblies of God missionary and theologian; the project was completed and revised after his death by a continuing editorial team.
-**Denominational leaning:** Pentecostal/Assemblies of God — see the Assemblies of God entry in "Top Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin.
-**Ethical and lifestyle commentary:** Consistent with Assemblies of God doctrine: abortion opposed except to save the mother's life; homosexuality considered sinful; alcohol counseled against as a matter of total abstinence, reflecting the Pentecostal-Holiness temperance heritage discussed in that denomination's own entry.
+
+### General editor
+**Donald Stamps** (1938–1995), an Assemblies of God missionary and theologian; the project was completed and revised after his death by a continuing editorial team.
+
+### Denominational leaning
+Pentecostal/Assemblies of God — see the Assemblies of God entry in "Top Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with Assemblies of God doctrine: opposed except to save the mother's life. |
+| Homosexuality | Consistent with Assemblies of God doctrine: considered sinful. |
+| Alcohol | Counseled against as a matter of total abstinence, reflecting the Pentecostal-Holiness temperance heritage discussed in that denomination's own entry. |
 
 ---
 
@@ -201,9 +275,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New King James Version (also available in other translations).
 **Publisher:** Thomas Nelson.
-**General editor:** **Jack W. Hayford** (1934–2023) — B.A., Life Pacific University; longtime pastor of The Church On The Way (Van Nuys, California) and a leading figure within the Foursquare Church denomination, as well as a former president of the International Church of the Foursquare Gospel.
-**Denominational leaning:** Pentecostal/charismatic, broadly evangelical; similar continuationist orientation to the Full Life Study Bible above, though associated with the Foursquare tradition specifically rather than the Assemblies of God.
-**Ethical and lifestyle commentary:** Consistent with broad Pentecostal/charismatic evangelicalism: abortion opposed, homosexuality considered sinful, alcohol generally counseled against as a matter of Christian testimony and self-control, consistent with the wider Pentecostal-Holiness temperance heritage.
+
+### General editor
+**Jack W. Hayford** (1934–2023) — B.A., Life Pacific University; longtime pastor of The Church On The Way (Van Nuys, California) and a leading figure within the Foursquare Church denomination, as well as a former president of the International Church of the Foursquare Gospel.
+
+### Denominational leaning
+Pentecostal/charismatic, broadly evangelical; similar continuationist orientation to the Full Life Study Bible above, though associated with the Foursquare tradition specifically rather than the Assemblies of God.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad Pentecostal/charismatic evangelicalism: opposed. |
+| Homosexuality | Consistent with broad Pentecostal/charismatic evangelicalism: considered sinful. |
+| Alcohol | Generally counseled against as a matter of Christian testimony and self-control, consistent with the wider Pentecostal-Holiness temperance heritage. |
 
 ---
 
@@ -211,9 +295,15 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New International Version.
 **Publisher:** Zondervan.
-**General editors:** **John H. Walton** (Old Testament) — Ph.D., Hebrew Union College; professor of Old Testament at Wheaton College, known for his work situating the Old Testament within its ancient Near Eastern context. **Craig S. Keener** (New Testament) — Ph.D., Duke University; professor at Asbury Theological Seminary, a widely published New Testament scholar particularly known for extensive historical-background commentary work.
-**Denominational leaning:** Broadly evangelical, cross-denominational; distinctive among this list for its specific focus on ancient historical and cultural background rather than doctrinal or devotional application, making it something of a specialized complement to, rather than a substitute for, a more doctrinally oriented study Bible.
-**Ethical and lifestyle commentary:** Given this volume's specifically historical-background orientation (comparable in kind, though not in theological starting point, to the Jewish Study Bible's own academic approach), it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on these four categories has not been identified in this research pass.
+
+### General editors
+**John H. Walton** (Old Testament) — Ph.D., Hebrew Union College; professor of Old Testament at Wheaton College, known for his work situating the Old Testament within its ancient Near Eastern context. **Craig S. Keener** (New Testament) — Ph.D., Duke University; professor at Asbury Theological Seminary, a widely published New Testament scholar particularly known for extensive historical-background commentary work.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; distinctive among this list for its specific focus on ancient historical and cultural background rather than doctrinal or devotional application, making it something of a specialized complement to, rather than a substitute for, a more doctrinally oriented study Bible.
+
+### Ethical and lifestyle commentary
+Given this volume's specifically historical-background orientation (comparable in kind, though not in theological starting point, to the Jewish Study Bible's own academic approach), it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified in this research pass.
 
 ---
 
@@ -221,9 +311,15 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New International Version.
 **Publisher:** Zondervan.
-**General editor:** Duane Garrett served as a key contributing editor, with a broader team of biblical archaeology and history scholars.
-**Denominational leaning:** Broadly evangelical, cross-denominational; like the Cultural Backgrounds Study Bible, this volume's specific focus (archaeological findings relevant to the biblical text) makes its own doctrinal or denominational orientation less central to its identity than its subject-matter specialization.
-**Ethical and lifestyle commentary:** Not a primary focus of this volume's notes; not independently confirmed in this research pass.
+
+### General editor
+Duane Garrett served as a key contributing editor, with a broader team of biblical archaeology and history scholars.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; like the Cultural Backgrounds Study Bible, this volume's specific focus (archaeological findings relevant to the biblical text) makes its own doctrinal or denominational orientation less central to its identity than its subject-matter specialization.
+
+### Ethical and lifestyle commentary
+Not a primary focus of this volume's notes; not independently confirmed in this research pass.
 
 ---
 
@@ -231,9 +327,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** Christian Standard Bible (originally published using the Holman Christian Standard Bible).
 **Publisher:** Holman Bible Publishers (B&H).
-**General editor:** **Ted Cabal**, professor at The Southern Baptist Theological Seminary, with a team of contributing evangelical apologists and scholars (including figures such as Norman Geisler and others associated with the broader evangelical apologetics movement).
-**Denominational leaning:** Broadly evangelical, with the same publisher relationship to the Southern Baptist Convention as the CSB Study Bible above; its specific focus is equipping readers to defend the historical reliability and internal consistency of the biblical text against common objections, rather than a systematic doctrinal commentary in the manner of the ESV or MacArthur Study Bibles.
-**Ethical and lifestyle commentary:** Consistent with broad conservative evangelicalism; specific verse-note wording on these four categories not independently confirmed in this research pass.
+
+### General editor
+**Ted Cabal**, professor at The Southern Baptist Theological Seminary, with a team of contributing evangelical apologists and scholars (including figures such as Norman Geisler and others associated with the broader evangelical apologetics movement).
+
+### Denominational leaning
+Broadly evangelical, with the same publisher relationship to the Southern Baptist Convention as the CSB Study Bible above; its specific focus is equipping readers to defend the historical reliability and internal consistency of the biblical text against common objections, rather than a systematic doctrinal commentary in the manner of the ESV or MacArthur Study Bibles.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad conservative evangelicalism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad conservative evangelicalism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad conservative evangelicalism; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -241,8 +347,12 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** Available across multiple translations (NIV, NKJV, and others, depending on publisher edition).
 **Publisher:** Multiple publishers have released volumes under this or a similar title (e.g., Zondervan's NIV Women's Study Bible); no single edition dominates the category the way the ESV Study Bible or MacArthur Study Bible does within their own categories.
-**Denominational leaning:** Varies by specific edition and publisher; most major editions are broadly evangelical and cross-denominational, with notes and articles specifically addressing women's roles, biblical women's stories, and application to women's contemporary life circumstances.
-**Ethical and lifestyle commentary:** Given the variation across different publishers' editions under this general title, this entry cannot respons­ibly generalize a single confirmed position across all of them; readers should consult the specific edition's own stated theological orientation.
+
+### Denominational leaning
+Varies by specific edition and publisher; most major editions are broadly evangelical and cross-denominational, with notes and articles specifically addressing women's roles, biblical women's stories, and application to women's contemporary life circumstances.
+
+### Ethical and lifestyle commentary
+Given the variation across different publishers' editions under this general title, this entry cannot responsibly generalize a single confirmed position across all of them on any of the three categories; readers should consult the specific edition's own stated theological orientation.
 
 ---
 
@@ -251,8 +361,16 @@ This is the one entry among this sample where the volume's own academic, histori
 **Translation used:** New International Version.
 **Publisher:** Zondervan.
 **Format:** Distinctive question-and-answer format, directly posing and answering the kinds of questions new or curious readers commonly bring to the text, rather than a conventional running verse-by-verse commentary.
-**Denominational leaning:** Broadly evangelical, cross-denominational, designed explicitly for readers newer to serious Bible study.
-**Ethical and lifestyle commentary:** Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, designed explicitly for readers newer to serious Bible study.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -260,8 +378,16 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New King James Version.
 **Publisher:** Thomas Nelson.
-**Denominational leaning:** Broadly evangelical, cross-denominational, associated with the same publisher (Thomas Nelson) responsible for the original MacArthur Study Bible and Orthodox Study Bible editions, though this specific volume represents a separate, broader evangelical editorial project rather than either of those two more theologically distinct works.
-**Ethical and lifestyle commentary:** Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, associated with the same publisher (Thomas Nelson) responsible for the original MacArthur Study Bible and Orthodox Study Bible editions, though this specific volume represents a separate, broader evangelical editorial project rather than either of those two more theologically distinct works.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -269,9 +395,15 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** *The Message* (Eugene Peterson's paraphrase, not a formal-equivalence or even fully dynamic-equivalence translation, but a free paraphrase intended to capture the text's tone and feel in contemporary idiom).
 **Publisher:** NavPress / Tyndale.
-**General editor:** **Eugene H. Peterson** (1932–2018) — B.A., Seattle Pacific University; M.Div., New York Theological Seminary; longtime Presbyterian (PC(USA)) pastor and later professor of spiritual theology at Regent College, Vancouver. *The Message* is best understood as a single scholar's literary paraphrase rather than a committee translation, a genuinely different category of work from every other entry in this section, most of which are study apparatuses built around an existing committee translation.
-**Denominational leaning:** Peterson's own ministry was within the PC(USA); *The Message*'s own notes and approach emphasize accessibility and literary freshness over precise doctrinal or denominational commentary.
-**Ethical and lifestyle commentary:** Given this work's nature as a paraphrase with a comparatively light annotation apparatus relative to the other entries in this list, specific ethical/lifestyle commentary comparable to the fuller study Bibles above has not been identified in this research pass.
+
+### General editor
+**Eugene H. Peterson** (1932–2018) — B.A., Seattle Pacific University; M.Div., New York Theological Seminary; longtime Presbyterian (PC(USA)) pastor and later professor of spiritual theology at Regent College, Vancouver. *The Message* is best understood as a single scholar's literary paraphrase rather than a committee translation, a genuinely different category of work from every other entry in this section, most of which are study apparatuses built around an existing committee translation.
+
+### Denominational leaning
+Peterson's own ministry was within the PC(USA); *The Message*'s own notes and approach emphasize accessibility and literary freshness over precise doctrinal or denominational commentary.
+
+### Ethical and lifestyle commentary
+Given this work's nature as a paraphrase with a comparatively light annotation apparatus relative to the other entries in this list, specific ethical/lifestyle commentary comparable to the fuller study Bibles above has not been identified in this research pass, on any of the three categories.
 
 ---
 
@@ -279,9 +411,19 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New Revised Standard Version and Common English Bible editions have both been published.
 **Publisher:** Abingdon Press (the United Methodist Publishing House).
-**General editors:** **Joel B. Green** and **William H. Willimon**, both prominent Wesleyan/Methodist scholars.
-**Denominational leaning:** United Methodist/Wesleyan — see the United Methodist Church entry in "Top Christian Denominations." Notes specifically highlight John Wesley's own writings and Wesleyan theological themes (such as sanctification and social holiness) alongside the biblical text.
-**Ethical and lifestyle commentary:** Consistent with the UMC's official positions as described in that entry, including its 2024/2025 changes regarding LGBTQ+ clergy and marriage, though this specific study Bible's publication predates that change and its existing notes should not be assumed to have been updated to reflect it without direct verification.
+
+### General editors
+**Joel B. Green** and **William H. Willimon**, both prominent Wesleyan/Methodist scholars.
+
+### Denominational leaning
+United Methodist/Wesleyan — see the United Methodist Church entry in "Top Christian Denominations." Notes specifically highlight John Wesley's own writings and Wesleyan theological themes (such as sanctification and social holiness) alongside the biblical text.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with the UMC's official "life-based ethics" position as described in that entry; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | The UMC's official position changed in 2024/2025 to permit LGBTQ+ clergy ordination and same-sex marriage; this study Bible's publication predates that change, and its existing notes should not be assumed to have been updated to reflect it without direct verification. |
+| Alcohol | Historic Methodist temperance heritage persists culturally but is not a matter of current formal prohibition; specific verse-note wording not independently confirmed in this research pass. |
 
 ---
 
@@ -289,17 +431,24 @@ This is the one entry among this sample where the volume's own academic, histori
 
 **Translation used:** New Revised Standard Version.
 **Publisher:** Oxford University Press.
-**Denominational leaning:** Broadly mainline Protestant and academic/ecumenical; the New Oxford Annotated Bible in particular is widely used in university and seminary settings across denominational lines (including by Catholic and Orthodox institutions, given the NRSV's wide ecumenical acceptance and availability with the Apocrypha/Deuterocanon included) and is generally regarded as more historical-critical and less devotionally or doctrinally oriented than most other entries in this section — closer in spirit to the Jewish Study Bible's or Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach.
-**Ethical and lifestyle commentary:** Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed in this research pass.
+
+### Denominational leaning
+Broadly mainline Protestant and academic/ecumenical; the New Oxford Annotated Bible in particular is widely used in university and seminary settings across denominational lines (including by Catholic and Orthodox institutions, given the NRSV's wide ecumenical acceptance and availability with the Apocrypha/Deuterocanon included) and is generally regarded as more historical-critical and less devotionally or doctrinally oriented than most other entries in this section — closer in spirit to the Jewish Study Bible's or Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach.
+
+### Ethical and lifestyle commentary
+Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed on any of the three categories in this research pass.
 
 ---
 
 ## 24. Catholic for a Reason series and CTS New Catholic Bible (representative additional Catholic entry)
 
 **Translation used:** Varies by specific volume; the CTS New Catholic Bible uses the Jerusalem Bible tradition.
-**Denominational leaning:** Catholic — see the Catholic Church entry in "Top Christian Denominations," and the Ignatius Catholic Study Bible entry above for the closest direct parallel among the study Bibles already profiled in this section. Additional Catholic study Bible editions beyond the Ignatius volume exist (including diocese- and publisher-specific editions), but the Ignatius Catholic Study Bible remains the most prominent U.S. English-language entry in this specific category.
 
----
+### Denominational leaning
+Catholic — see the Catholic Church entry in "Top Christian Denominations," and the Ignatius Catholic Study Bible entry above for the closest direct parallel among the study Bibles already profiled in this section. Additional Catholic study Bible editions beyond the Ignatius volume exist (including diocese- and publisher-specific editions), but the Ignatius Catholic Study Bible remains the most prominent U.S. English-language entry in this specific category.
+
+### Ethical and lifestyle commentary
+Consistent with official Catholic teaching as described in the Catholic Church entry in "Top Christian Denominations" and the Ignatius Catholic Study Bible entry above; this entry has not independently verified whether these specific, less prominent editions restate that teaching in their own notes.
 
 ---
 
