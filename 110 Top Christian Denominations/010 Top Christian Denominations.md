@@ -34,6 +34,13 @@ For each denomination, this section documents core doctrinal positions (view of 
 | Abortion | Opposed in all cases where the direct intent is to end the life of the unborn; officially unchanged and described by the Church itself as unchangeable (Catechism §2271). | Official Magisterial teaching |
 | Homosexuality | Attraction itself is not considered sinful; homosexual acts are taught to be "intrinsically disordered" and not morally permissible. Persons are to be "accepted with respect, compassion, and sensitivity" (Catechism §2357–2358). Same-sex marriage is not recognized. | Official Magisterial teaching |
 | Alcohol | Moderate use is accepted, and wine is used sacramentally in the Eucharist itself; drunkenness, however, is treated as a real sin (traditionally classed among the "vices" opposed to the virtue of temperance), distinct from the acceptance of moderate use. | Longstanding practice, not a matter of official prohibition |
+| Divorce and remarriage | Marriage is held to be indissoluble; a divorced Catholic may not remarry in the Church without an annulment (a declaration that no valid sacramental marriage existed in the first place). Remarrying civilly without an annulment bars a person from receiving Communion under ordinary circumstances. | Official Magisterial teaching (Catechism §1650-1651) |
+| Contraception | Artificial contraception is opposed in all forms; only natural family planning (periodic abstinence) is permitted for spacing births. This teaching, restated in *Humanae Vitae* (1968), remains official and unchanged, though widely disregarded in practice by many self-identified American Catholics. | Official Magisterial teaching (*Humanae Vitae*, 1968) |
+| Gambling | Not prohibited in itself; the Catechism treats games of chance as morally neutral unless they become excessive or deprive others of necessities. | Official Magisterial teaching (Catechism §2413) |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed; chastity outside marriage is required, consistent with the Church's broader sexual ethic. | Official Magisterial teaching |
+| War/pacifism | Just war theory, not pacifism, is the official position — force may be used under specific, narrowly defined conditions (just cause, last resort, proportionality). | Official Magisterial teaching (Catechism §2309) |
+| Death penalty | Opposed in all cases as of a 2018 revision to the Catechism, which now describes capital punishment as "inadmissible" and commits the Church to working for its abolition worldwide — a significant change from the Church's earlier, more permissive language. | Official Magisterial teaching (Catechism §2267, revised 2018) |
 
 **Note on internal diversity:** Official Magisterial teaching and the practice or private views of individual American Catholics diverge substantially on some of these points, particularly abortion — polling consistently finds a majority of self-identified U.S. Catholics support legal abortion in most or all cases, a gap the entries in this section describe candidly rather than treat as settling the question of the Church's own official position.
 
@@ -63,6 +70,13 @@ For each denomination, this section documents core doctrinal positions (view of 
 | Abortion | Opposed; the BF&M explicitly affirms the sanctity of human life "from fertilization to natural death." | Official confessional statement |
 | Homosexuality | Considered sinful; same-sex marriage not recognized or performed. | Official confessional statement |
 | Alcohol | The BF&M calls for abstinence from alcohol entirely — going beyond merely condemning drunkenness/overuse (which virtually every Christian tradition, including this one, treats as sinful) to counsel abstaining from use itself; this is a distinctly stronger position than most other evangelical bodies, reflecting the SBC's own historical temperance heritage. | Official confessional statement |
+| Divorce and remarriage | The BF&M permits divorce and remarriage on biblical grounds (chiefly abandonment or sexual immorality), while affirming marriage's intended permanence; a divorced person's eligibility for pastoral leadership has been a matter of significant internal debate. | Official confessional statement |
+| Contraception | No confessional position; generally treated as a matter of individual conscience within marriage, not a doctrinal question. | Not addressed in the BF&M |
+| Gambling | Opposed; the Convention has passed numerous resolutions condemning gambling, including recent resolutions specifically addressing sports betting. | Official Convention resolutions |
+| Dancing | No confessional statement; historically discouraged in much of Southern Baptist culture, particularly where associated with alcohol or venues like nightclubs, but not a matter of current formal doctrine, and practice varies widely by congregation today. | Cultural/historical, not current confessional doctrine |
+| Premarital sex/cohabitation | Opposed; the BF&M affirms chastity outside of marriage. | Official confessional statement |
+| War/pacifism | No confessional position mandating pacifism; individual Southern Baptists and chaplains serve in the military, consistent with a general (though not formally stated) just-war orientation. | General pattern, not a specific confessional statement |
+| Death penalty | No single confessional position; Southern Baptist resolutions have historically affirmed the government's right to use capital punishment while urging its just and consistent application, distinct from the Catholic Church's current categorical opposition. | Official Convention resolutions |
 
 ---
 
@@ -90,6 +104,13 @@ For each denomination, this section documents core doctrinal positions (view of 
 | Abortion | The 2018 General Assembly affirmed a position describing itself as supporting "freedom of conscience in matters of reproductive rights"; PC(USA) does not teach that abortion is categorically sinful, while also not treating it as morally neutral — official statements emphasize conscience and context over a blanket rule. | Official General Assembly resolution (2018) |
 | Homosexuality / same-sex marriage | The denomination has permitted the ordination of LGBTQ+ persons since 2011 and the performance of same-sex marriages by ministers and in church buildings since 2015. These policies are permissive rather than mandatory — individual ministers and congregations retain the right to decline — which the denomination's own materials acknowledge results in real variation by region and congregation. | Official constitutional amendments (Book of Order) |
 | Alcohol | Moderate use is broadly accepted, consistent with mainline Reformed practice generally; drunkenness is not condoned, consistent with the near-universal Christian position that overuse (as opposed to use itself) is sinful. | General practice, not a specific doctrinal statement |
+| Divorce and remarriage | Permitted; PC(USA) does not treat divorce as categorically sinful or remarriage as barred, consistent with its broader pastoral, discernment-oriented approach to personal and family matters. | General practice, consistent with Book of Order |
+| Contraception | No prohibition; treated as a matter of conscience within marriage. | General practice |
+| Gambling | No single confessional position; General Assembly statements have raised concerns about the social effects of gambling (particularly state lotteries) without categorically prohibiting it for individuals. | General Assembly statements, not a categorical prohibition |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No single mandated position; PC(USA)'s approach generally emphasizes pastoral discernment over a categorical rule, consistent with its broader approach to personal ethical questions. | General pattern, not a single confessional rule |
+| War/pacifism | Historically Reformed just-war tradition, though PC(USA) General Assembly statements have at times leaned toward strong presumptions against war and support for conscientious objection. | General Assembly statements |
+| Death penalty | PC(USA) General Assembly has officially opposed the death penalty and called for its abolition since 1959, one of the earliest and most consistent such denominational positions. | Official General Assembly resolutions, since 1959 |
 
 **Note on internal tension:** A conservative minority within PC(USA) has continued to leave the denomination over these same-sex marriage and ordination changes (some joining the Presbyterian Church in America or the newer ECO: A Covenant Order of Evangelical Presbyterians, formed in 2012 specifically over this disagreement) — this entry describes PC(USA)'s official position, not a claim that it is uncontested within the wider Presbyterian and Reformed family.
 
@@ -119,6 +140,13 @@ For each denomination, this section documents core doctrinal positions (view of 
 | Abortion | Opposed; official statements describe human life as sacred and inviolable from conception. | Official statements (e.g., Assembly of Canonical Orthodox Bishops of the United States) |
 | Homosexuality | Considered sinful; official statements place it alongside other sexual sins condemned in Scripture. Same-sex marriage is not performed or recognized. | Official statements (Greek Orthodox Archdiocese; Assembly of Canonical Orthodox Bishops) |
 | Alcohol | Moderate use is not prohibited; wine is integral to the Eucharist. Orthodox fasting rules (extensive and regularly observed, unlike in most Western traditions) restrict solid food more than drink, though some strict fasting periods do include abstention from wine specifically. Drunkenness itself, distinct from use, is treated as a real sin requiring confession. | Longstanding liturgical practice |
+| Divorce and remarriage | Uniquely among the traditions in this section, Orthodoxy permits remarriage after divorce (up to a third marriage) through the principle of *economia* (pastoral accommodation to human weakness), while treating a first marriage as the ideal; a second or third marriage is solemnized with a more penitential liturgical rite than the first. | Longstanding canonical practice (economia) |
+| Contraception | Genuinely divided and actively discussed: some Orthodox jurisdictions and theologians permit non-abortifacient contraception within marriage under a spiritual father's guidance as a pastoral accommodation, not a permanent ideal; others hold a more restrictive, Catholic-adjacent position. This is treated as a pastoral rather than dogmatic question. | Varies by jurisdiction and spiritual father; not a single dogmatic position |
+| Gambling | No formal doctrinal position; addressed pastorally, if at all, under general principles against excess. | Not a matter of official teaching |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed; chastity outside marriage is expected, consistent with the Church's sacramental view of marriage. | Official teaching |
+| War/pacifism | No single mandated position; historically closer to a just-war framework, though war is treated as a tragic necessity rather than a moral good, and some canonical traditions historically imposed penance on soldiers who killed even in a just cause. | Historical canonical tradition, not a single formal doctrine |
+| Death penalty | No single mandated position across jurisdictions; generally treated with more caution than support in contemporary statements, without the same formal, unified 2018-style revision the Catholic Church has made. | Varies by jurisdiction, not a single formal doctrine |
 
 **Note on consistency across jurisdictions:** Because Orthodox practice is mediated substantially through the relationship between an individual and their spiritual father/confessor, actual pastoral application of these positions (especially around sacramental access) can vary meaningfully by parish and jurisdiction even where doctrine itself does not.
 
@@ -148,6 +176,13 @@ For each denomination, this section documents core doctrinal positions (view of 
 | Abortion | Opposed, consistent with the broader traditionalist Methodist coalition that formed the GMC. | Book of Doctrines and Discipline |
 | Homosexuality / same-sex marriage | Marriage affirmed as between one man and one woman; the ordination of non-celibate gay clergy and the performance of same-sex marriages are both the specific points of disagreement that caused the GMC to separate from the UMC in the first place. | Book of Doctrines and Discipline; founding rationale |
 | Alcohol | Historic Methodism carried a strong temperance tradition (John Wesley himself warned against distilled spirits specifically, though not against fermented drink as such); this cultural association persists to some degree, though the GMC's founding documents are primarily focused on the sexuality and ordination questions rather than restating a formal abstinence rule. Drunkenness itself is condemned regardless of the use/abstinence question, consistent with the wider Christian tradition. | Historical/cultural tradition, not confirmed as a current formal GMC rule |
+| Divorce and remarriage | No specific restriction beyond general pastoral care; consistent with the broader Wesleyan tradition's practice of permitting remarriage. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience within marriage. | General practice |
+| Gambling | No specific confessional statement identified in this research pass; the GMC's founding documents focus primarily on the sexuality and ordination questions that caused its separation from the UMC. | Not identified in this research pass |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed, consistent with the GMC's traditionalist sexual ethic generally. | Book of Doctrines and Discipline |
+| War/pacifism | No specific position identified in this research pass; not a focus of the GMC's founding documents. | Not identified in this research pass |
+| Death penalty | No specific position identified in this research pass. | Not identified in this research pass |
 
 **The UMC/GMC split, side by side:** As of January 1, 2025, the United Methodist Church (the body the GMC separated from) now permits both the ordination of LGBTQ+ clergy and the performance of same-sex marriages — the GMC was formed specifically to continue the position the UMC has since changed. Presenting both bodies (a future entry will cover the UMC itself) side by side is intended to make this live, recent split visible rather than treat "Methodist" as one uniform position.
 
@@ -178,6 +213,13 @@ Because this category spans thousands of independent congregations, no single do
 | Abortion | The large majority of non-denominational churches, being predominantly evangelical in orientation, oppose abortion, though this is a general pattern rather than an enforceable position given the absence of a confessional body. | General pattern, not a confessional statement |
 | Homosexuality | The large majority hold same-sex marriage to be outside biblical teaching, though, as above, this is a general pattern rather than a uniform, enforceable position. | General pattern, not a confessional statement |
 | Alcohol | No single position; varies by congregation, consistent with the absence of any binding confessional statement for this category as a whole. | Not applicable — no confessional body |
+| Divorce and remarriage | Varies considerably by congregation; most permit remarriage on some biblical grounds, consistent with broad evangelical practice, though there is no confessional body to survey for a uniform position. | General pattern, not a confessional statement |
+| Contraception | No single position; varies by congregation. | Not applicable — no confessional body |
+| Gambling | Generally discouraged among conservative evangelical congregations, though this varies and is not uniformly mandated. | General pattern, not a confessional statement |
+| Dancing | No single position; varies considerably by congregation. | Not applicable — no confessional body |
+| Premarital sex/cohabitation | The large majority of non-denominational churches, being predominantly evangelical, oppose both, though this is a general pattern rather than an enforceable position. | General pattern, not a confessional statement |
+| War/pacifism | No single position; varies by congregation. | Not applicable — no confessional body |
+| Death penalty | No single position; varies by congregation. | Not applicable — no confessional body |
 
 ---
 
@@ -204,6 +246,13 @@ Because this category spans thousands of independent congregations, no single do
 | Abortion | The Social Principles describe a "life-based" rather than "choice-based" ethic — reluctant to condone abortion generally, while supporting it as a legal option in specific, limited circumstances (danger to the mother's life, severe fetal abnormality, and similar tragic conflicts). | Official Social Principles |
 | Homosexuality | As of May 2024 (effective January 1, 2025), the General Conference removed the church's prior bans on the ordination of LGBTQ+ clergy and on clergy performing same-sex marriages — a major and recent reversal of the denomination's previous position (this is the exact change the Global Methodist Church separated over; see that entry). | Official General Conference action, 2024 |
 | Alcohol | Historic Methodist temperance heritage persists culturally, but is not a matter of current formal prohibition; use and overuse (drunkenness) are treated as separate questions, with drunkenness alone clearly condemned. | Cultural/historical, not current formal doctrine |
+| Divorce and remarriage | Permitted; the Social Principles express regret at the breaking of marriage vows while affirming pastoral support and the possibility of remarriage rather than treating divorce as categorically disqualifying. | Official Social Principles |
+| Contraception | No prohibition; treated as a matter of individual conscience within responsible family planning. | Official Social Principles |
+| Gambling | Officially opposed; the Social Principles specifically state the church's opposition to gambling, including state-sponsored lotteries, as a threat to Christian stewardship. | Official Social Principles |
+| Dancing | No doctrinal position; not treated as a moral category in current UMC teaching, though early Methodism historically discouraged it. | Historical, not current formal doctrine |
+| Premarital sex/cohabitation | The Social Principles call for fidelity within marriage and celibacy for those not married, though pastoral practice varies. | Official Social Principles |
+| War/pacifism | The Social Principles state that war is incompatible with the teachings of Christ and lean toward a strong presumption against war, while stopping short of mandating strict pacifism for all members. | Official Social Principles |
+| Death penalty | Officially opposed; the Social Principles call for the abolition of capital punishment. | Official Social Principles |
 
 ---
 
@@ -231,6 +280,13 @@ Because this category spans thousands of independent congregations, no single do
 | Abortion | Opposed except in cases of rape, incest, serious threat to the mother's life or health, or severe fetal defects incompatible with survival — a position with named exceptions, distinct from the Catholic Church's more categorical opposition. | Official Church guidance |
 | Homosexuality | Taught that same-sex romantic relationships and marriage are outside God's plan for the family; the Church does not perform same-sex marriages. Church guidance has distinguished attraction (not itself treated as sinful) from acting on it. | Official Church guidance |
 | Alcohol | Prohibited entirely (not merely regulated) under the LDS "Word of Wisdom" health code, along with tobacco, coffee, and tea — one of the very few bodies in this section, alongside Seventh-day Adventists, with a formal doctrinal prohibition on alcohol rather than a call to moderation or a caution against drunkenness alone. | Official doctrinal health code |
+| Divorce and remarriage | Discouraged but not prohibited; the Church counsels couples toward reconciliation and views marriage (particularly temple marriage, understood as eternal) as ideally permanent, while permitting divorce and remarriage in practice. | Official Church guidance |
+| Contraception | Not prohibited; decisions about family size and spacing are left to individual couples in consultation with prayer, a notable contrast to the Church's much stricter, formally codified position on alcohol and tobacco. | Official Church guidance |
+| Gambling | Opposed; official Church guidance counsels members to avoid gambling in all its forms, including lotteries. | Official Church guidance |
+| Dancing | Not prohibited; dancing is a traditional and actively encouraged part of LDS youth and community culture, with modesty guidelines for how it is conducted. | Official Church guidance and cultural practice |
+| Premarital sex/cohabitation | Opposed; chastity before marriage is a core expectation, formally part of the Church's "law of chastity." | Official Church doctrine |
+| War/pacifism | No mandated pacifism; military service is left to individual conscience, and the Church has generally supported members' service in national armed forces. | Official Church guidance |
+| Death penalty | No single official prohibition; historically the Church has left this to civil authority and individual conscience rather than taking a mandated doctrinal position. | General Church guidance, not a formal prohibition |
 
 ---
 
@@ -258,6 +314,13 @@ Because this category spans thousands of independent congregations, no single do
 | Abortion | Opposed as contrary to Christian ethics, with narrow allowance for medical necessity; COGIC has partnered with anti-abortion advocacy organizations in its own outreach ministries. | Official teaching and documented denominational partnerships |
 | Homosexuality | Considered sinful, consistent with COGIC's broader Holiness theological framework. | Official teaching |
 | Alcohol | The Holiness tradition COGIC belongs to has historically counseled abstinence as a matter of personal holiness and separation from worldly practice, distinct from (though related to) the specific doctrinal prohibitions found in LDS or Adventist teaching. | Holiness tradition, cultural/historical |
+| Divorce and remarriage | Historically discouraged, consistent with COGIC's Holiness theological framework, though practice and pastoral response have evolved considerably over the denomination's history. | Holiness tradition, general pattern |
+| Contraception | No formal doctrinal statement identified in this research pass. | Not identified in this research pass |
+| Gambling | Opposed, consistent with COGIC's broader Holiness ethic of separation from worldly practice. | Holiness tradition |
+| Dancing | Historically discouraged as part of the Holiness movement's broader ethic of separation from worldly entertainment, though practice has relaxed considerably in many congregations. | Holiness tradition, cultural/historical |
+| Premarital sex/cohabitation | Opposed, consistent with COGIC's Holiness theological framework. | Official teaching |
+| War/pacifism | No formal doctrinal statement identified in this research pass. | Not identified in this research pass |
+| Death penalty | No formal doctrinal statement identified in this research pass. | Not identified in this research pass |
 
 ---
 
@@ -284,6 +347,13 @@ Because this category spans thousands of independent congregations, no single do
 | Abortion | The ELCA's 1991 social statement describes abortion as a matter for careful moral discernment rather than a flatly forbidden or flatly permitted act, generally more permissive than the evangelical bodies in this section but qualified rather than unconditionally supportive. | Official 1991 social statement |
 | Homosexuality | The 2009 Churchwide Assembly adopted a social statement permitting (but not requiring) congregations to bless same-sex unions, and opened ordained ministry to partnered LGBTQ+ clergy the same year — decisions left to individual congregations and synods rather than mandated churchwide. | Official 2009 social statement |
 | Alcohol | No prohibition; moderate use accepted, consistent with historic Lutheran practice; drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted; the ELCA does not treat divorce as categorically disqualifying and generally supports remarriage, consistent with its broader pastoral, discernment-oriented approach. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
+| Gambling | A 1999 social message expressed significant concern about the societal harms of gambling, particularly state-sponsored gambling, without mandating individual abstinence. | Official 1999 social message |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No single mandated position; ELCA social statements on sexuality generally emphasize responsible, committed relationships over a categorical rule against cohabitation specifically. | General pattern, not a single confessional rule |
+| War/pacifism | The ELCA's social teaching draws on the just-war tradition while also giving weight to pacifism as a legitimate Christian vocation, holding the two in tension rather than mandating one. | Official social teaching |
+| Death penalty | The ELCA has officially opposed the death penalty since a 1991 social statement, calling instead for its abolition. | Official 1991 social statement |
 
 ---
 
@@ -311,6 +381,13 @@ Because this category spans thousands of independent congregations, no single do
 | Abortion | Opposed except to save the life of the mother. | Official position |
 | Homosexuality | Considered sinful; same-sex marriage not recognized. | Official position |
 | Alcohol | Official position counsels total abstinence, reflecting the broader Pentecostal-Holiness movement's historical temperance heritage, though (as throughout this section) this is distinguished from the near-universal Christian condemnation of drunkenness specifically. | Official position |
+| Divorce and remarriage | Permitted on biblical grounds (chiefly infidelity or abandonment), consistent with broad evangelical practice, though historically treated more restrictively for those in ministry leadership. | Official position paper |
+| Contraception | No formal prohibition; treated as a matter of individual conscience within marriage. | General practice, not formally addressed in position papers |
+| Gambling | Opposed; official position papers address gambling as inconsistent with Christian stewardship. | Official position paper |
+| Dancing | No formal position paper identified in this research pass; historically discouraged in much of the wider Pentecostal-Holiness movement, though this has relaxed considerably. | Historical/cultural, not confirmed as current formal position |
+| Premarital sex/cohabitation | Opposed, consistent with broad evangelical sexual ethics. | Official position |
+| War/pacifism | No mandated pacifism; the denomination has historically supported military chaplaincy and members' service, while also respecting individual conscientious objection. | General practice |
+| Death penalty | No formal position paper identified in this research pass. | Not identified in this research pass |
 
 ---
 
@@ -339,6 +416,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Opposed, treated as a violation of the biblical commandment against murder. | Official teaching |
 | Homosexuality | Considered sinful; same-sex marriage not recognized. | Official teaching |
 | Alcohol | Moderate use is permitted; drunkenness is explicitly condemned as a serious sin, a distinction the denomination's own literature draws directly, consistent with the pattern across nearly every tradition in this section. | Official teaching |
+| Divorce and remarriage | Divorce is permitted only on the grounds of adultery in the denomination's own doctrinal understanding of the biblical exception; remarriage after a divorce not on these grounds is treated as adultery. | Official teaching |
+| Contraception | Not prohibited; treated as a matter of individual conscience within marriage. | Official teaching |
+| Gambling | Opposed; official literature counsels against gambling in all forms, including lotteries, as inconsistent with a proper view of material provision. | Official teaching |
+| Dancing | Not categorically prohibited, though immodest or sexually suggestive dancing is discouraged; social dancing in moderation is generally permitted. | Official teaching |
+| Premarital sex/cohabitation | Opposed; chastity before marriage is a firm expectation, and unrepentant violation can result in formal disfellowshipping. | Official teaching |
+| War/pacifism | Strict political and military neutrality is a matter of core doctrine; Jehovah's Witnesses do not serve in the military or bear arms in any national conflict, one of the clearest pacifist positions of any body in this section. | Official doctrine |
+| Death penalty | No formal denominational statement identified in this research pass; the strict church-state separation central to Witness doctrine generally keeps the denomination from taking positions on civil penal policy. | Not identified in this research pass |
 
 ---
 
@@ -365,6 +449,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Opposed with limited exception for direct threat to the mother's life. | Official position |
 | Homosexuality | In 2006 and again in 2010 (specifically in response to the ELCA's 2009 decision), the LCMS formally reaffirmed that homosexual conduct is contrary to Scripture "in any and all situations," explicitly declining to follow the ELCA's more permissive path and urging the ELCA to reconsider. | Official 2006/2010 resolutions |
 | Alcohol | No prohibition; moderate use accepted, consistent with confessional Lutheran tradition generally (Martin Luther himself was famously no proponent of abstinence); drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted on biblical grounds, consistent with confessional Lutheran teaching, while affirming marriage's intended permanence. | Confessional Lutheran teaching |
+| Contraception | No prohibition; treated as a matter of individual conscience within marriage, consistent with confessional Lutheran teaching generally. | General practice |
+| Gambling | No formal doctrinal statement identified in this research pass; individual conscience is generally the operative standard in confessional Lutheran ethics for matters not directly addressed in the Book of Concord. | Not identified in this research pass |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed, consistent with confessional Lutheran sexual ethics. | Confessional Lutheran teaching |
+| War/pacifism | Just-war tradition, consistent with confessional Lutheran teaching (Luther himself wrote in defense of the just use of the sword by civil authority). | Confessional Lutheran teaching |
+| Death penalty | No single official prohibition; confessional Lutheran teaching has historically recognized the civil authority's right to bear the sword, including capital punishment, though this is treated as a matter of civil rather than church authority. | Confessional Lutheran teaching |
 
 ---
 
@@ -391,6 +482,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Generally opposed, consistent with the convention's broadly evangelical theological orientation. | General pattern, not a single binding confessional statement |
 | Homosexuality | Generally considered sinful, consistent with the convention's broadly evangelical theological orientation, though (as a voluntary association of autonomous congregations) this is not enforced the way a confessional statement like the Baptist Faith and Message is for SBC churches. | General pattern, not a single binding confessional statement |
 | Alcohol | No single confessional position; historically, abstinence has been culturally significant in many historically Black Baptist congregations, though this varies by local church rather than being nationally mandated. | Cultural/historical, varies by congregation |
+| Divorce and remarriage | Generally permitted on biblical grounds, consistent with broad Baptist practice, though practice varies by local church given congregational governance. | General pattern, varies by congregation |
+| Contraception | No single confessional position; varies by congregation. | Not addressed at the convention level |
+| Gambling | Generally discouraged, consistent with the convention's broadly evangelical theological orientation, though not nationally mandated given congregational governance. | General pattern, not a single binding statement |
+| Dancing | No single confessional position; varies by congregation. | Not addressed at the convention level |
+| Premarital sex/cohabitation | Generally opposed, consistent with the convention's broadly evangelical theological orientation. | General pattern, not a single binding statement |
+| War/pacifism | No single confessional position; varies by congregation. | Not addressed at the convention level |
+| Death penalty | No single confessional position; varies by congregation. | Not addressed at the convention level |
 
 ---
 
@@ -418,6 +516,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Generally opposed, consistent with this body's broadly conservative, restorationist evangelical orientation. | General pattern, no single national confessional body |
 | Homosexuality | Generally considered sinful. | General pattern, no single national confessional body |
 | Alcohol | No single official position given the fully congregational governance, though abstinence has historically been culturally emphasized in much of this tradition. | Cultural/historical, varies by congregation |
+| Divorce and remarriage | Historically read more restrictively than most other traditions in this section — many Churches of Christ congregations have historically taught that remarriage after divorce is permissible only where the divorce itself was on the biblical grounds of sexual immorality, though this varies by congregation given the fully congregational governance. | General pattern, varies by congregation |
+| Contraception | No single official position given fully congregational governance; generally treated as a matter of individual conscience. | Not applicable — no national confessional body |
+| Gambling | Generally opposed, consistent with this body's conservative, restorationist orientation. | General pattern, no single national confessional body |
+| Dancing | Historically discouraged in much of this tradition, consistent with its broader conservative orientation, though this varies by congregation today. | Cultural/historical, varies by congregation |
+| Premarital sex/cohabitation | Generally opposed, consistent with this body's conservative, restorationist orientation. | General pattern, no single national confessional body |
+| War/pacifism | No single official position; varies by congregation, though historically closer to a just-war orientation than pacifism. | General pattern, no single national confessional body |
+| Death penalty | No single official position; varies by congregation. | Not applicable — no national confessional body |
 
 ---
 
@@ -444,6 +549,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Generally similar to the Churches of Christ entry above: opposed, consistent with this body's conservative evangelical orientation, given fully congregational governance without a national confessional statement. | General pattern, no single national confessional body |
 | Homosexuality | Generally similar to the Churches of Christ entry above: considered sinful, consistent with this body's conservative evangelical orientation. | General pattern, no single national confessional body |
 | Alcohol | No single official position; historically, cultural abstinence has been common but is not doctrinally mandated across all congregations. | Cultural/historical, varies by congregation |
+| Divorce and remarriage | Generally similar to the Churches of Christ entry above, with practice varying by individual congregation given fully congregational governance. | General pattern, varies by congregation |
+| Contraception | No single official position given fully congregational governance. | Not applicable — no national confessional body |
+| Gambling | Generally opposed, consistent with this body's conservative, restorationist orientation. | General pattern, no single national confessional body |
+| Dancing | No single official position; varies by congregation. | Not applicable — no national confessional body |
+| Premarital sex/cohabitation | Generally opposed, consistent with this body's conservative, restorationist orientation. | General pattern, no single national confessional body |
+| War/pacifism | No single official position; varies by congregation. | Not applicable — no national confessional body |
+| Death penalty | No single official position; varies by congregation. | Not applicable — no national confessional body |
 
 ---
 
@@ -471,6 +583,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Generally discouraged except in cases of serious medical threat, rape, incest, or fetal abnormality — an official statement describing abortion as a matter for careful, prayerful decision-making rather than an absolute prohibition. | Official statement |
 | Homosexuality | Considered sinful; same-sex marriage not recognized. | Official position |
 | Alcohol | Formally prohibited as a matter of denominational health doctrine (alongside tobacco and, for many members, meat), one of the small number of bodies in this section, alongside the LDS Church, with a formal doctrinal prohibition on alcohol rather than a caution limited to overuse. | Official health doctrine |
+| Divorce and remarriage | Permitted on biblical grounds (chiefly adultery or sexual immorality); the church counsels reconciliation as the ideal and treats remarriage on other grounds more cautiously. | Official Church Manual guidance |
+| Contraception | Not prohibited; treated as a matter of individual conscience within marriage. | General practice |
+| Gambling | Opposed, consistent with the denomination's broader health and stewardship-focused ethic. | Official position |
+| Dancing | Historically discouraged as part of the denomination's broader ethic of separation from worldly entertainment, though this has relaxed to some degree; social dancing remains discouraged in many conservative Adventist contexts. | Church Manual guidance, cultural/historical |
+| Premarital sex/cohabitation | Opposed, consistent with the denomination's broader sexual ethic. | Official Church Manual guidance |
+| War/pacifism | Historically associated with noncombatancy — many Adventists have served in the military in noncombatant medical roles (most famously as combat medics) rather than in direct combat, reflecting a distinctive middle position between full pacifism and unrestricted service. | Historical denominational practice |
+| Death penalty | No single official position identified in this research pass. | Not identified in this research pass |
 
 ---
 
@@ -497,6 +616,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | ABCUSA's official resolutions have historically avoided a single mandated denominational position, instead affirming that "differing points of view" exist among American Baptists and calling for respectful engagement rather than a uniform rule — a notably different approach from the SBC's confessional clarity on this question. | Official resolutions |
 | Homosexuality | No single mandated denominational position; congregations and regions vary considerably, with some American Baptist congregations affirming and performing same-sex marriages and others holding the traditional view, reflecting the denomination's more decentralized, less confessionally uniform character relative to the SBC. | Varies by congregation/region |
 | Alcohol | No official prohibition; drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | No single mandated denominational position; congregations and individual pastors exercise considerable latitude, consistent with ABCUSA's more decentralized character. | Varies by congregation |
+| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
+| Gambling | ABCUSA resolutions have historically expressed concern about the societal effects of gambling without mandating individual abstinence. | General pattern, not a categorical prohibition |
+| Dancing | No single mandated position; varies by congregation. | Not applicable — decentralized governance |
+| Premarital sex/cohabitation | No single mandated denominational position; congregations vary considerably, reflecting ABCUSA's more decentralized, less confessionally uniform character relative to the SBC. | Varies by congregation |
+| War/pacifism | ABCUSA has a documented historical strand of support for conscientious objection alongside general acceptance of military service, without mandating either. | General pattern, not a single confessional rule |
+| Death penalty | ABCUSA resolutions have historically expressed significant reservations about the death penalty's just application without a uniform categorical position. | General Assembly resolutions |
 
 ---
 
@@ -523,6 +649,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | No single mandated denominational statement as sharply defined as the SBC's; the AME Church has generally aligned with a more moderate position emphasizing both the sanctity of life and pastoral compassion for difficult circumstances, closer to the UMC's "life-based ethics" framing than to a categorical prohibition. | General denominational pattern |
 | Homosexuality | The AME Church has not adopted the UMC's 2024 affirming changes; official denominational teaching has generally held a traditional view of marriage as between a man and a woman, though this is an area of ongoing internal discussion within the broader historically Black church tradition, similar to debates within other bodies in this section. | Official teaching, with acknowledged ongoing internal discussion |
 | Alcohol | No formal prohibition; drunkenness alone is condemned, consistent with the wider Methodist family's general approach outside the SBC's specific confessional abstinence rule. | General practice |
+| Divorce and remarriage | Permitted; the AME Church does not treat divorce as categorically disqualifying, consistent with its broader Wesleyan-Arminian pastoral approach. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
+| Gambling | Generally discouraged, consistent with the wider historically Black Methodist tradition's emphasis on stewardship, though not as sharply confessionally defined as in some other bodies in this section. | General pattern |
+| Dancing | No doctrinal position; not treated as a moral category in current teaching. | Not addressed |
+| Premarital sex/cohabitation | Generally discouraged, consistent with the AME Church's broader moderate, traditional sexual ethic, alongside pastoral compassion for individual circumstances. | General pattern |
+| War/pacifism | No single mandated position; historically closer to a just-war orientation. | General pattern |
+| Death penalty | No single mandated denominational statement identified in this research pass. | Not identified in this research pass |
 
 ---
 
@@ -549,6 +682,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Opposed except in cases of serious threat to the mother's life. | Official position |
 | Homosexuality | Considered sinful; same-sex marriage not recognized. | Official position |
 | Alcohol | Total abstinence has historically been an expected standard of Nazarene church membership (part of the broader Wesleyan-Holiness movement's temperance heritage, alongside groups like the Wesleyan Church and Salvation Army), a stronger position than most Methodist-family bodies profiled in this section, though this abstinence expectation concerns personal conduct rather than reflecting any different view of drunkenness itself, which every tradition in this section condemns. | Official membership expectation |
+| Divorce and remarriage | Historically treated more restrictively than many other evangelical bodies, consistent with the Wesleyan-Holiness movement's strong emphasis on marital fidelity and personal holiness, though pastoral practice has evolved over time. | Denominational manual guidance |
+| Contraception | No formal prohibition; treated as a matter of individual conscience within marriage. | General practice |
+| Gambling | Opposed; the Church of the Nazarene's Covenant of Christian Character explicitly counsels members to abstain from gambling in all forms. | Official Covenant of Christian Character |
+| Dancing | Historically prohibited as part of the denomination's Wesleyan-Holiness code of personal conduct; this expectation has relaxed considerably in recent decades and is no longer a uniformly enforced membership requirement, though it reflects a stronger historical position than most other bodies in this section. | Historical Covenant of Christian Character, relaxed in recent decades |
+| Premarital sex/cohabitation | Opposed, consistent with the denomination's broader Wesleyan-Holiness sexual ethic. | Official Covenant of Christian Character |
+| War/pacifism | No mandated pacifism, though the Wesleyan-Holiness tradition historically included a significant peace-church-adjacent strand; today closer to a general acceptance of military service alongside respect for conscientious objection. | General pattern |
+| Death penalty | No single official position identified in this research pass. | Not identified in this research pass |
 
 ---
 
@@ -575,6 +715,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Opposed except for serious threat to the mother's life. | Official position |
 | Homosexuality | Considered sinful; same-sex marriage not recognized. | Official position |
 | Alcohol | No formal denominational prohibition, though many C&MA congregations culturally expect abstinence, particularly of clergy and leaders, reflecting this body's roots in the broader Higher Life/Keswick holiness movement. | Cultural/historical expectation, not formal prohibition |
+| Divorce and remarriage | Permitted on biblical grounds, consistent with broad evangelical practice, with a stronger expectation of restraint for those in ministry leadership. | General practice, denominational guidance for clergy |
+| Contraception | No formal prohibition; treated as a matter of individual conscience within marriage. | General practice |
+| Gambling | Generally discouraged, consistent with this body's roots in the Higher Life/Keswick holiness movement. | Cultural/historical expectation |
+| Dancing | Generally discouraged, particularly of clergy and leaders, consistent with this body's Higher Life/Keswick holiness roots, though not uniformly enforced today. | Cultural/historical expectation |
+| Premarital sex/cohabitation | Opposed, consistent with broad evangelical sexual ethics. | General teaching |
+| War/pacifism | No mandated pacifism; general acceptance of military service alongside respect for individual conscience. | General pattern |
+| Death penalty | No formal position identified in this research pass. | Not identified in this research pass |
 
 ---
 
@@ -602,6 +749,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Opposed with limited exception for direct threat to the mother's life, a position stated explicitly and without PC(USA)'s "freedom of conscience" framing. | Official position |
 | Homosexuality | Considered sinful; a PCA General Assembly study committee report has specifically addressed and rejected framing sexual orientation as a matter of core identity, in direct and explicit contrast to PC(USA)'s current position — the clearest point-by-point doctrinal divergence between any two related bodies in this entire section. | Official General Assembly study committee report |
 | Alcohol | No prohibition; moderate use accepted, consistent with confessional Reformed tradition generally; drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted on biblical grounds (chiefly adultery or abandonment), consistent with confessional Reformed teaching (Westminster Confession), while affirming marriage's intended permanence. | Westminster Confession of Faith |
+| Contraception | No prohibition; treated as a matter of individual conscience within marriage. | General practice |
+| Gambling | Generally discouraged as inconsistent with Christian stewardship, consistent with confessional Reformed ethics, though not as sharply legislated as in some other bodies in this section. | General pattern |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed, consistent with confessional Reformed sexual ethics. | Westminster Confession of Faith, general teaching |
+| War/pacifism | Just-war tradition, consistent with confessional Reformed teaching (Westminster Confession affirms the lawfulness of just wars). | Westminster Confession of Faith |
+| Death penalty | The Westminster Confession's historic language affirms the civil magistrate's authority to bear the sword, including capital punishment for serious crimes, though this is treated as a matter of civil rather than ecclesiastical authority. | Westminster Confession of Faith |
 
 ---
 
@@ -628,6 +782,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | The UCC has been officially, explicitly supportive of legal access to abortion since 1971 — among the earliest and clearest such denominational statements of any body profiled in this section, well predating the other mainline bodies' own more recent and more qualified statements. | Official 1971 General Synod resolution |
 | Homosexuality | The UCC was the first mainline Christian denomination in the U.S. to formally endorse same-sex marriage (2005) and has ordained openly LGBTQ+ clergy since 1972 — again, the earliest and clearest position of any body in this section on this question. | Official General Synod actions, 1972 and 2005 |
 | Alcohol | No prohibition; moderate use accepted; drunkenness alone is condemned, consistent with the pattern across this entire section. | General practice |
+| Divorce and remarriage | No categorical restriction; the UCC's pastoral, discernment-oriented approach generally treats divorce and remarriage as matters for individual conscience and pastoral care rather than doctrinal prohibition. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
+| Gambling | No single mandated denominational position; General Synod statements have at times raised concern about the societal effects of gambling without a categorical prohibition. | General Synod statements |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No categorical prohibition; UCC teaching generally emphasizes the quality and mutuality of relationships over a fixed rule, consistent with its position as the most theologically progressive mainline body profiled in this section. | General teaching, wide latitude across congregations |
+| War/pacifism | The UCC has a documented strong historical strand of support for pacifism and conscientious objection, reflecting its Congregationalist and Evangelical and Reformed roots, without mandating pacifism for all members. | General Synod statements and historical practice |
+| Death penalty | The UCC General Synod has officially opposed the death penalty and called for its abolition. | Official General Synod resolutions |
 
 ---
 
@@ -654,6 +815,13 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Abortion | Official church statements have generally supported access to legal abortion while also affirming the sanctity of life and encouraging pastoral care and alternatives where appropriate — a position closer to the UMC's or ELCA's qualified statements than to a categorical prohibition. | Official General Convention statements |
 | Homosexuality | The Episcopal Church ordained an openly gay bishop in a same-sex relationship in 2003 (Gene Robinson, Bishop of New Hampshire) — among the earliest and most publicly significant such actions of any major U.S. denomination — and has since authorized formal liturgical rites for blessing and, later, performing same-sex marriages, as well as ordination without regard to sexual orientation. This is among the most consistently affirming positions of any body profiled in this section, alongside the United Church of Christ. | Official General Convention actions, 2003 onward |
 | Alcohol | No prohibition; moderate use accepted, consistent with the wider Anglican tradition; drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted; the Episcopal Church revised its canons in 1973 to allow remarriage after divorce with a bishop's consent, moving away from a stricter historical Anglican position. | Official canon law, revised 1973 |
+| Contraception | Not prohibited; the Anglican Communion's 1930 Lambeth Conference was among the first major Christian bodies to formally permit contraception within marriage, a position the Episcopal Church has continued to hold. | Official teaching, since the 1930 Lambeth Conference |
+| Gambling | No single mandated position; General Convention statements have at times raised concerns about the societal effects of gambling without a categorical prohibition. | General Convention statements |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No categorical prohibition; Episcopal teaching generally emphasizes pastoral discernment over a fixed rule, consistent with its broader approach to personal ethical questions. | General teaching, wide latitude across the Anglican Communion's theological breadth |
+| War/pacifism | Just-war tradition, consistent with historic Anglican teaching, while also recognizing pacifism as a legitimate Christian vocation for individuals. | General Convention statements and historic Anglican teaching |
+| Death penalty | The Episcopal Church's General Convention has officially opposed the death penalty since 1958, one of the earliest and most consistent such positions among the mainline bodies in this section. | Official General Convention resolutions, since 1958 |
 
 ---
 
@@ -675,4 +843,15 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Women's ordination | Closely paralleling the National Baptist Convention, USA, Inc. entry above; the office of pastor is generally understood as reserved to men in most affiliated congregations, though practice varies by local church given congregational governance. |
 
 ### Ethical and lifestyle positions
-Given this convention's congregational governance and the absence of a single confessional statement binding on all member churches (the same structural feature noted for the other historically Black Baptist conventions in this section), its official positions on abortion, homosexuality, and alcohol are best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass.
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass. | General pattern, not independently documented |
+| Homosexuality | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass. | General pattern, not independently documented |
+| Alcohol | Given this convention's congregational governance and the absence of a single confessional statement binding on all member churches (the same structural feature noted for the other historically Black Baptist conventions in this section), best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass. | General pattern, not independently documented |
+| Divorce and remarriage | Given this convention's congregational governance, best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently documented for this specific convention. | General pattern, not independently documented |
+| Contraception | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+| Gambling | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
+| Dancing | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+| Premarital sex/cohabitation | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
+| War/pacifism | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+| Death penalty | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
