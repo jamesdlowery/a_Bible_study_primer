@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260907a/A_Bible_Study_Primer_v20260907a.docx)
-- [📄 OpenDocument (.odt)](../../releases/download/v20260907a/A_Bible_Study_Primer_v20260907a.odt)
-- [📄 PDF](../../releases/download/v20260907a/A_Bible_Study_Primer_v20260907a.pdf)
-- [🌐 HTML](../../releases/download/v20260907a/A_Bible_Study_Primer_v20260907a.html)
+- [📄 Word (.docx)](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.odt)
+- [📄 PDF](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.pdf)
+- [🌐 HTML](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -43,12 +43,13 @@ This is primarily a personal study resource, but corrections and suggestions are
 
 **Found an error?** (a wrong date, a mistranslated quote, a denomination's position stated incorrectly, a broken link, a typo — anything)
 Open a [GitHub Issue](../../issues/new). Please include:
+- **The version of the document you're looking at** (e.g. `v20260906e`) — found on the title page and in the footer of every page of the compiled DOCX/ODT/PDF/HTML, or as the release tag if you're browsing a specific past release on the [Releases page](../../releases). Since this book is rebuilt and re-versioned every time something changes, the version number is often the fastest way to tell whether an issue has already been fixed in a newer build, or to pull up the exact copy you were reading if there's any ambiguity about wording.
 - Which file or section it's in (the folder/file path, or just the book/denomination/translation name if you're not sure of the exact path)
 - What's wrong, as specifically as you can state it
 - A source or citation for the correct information, if you have one — this project tries to verify everything against primary sources, so a citation makes a fix much faster to confirm and apply
 
 **Have a suggestion?** (a denomination or study Bible you think should be added, a section that could be clearer, a topic you think is missing)
-Also welcome via a [GitHub Issue](../../issues/new) — there's no need for it to already be a fully worked-out fix. General feedback ("this section confused me," "this comparison would be useful") is genuinely useful even without a proposed solution attached.
+Also welcome via a [GitHub Issue](../../issues/new) — there's no need for it to already be a fully worked-out fix. General feedback ("this section confused me," "this comparison would be useful") is genuinely useful even without a proposed solution attached. As above, please note the version you're referencing if you're pointing at specific existing text.
 
 **Want to propose a fix yourself?**
 Pull requests are welcome. A few things that make one easier to review and merge:
