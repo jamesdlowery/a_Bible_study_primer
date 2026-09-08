@@ -3,15 +3,15 @@
 ## Old Testament / Hebrew Bible and related witnesses
 
 **Masoretic Text (MT)**
-The standardized medieval Hebrew text of the Jewish Bible, represented chiefly by the Leningrad Codex (1008/1009 CE) and the Aleppo Codex (c. 930 CE). The Masoretes (primarily Tiberian, 7th–10th centuries) added vowel points, accentuation, and marginal notes (Masorah) to a consonantal text that had already been carefully transmitted. It is marked by remarkable internal consistency and a conservative scribal ethos.
+The standardized medieval Hebrew text of the Jewish Bible, represented chiefly by the Leningrad Codex (1008/1009 AD) and the Aleppo Codex (c. 930 AD). The Masoretes (primarily Tiberian, 7th–10th centuries) added vowel points, accentuation, and marginal notes (Masorah) to a consonantal text that had already been carefully transmitted. It is marked by remarkable internal consistency and a conservative scribal ethos.
 **Relationships**: The dominant form among the later medieval Hebrew manuscripts. Dead Sea Scrolls (DSS) show that a proto-MT form already existed in the Second Temple period and was one of several circulating textual traditions. The Septuagint (LXX), Samaritan Pentateuch (SP), and some DSS often diverge from it, sometimes preserving older or alternative readings. Most modern Protestant and Jewish translations take the MT as their base text, corrected only where strong evidence from other witnesses exists.
 
 **Septuagint (LXX)**
-The ancient Greek translation of the Hebrew scriptures, begun in Alexandria in the 3rd century BCE (Pentateuch) and completed over the following centuries. It is not a single uniform translation; quality and style vary by book. It frequently reflects a Hebrew *Vorlage* (source text) different from the later MT—sometimes shorter, sometimes longer, sometimes simply divergent.
+The ancient Greek translation of the Hebrew scriptures, begun in Alexandria in the 3rd century BC (Pentateuch) and completed over the following centuries. It is not a single uniform translation; quality and style vary by book. It frequently reflects a Hebrew *Vorlage* (source text) different from the later MT—sometimes shorter, sometimes longer, sometimes simply divergent.
 **Relationships**: Frequently agrees with certain DSS against the MT, supporting the existence of non-MT Hebrew texts in antiquity. It was the Bible of Greek-speaking Jews and of the early Church; the New Testament writers quote it extensively. Later Christian revisions (e.g., Hexaplaric, Lucianic) and the Latin, Syriac, and Coptic versions often depend on it or interact with it. In books such as Jeremiah, Job, and Samuel–Kings the differences from MT are substantial.
 
 **Dead Sea Scrolls (DSS / Qumran biblical manuscripts)**
-Hebrew (and some Aramaic and Greek) manuscripts dated roughly 250 BCE–70 CE. They include complete or fragmentary copies of every book of the Hebrew Bible except Esther (plus many non-canonical works). They display textual plurality: proto-MT, proto-LXX, proto-Samaritan, and independent forms appear side-by-side.
+Hebrew (and some Aramaic and Greek) manuscripts dated roughly 250 BC–70 AD. They include complete or fragmentary copies of every book of the Hebrew Bible except Esther (plus many non-canonical works). They display textual plurality: proto-MT, proto-LXX, proto-Samaritan, and independent forms appear side-by-side.
 **Relationships**: They demonstrate that the MT is not the sole ancient Hebrew tradition. Where a DSS manuscript aligns with the LXX or SP against the MT, it often supplies independent confirmation that the non-MT reading is ancient. They are primary evidence for the fluidity of the text before the standardization that produced the proto-MT.
 
 **Samaritan Pentateuch (SP)**
@@ -23,7 +23,7 @@ Jewish Aramaic translations/paraphrases that began as oral renderings in the syn
 **Relationships**: Secondary witnesses. They usually presuppose a text close to the MT but occasionally preserve or reflect non-MT readings. Their chief value is interpretive and linguistic rather than strictly textual; they show how the Hebrew was understood in late antiquity.
 
 **Syriac Peshitta (OT)**
-The standard Syriac translation of the Old Testament, produced for the Syriac-speaking churches (roughly 1st–3rd centuries CE for most books). The Pentateuch and some other books are translated from a Hebrew text close to the MT; other books show greater LXX influence.
+The standard Syriac translation of the Old Testament, produced for the Syriac-speaking churches (roughly 1st–3rd centuries AD for most books). The Pentateuch and some other books are translated from a Hebrew text close to the MT; other books show greater LXX influence.
 **Relationships**: Generally supports the MT but can occasionally agree with the LXX or DSS. As an early version it is useful for confirming the antiquity of particular readings, though its translation technique must be taken into account.
 
 **Latin Vulgate**
