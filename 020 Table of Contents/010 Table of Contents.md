@@ -35,6 +35,7 @@
    - [Christian Standard Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/180%20History%20of%20the%20Christian%20Standard%20Bible.md)
    - [Berean Standard Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/190%20History%20of%20the%20Berean%20Standard%20Bible.md)
    - [Legacy Standard Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/200%20History%20of%20the%20Legacy%20Standard%20Bible.md)
+   - [The Readable Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/210%20History%20of%20The%20Readable%20Bible.md)
  - Catholic Bibles
    - [Douay-Rheims Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/010%20History%20of%20the%20Douay%20Rheims%20Bible.md)
    - [New Revised Standard Version Catholic Edition](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/020%20History%20of%20the%20New%20Revised%20Standard%20Version%20Catholic%20Edition.md)

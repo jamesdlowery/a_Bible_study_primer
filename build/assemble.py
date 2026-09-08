@@ -160,6 +160,7 @@ PROTESTANT_HISTORIES = [
     ("Protestant/180 History of the Christian Standard Bible.md", "Christian Standard Bible"),
     ("Protestant/190 History of the Berean Standard Bible.md", "Berean Standard Bible"),
     ("Protestant/200 History of the Legacy Standard Bible.md", "Legacy Standard Bible"),
+    ("Protestant/210 History of The Readable Bible.md", "The Readable Bible"),
 ]
 
 CATHOLIC_HISTORIES = [

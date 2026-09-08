@@ -25,6 +25,7 @@
 | RSV | Revised Standard Version | 1952 (NT 1946; updates later) | Masoretic Text / Biblia Hebraica (early DSS influence, e.g., Isaiah) | Nestle Greek text (critical) |
 | RSV-2CE | Revised Standard Version, Second Catholic Edition | 2006 | Based on RSV (Masoretic Text / Biblia Hebraica tradition; deuterocanonicals LXX/Vulgate influence) | Based on RSV (Nestle critical text); limited updates per **Liturgiam Authenticam** |
 | SLT | Smith’s Literal Translation (Julia E. Smith) | 1876 | Hebrew Masoretic Text (literal rendering from original tongues) | Greek Textus Receptus / traditional text (literal rendering) |
+| TRB | The Readable Bible | 2024 (Complete Bible; an earlier partial edition appeared in 2022) | Biblia Hebraica Stuttgartensia (BHS), 5th ed. (modified in some passages by the Septuagint, Dead Sea Scrolls, Samaritan Pentateuch, Targums, and Syriac text where BHS is questionable) | Nestle-Aland Novum Testamentum Graece, 28th ed. (modified in some passages by more recent manuscript and textual discoveries) |
 | WBT | Webster’s Bible Translation | 1833 | Masoretic Text (via KJV revision) | Textus Receptus (via KJV revision) |
 | WEB | World English Bible | Drafts from 1997; essentially complete ~2000–2020 | Biblia Hebraica Stuttgartensia (some LXX/DSS influence) | Byzantine Majority Text (Robinson-Pierpont / related) |
 | YLT | Young’s Literal Translation | 1862 (revised 1887/1898) | Masoretic Text | Textus Receptus |
