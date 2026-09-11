@@ -161,6 +161,7 @@ PROTESTANT_HISTORIES = [
     ("Protestant/190 History of the Berean Standard Bible.md", "Berean Standard Bible"),
     ("Protestant/200 History of the Legacy Standard Bible.md", "Legacy Standard Bible"),
     ("Protestant/210 History of The Readable Bible.md", "The Readable Bible"),
+    ("Protestant/220 History of the Complete Jewish Bible.md", "Complete Jewish Bible"),
 ]
 
 CATHOLIC_HISTORIES = [
@@ -169,12 +170,6 @@ CATHOLIC_HISTORIES = [
     ("Catholic/030 History of the Revised Standard Version Second Catholic Edition.md", "Revised Standard Version Second Catholic Edition"),
     ("Catholic/040 History of the Catholic Public Domain Version.md", "Catholic Public Domain Version"),
     ("Catholic/050 History of the New American Bible Revised Edition.md", "New American Bible Revised Edition"),
-]
-
-# Neither Protestant nor Catholic (a Jewish translation of the Tanakh, no New
-# Testament) -- kept as its own group rather than shoehorned into either.
-OTHER_HISTORIES = [
-    ("Jewish/010 History of the Jewish Publication Society Bible.md", "Jewish Publication Society Bible"),
 ]
 
 VARIANTS_DIR = "090 Manuscript and Translation Differences"
@@ -191,7 +186,7 @@ def book_stats():
     numbers can never drift out of sync the way the hardcoded "25
     translations" / "866 claims" text has in the past. Returns a dict with
     keys: translation_count, variant_count, rcp_count."""
-    translation_count = len(PROTESTANT_HISTORIES) + len(CATHOLIC_HISTORIES) + len(OTHER_HISTORIES)
+    translation_count = len(PROTESTANT_HISTORIES) + len(CATHOLIC_HISTORIES)
 
     variant_count = 0
     variants_dir = os.path.join(REPO, VARIANTS_DIR)
@@ -450,7 +445,6 @@ def build_targets():
 
     add_history_group("histories_protestant_divider", "Protestant Bibles", PROTESTANT_HISTORIES)
     add_history_group("histories_catholic_divider", "Catholic Bibles", CATHOLIC_HISTORIES)
-    add_history_group("histories_jewish_divider", "Jewish Bibles", OTHER_HISTORIES)
 
     add("variants_title", "Manuscript and Translation Differences",
         lambda: (
@@ -710,9 +704,6 @@ def build_toc_md(anchors):
         lines.append(f"    - {link(f'history_{fn}', label)}")
     lines.append("  - Catholic Bibles")
     for fn, label in CATHOLIC_HISTORIES:
-        lines.append(f"    - {link(f'history_{fn}', label)}")
-    lines.append("  - Jewish Bibles")
-    for fn, label in OTHER_HISTORIES:
         lines.append(f"    - {link(f'history_{fn}', label)}")
 
     lines.append("- **Manuscript and Translation Differences:**")

@@ -1,0 +1,23 @@
+# History of the Complete Jewish Bible
+
+**The Complete Jewish Bible (CJB) is a 1998 translation by David H. Stern that renders the entire Bible -- Tanakh and New Testament together, as a single unified text -- from a Messianic Jewish theological perspective, restoring Hebrew names and terminology throughout.**
+
+## Origins
+
+David H. Stern (M.Div., Fuller Theological Seminary; graduate study, University of Judaism) became active in the Messianic Jewish movement and, in 1979, made aliyah to Israel, where he has lived since. His first major translation work, the *Jewish New Testament* (1989), rendered the New Testament in a way intended to restore its original Jewish context and idiom -- referring to Jesus as *Yeshua*, using *Adonai* rather than "LORD," and presenting the text as continuous with, rather than superseding, the Hebrew Scriptures. In 1998 Stern completed the *Complete Jewish Bible* by adding his own translation of the Tanakh, combining it with a revised edition of the *Jewish New Testament* into a single, continuous volume with no formal division between "Old" and "New" Testaments -- reflecting Stern's own stated conviction that the two are one unified book. A study edition, the *Complete Jewish Study Bible*, was later published by Hendrickson with General Editor Rabbi Barry Rubin and Theological Editor Dr. John Fischer, adding topical articles and verse-by-verse notes.
+
+## Distinctive Features
+
+The CJB's most immediately visible distinctive is its restoration of Hebrew names and terms throughout the English text: *Yeshua* rather than Jesus, *Sha'ul* rather than Paul, *Adonai* rather than "the LORD," *Ruach HaKodesh* rather than "the Holy Spirit," and similar substitutions applied consistently across both Testaments. The book order and chapter/verse divisions in the Tanakh follow the traditional Hebrew Bible arrangement (with, e.g., 1-2 Samuel and the twelve Minor Prophets grouped as they are in the Hebrew canon) rather than the conventional Christian Old Testament ordering, a change several reviewers have noted requires some adjustment for readers accustomed to a standard English Bible's table of contents.
+
+## Textual Basis
+
+The Old Testament translation is based on the Masoretic Text; the New Testament on the UBS Greek New Testament, 3rd edition (1975). Stern has stated that the CJB adheres to the Masoretic tradition as a matter of general translation principle "in virtually all cases," including at a small number of verses -- Psalm 22:16 and Isaiah 7:14 among them -- where an alternative textual or interpretive tradition would align more directly with a traditional Christian messianic reading; at these points the CJB's main text follows the Masoretic reading, with the alternative reading and its messianic significance noted in Stern's own extensive footnotes and introductory essay on messianic prophecy rather than substituted into the text itself. (See this book's own entries on Psalm 22:16 and Isaiah 7:14 in "Manuscript and Translation Differences" for the specific wording involved.)
+
+## Reception and Influence
+
+The CJB has become, by its publisher's own account, among the most widely used Messianic Jewish Bible translations in print, particularly within Messianic congregations and among Christians specifically interested in the Jewish context of both Testaments. Reception outside these circles has been more divided: some Christian reviewers recommend it as a valuable supplementary translation for Bible study once a reader has some existing familiarity with the text and its reordered Tanakh structure; from the perspective of normative (non-Messianic) Judaism, the work is generally not regarded as a Jewish translation in the religious sense, since Messianic Judaism's central affirmation -- that Yeshua is the Jewish Messiah -- is a claim mainstream Jewish denominations and scholarship do not accept as compatible with Judaism, whatever terminology or textual ordering a given translation uses.
+
+## Place in the Larger Tradition
+
+The CJB is best understood as a distinctly evangelical Protestant translation in its theological substance -- affirming the New Testament as Scripture and Yeshua/Jesus as the promised Messiah, the defining claims of Christian faith -- presented through a specifically Messianic Jewish translation philosophy and vocabulary. That combination places it, for the purposes of this book's classification, alongside the other Protestant translations profiled in this section rather than among specifically Jewish translations of the Tanakh, even though its own presentation, audience, and stated purpose are more explicitly oriented toward Jewish readers and Jewish tradition than any other translation covered here.

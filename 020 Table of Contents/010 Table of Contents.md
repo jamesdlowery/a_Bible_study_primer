@@ -36,14 +36,13 @@
    - [Berean Standard Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/190%20History%20of%20the%20Berean%20Standard%20Bible.md)
    - [Legacy Standard Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/200%20History%20of%20the%20Legacy%20Standard%20Bible.md)
    - [The Readable Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/210%20History%20of%20The%20Readable%20Bible.md)
+   - [Complete Jewish Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/220%20History%20of%20the%20Complete%20Jewish%20Bible.md)
  - Catholic Bibles
    - [Douay-Rheims Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/010%20History%20of%20the%20Douay%20Rheims%20Bible.md)
    - [New Revised Standard Version Catholic Edition](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/020%20History%20of%20the%20New%20Revised%20Standard%20Version%20Catholic%20Edition.md)
    - [Revised Standard Version Second Catholic Edition](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/030%20History%20of%20the%20Revised%20Standard%20Version%20Second%20Catholic%20Edition.md)
    - [Catholic Public Domain Version](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/040%20History%20of%20the%20Catholic%20Public%20Domain%20Version.md)
    - [New American Bible Revised Edition](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/050%20History%20of%20the%20New%20American%20Bible%20Revised%20Edition.md)
- - Jewish Bibles
-   - [Jewish Publication Society Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Jewish/010%20History%20of%20the%20Jewish%20Publication%20Society%20Bible.md)
 - **Manuscript and Translation Differences:**
   - Old Testament
     - Pentateuch/Law/Torah

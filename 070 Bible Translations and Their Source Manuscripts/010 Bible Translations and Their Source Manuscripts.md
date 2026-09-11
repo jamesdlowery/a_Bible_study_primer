@@ -6,13 +6,13 @@
 | AMP | Amplified Bible | 1965 (updated 1987/2015) | Masoretic Text / Biblia Hebraica (OT drafts followed the RSV base closely, including some RSV emendations; DSS/LXX consulted) | Westcott-Hort / Nestle (critical text; via ASV base) |
 | ASV | American Standard Version | 1901 | Masoretic Text (with some LXX influence) | Westcott-Hort 1881 + Tregelles 1857 |
 | BSB | Berean Standard Bible | 2016 (NT); complete ~2020–2022 | Masoretic Text / Leningrad Codex (favoring MT over LXX) | Nestle-Aland critical text (favoring earlier Alexandrian manuscripts) |
+| CJB | Complete Jewish Bible | 1998 | Masoretic Text | UBS Greek New Testament, 3rd ed. (1975) |
 | CPDV | Catholic Public Domain Version | 2009 | Latin Vulgate (primarily Clementine / Sixtus-Clementine editions) | Latin Vulgate (Clementine) |
 | CSB | Christian Standard Bible | 2017 | Biblia Hebraica Stuttgartensia (BHS) | Nestle-Aland 28th ed. / UBS 5th ed. |
 | DBT | Darby Bible Translation (Darby) | 1890 (NT earlier editions from 1867) | Masoretic Text | Critical texts (including Vaticanus, Sinaiticus, and other early manuscripts; not primarily TR) |
 | Douay-Rheims (DR / DRB) | Douay-Rheims Bible (Challoner revision) | 1582 (NT); 1609–1610 (OT); Challoner 1749–1752 | Latin Vulgate (Clementine / related editions; original languages consulted secondarily) | Latin Vulgate (Clementine / related editions) |
 | ERV | Easy-to-Read Version | ~1987 / revised editions (e.g., 2004) | Biblia Hebraica Stuttgartensia (with DSS and LXX readings where preferred) | UBS Greek New Testament (4th ed.) / Nestle-Aland 27th ed. |
 | ESV | English Standard Version | 2001 (revisions 2007, 2011, 2016) | Biblia Hebraica Stuttgartensia (DSS, LXX, and other versions in difficult cases) | Nestle-Aland / UBS critical text (primarily 27th/28th eds. and equivalents) |
-| JPS | Jewish Publication Society Tanakh (NJPS / Tanakh) | 1917; major new translation 1985 | Masoretic Text / Leningrad Codex (BHS tradition) | N/A (Jewish Tanakh; OT only) |
 | KJV | King James Version (Authorized Version) | 1611 (standard Cambridge/Oxford editions 1769) | Masoretic Text (Bomberg / related; some LXX/Vulgate influence especially for Apocrypha) | Textus Receptus (primarily Beza 1598 and related editions) |
 | LSB | Legacy Standard Bible | 2021 | Biblia Hebraica Stuttgartensia (with DSS and lexicographical insights) | Nestle-Aland 27th ed. (28th ed. for General Epistles); SBL GNT and Tyndale House GNT consulted |
 | NABRE | New American Bible Revised Edition | 2011 (NT revision 1986) | Biblia Hebraica Stuttgartensia / Masoretic Text (DSS and LXX consulted; deuterocanonicals mainly LXX) | UBS 3rd ed. / Nestle-Aland 26th ed. |
@@ -42,7 +42,7 @@
 
 - Douay-Rheims and CPDV are Vulgate-based (Latin tradition of Jerome, standardized in Clementine editions). NABRE, NRSV-CE, RSV-2CE, and related Catholic editions incorporate the deuterocanonicals primarily from Greek (LXX) sources.
 
-- JPS is OT-only (Tanakh). SLT refers to Julia E. Smith’s highly literal 1876 translation. ERV here is the modern Easy-to-Read Version (not the 1881–1885 English Revised Version).
+- CJB (Complete Jewish Bible) is a Messianic Jewish translation whose main text generally follows the Masoretic tradition even at a small number of verses (e.g., Psalm 22:16, Isaiah 7:14) where an alternative reading would align more directly with traditional Christian messianic interpretation -- see the corresponding entries in "Manuscript and Translation Differences" for specifics. SLT refers to Julia E. Smith's highly literal 1876 translation. ERV here is the modern Easy-to-Read Version (not the 1881–1885 English Revised Version).
 
 - Publication years reflect the first complete (or major complete) edition most commonly referenced; many have later updates. Exact manuscript editions used can vary slightly by revision.
 
