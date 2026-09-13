@@ -10,7 +10,7 @@
 | CPDV | Catholic Public Domain Version | 2009 | Latin Vulgate (primarily Clementine / Sixtus-Clementine editions) | Latin Vulgate (Clementine) |
 | CSB | Christian Standard Bible | 2017 | Biblia Hebraica Stuttgartensia (BHS) | Nestle-Aland 28th ed. / UBS 5th ed. |
 | DBT | Darby Bible Translation (Darby) | 1890 (NT earlier editions from 1867) | Masoretic Text | Critical texts (including Vaticanus, Sinaiticus, and other early manuscripts; not primarily TR) |
-| Douay-Rheims (DR / DRB) | Douay-Rheims Bible (Challoner revision) | 1582 (NT); 1609–1610 (OT); Challoner 1749–1752 | Latin Vulgate (Clementine / related editions; original languages consulted secondarily) | Latin Vulgate (Clementine / related editions) |
+| DR | Douay-Rheims Bible (Challoner revision; also abbreviated DRB) | 1582 (NT); 1609–1610 (OT); Challoner 1749–1752 | Latin Vulgate (Clementine / related editions; original languages consulted secondarily) | Latin Vulgate (Clementine / related editions) |
 | ERV | Easy-to-Read Version | ~1987 / revised editions (e.g., 2004) | Biblia Hebraica Stuttgartensia (with DSS and LXX readings where preferred) | UBS Greek New Testament (4th ed.) / Nestle-Aland 27th ed. |
 | ESV | English Standard Version | 2001 (revisions 2007, 2011, 2016) | Biblia Hebraica Stuttgartensia (DSS, LXX, and other versions in difficult cases) | Nestle-Aland / UBS critical text (primarily 27th/28th eds. and equivalents) |
 | KJV | King James Version (Authorized Version) | 1611 (standard Cambridge/Oxford editions 1769) | Masoretic Text (Bomberg / related; some LXX/Vulgate influence especially for Apocrypha) | Textus Receptus (primarily Beza 1598 and related editions) |
