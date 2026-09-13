@@ -3,7 +3,7 @@
 - Introduction
  - [Preface](../030%20Introduction/010%20Preface.md)
  - [Purpose & Scope](../030%20Introduction/020%20Purpose%20and%20Scope.md)
- - [What Is Meant by "the Word of God"?](../030%20Introduction/030%20What%20Is%20Meant%20by%20the%20Word%20of%20God.md)
+ - [What Is Meant by the "Word of God"?](../030%20Introduction/030%20What%20Is%20Meant%20by%20the%20Word%20of%20God.md)
  - [What Is Meant by an "Inerrant" Word of God?](../030%20Introduction/040%20What%20Is%20Meant%20by%20an%20Inerrant%20Word%20of%20God.md)
  - [How to Use This Book](../030%20Introduction/050%20How%20to%20Use%20This%20Book.md)
  - [Reading Paths for Different Readers](../030%20Introduction/060%20Reading%20Paths%20for%20Different%20Readers.md)

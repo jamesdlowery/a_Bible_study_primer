@@ -10,7 +10,7 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Table of Contents | Full navigable contents, linked throughout |
 | Preface | The author's own account of why this project exists |
 | Purpose & Scope | What this book covers, and what it deliberately doesn't attempt |
-| What Is Meant by "the Word of God"? | The sense in which this book uses that phrase, and why it matters |
+| What Is Meant by the "Word of God"? | The sense in which this book uses that phrase, and why it matters |
 | What Is Meant by an "Inerrant" Word of God? | What this doctrine does and doesn't claim, and why it matters for the rest of the book |
 | *(this section)* | Orientation for readers — navigation and method |
 | Reading Paths for Different Readers | Suggested starting points based on what you're trying to find |
@@ -21,7 +21,7 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Popular Bible Translations | An overview of English translation philosophy generally |
 | Bible Translations and Their Source Manuscripts | Which manuscript traditions underlie which translations |
 | Histories of Various Bible Translations | A history for each of 26 major translations |
-| Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all ten tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
+| Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all {{TRANSLATION_COUNT}} tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
 | Top Christian Denominations | Profiles of the 25 most prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
 | Top Study Bibles | Profiles of 25 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
@@ -38,7 +38,7 @@ It's easy to confuse *Manuscript and Translation Differences* with *Reportedly C
 
 ## Navigating "Reportedly Contradicting Passages"
 
-This section is arranged by book of the Bible, covering {{RCP_COUNT}} distinct claims. Each entry states the claim once, gives the standard scholarly harmonization once, and notes how the ten tracked translations render the passages involved only where a translation actually renders it differently in a way that affects the claim -- which turns out to be true for a minority of entries. Where all ten translations agree, the entry says so in a single line rather than repeating the same note ten times.
+This section is arranged by book of the Bible, covering {{RCP_COUNT}} distinct claims. Each entry states the claim once, gives the standard scholarly harmonization once, and notes how the tracked translations render the passages involved only where a translation actually renders it differently in a way that affects the claim -- which turns out to be true for a minority of entries. Where all {{TRANSLATION_COUNT}} translations agree, the entry says so in a single line rather than repeating the same note for each one.
 
 ## Translation Abbreviations Used Throughout
 

@@ -1,4 +1,4 @@
-# What Is Meant by "the Word of God"?
+# What Is Meant by the "Word of God"?
 
 Calling the Bible "the Word of God" is a claim this whole book takes for granted rather than argues for — but the phrase itself is used in more than one sense, and it's worth being precise about which sense is meant before going further.
 
