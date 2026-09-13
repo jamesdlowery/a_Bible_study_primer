@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260911a/A_Bible_Study_Primer_v20260911a.docx)
-- [📄 OpenDocument (.odt)](../../releases/download/v20260911a/A_Bible_Study_Primer_v20260911a.odt)
-- [📄 PDF](../../releases/download/v20260911a/A_Bible_Study_Primer_v20260911a.pdf)
-- [🌐 HTML](../../releases/download/v20260911a/A_Bible_Study_Primer_v20260911a.html)
+- [📄 Word (.docx)](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.odt)
+- [📄 PDF](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.pdf)
+- [🌐 HTML](../../releases/download/v20260902m/A_Bible_Study_Primer_v20260902m.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -28,7 +28,7 @@ Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases pa
 | [`050 Character Of Each Source Manuscript Tradition`](050%20Character%20Of%20Each%20Source%20Manuscript%20Tradition/010%20Character%20of%20Each%20Tradition.md) | How the traditions relate to one another and how they're weighed |
 | [`060 Popular Bible Translations`](060%20Popular%20Bible%20Translations/010%20Popular%20Bible%20Translations.md) | Overview of English Bible translation philosophy |
 | [`070 Bible Translations and Their Source Manuscripts`](070%20Bible%20Translations%20and%20Their%20Source%20Manuscripts/010%20Bible%20Translations%20and%20Their%20Source%20Manuscripts.md) | Which manuscript traditions underlie which translations |
-| [`080 Histories of Various Bible Translations`](080%20Histories%20of%20Various%20Bible%20Translations) | A history for each of 26 major English translations (AKJV, ASV, CSB, ESV, KJV, NASB, NIV, NKJV, NLT, NRSVCE, RSV, WEB, YLT, and more) |
+| [`080 Histories of Various Bible Translations`](080%20Histories%20of%20Various%20Bible%20Translations) | A history for each of 27 major English translations (grouped by family where closely related — e.g., the King James tradition, the ASV lineage — and standalone otherwise: AMP, BSB, CJB, CSB, ERV, NABRE, NET, NIV, NLT, TRB, and more) |
 | [`090 Manuscript and Translation Differences`](090%20Manuscript%20and%20Translation%20Differences) | A dedicated page for every book of the Bible (Genesis–Revelation, plus the Apocrypha) detailing textual variants across manuscript traditions, including the most well-known individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less familiar ones |
 | [`100 Reportedly Contradicting Passages`](100%20Reportedly%20Contradicting%20Passages) | Commonly cited "Bible contradiction" claims and their harmonizations, arranged by book of the Bible, noting how the ten tracked translations render the passages involved wherever that actually differs |
 | [`110 Top Christian Denominations`](110%20Top%20Christian%20Denominations) | Profiles of the 25 most prominent U.S. Christian denominations, covering core doctrine (Scripture, salvation, baptism, church government, and more) and ethical/lifestyle positions (abortion, homosexuality, alcohol) |

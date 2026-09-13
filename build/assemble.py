@@ -140,36 +140,25 @@ def demote(text, levels):
 # ---------------------------------------------------------------------------
 
 PROTESTANT_HISTORIES = [
-    ("Protestant/010 History of the King James Version.md", "King James Version"),
-    ("Protestant/020 History of Webster's Bible.md", "Webster's Bible"),
-    ("Protestant/030 History of Young's Literal Translation.md", "Young's Literal Translation"),
-    ("Protestant/040 History of Smith's Literal Translation.md", "Smith's Literal Translation"),
-    ("Protestant/050 History of the Darby Bible.md", "Darby Bible"),
-    ("Protestant/060 History of the American Standard Version.md", "American Standard Version"),
-    ("Protestant/070 History of the Revised Standard Version.md", "Revised Standard Version"),
-    ("Protestant/080 History of the Amplified Bible.md", "Amplified Bible"),
-    ("Protestant/090 History of the New American Standard Bible.md", "New American Standard Bible"),
-    ("Protestant/100 History of the New International Version.md", "New International Version"),
-    ("Protestant/110 History of the New King James Version.md", "New King James Version"),
-    ("Protestant/120 History of the Easy to Read Version.md", "Easy-to-Read Version"),
-    ("Protestant/130 History of the New Living Translation.md", "New Living Translation"),
-    ("Protestant/140 History of the American King James Version.md", "American King James Version"),
-    ("Protestant/150 History of the World English Bible.md", "World English Bible"),
-    ("Protestant/160 History of the English Standard Version.md", "English Standard Version"),
-    ("Protestant/170 History of the New English Translation.md", "New English Translation"),
-    ("Protestant/180 History of the Christian Standard Bible.md", "Christian Standard Bible"),
-    ("Protestant/190 History of the Berean Standard Bible.md", "Berean Standard Bible"),
-    ("Protestant/200 History of the Legacy Standard Bible.md", "Legacy Standard Bible"),
-    ("Protestant/210 History of The Readable Bible.md", "The Readable Bible"),
-    ("Protestant/220 History of the Complete Jewish Bible.md", "Complete Jewish Bible"),
+    ("Protestant/010 History of the King James Tradition.md", "King James Tradition (KJV, NKJV, AKJV, Webster's Bible)", 4),
+    ("Protestant/020 History of the American Standard Version and Its Descendants.md", "American Standard Version and Its Descendants (ASV, NASB, LSB, WEB)", 4),
+    ("Protestant/030 History of the RSV-ESV Tradition.md", "RSV-ESV Tradition (RSV, ESV)", 2),
+    ("Protestant/040 History of the 19th-Century Literalist Translations.md", "19th-Century Literalist Translations (Darby, Young's, Smith's)", 3),
+    ("Protestant/050 History of the Amplified Bible.md", "Amplified Bible", 1),
+    ("Protestant/060 History of the New International Version.md", "New International Version", 1),
+    ("Protestant/070 History of the Easy to Read Version.md", "Easy-to-Read Version", 1),
+    ("Protestant/080 History of the New Living Translation.md", "New Living Translation", 1),
+    ("Protestant/090 History of the New English Translation.md", "New English Translation", 1),
+    ("Protestant/100 History of the Christian Standard Bible.md", "Christian Standard Bible", 1),
+    ("Protestant/110 History of the Berean Standard Bible.md", "Berean Standard Bible", 1),
+    ("Protestant/120 History of The Readable Bible.md", "The Readable Bible", 1),
+    ("Protestant/130 History of the Complete Jewish Bible.md", "Complete Jewish Bible", 1),
 ]
 
 CATHOLIC_HISTORIES = [
-    ("Catholic/010 History of the Douay Rheims Bible.md", "Douay-Rheims Bible"),
-    ("Catholic/020 History of the New Revised Standard Version Catholic Edition.md", "New Revised Standard Version Catholic Edition"),
-    ("Catholic/030 History of the Revised Standard Version Second Catholic Edition.md", "Revised Standard Version Second Catholic Edition"),
-    ("Catholic/040 History of the Catholic Public Domain Version.md", "Catholic Public Domain Version"),
-    ("Catholic/050 History of the New American Bible Revised Edition.md", "New American Bible Revised Edition"),
+    ("Catholic/010 History of the Vulgate Tradition in English.md", "Vulgate Tradition in English (Douay-Rheims, Catholic Public Domain Version)", 2),
+    ("Catholic/020 History of the Catholic RSV Editions.md", "Catholic RSV Editions (NRSV-CE, RSV-2CE)", 2),
+    ("Catholic/030 History of the New American Bible Revised Edition.md", "New American Bible Revised Edition", 1),
 ]
 
 VARIANTS_DIR = "090 Manuscript and Translation Differences"
@@ -186,7 +175,8 @@ def book_stats():
     numbers can never drift out of sync the way the hardcoded "25
     translations" / "866 claims" text has in the past. Returns a dict with
     keys: translation_count, variant_count, rcp_count."""
-    translation_count = len(PROTESTANT_HISTORIES) + len(CATHOLIC_HISTORIES)
+    translation_count = (sum(n for _, _, n in PROTESTANT_HISTORIES)
+                         + sum(n for _, _, n in CATHOLIC_HISTORIES))
 
     variant_count = 0
     variants_dir = os.path.join(REPO, VARIANTS_DIR)
@@ -436,7 +426,7 @@ def build_targets():
 
     def add_history_group(divider_id, divider_label, group):
         add(divider_id, divider_label, lambda: f"## {divider_label}\n", is_divider=True)
-        for fn, title in group:
+        for fn, title, _n in group:
             def render(fn=fn):
                 body = read(os.path.join("080 Histories of Various Bible Translations", fn))
                 return demote(body, 2)
@@ -700,10 +690,10 @@ def build_toc_md(anchors):
 
     lines.append("- **Histories of Various Translations/Versions of the Bible:**")
     lines.append("  - Protestant Bibles")
-    for fn, label in PROTESTANT_HISTORIES:
+    for fn, label, _n in PROTESTANT_HISTORIES:
         lines.append(f"    - {link(f'history_{fn}', label)}")
     lines.append("  - Catholic Bibles")
-    for fn, label in CATHOLIC_HISTORIES:
+    for fn, label, _n in CATHOLIC_HISTORIES:
         lines.append(f"    - {link(f'history_{fn}', label)}")
 
     lines.append("- **Manuscript and Translation Differences:**")
