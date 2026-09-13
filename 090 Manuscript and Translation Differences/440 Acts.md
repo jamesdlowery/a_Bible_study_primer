@@ -1,8 +1,8 @@
-# Acts: Significant Textual Variants Across Ten Translations
+# Acts: Significant Textual Variants Across 27 Translations
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-As explained in the Gospels documents in this collection, New Testament translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others). Acts has an additional wrinkle beyond this: its "Western text" (represented especially by the 5th-century Codex Bezae) is considerably longer than the standard text in numerous places throughout the book — sometimes by as much as 10% overall — making Acts one of the most textually complex books in the New Testament, even though most of those Western expansions are minor narrative details rather than major single variants.
+As explained in the Gospels documents in this collection, New Testament translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others), with Vulgate-tradition translations (Douay-Rheims, CPDV) forming a third lineage. Acts has an additional wrinkle beyond this: its "Western text" (represented especially by the 5th-century Codex Bezae) is considerably longer than the standard text in numerous places throughout the book — sometimes by as much as 10% overall — making Acts one of the most textually complex books in the New Testament, even though most of those Western expansions are minor narrative details rather than major single variants.
 
 ---
 
@@ -13,10 +13,11 @@ As explained in the Gospels documents in this collection, New Testament translat
 **Why it matters:** Beyond textual-critical interest, this verse has had outsized influence on later ideas of how baptism ought to be practiced (many groups have used its wording as a model baptismal confession), even though most scholars regard the sentence as a later addition to Acts rather than Luke's own writing.
 
 **Translations — a real split:**
-- **Include without qualification:** KJV and NKJV.
+- **Include without qualification:** KJV and NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to include it unflagged as well, on the same Textus-Receptus-preservation grounds discussed throughout this NT section.
 - **Include but bracketed and footnoted as absent from early manuscripts:** NASB and AMP.
-- **Omit from the main text entirely, moving straight from verse 36 to verse 38, generally with a footnote on the alternative:** ESV, NIV, CSB, NLT, and LSB.
+- **Omit from the main text entirely, moving straight from verse 36 to verse 38, generally with a footnote on the alternative:** ESV, NIV, CSB, NLT, and LSB. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, matching the general pattern established elsewhere in this project, though not separately confirmed for this specific verse.
 - **RSV2CE** follows the same pattern as most modern critical-text translations, omitting the verse from the main text with a footnote.
+- **Not independently confirmed in this research pass:** ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 ---
 
@@ -27,10 +28,11 @@ As explained in the Gospels documents in this collection, New Testament translat
 **Why it matters:** Without this verse, the text moves from Judas and Silas returning to Jerusalem (15:33) directly to Paul selecting Silas for the next journey (15:40) without explaining how Silas came to be available in Antioch again — a minor narrative gap the added verse exists specifically to fill.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV.
-- **Omit it from the main text, typically with a footnote explaining the apparent gap it was added to smooth over:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to include it, on the same grounds noted throughout this section.
+- **Omit it from the main text, typically with a footnote explaining the apparent gap it was added to smooth over:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same general grounds noted above.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
+---
 
 ## 3. Acts 24:6–8 — how Paul came to be brought before Felix
 
@@ -39,10 +41,11 @@ As explained in the Gospels documents in this collection, New Testament translat
 **Why it matters:** The added material doesn't introduce new facts in dispute elsewhere in Acts — it recaps Lysias's role largely consistent with the earlier chapter — but its absence from the earliest manuscripts affects how much of Tertullus's specific recorded speech is treated as original to this passage versus a later, harmonizing expansion.
 
 **Translations — a real split:**
-- **Include the fuller material in the main text, without qualification:** KJV, NKJV.
-- **Read the shorter text, typically with a footnote noting the longer reading in some manuscripts:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific passage.
+- **Include the fuller material in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to include it, on the same grounds noted throughout this section.
+- **Read the shorter text, typically with a footnote noting the longer reading in some manuscripts:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same grounds noted throughout this project.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific passage.
 
+---
 
 ## 4. Acts 28:29 — a closing verse after Paul's appeal to the Jewish leaders in Rome
 
@@ -51,10 +54,9 @@ As explained in the Gospels documents in this collection, New Testament translat
 **Why it matters:** The added verse doesn't change anything substantive about Paul's message or the book's ending — Acts closes either way with Paul preaching under house arrest in Rome — but affects how the transition out of this specific scene is worded.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV.
-- **Omit it from the main text, moving directly from Paul's Isaiah citation to the book's closing summary (28:30–31), typically with a footnote noting the addition in some manuscripts:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
-
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to include it, on the same grounds noted throughout this section.
+- **Omit it from the main text, moving directly from Paul's Isaiah citation to the book's closing summary (28:30–31), typically with a footnote noting the addition in some manuscripts:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same grounds noted throughout this project.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 ---
 

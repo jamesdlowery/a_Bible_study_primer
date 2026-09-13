@@ -1,8 +1,8 @@
-# Mark: Significant Textual Variants Across Ten Translations
+# Mark: Significant Textual Variants Across 27 Translations
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-As explained in the companion Matthew document, the New Testament's textual situation differs fundamentally from the Old Testament's: thousands of Greek manuscripts survive, and translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others). Mark contains what is probably the single most significant textual question in the entire New Testament.
+As explained in the companion Matthew document, the New Testament's textual situation differs fundamentally from the Old Testament's: thousands of Greek manuscripts survive, and translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others), with Vulgate-tradition translations (Douay-Rheims, CPDV) forming a third lineage that agrees with each side at different points depending on what Jerome's own source manuscripts contained. Mark contains what is probably the single most significant textual question in the entire New Testament.
 
 ---
 
@@ -14,13 +14,17 @@ Beyond these two options, the Greek manuscript tradition actually preserves **fo
 
 **Why it matters:** Beyond the question of how the book ends, verses 17–18 (about handling serpents and drinking poison without harm) have had real practical consequences in some Christian communities that treat them as calling for literal snake-handling in worship — making the passage's textual status considerably higher-stakes than most.
 
-**A clarification before the split:** unlike most entries in this project, the actual wording of Mark 16:9–20 is essentially the same across all ten translations — none of them prints different words for these twelve verses. What differs is whether the passage is presented as ordinary, unflagged text or set off as textually uncertain. I'm still calling it out here, given how significant and well-known this variant is, but it's a presence/framing difference rather than a wording-changes-the-meaning difference within the passage itself.
+**A clarification before the split:** unlike most entries in this project, the actual wording of Mark 16:9–20 is essentially the same across the translations that include it at all — none of them prints substantially different words for these twelve verses. What differs is whether the passage is presented as ordinary, unflagged text or set off as textually uncertain. I'm still calling it out here, given how significant and well-known this variant is, but it's a presence/framing difference rather than a wording-changes-the-meaning difference within the passage itself.
 
-**Translations — how the ten handle this:**
-- **KJV and NKJV** print Mark 16:9–20 as ordinary text, without any bracketing or footnote flagging the manuscript question (KJV, working from the Textus Receptus, predates this entire discussion; NKJV includes a footnote acknowledging the omission in Vaticanus and Sinaiticus while still printing the passage as regular text).
-- **ESV, NIV, CSB, NASB, and LSB** print the passage but set it off — typically with double brackets or a clear heading/footnote stating that the earliest manuscripts do not include verses 9–20 — signaling that it's included for completeness and its long history of use, without asserting it as original.
-- **NLT** includes the passage with a footnote explaining the situation.
-- **RSV2CE** follows the general modern-critical-text pattern of flagging the passage as textually questionable, consistent with the RSV tradition it derives from (the original 1952 RSV famously relegated the whole passage to a footnote, a decision that drew significant public criticism at the time and was softened in later RSV-derived revisions).
+**Translations — how the full set of 27 handle this:**
+
+KJV, NKJV, ASV, WEB, Darby, Young's Literal, Smith's Literal, Webster's Bible, and the American King James Version would be expected to print the passage as ordinary, unflagged text, consistent with translations that either predate modern critical-text apparatus entirely or (for AKJV/WBT) explicitly preserve the KJV's underlying text without engaging that apparatus at all -- though only KJV and NKJV have been directly confirmed for this specific passage; the others are reasoned expectations based on stated translation method, not independently checked.
+
+ESV, NIV, CSB, NASB, and LSB set the passage off with brackets or a footnote noting its absence from the earliest manuscripts. NLT includes it with an explanatory footnote. RSV2CE follows the general modern-critical-text pattern of flagging it. The original 1952 RSV famously relegated the entire passage to a footnote rather than the main text -- a decision significant enough that it's already discussed in this book's own RSV/ESV history entry, and one that drew real public controversy at the time. The NRSV-CE, being a further revision in the same critical tradition as the RSV, would be expected to flag the passage similarly, though this was not separately confirmed.
+
+The Douay-Rheims Bible and the Catholic Public Domain Version, both translated from the Latin Vulgate, would be expected to print the passage as ordinary text -- the Vulgate has always contained the longer ending (unlike, for instance, the Matthew 6:13 doxology discussed in the companion Matthew document, which the Vulgate never included), so this is a reasoned expectation grounded in the Vulgate's own known content, not independently confirmed for this specific printed edition.
+
+**Genuinely unconfirmed, and not safely predictable from translation family alone:** the NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific passage. This entry should not guess at any of these — some (like the NET Bible, known for extensive translator notes on exactly this kind of textual question) could plausibly go either way, and asserting a prediction here would be exactly the kind of unverified claim this book tries not to make.
 
 ---
 
@@ -31,10 +35,11 @@ Beyond these two options, the Greek manuscript tradition actually preserves **fo
 **Why it matters:** As with the Matthew parallel, the question is how much weight this specific pairing of prayer with fasting should carry as Jesus' own words describing what's needed for this kind of spiritual authority.
 
 **Translations — a real split:**
-- **Include "and fasting":** KJV, NKJV.
-- **Read "prayer" alone, typically with a footnote noting that some manuscripts add "and fasting":** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
+- **Include "and fasting":** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to include it as well, on the same Textus-Receptus-preservation grounds discussed in the companion Matthew entries, though none was separately confirmed.
+- **Read "prayer" alone, typically with a footnote noting that some manuscripts add "and fasting":** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading here, matching the general pattern of Vulgate-tradition agreement with the critical text against later Byzantine expansions, though this specific verse was not separately confirmed for either.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
+---
 
 ## 3. Mark 11:26 — "if ye do not forgive, neither will your Father forgive"
 
@@ -43,10 +48,11 @@ Beyond these two options, the Greek manuscript tradition actually preserves **fo
 **Why it matters:** The teaching itself is undisputed as Matthew's own wording — the question here is narrower, whether Mark's Gospel also states it at this point, or whether the verse belongs only to Matthew.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV.
-- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Matthew 6:15:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would again be expected to include it, on the same grounds as the entry above.
+- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Matthew 6:15:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same general Vulgate-tradition grounds noted above, though not separately confirmed for this specific verse.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
+---
 
 ## 4. Mark 15:28 — "he was numbered with the transgressors"
 
@@ -55,10 +61,9 @@ Beyond these two options, the Greek manuscript tradition actually preserves **fo
 **Why it matters:** The Isaiah 53:12 connection to Jesus' crucifixion is undisputed as Luke's own wording — the question here is whether Mark's Gospel also draws out this explicit fulfillment citation at this point, or whether it belongs only to Luke's account.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV.
-- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Luke 22:37:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
-
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would again be expected to include it, on the same grounds as the two entries above.
+- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Luke 22:37:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same grounds noted above, though not separately confirmed for this specific verse.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 ---
 
@@ -66,3 +71,4 @@ Beyond these two options, the Greek manuscript tradition actually preserves **fo
 
 - Mark 16:9–20 is the paradigm case for the whole New Testament portion of this project: a passage overwhelmingly attested in the manuscript tradition by sheer count, but consistently absent from the very oldest and (in the judgment of most modern textual scholars) most reliable witnesses — and one where ancient testimony (Eusebius, Jerome) confirms the debate is not a modern invention.
 - Worth noting, as several scholars point out: even if these verses are a later addition, nothing essential to Christian belief hinges on them uniquely — the resurrection itself is independently and abundantly attested elsewhere in Matthew, Luke, John, and Paul's letters.
+- Mark 9:29, 11:26, and 15:28 all follow the same predictable Textus-Receptus-vs-critical-text pattern established in Matthew, with the KJV-preservation and Vulgate-tradition translations expected to fall on opposite sides for the reasons discussed there.

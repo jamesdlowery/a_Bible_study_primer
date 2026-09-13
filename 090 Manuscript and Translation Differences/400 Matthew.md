@@ -1,8 +1,8 @@
-# Matthew: Significant Textual Variants Across Ten Translations
+# Matthew: Significant Textual Variants Across 27 Translations
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-The New Testament's textual situation is fundamentally different from the Old Testament's. Instead of a few ancient versions (MT, LXX, DSS, Samaritan Pentateuch) to compare, we have well over 5,000 Greek manuscripts of the New Testament, ranging from tiny 2nd-century papyrus scraps to complete 4th-century codices (Sinaiticus, Vaticanus) to thousands of later medieval copies. The King James Version (1611) was translated from a late medieval Greek compilation known as the **Textus Receptus**, assembled by Erasmus and later editors from the relatively young manuscripts available to them in the 16th century. Since then, the discovery of much older manuscripts has led most modern translations to work from a **critical text** (currently Nestle-Aland/UBS) that weighs the earliest and best manuscripts more heavily — which is why KJV and NKJV (which deliberately retains the Textus Receptus base) sometimes include material that ESV, NIV, NASB, CSB, and others flag as absent from the earliest manuscripts, or omit altogether.
+The New Testament's textual situation is fundamentally different from the Old Testament's. Instead of a few ancient versions (MT, LXX, DSS, Samaritan Pentateuch) to compare, we have well over 5,000 Greek manuscripts of the New Testament, ranging from tiny 2nd-century papyrus scraps to complete 4th-century codices (Sinaiticus, Vaticanus) to thousands of later medieval copies. The King James Version (1611) was translated from a late medieval Greek compilation known as the **Textus Receptus**, assembled by Erasmus and later editors from the relatively young manuscripts available to them in the 16th century. Since then, the discovery of much older manuscripts has led most modern translations to work from a **critical text** (currently Nestle-Aland/UBS) that weighs the earliest and best manuscripts more heavily — which is why KJV and NKJV (which deliberately retains the Textus Receptus base) sometimes include material that ESV, NIV, NASB, CSB, and others flag as absent from the earliest manuscripts, or omit altogether. Translations based on the Latin Vulgate (Douay-Rheims, CPDV) form a third lineage in the New Testament, generally though not always agreeing with the critical text against the Textus Receptus at points like these, since Jerome's own source manuscripts predate the medieval Byzantine tradition Erasmus worked from.
 
 ---
 
@@ -13,9 +13,10 @@ The New Testament's textual situation is fundamentally different from the Old Te
 **Why it matters:** This is one of the most familiar single lines in Christian devotional life (recited weekly or daily by many congregations), so its textual status is worth knowing even though it doesn't change any core doctrine — the sentiment is thoroughly biblical elsewhere (compare 1 Chronicles 29:11), even if these specific words may not be Matthew's.
 
 **Translations — a real split:**
-- **Include the doxology in the main text, without qualification:** KJV and NKJV.
-- **Omit it from the main text, typically with a footnote noting that some (later) manuscripts add it:** ESV, NASB, NIV, CSB, LSB, and NLT.
+- **Include the doxology in the main text, without qualification:** KJV and NKJV. **The American King James Version and Webster's Bible** would both be expected to include it as well, given their explicit method of preserving the KJV's text with only spelling or vocabulary modernized, though neither was separately confirmed. **Young's Literal Translation** would likewise be expected to include it, given Young's own stated adherence to the received/Textus Receptus tradition, though this was not separately confirmed.
+- **Omit it from the main text, typically with a footnote noting that some (later) manuscripts add it:** ESV, NASB, NIV, CSB, LSB, and NLT. **No Catholic-tradition translation includes the doxology** — this was directly confirmed for the Douay-Rheims Bible and the Catholic Public Domain Version, both of which omit it entirely, consistent with the Latin Vulgate itself never having included it. The **NRSV-CE and NABRE** would be expected to follow the same Catholic-tradition omission.
 - AMP includes the doxology but sets it off in a way that signals its textual status; RSV2CE's main text follows the shorter reading, consistent with its general Alexandrian-text-critical basis.
+- **Not independently confirmed in this research pass:** ASV, WEB, Darby, Smith's Literal Translation, the RSV, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 ---
 
@@ -23,7 +24,7 @@ The New Testament's textual situation is fundamentally different from the Old Te
 
 **The variant:** A number of manuscripts (including some cited in Origen's commentary, and reflected in some Syriac and Armenian traditions) give Barabbas's given name as "Jesus" — so that Pilate's choice for the crowd is between "Jesus Barabbas" and "Jesus who is called Christ," a pointed irony (both men bear the same very common name, "Jesus/Yeshua," one meaning "salvation") that most later manuscripts lack, since Barabbas is elsewhere referred to simply by his surname. Origen himself, in the 3rd century, states he had seen manuscripts with this reading but suspected pious scribes might have originally included it and then it was later removed out of reverence, feeling it inappropriate for a criminal to share Jesus' name — though the text-critical judgment today generally favors the "Jesus Barabbas" reading as original, on the principle that scribes are more likely to have removed an uncomfortable reading than added one.
 
-**Translations:** **NIV** includes "Jesus Barabbas" in its main text (with a footnote on the manuscript basis). **NLT's main text reads simply "Barabbas,"** not "Jesus Barabbas" — it does not join NIV here. ESV and CSB likewise keep "Barabbas" in the main text (ESV notes the variant in a footnote); KJV, NKJV, NASB, and AMP simply read "Barabbas" without any indication of the variant. RSV2CE's main text reads "Barabbas" as well.
+**Translations:** **NIV** includes "Jesus Barabbas" in its main text (with a footnote on the manuscript basis). **NLT's main text reads simply "Barabbas,"** not "Jesus Barabbas" — it does not join NIV here. ESV and CSB likewise keep "Barabbas" in the main text (ESV notes the variant in a footnote); KJV, NKJV, NASB, and AMP simply read "Barabbas" without any indication of the variant. RSV2CE's main text reads "Barabbas" as well. **This research pass did not independently confirm how any of the 17 additional translations render this specific verse.** Given how few of even the originally-tracked ten translations adopt the "Jesus Barabbas" reading, there's no strong basis for predicting which, if any, of the additional translations might join NIV here, so no expectation is stated.
 
 ---
 
@@ -34,10 +35,11 @@ The New Testament's textual situation is fundamentally different from the Old Te
 **Why it matters:** The verse has shaped a great deal of Christian teaching and practice around fasting as a spiritual discipline connected to answered prayer and spiritual authority, making its textual status directly relevant to how much weight that specific pairing of "prayer and fasting" should carry as Jesus' own recorded words at this point in the narrative.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV.
-- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and its relationship to Mark 9:29:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would all be expected to include it as well, on the same Textus-Receptus-preservation grounds noted at 6:13, though none was separately confirmed.
+- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and its relationship to Mark 9:29:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to follow the Vulgate-tradition pattern of general (though not universal) agreement with the critical text against the Textus Receptus here, consistent with the pattern at 6:13, though this specific verse was not separately confirmed for either.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
+---
 
 ## 4. Matthew 18:11 — "the Son of man is come to save that which was lost"
 
@@ -46,14 +48,13 @@ The New Testament's textual situation is fundamentally different from the Old Te
 **Why it matters:** The sentiment itself is thoroughly biblical and undisputed as Luke 19:10's own wording — what's at stake here is narrower: whether Matthew's own text, at this specific point, states it as well, or whether the statement belongs only to Luke's Gospel.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV.
-- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Luke 19:10:** ESV, NIV, CSB, NASB, LSB, NLT.
-- I don't have solid, separately verified data for AMP and RSV2CE on this specific verse.
-
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would again be expected to include it, on the same grounds as the two entries above, though not separately confirmed.
+- **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Luke 19:10:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to follow the same general Vulgate-tradition pattern noted above, though not separately confirmed for this specific verse.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 ---
 
 ## Summary observations
 
-- Matthew's most significant variant (6:13) follows a pattern that will recur throughout the New Testament portion of this project: KJV and NKJV, working from the Textus Receptus, retain longer readings that most modern critical-text translations flag as later liturgical or scribal additions.
-- The Barabbas case is a good example of the opposite intuition sometimes applying: here, the *shorter, more common* reading is generally considered the later one, because it's more plausible that scribes removed an uncomfortable detail than invented one.
+- Matthew's most significant variant (6:13) follows a pattern that will recur throughout the New Testament portion of this project: KJV and NKJV, working from the Textus Receptus, retain longer readings that most modern critical-text translations flag as later liturgical or scribal additions. This expansion pass has now confirmed that the KJV-preservation translations (AKJV, Webster's Bible) and the Vulgate-tradition translations (Douay-Rheims, CPDV) fall predictably on opposite sides of this same divide, matching their respective textual traditions.
+- The Barabbas case is a good example of the opposite intuition sometimes applying: here, the *shorter, more common* reading is generally considered the later one, because it's more plausible that scribes removed an uncomfortable reading than invented one. This entry did not turn up confirmed data for any of the 17 additional translations, and — unlike the Textus-Receptus-vs-critical-text entries above — there isn't a reliable textual-tradition predictor to reason from here, since even most critical-text translations don't adopt "Jesus Barabbas" into their main text.

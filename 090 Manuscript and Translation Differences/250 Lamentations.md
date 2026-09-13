@@ -1,6 +1,6 @@
-# Lamentations: Significant Textual Variants Across Ten Translations
+# Lamentations: Significant Textual Variants Across 27 Translations
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 Lamentations is textually one of the calmer books in the Old Testament — two fragmentary copies exist among the Dead Sea Scrolls, and they generally confirm the Masoretic Text rather than diverging from it in the dramatic ways seen in Samuel or Jeremiah. Its most distinctive textual feature isn't a wording variant at all, but a structural one built into the book's acrostic design.
 
@@ -14,7 +14,7 @@ For a long time this looked like an unexplained oddity unique to Lamentations. T
 
 **Why it matters:** This is a case where a feature that looks at first like a mistake turns out to be independently corroborated by outside archaeological evidence entirely unconnected to the Bible's own transmission — a nice example of how textual criticism sometimes vindicates an unusual reading rather than correcting it.
 
-**Translations:** This is a structural feature of the underlying Hebrew, not a translation choice -- English word order can't reproduce a Hebrew acrostic anyway, so none of the ten tracked translations attempts to preserve or flag the pe/ayin ordering in the English text itself. A few study editions (some printings of the NASB and ESV among them) include a translator's note explaining the acrostic structure and this specific reversal, but it doesn't affect the wording of the English text in any of the ten.
+**Translations:** This is a structural feature of the underlying Hebrew, not a translation choice -- English word order can't reproduce a Hebrew acrostic anyway, so none of the tracked translations attempts to preserve or flag the pe/ayin ordering in the English text itself. A few study editions (some printings of the NASB and ESV among them) include a translator's note explaining the acrostic structure and this specific reversal, but it doesn't affect the wording of the English text in any of them.
 
 ---
 

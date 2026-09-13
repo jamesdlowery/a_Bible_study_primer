@@ -1,6 +1,8 @@
 # Judith: RSV2CE Compared Against Other English Translations of the Apocrypha
 
-**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, NRSV.
+**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, the Catholic Public Domain Version (CPDV), NRSV.
+
+**A note on scope:** as with Tobit, this comparison is limited to translations that include the Apocrypha/Deuterocanon at all -- the bulk of this project's Protestant-tradition translations, and the Complete Jewish Bible, are not relevant additions here.
 
 ---
 
@@ -10,13 +12,13 @@
 
 **How the translations render it:**
 - **RSV2CE and NABRE** (Greek-based): describe the general advancing downward into the plain, burning the fields, and delivering the flocks and herds "to destruction," ravaging the cities, scattering the produce of the fertile plains "like chaff," and striking down the young men — a fuller, more specific catalogue of destruction.
-- **Douay-Rheims** (Vulgate-based): describes the same episode more briefly — going down into the plains "in the days of the harvest," setting the corn on fire, and cutting down the trees and vineyards — omitting the livestock, the cities, and the young men entirely.
+- **Douay-Rheims** (Vulgate-based): describes the same episode more briefly — going down into the plains "in the days of the harvest," setting the corn on fire, and cutting down the trees and vineyards — omitting the livestock, the cities, and the young men entirely. **The Catholic Public Domain Version**, translating the same Vulgate text, would be expected to follow Douay-Rheims into this same shorter, Vulgate-based camp, though this was not separately confirmed at this specific verse.
 
-**The difference in meaning:** This is a genuine, verse-level difference in narrated content, not just phrasing — the Vulgate (and so Douay-Rheims) simply doesn't report several of the specific actions the Greek (and so RSV2CE/NABRE) describes. Jerome himself acknowledged working loosely and only including what he could clearly follow in his source text, which is the likely explanation for the gap.
+**The difference in meaning:** This is a genuine, verse-level difference in narrated content, not just phrasing — the Vulgate (and so Douay-Rheims and, expectedly, CPDV) simply doesn't report several of the specific actions the Greek (and so RSV2CE/NABRE) describes. Jerome himself acknowledged working loosely and only including what he could clearly follow in his source text, which is the likely explanation for the gap.
 
 ---
 
 ## Summary observations
 
-- Judith is a strong parallel to Tobit: RSV2CE and NABRE largely agree with each other (both Greek-based), while Douay-Rheims regularly diverges from both, being translated from an entirely different ancient textual line (the Vulgate, itself once removed from a lost Aramaic source).
-- If you're comparing Judith across historical Catholic translations, expect Douay-Rheims to be the outlier at almost any given point, not RSV2CE.
+- Judith is a strong parallel to Tobit: RSV2CE and NABRE largely agree with each other (both Greek-based), while Douay-Rheims and CPDV would be expected to regularly diverge from both as a pair, being translated from an entirely different ancient textual line (the Vulgate, itself once removed from a lost Aramaic source).
+- If you're comparing Judith across historical Catholic translations, expect the Vulgate-based pair (Douay-Rheims, CPDV) to be the outlier at almost any given point, not RSV2CE or NABRE.

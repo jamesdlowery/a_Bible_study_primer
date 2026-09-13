@@ -1,6 +1,6 @@
-# Revelation: Significant Textual Variants Across Ten Translations
+# Revelation: Significant Textual Variants Across 27 Translations
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 Revelation has a distinctive textual situation of its own: it survives in fewer ancient Greek manuscripts overall than most other New Testament books (highly liturgical books like the Gospels and Psalms were copied far more often than Revelation, which saw less regular use in worship in parts of the early church), and its Greek is stylistically unusual even by the standards of the rest of the New Testament — both factors that made it a genuinely difficult book for early editors like Erasmus to work with.
 
@@ -13,8 +13,9 @@ Revelation has a distinctive textual situation of its own: it survives in fewer 
 **Why it matters:** This is a rare and unusually clean case where we can identify the textual variant's origin with high precision: not a scribal slip, theological dispute, or manuscript family divergence, but a single specific editorial decision made by one Renaissance scholar working around a manuscript gap in a single year, whose resulting wording then became fixed in a major translation tradition for centuries. It's a useful illustration of how even a well-attested Bible translation can, in specific instances, preserve a reading traceable to an identifiable editorial choice rather than to ancient manuscript evidence at all.
 
 **Translations — a real split:**
-- **"Book of Life" (following Erasmus's Vulgate-derived retro-translation):** KJV and **NKJV**. NKJV's main text still reads "Book of Life" here — it does not correct to "tree of life," despite Textus-Receptus-based scholarship having long recognized this specific reading as an editorial artifact rather than a genuine textual variant with any Greek manuscript support at all.
-- **"Tree of life" (following the overwhelming Greek manuscript tradition):** ESV, NIV, CSB, NASB, LSB, NLT, AMP, and RSV2CE.
+- **"Book of Life" (following Erasmus's Vulgate-derived retro-translation):** KJV and **NKJV**. NKJV's main text still reads "Book of Life" here — it does not correct to "tree of life," despite Textus-Receptus-based scholarship having long recognized this specific reading as an editorial artifact rather than a genuine textual variant with any Greek manuscript support at all. **The American King James Version and Webster's Bible** would be expected to follow KJV here as well, given their explicit preservation of its wording.
+- **"Tree of life" (following the overwhelming Greek manuscript tradition):** ESV, NIV, CSB, NASB, LSB, NLT, AMP, and RSV2CE. **The Douay-Rheims Bible is worth flagging specifically: since it translates the Vulgate directly** — the very source Erasmus back-translated from — Douay-Rheims would be expected to read "book of life" as well, matching the Latin it translates rather than the Greek manuscript majority, though this was not separately confirmed. **The CPDV**, sharing that same Vulgate source, would be expected to match Douay-Rheims for the same reason. **Young's Literal Translation**, working from the Textus Receptus like KJV, would similarly be expected to read "book of life," though not separately confirmed.
+- **Not independently confirmed in this research pass:** ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 ---
 
@@ -22,3 +23,4 @@ Revelation has a distinctive textual situation of its own: it survives in fewer 
 
 - Revelation 22:19 is genuinely unlike every other variant covered in this New Testament project: it isn't a case of two competing ancient readings at all, but a single 16th-century editorial choice, made necessary by an incomplete manuscript, that happened to become permanently fixed in one major translation lineage.
 - NKJV in fact retains "Book of Life" here alongside KJV, rather than correcting to "tree of life" as its own preface's general TR-with-footnoted-alternatives approach might lead one to expect. That makes this one of the places where NKJV's main text stays with KJV even though the "book of life" reading is widely recognized among textual scholars — including those otherwise sympathetic to the Textus Receptus — as an Erasmian editorial artifact rather than an ancient reading.
+- This entry is also a rare case where the Vulgate-tradition translations (Douay-Rheims, CPDV) would be expected to side *with* KJV/NKJV rather than against them, for essentially the same underlying reason as the Comma Johanneum in 1 John: the reading traces back to the Latin tradition itself, not to a later Byzantine Greek accretion the Vulgate tradition would otherwise be expected to lack.

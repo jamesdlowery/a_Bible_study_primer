@@ -1,6 +1,6 @@
-# Psalms: Significant Textual Variants Across Ten Translations
+# Psalms: Significant Textual Variants Across 27 Translations
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 ---
 
@@ -8,16 +8,28 @@
 
 **The variant:** Psalm 145 is an acrostic (each verse begins with the next Hebrew letter in order), but MT's version has only 21 verses — the one that should begin with *nun*, between the current verses 13 and 14, is missing. The Septuagint, Syriac, one medieval Hebrew manuscript, and a Dead Sea Scrolls copy of Psalms (11QPsa) all preserve a nun-verse: "The LORD is faithful in all his words, and gracious [or holy] in all his works" (closely paralleling verse 17 later in the same psalm).
 
-**How the ten translations render it:**
-- **Include the nun-verse:** ESV (in brackets, with a footnote), NIV (integrated into the text of verse 13, with a footnote on its manuscript basis), CSB, NLT.
-- **Omit it, following the shorter Masoretic text:** KJV (no note at all), NKJV (footnote acknowledging the DSS/LXX/Syriac/Vulgate addition, but main text omits it).
+**How the translations render it:**
+- **Include the nun-verse:** ESV (in brackets, with a footnote), NIV (integrated into the text of verse 13, with a footnote on its manuscript basis), CSB, NLT. **The Easy-to-Read Version, the NABRE, the RSV, the World English Bible, and the Douay-Rheims Bible** are all confirmed directly in this camp as well. The **NRSV-CE and CPDV** would each be expected to follow their respective parent traditions (NRSV and Douay-Rheims) into this camp, though neither was separately confirmed.
+- **Omit it, following the shorter Masoretic text:** KJV (no note at all), NKJV (footnote acknowledging the DSS/LXX/Syriac/Vulgate addition, but main text omits it). **ASV and the NET Bible** are both confirmed directly in this camp as well.
 - **NASB** has been inconsistent across editions — some printings of the 2020 revision add the line where the 1995 edition didn't, so check your specific edition.
-- I don't have solid, separately verified data for AMP, LSB, and RSV2CE on this specific verse.
+- **Not independently confirmed in this research pass:** AMP, LSB, and RSV2CE (as the original entry already noted), along with Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
 
 **The difference in meaning:** Without the extra line, the acrostic is incomplete (skipping directly from the mem-verse to the samek-verse). With it, the acrostic runs the full 22-letter alphabet, and the psalm gains an additional statement about God's faithfulness and works.
 
 ---
 
-## Side note: a case where all ten translations agree, but a real variant exists elsewhere in the manuscript tradition
+## Side note: a case where the tracked translations agree, but a real variant exists elsewhere in the manuscript tradition
 
-- **Psalm 22:16** — MT reads כארי (*ka'ari*), "like a lion," which lacks a verb and reads awkwardly in context. The Septuagint, Syriac Peshitta, and some Vulgate traditions instead reflect a Hebrew reading with a final vav, understood as "they pierced" or "they dug" -- a reading independently confirmed by a Dead Sea Scrolls fragment of Psalms from Nahal Hever (5/6HevPs), predating any Christian editorial interest. The Hever fragment's own spelling (*ka'aru*) is itself grammatically awkward, and a separate Qumran fragment (4QPsᶠ) is too broken at this exact point to settle the question, so this remains a genuinely disputed reading among textual scholars rather than a settled one -- some medieval Hebrew manuscripts and the Masoretic marginal notes also show awareness of the alternative. The "pierced" reading is the one cited in Christian tradition as a prophecy of crucifixion; the MT reading has been understood as a metaphor of being surrounded or mauled, as if by a lion. All ten tracked translations render "pierced," not "like a lion." Worth noting: even the Complete Jewish Bible (CJB) -- a Messianic Jewish translation -- renders this verse "like a lion [at] my hands and feet" in its main text, following the same Masoretic reading, with "they pierced my hands and feet" relegated to a footnote and cross-referenced to Stern's own discussion of messianic prophecy in his introduction; Stern's stated general practice is to follow the Masoretic text "in virtually all cases," including here, rather than adopt the alternative reading into his translated text even where it would align with a traditional Christian messianic interpretation.
+- **Psalm 22:16** — MT reads כארי (*ka'ari*), "like a lion," which lacks a verb and reads awkwardly in context. The Septuagint, Syriac Peshitta, and some Vulgate traditions instead reflect a Hebrew reading with a final vav, understood as "they pierced" or "they dug" -- a reading independently confirmed by a Dead Sea Scrolls fragment of Psalms from Nahal Hever (5/6HevPs), predating any Christian editorial interest. The Hever fragment's own spelling (*ka'aru*) is itself grammatically awkward, and a separate Qumran fragment (4QPsᶠ) is too broken at this exact point to settle the question, so this remains a genuinely disputed reading among textual scholars rather than a settled one -- some medieval Hebrew manuscripts and the Masoretic marginal notes also show awareness of the alternative. The "pierced" reading is the one cited in Christian tradition as a prophecy of crucifixion; the MT reading has been understood as a metaphor of being surrounded or mauled, as if by a lion.
+
+  Among the 27 tracked translations:
+
+  **Render "pierced":** AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, RSV2CE, Darby, Webster's Bible, Young's Literal Translation, and the World English Bible, confirmed directly against their own text. The American King James Version would be expected to match, given its explicit mechanical-modernization method (see that translation's own history entry), though this specific verse was not separately checked. Worth noting specifically: the Revised Standard Version also renders "pierced" here, even though the RSV famously broke from Christian-tradition wording at Isaiah 7:14 ("young woman") -- a reminder that a translation's choices are made verse by verse against the actual evidence, not as a single uniform editorial stance for or against traditional readings.
+
+  **Renders "dug" (a distinct but related choice, not "pierced" itself):** the Douay-Rheims Bible, following the Latin Vulgate's own *foderunt* ("they dug"). The Catholic Public Domain Version would be expected to follow Douay-Rheims' lead here, as it does generally, though this was not separately confirmed.
+
+  **Renders "like a lion," matching the Masoretic reading:** the Complete Jewish Bible, confirmed directly and discussed further in that translation's own history entry -- with "they pierced my hands and feet" relegated to a footnote there rather than adopted into the main text.
+
+  **Not independently confirmed in this research pass:** the ASV, NRSV-CE, NABRE, Smith's Literal Translation, the NET Bible, the Berean Standard Bible, and The Readable Bible were not directly checked against their own text for this specific verse. One source consulted suggested some modern critical-leaning translations in this general family (NRSV, NABRE among them) may also favor "pierced" given the Qumran evidence, but this book has not confirmed that directly and does not assert it as fact here.
+
+  As with Isaiah 7:14, this verse shows the same underlying pattern: the divide tracks translation philosophy and textual-tradition lineage more than any single family line. The Vulgate tradition (Douay-Rheims) lands on a third option ("dug") distinct from both "pierced" and "like a lion" entirely, while a Messianic Jewish translation (CJB) chooses the Masoretic "like a lion" that most Christian translations set aside.
