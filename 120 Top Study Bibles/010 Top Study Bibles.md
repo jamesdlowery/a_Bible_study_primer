@@ -1,10 +1,12 @@
 # Top Study Bibles
 
-This section profiles 27 of the most prominent study Bibles available in English, chosen for a combination of sales prominence, denominational/traditional breadth (so the list is not accidentally dominated by one publisher or tradition), and representation of the 27 Bible translations tracked throughout this book (see "Popular Bible Translations" and "Histories of Various Bible Translations"). Eleven entries are included because they are among the most historically, commercially, or doctrinally significant study Bibles in print; the remaining sixteen were selected by first identifying which of the 27 tracked translations lacked any dedicated study Bible representation, then, working down that list of translations in order of popularity, adding the most prominent dedicated study Bible built on each one -- filling any remaining slots with other widely used, broadly representative general-market study Bibles once no further translation gap could be filled this way. A number of the 27 tracked translations (ASV, WEB, Darby, Young's Literal Translation, Smith's Literal Translation, Webster's Bible, the American King James Version, the Easy-to-Read Version, the CPDV, The Readable Bible, and, so far as this research could confirm, the NRSV-CE and the Berean Standard Bible specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist.
+This section profiles 27 of the most prominent study Bibles available in English, chosen for a combination of sales prominence, denominational/traditional breadth (so the list is not accidentally dominated by one publisher or tradition), and representation of the 27 Bible translations tracked throughout this book (see "Popular Bible Translations" and "Histories of Various Bible Translations"). Entries are presented in an estimated order of overall popularity and market prominence -- combining known sales figures where available, general cultural and denominational reach, and the underlying translation's own popularity as a secondary factor. This ordering is necessarily an estimate rather than a precise, uniformly sourced ranking: a handful of entries near the top (the NIV Study Bible, the NIV Life Application Study Bible, the ESV Study Bible, the Scofield Reference Bible) have real, checkable sales figures or well-documented historical influence behind their position, while entries further down the list, especially the last several, are ordered by genuinely weaker and more inferential evidence, and this section says so directly rather than presenting false precision.
+
+A number of the 27 tracked translations (WEB, Darby, Young's Literal Translation, Smith's Literal Translation, Webster's Bible, the American King James Version, the Easy-to-Read Version, the CPDV, The Readable Bible, and, so far as this research could confirm, the NRSV-CE and the Berean Standard Bible specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist. The American Standard Version is the one apparent exception among the otherwise-unrepresented older translations: a dedicated ASV-based study Bible was published in 1972, described below, though it was never followed by a second edition and today survives mainly as a historical curiosity.
 
 For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Top Christian Denominations" where a direct parallel exists; and, specifically, what is actually known about the volume's own commentary on abortion, homosexuality, and alcohol -- distinguished carefully from the editor's personal published views elsewhere, which are related but not the same kind of evidence.
 
-**A note on confidence:** for several widely used, doctrinally explicit study Bibles (the Ignatius Catholic Study Bible, the Orthodox Study Bible, the Catholic Study Bible/NABRE, the Complete Jewish Study Bible), the volume's own stated method ties it directly to its tradition's official teaching, so its ethical positions can be stated with real confidence. For others (several entries in the second half of this list, and to some degree the ESV Study Bible and MacArthur Study Bible specifically), this section distinguishes the editor's own well-documented personal position from independently confirmed content of the volume's own verse notes, and says plainly where only the former, not the latter, has been verified. A few entries (the Jewish Study Bible, the Cultural Backgrounds Study Bible) are academic or historical-critical in orientation and generally do not offer direct ethical application to contemporary questions at all -- this is stated as such rather than papered over.
+**A note on confidence:** for several widely used, doctrinally explicit study Bibles (the Ignatius Catholic Study Bible, the Orthodox Study Bible, the Catholic Study Bible/NABRE, the Complete Jewish Study Bible), the volume's own stated method ties it directly to its tradition's official teaching, so its ethical positions can be stated with real confidence. For others (several entries in the second half of this list, and to some degree the ESV Study Bible and MacArthur Study Bible specifically), this section distinguishes the editor's own well-documented personal position from independently confirmed content of the volume's own verse notes, and says plainly where only the former, not the latter, has been verified. A few entries (the Cultural Backgrounds Study Bible) are academic or historical-critical in orientation and generally do not offer direct ethical application to contemporary questions at all -- this is stated as such rather than papered over.
 
 **A note on alcohol specifically:** as in "Top Christian Denominations," entries distinguish moderate use (variously permitted or discouraged depending on tradition) from drunkenness/overuse, which is treated as sinful essentially universally.
 
@@ -12,7 +14,47 @@ Several entries in this list (particularly the Life Application Study Bible, the
 
 ---
 
-## 1. ESV Study Bible
+## 1. NIV Study Bible
+
+**Translation used:** New International Version
+**Publisher:** Zondervan, first published 1985; among the best-selling study Bibles ever published (approximately 9 million copies).
+
+### Editorial credit
+Produced by a broad committee of evangelical scholars under Zondervan's own editorial leadership (Kenneth Barker served as General Editor for early editions); this is fundamentally an institutional, multi-scholar project rather than one identifiable author's personal work.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible, though somewhat less explicitly Reformed/complementarian in its overall editorial framing.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+
+---
+
+## 2. NIV Life Application Study Bible
+
+**Translation used:** New International Version (also available in KJV, NKJV, NLT, NASB, CSB, and other translations)
+**Publisher:** Tyndale House Publishers, first published 1986; the best-selling study Bible in the U.S. for over three decades, with roughly 10,000 application-focused notes.
+
+### Editorial credit
+Produced by the Tyndale House Publishers editorial staff as an institutional team project rather than credited to one or two named general editors — this entry cannot responsibly profile "a biography" the way the ESV Study Bible or MacArthur Study Bible entries do, since no single person is publicly credited as its general editor.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; deliberately designed to be usable across a wide range of evangelical traditions rather than reflecting one denomination's specific confessional distinctives. Its notes emphasize practical, personal application of Scripture over deep theological or text-critical commentary, a different emphasis than the ESV Study Bible's or MacArthur Study Bible's more doctrinally systematic approach.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Top Christian Denominations" for the closest parallel); specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
+
+---
+
+## 3. ESV Study Bible
 
 **Translation used:** English Standard Version (ESV)
 **Publisher:** Crossway, first published 2008 (ECPA Christian Book of the Year, 2009)
@@ -33,17 +75,17 @@ Broadly evangelical and Reformed-leaning, though the volume draws contributors f
 
 ---
 
-## 2. MacArthur Study Bible
+## 4. LSB MacArthur Study Bible
 
-**Translation used:** Available across multiple translations (originally New King James Version, 1997; subsequently released in ESV, NASB, NIV, and Legacy Standard Bible editions — the LSB edition is profiled separately as entry 6, given its status as the translation's current official edition).
-**Publisher:** Thomas Nelson (NKJV edition); Crossway (ESV edition). Over 4 million copies sold across all translation editions.
-**Scale:** Nearly 25,000 study notes; John MacArthur personally wrote more than half of the original 20,000 entries in longhand and reworked many of the rest.
+**Translation used:** Legacy Standard Bible (LSB)
+**Publisher:** Thomas Nelson, in association with The Master's Seminary and The Lockman Foundation; second edition released 2024. Now the official current edition of the MacArthur Study Bible, since the LSB itself was produced in association with The Master's Seminary, part of the John MacArthur Trust. The MacArthur Study Bible as a whole (across all its translation editions -- NKJV, ESV, NASB, NIV, and LSB) has reached more than 4 million readers since 1997, a figure this entry's position in the list reflects even though it applies to the full family of editions rather than the LSB edition specifically.
+**Scale:** Nearly 25,000 verse-by-verse study notes, 190 in-text maps, charts, and diagrams; the same underlying study-note content found in the NKJV and NASB MacArthur Study Bible editions, adapted to the LSB's own text.
 
 ### General editor
-**John F. MacArthur Jr.** (1939–2025) — graduated Talbot Theological Seminary, 1964. Pastor-teacher of Grace Community Church in Sun Valley, California, from 1969 until his death in 2025 (56 years); chancellor of The Master's University and Seminary; longtime featured teacher on the internationally syndicated radio and media ministry *Grace to You*. Known worldwide for verse-by-verse expository preaching and for a substantial body of published work (nearly 400 books and study guides over his ministry). MacArthur died on July 14, 2025, at age 86, following health complications dating to 2023.
+**John F. MacArthur Jr.** (1939–2025) — graduated Talbot Theological Seminary, 1964. Pastor-teacher of Grace Community Church in Sun Valley, California, from 1969 until his death in 2025 (56 years); chancellor of The Master's University and Seminary; longtime featured teacher on the internationally syndicated radio and media ministry *Grace to You*. Known worldwide for verse-by-verse expository preaching and for a substantial body of published work (nearly 400 books and study guides over his ministry). MacArthur personally wrote more than half of the original 20,000 study notes in longhand and reworked many of the rest; MacArthur died on July 14, 2025, at age 86, following health complications dating to 2023.
 
 ### Denominational leaning
-Independent Baptist/non-denominational, conservative evangelical, explicitly Reformed (Calvinist) in soteriology, dispensationalist in eschatology, and cessationist regarding the miraculous spiritual gifts — a distinctive combination, since dispensationalism and cessationism are each more commonly paired with non-Reformed evangelical traditions than with Calvinism. Closest among the Denominations entries in this book to the doctrinal orientation of conservative, confessional Southern Baptist and independent Reformed Baptist churches, though Grace Community Church itself was independent rather than formally affiliated with the SBC.
+Independent Baptist/non-denominational, conservative evangelical, explicitly Reformed (Calvinist) in soteriology, dispensationalist in eschatology, and cessationist regarding the miraculous spiritual gifts — a distinctive combination, since dispensationalism and cessationism are each more commonly paired with non-Reformed evangelical traditions than with Calvinism. Closest among the Denominations entries in this book to the doctrinal orientation of conservative, confessional Southern Baptist and independent Reformed Baptist churches, though Grace Community Church itself was independent rather than formally affiliated with the SBC. The specific pairing with the LSB reflects the translation's own direct institutional connection to MacArthur's own ministry (The Master's Seminary and University), making this edition, rather than the older NKJV edition, the one MacArthur's own institutions currently promote as standard.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -54,7 +96,156 @@ Independent Baptist/non-denominational, conservative evangelical, explicitly Ref
 
 ---
 
-## 3. Ignatius Catholic Study Bible
+## 5. Scofield Reference Bible / Scofield Study Bible
+
+**Translation used:** Originally King James Version (1909; revised 1917); a "New Scofield" revision appeared in 1967 and 1986, and a further revision ("Scofield III") in 2005.
+**Publisher:** Oxford University Press.
+
+### General editor
+**Cyrus Ingerson Scofield** (1843–1921), a pastor and Bible teacher whose extensive interpretive notes — printed directly alongside the biblical text rather than segregated as a separate commentary — are credited with popularizing dispensationalist theology (including the framework of successive biblical "dispensations" and the doctrine of a pretribulational rapture) more broadly and durably within American evangelicalism than any other single work, arguably making it the single most historically influential study Bible ever published in English even though its raw sales figures are less precisely documented than several more recent entries in this list.
+
+### Denominational leaning
+Broadly evangelical, foundational to 20th-century American dispensationalism specifically; historically influential on institutions including Dallas Theological Seminary. Later revisions (1967, 1986, 2005) softened or removed some of Scofield's own most historically controversial original notes while retaining the overall dispensationalist framework.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary in this research pass. |
+| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions not independently confirmed. |
+| Alcohol | Not independently confirmed in this research pass. |
+
+---
+
+## 6. NLT Study Bible
+
+**Translation used:** New Living Translation
+**Publisher:** Tyndale House Publishers
+**Scale:** Nearly 50 evangelical scholars contributed; over 25,000 study and textual notes, 300+ theme articles, 200 Greek and Hebrew word studies.
+
+### General editor
+**Sean A. Harrison** served as General Editor, leading a large scholarly team that included **Tremper Longman III** (Ph.D., Yale University; Distinguished Scholar of Biblical Studies and Professor Emeritus, Westmont College; a specialist in Old Testament wisdom literature and poetry, and NLT Bible translation team member for several Old Testament books), along with Daniel Block, Barry Beitzel, John N. Oswalt, and Grant R. Osborne, among others.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible and NIV Study Bible; distinguished from the separately edited NLT Illustrated Study Bible (entry 10 below) by a somewhat greater emphasis on textual, historical, and word-study detail relative to that volume's more visually driven presentation.
+
+### Ethical and lifestyle commentary
+Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
+
+---
+
+## 7. NASB Study Bible
+
+**Translation used:** New American Standard Bible
+**Publisher:** The Lockman Foundation (which also holds the NASB translation copyright) / Zondervan.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; the NASB itself is widely regarded as one of the most formally literal English translations, and this study Bible's notes are generally oriented toward close textual and grammatical study rather than one denomination's specific confessional framework.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+
+---
+
+## 8. CSB Study Bible
+
+**Translation used:** Christian Standard Bible
+**Publisher:** Holman Bible Publishers (Lifeway/B&H), tied closely to the Southern Baptist Convention's own publishing arm.
+
+### Denominational leaning
+Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Top Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with the SBC's Baptist Faith and Message: opposed. |
+| Homosexuality | Consistent with the SBC's Baptist Faith and Message: considered sinful. |
+| Alcohol | The CSB Study Bible's contributor base is broader than the SBC's own confessional membership, so the SBC's specific formal abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
+
+---
+
+## 9. Baker CSB Illustrated Study Bible
+
+**Translation used:** Christian Standard Bible (CSB)
+**Publisher:** Baker Publishing Group, distributed in partnership with B&H Publishing (Lifeway), the Southern Baptist Convention's own publishing arm.
+**Scale:** More than 1 million words of study notes contributed by over 200 evangelical scholars; hundreds of full-color illustrations, artistic reconstructions, maps, charts, and timelines; single-column Bible text with words of Christ in red.
+
+### Editorial credit
+Produced as an institutional, multi-scholar project under Baker Publishing Group's own editorial leadership rather than credited to one or two named general editors, in the same category as the Life Application Study Bible and NIV Study Bible profiled elsewhere in this section.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, with the same B&H/Southern Baptist publisher relationship as the (separate, text-focused rather than illustration-focused) CSB Study Bible profiled above; the Baker Illustrated edition's own contributor base is not exclusively Southern Baptist.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message given the shared publisher relationship; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | This volume's broader, non-exclusively-Southern-Baptist contributor base means the SBC's own formal confessional abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
+
+---
+
+## 10. NLT Illustrated Study Bible
+
+**Translation used:** New Living Translation
+**Publisher:** Tyndale House Publishers, first published 2015 (winner, 2016 ECPA Christian Book Award, Bible of the Year).
+**Scale:** Over 1,000 photos, illustrations, and infographics; more than 25,000 study notes; over 120 profiles of biblical people and empires; 150+ full-color maps and photos; 300 theme notes; 200 Hebrew and Greek word studies.
+
+### Editorial credit
+Produced as an institutional, multi-scholar Tyndale House project distinct from the earlier, text-focused NLT Study Bible (entry 6 above); this edition's own distinguishing feature is its extensive visual apparatus (full-color photographs, artistic reconstructions, and infographic-style presentation of background material) rather than a different underlying theological orientation.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, in the same general category as the standard NLT Study Bible; reviewers have specifically noted the volume's conservative interpretive stance on questions where its notes engage historical-critical objections to traditional authorship or historicity.
+
+### Ethical and lifestyle commentary
+Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
+
+---
+
+## 11. Reformation Study Bible
+
+**Translation used:** English Standard Version (current edition; earlier editions used the New King James Version)
+**Publisher:** Reformation Trust Publishing (the publishing arm of Ligonier Ministries)
+
+### General editor
+**R.C. Sproul** (1939–2017) — B.A., Westminster College; Ph.D., Free University of Amsterdam. Founder of Ligonier Ministries (1971) and a leading 20th-century popularizer of Reformed theology in America, known for his teaching ministry (*Renewing Your Mind* radio broadcast) and his book *The Holiness of God*. Sproul died in 2017; subsequent editions have been overseen by Ligonier's continuing editorial team.
+
+### Denominational leaning
+Explicitly and confessionally Reformed/Calvinist — reflects confessional covenant theology (in contrast to MacArthur's Calvinist-but-dispensationalist combination), closest among Denominations entries to the Presbyterian Church in America's theological orientation, though Sproul himself and Ligonier Ministries are not formally part of the PCA.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | No prohibition; drunkenness alone condemned, consistent with confessional Reformed tradition generally. |
+
+---
+
+## 12. Ryrie Study Bible
+
+**Translation used:** Available in KJV, NASB, and NIV editions.
+**Publisher:** Moody Publishers, first published 1976 (revised 1994, 1995).
+
+### General editor
+**Charles C. Ryrie** (1925–2016) — Th.D., Dallas Theological Seminary; Ph.D., University of Edinburgh. Longtime professor of systematic theology at Dallas Theological Seminary, widely regarded as one of the most influential dispensationalist theologians of the 20th century.
+
+### Denominational leaning
+Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie Study Bible is one of the two most historically significant dispensationalist study Bibles alongside the Scofield Reference Bible (entry 5 above), and shares its general theological framework with the MacArthur Study Bible's own dispensationalist orientation, though Ryrie's own moderate ("normative") dispensationalism differs in some particulars from other dispensationalist schools.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Homosexuality | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Alcohol | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+
+---
+
+## 13. Ignatius Catholic Study Bible
 
 **Translation used:** Revised Standard Version, Second Catholic Edition (RSV2CE)
 **Publisher:** Ignatius Press
@@ -77,7 +268,96 @@ Explicitly and exclusively Catholic — the volume states its notes follow "the 
 
 ---
 
-## 4. The Orthodox Study Bible
+## 14. Catholic Study Bible
+
+**Translation used:** New American Bible, Revised Edition (NABRE)
+**Publisher:** Oxford University Press, currently in its third edition; the earlier editions used the 1970/1986 New American Bible (NAB) before the 2011 NABRE revision.
+**Scale:** An extensive "Reading Guide" leading the reader through Scripture book by book, contributed by numerous Catholic biblical scholars; 32 pages of full-color Oxford Bible maps; a glossary of special terms; complete Sunday and weekday lectionary readings for the Church's liturgical years.
+
+### General editors
+**Donald Senior, C.P.** — President and Professor of New Testament, Catholic Theological Union, Chicago; a leading American Catholic New Testament scholar.
+**John J. Collins** — Holmes Professor of Old Testament Criticism and Interpretation, Yale University; a past president of the Society of Biblical Literature, widely regarded as one of the foremost scholars of Second Temple Judaism and apocalyptic literature writing in English.
+**Mary Ann Getty** contributed as a further general editor on more recent editions.
+
+### Denominational leaning
+Explicitly and exclusively Catholic, given its direct use of the NABRE (the official translation for Mass and the Liturgy of the Hours throughout the United States, discussed at length in the companion "Popular Bible Translations" section) and its lectionary-aligned Reading Guide; see the Catholic Church entry in "Top Christian Denominations" for the fuller shared doctrinal framework, alongside the Ignatius Catholic Study Bible entry above for the closest direct parallel already profiled in this section.
+
+### Ethical and lifestyle commentary
+Consistent with official Catholic teaching as described in the Catholic Church entry in "Top Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed in this research pass.
+
+---
+
+## 15. Amplified Study Bible
+
+**Translation used:** Amplified Bible (AMP), 2015 edition
+**Publisher:** Zondervan, in partnership with The Lockman Foundation (the same organization that holds the NASB translation).
+**Scale:** Marketed as the first study Bible built specifically around the Amplified translation's own distinctive amplification system; over 5,000 concise study notes, 330 theological articles and a topical index, book introductions, and full-color maps.
+
+### Editorial credit
+Produced as an institutional Lockman Foundation/Zondervan project rather than credited to one or two named general editors; the underlying AMP translation itself traces to Frances E. Siewert's original work for the Lockman Foundation beginning in the 1950s-60s, with the 2015 revision (the text this study Bible is built on) produced by a later Lockman editorial team.
+
+### Denominational leaning
+Broadly evangelical and charismatic/Pentecostal-adjacent, cross-denominational; the AMP translation's own method (bracketed and parenthetical amplifications drawing out additional shades of original-language meaning) has made it particularly popular in charismatic and Word of Faith circles, though the Amplified Study Bible's own notes are not confined to that theological tradition specifically.
+
+### Ethical and lifestyle commentary
+Not independently confirmed in this research pass on any of the three categories; this study Bible's notes are described by its own publisher as practical and application-oriented rather than systematically doctrinal, comparable in general orientation to the Life Application Study Bible above.
+
+---
+
+## 16. Full Life Study Bible / Fire Bible
+
+**Translation used:** New International Version (Full Life Study Bible); also published as the "Fire Bible" in other translations.
+**Publisher:** Zondervan (Full Life); Life Publishers International (Fire Bible), closely associated with the Assemblies of God.
+
+### General editor
+**Donald Stamps** (1938–1995), an Assemblies of God missionary and theologian; the project was completed and revised after his death by a continuing editorial team.
+
+### Denominational leaning
+Pentecostal/Assemblies of God — see the Assemblies of God entry in "Top Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin, and a significant global seller within Pentecostal and charismatic circles worldwide (the "Fire Bible" name specifically) even where it is less prominent in general evangelical retail channels.
+
+### Ethical and lifestyle commentary
+| Category | What the volume represents |
+|---|---|
+| Abortion | Consistent with Assemblies of God doctrine: opposed except to save the mother's life. |
+| Homosexuality | Consistent with Assemblies of God doctrine: considered sinful. |
+| Alcohol | Counseled against as a matter of total abstinence, reflecting the Pentecostal-Holiness temperance heritage discussed in that denomination's own entry. |
+
+---
+
+## 17. Cultural Backgrounds Study Bible
+
+**Translation used:** New International Version.
+**Publisher:** Zondervan.
+
+### General editors
+**John H. Walton** (Old Testament) — Ph.D., Hebrew Union College; professor of Old Testament at Wheaton College, known for his work situating the Old Testament within its ancient Near Eastern context. **Craig S. Keener** (New Testament) — Ph.D., Duke University; professor at Asbury Theological Seminary, a widely published New Testament scholar particularly known for extensive historical-background commentary work.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational; distinctive among this list for its specific focus on ancient historical and cultural background rather than doctrinal or devotional application, making it something of a specialized complement to, rather than a substitute for, a more doctrinally oriented study Bible.
+
+### Ethical and lifestyle commentary
+Given this volume's specifically historical-background orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified in this research pass.
+
+---
+
+## 18. Thomas Nelson KJV Open Bible, Expanded Edition
+
+**Translation used:** King James Version
+**Publisher:** Thomas Nelson, part of its long-running Signature Series; over 2 million copies sold across editions since the original Open Bible's first release, more than 50 years ago.
+**Scale:** A topical index with tens of thousands of entries connecting names, places, concepts, and doctrines; comprehensive book introductions and outlines; a multi-thousand-word concordance; chain-reference doctrinal notes; "The Christian's Guide to the New Life," a 32-part doctrinal overview; a seven-step method for personal Bible study; and a visual survey of Scripture's overall scope and timeline.
+
+### Editorial credit
+Produced as an institutional Thomas Nelson editorial project rather than credited to one or two named general editors, in the same category as the Life Application Study Bible, NIV Study Bible, and Baker CSB Illustrated Study Bible elsewhere in this section; the Open Bible line has been continuously revised and reissued across more than five decades rather than reflecting one fixed editorial team's single point-in-time work.
+
+### Denominational leaning
+Broadly evangelical, cross-denominational, associated with the same publisher (Thomas Nelson) responsible for the MacArthur Study Bible and Orthodox Study Bible editions elsewhere in this section, though this specific volume represents a general-purpose reference and topical-study tool rather than a denominationally or theologically distinct commentary project.
+
+### Ethical and lifestyle commentary
+Given this volume's emphasis on topical cross-referencing, doctrinal overview articles, and general Bible-study methodology rather than verse-by-verse interpretive commentary, direct notes on abortion, homosexuality, or alcohol comparable to the more heavily annotated study Bibles in this section have not been identified in this research pass.
+
+---
+
+## 19. The Orthodox Study Bible
 
 **Translation used:** New King James Version (New Testament and Psalms); St. Athanasius Academy Septuagint translation (Old Testament, completed for the full 2008 edition)
 **Publisher:** Thomas Nelson
@@ -98,43 +378,24 @@ Eastern Orthodox — see the Eastern Orthodox Church entry in "Top Christian Den
 
 ---
 
-## 5. The Jewish Study Bible
+## 20. NET Bible, Full-Notes Edition
 
-**Translation used:** Jewish Publication Society (JPS) TANAKH Translation (1985)
-**Publisher:** Oxford University Press; first edition 2004 (winner, National Jewish Book Award for Scholarship), second edition 2014.
-**Scale:** Nearly 40 scholars worldwide contributed; the second edition runs to over 2,300 pages with 54 contributors and 42 contextual/interpretive essays.
+**Translation used:** New English Translation (NET Bible)
+**Publisher:** Biblical Studies Press / Thomas Nelson.
+**Scale:** More than 60,000 translators' notes in the full-notes print and digital editions, explaining virtually every significant textual, lexical, and translation decision in the entire Bible — functioning, by volume and density of notes, as a de facto study Bible even though it is formally presented as the base translation's own annotated edition rather than a separate study-Bible product built atop it.
 
-### General editors
-**Adele Berlin** — Robert H. Smith Professor of Hebrew Bible, Emerita, University of Maryland; a specialist in biblical poetry and narrative.
-**Marc Zvi Brettler** — Bernice and Morton Lerner Distinguished Professor of Jewish Studies, Duke University (previously Dora Golding Professor of Biblical Studies and chair of Near Eastern and Judaic Studies at Brandeis University for nearly three decades). A graduate of Brandeis University, Brettler has also taught at Yale, Brown, Wellesley, and Middlebury. He is co-editor of *The Jewish Annotated New Testament* (presented to Pope Francis in 2019) and author of *How to Read the Bible*.
-**Michael Fishbane** served as Senior Consulting Editor.
+### General editor / project leadership
+Produced by a multi-denominational team of more than 25 biblical scholars under the sponsorship of the Biblical Studies Foundation (Bible.org); no single named general editor comparable to Grudem, Sproul, or MacArthur is credited, consistent with the translation's origins as an internet-distributed, committee-produced work rather than one scholar's or pastor's personal project.
 
 ### Denominational leaning
-Not aligned with a single Jewish movement — this is the volume's own explicitly stated approach. The translation itself was produced by a committee of scholars and rabbis spanning Orthodox, Conservative, and Reform Judaism, and the editorial team's own academic orientation is historical-critical rather than confessional, drawing on the full range of modern academic biblical scholarship rather than the teaching authority of any one Jewish movement.
+Multi-denominational, broadly evangelical; the translation team was deliberately assembled to be interdenominational rather than reflecting one confessional tradition, and its translators' notes are oriented toward transparency about translation decisions and textual variants rather than doctrinal or devotional application in the manner of the ESV Study Bible or MacArthur Study Bible.
 
 ### Ethical and lifestyle commentary
-This is one of the entries among this sample where the volume's own academic, historical-critical orientation means it does not function the way the more confessional Christian study Bibles in this section do on this specific point. The Jewish Study Bible's notes are primarily philological, literary, and historical in character — explaining the text's ancient context and modern critical scholarship about its composition — rather than offering direct pastoral or ethical application to contemporary questions such as abortion, homosexuality, alcohol, or tobacco. Where Jewish tradition's own positions on these questions are relevant, this book's "Top Christian Denominations" section does not currently cover Jewish movements (its scope, per its title, is Christian denominations); a parallel treatment of major U.S. Jewish movements' positions on these same questions would need to be a separate addition if wanted, rather than something this specific study Bible's own notes speak to directly.
+Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified in this research pass.
 
 ---
 
-## 6. LSB MacArthur Study Bible
-
-**Translation used:** Legacy Standard Bible (LSB)
-**Publisher:** Thomas Nelson, in association with The Master's Seminary and The Lockman Foundation; second edition released 2024. Now the official current edition of the MacArthur Study Bible, since the LSB itself was produced in association with The Master's Seminary, part of the John MacArthur Trust.
-**Scale:** Nearly 25,000 verse-by-verse study notes, 190 in-text maps, charts, and diagrams; the same underlying study-note content found in the NKJV and NASB MacArthur Study Bible editions, adapted to the LSB's own text.
-
-### General editor
-**John F. MacArthur Jr.** — see entry 2 above for full biographical detail, shared across all editions of this study Bible regardless of underlying translation.
-
-### Denominational leaning
-Identical to the general MacArthur Study Bible entry above (entry 2): independent Baptist/non-denominational, conservative evangelical, Reformed in soteriology, dispensationalist in eschatology, cessationist regarding the miraculous gifts. The specific pairing with the LSB reflects the translation's own direct institutional connection to MacArthur's own ministry (The Master's Seminary and University), making this edition, rather than the older NKJV edition, the one MacArthur's own institutions currently promote as standard.
-
-### Ethical and lifestyle commentary
-Identical to the general MacArthur Study Bible entry above (entry 2), since the LSB edition uses the same underlying study notes adapted to a different translation rather than a separately composed commentary.
-
----
-
-## 7. The Complete Jewish Study Bible
+## 21. The Complete Jewish Study Bible
 
 **Translation used:** Complete Jewish Bible (CJB)
 **Publisher:** Messianic Jewish Publishers / Hendrickson Publishers, first published 2016.
@@ -158,270 +419,70 @@ Messianic Judaism — a movement combining Jewish religious practice and identit
 
 ---
 
-## 8. Baker CSB Illustrated Study Bible
+## 22. The Evidence Study Bible
 
-**Translation used:** Christian Standard Bible (CSB)
-**Publisher:** Baker Publishing Group, distributed in partnership with B&H Publishing (Lifeway), the Southern Baptist Convention's own publishing arm.
-**Scale:** More than 1 million words of study notes contributed by over 200 evangelical scholars; hundreds of full-color illustrations, artistic reconstructions, maps, charts, and timelines; single-column Bible text with words of Christ in red.
+**Translation used:** New King James Version
+**Publisher:** Bridge-Logos / Living Waters; the official Bible of the *Way of the Master* evangelism ministry and television program.
+**Scale:** Thousands of verse-related comments and over 130 informative articles, more than two dozen specifically addressing evolution; extensive material addressing other world religions (Mormonism, Hinduism, Islam, Jehovah's Witnesses, and others) from a comparative-apologetics standpoint; a finalist for the ECPA's 2012 Christian Book Award.
 
-### Editorial credit
-Produced as an institutional, multi-scholar project under Baker Publishing Group's own editorial leadership rather than credited to one or two named general editors, in the same category as the Life Application Study Bible and NIV Study Bible profiled elsewhere in this section.
+### General editor / commentator
+**Ray Comfort** (b. 1949) — a New Zealand-born evangelist and author of more than 100 books, founder and CEO of Living Waters ministries and co-host, with actor Kirk Cameron, of the *Way of the Master* television and teaching ministry. Widely known for a confrontational, apologetics-driven approach to evangelism emphasizing the Ten Commandments as a tool for provoking moral self-examination prior to presenting the Gospel. Endorsements printed with the volume include the apologist Norman Geisler and evangelist Franklin Graham.
 
 ### Denominational leaning
-Broadly evangelical, cross-denominational, with the same B&H/Southern Baptist publisher relationship as the (separate, text-focused rather than illustration-focused) CSB Study Bible profiled elsewhere in this section; the Baker Illustrated edition's own contributor base is not exclusively Southern Baptist.
+Broadly evangelical, cross-denominational, with a specific and sustained focus on apologetics and evangelism training rather than a particular denomination's confessional distinctives.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message given the shared publisher relationship; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | This volume's broader, non-exclusively-Southern-Baptist contributor base means the SBC's own formal confessional abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
-
----
-
-## 9. NLT Study Bible
-
-**Translation used:** New Living Translation
-**Publisher:** Tyndale House Publishers
-**Scale:** Nearly 50 evangelical scholars contributed; over 25,000 study and textual notes, 300+ theme articles, 200 Greek and Hebrew word studies.
-
-### General editor
-**Sean A. Harrison** served as General Editor, leading a large scholarly team that included **Tremper Longman III** (Ph.D., Yale University; Distinguished Scholar of Biblical Studies and Professor Emeritus, Westmont College; a specialist in Old Testament wisdom literature and poetry, and NLT Bible translation team member for several Old Testament books), along with Daniel Block, Barry Beitzel, John N. Oswalt, and Grant R. Osborne, among others.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible and NIV Study Bible; distinguished from the separately edited NLT Illustrated Study Bible (entry 10 below) by a somewhat greater emphasis on textual, historical, and word-study detail relative to that volume's more visually driven presentation.
-
-### Ethical and lifestyle commentary
-Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
-
----
-
-## 10. NLT Illustrated Study Bible
-
-**Translation used:** New Living Translation
-**Publisher:** Tyndale House Publishers, first published 2015 (winner, 2016 ECPA Christian Book Award, Bible of the Year).
-**Scale:** Over 1,000 photos, illustrations, and infographics; more than 25,000 study notes; over 120 profiles of biblical people and empires; 150+ full-color maps and photos; 300 theme notes; 200 Hebrew and Greek word studies.
-
-### Editorial credit
-Produced as an institutional, multi-scholar Tyndale House project distinct from the earlier, text-focused NLT Study Bible (entry 9 above); this edition's own distinguishing feature is its extensive visual apparatus (full-color photographs, artistic reconstructions, and infographic-style presentation of background material) rather than a different underlying theological orientation.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational, in the same general category as the standard NLT Study Bible; reviewers have specifically noted the volume's conservative interpretive stance on questions where its notes engage historical-critical objections to traditional authorship or historicity.
-
-### Ethical and lifestyle commentary
-Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
-
----
-
-## 11. NIV Life Application Study Bible
-
-**Translation used:** New International Version (also available in KJV, NKJV, NLT, NASB, CSB, and other translations)
-**Publisher:** Tyndale House Publishers, first published 1986; the best-selling study Bible in the U.S. for over three decades, with roughly 10,000 application-focused notes.
-
-### Editorial credit
-Produced by the Tyndale House Publishers editorial staff as an institutional team project rather than credited to one or two named general editors, unlike several other entries in this list — this entry cannot responsibly profile "a biography" the way the ESV Study Bible or MacArthur Study Bible entries do, since no single person is publicly credited as its general editor.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational; deliberately designed to be usable across a wide range of evangelical traditions rather than reflecting one denomination's specific confessional distinctives. Its notes emphasize practical, personal application of Scripture over deep theological or text-critical commentary, a different emphasis than the ESV Study Bible's or MacArthur Study Bible's more doctrinally systematic approach.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Top Christian Denominations" for the closest parallel); specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
-
----
-
-## 12. NIV Study Bible
-
-**Translation used:** New International Version
-**Publisher:** Zondervan, first published 1985; among the best-selling study Bibles ever published (approximately 9 million copies).
-
-### Editorial credit
-Produced by a broad committee of evangelical scholars under Zondervan's own editorial leadership (Kenneth Barker served as General Editor for early editions); like the Life Application Study Bible, this is fundamentally an institutional, multi-scholar project rather than one identifiable author's personal work.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible, though somewhat less explicitly Reformed/complementarian in its overall editorial framing.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-
----
-
-## 13. CSB Study Bible
-
-**Translation used:** Christian Standard Bible
-**Publisher:** Holman Bible Publishers (Lifeway/B&H), tied closely to the Southern Baptist Convention's own publishing arm.
-
-### Denominational leaning
-Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Top Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with the SBC's Baptist Faith and Message: opposed. |
-| Homosexuality | Consistent with the SBC's Baptist Faith and Message: considered sinful. |
-| Alcohol | The CSB Study Bible's contributor base is broader than the SBC's own confessional membership, so the SBC's specific formal abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
-
----
-
-## 14. NASB Study Bible
-
-**Translation used:** New American Standard Bible
-**Publisher:** The Lockman Foundation (which also holds the NASB translation copyright) / Zondervan.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational; the NASB itself is widely regarded as one of the most formally literal English translations, and this study Bible's notes are generally oriented toward close textual and grammatical study rather than one denomination's specific confessional framework.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-
----
-
-## 15. Amplified Study Bible
-
-**Translation used:** Amplified Bible (AMP), 2015 edition
-**Publisher:** Zondervan, in partnership with The Lockman Foundation (the same organization that holds the NASB translation).
-**Scale:** Marketed as the first study Bible built specifically around the Amplified translation's own distinctive amplification system; over 5,000 concise study notes, 330 theological articles and a topical index, book introductions, and full-color maps.
-
-### Editorial credit
-Produced as an institutional Lockman Foundation/Zondervan project rather than credited to one or two named general editors; the underlying AMP translation itself traces to Frances E. Siewert's original work for the Lockman Foundation beginning in the 1950s-60s, with the 2015 revision (the text this study Bible is built on) produced by a later Lockman editorial team.
-
-### Denominational leaning
-Broadly evangelical and charismatic/Pentecostal-adjacent, cross-denominational; the AMP translation's own method (bracketed and parenthetical amplifications drawing out additional shades of original-language meaning) has made it particularly popular in charismatic and Word of Faith circles, though the Amplified Study Bible's own notes are not confined to that theological tradition specifically.
-
-### Ethical and lifestyle commentary
-Not independently confirmed in this research pass on any of the three categories; this study Bible's notes are described by its own publisher as practical and application-oriented rather than systematically doctrinal, comparable in general orientation to the Life Application Study Bible above.
-
----
-
-## 16. Catholic Study Bible
-
-**Translation used:** New American Bible, Revised Edition (NABRE)
-**Publisher:** Oxford University Press, currently in its third edition; the earlier editions used the 1970/1986 New American Bible (NAB) before the 2011 NABRE revision.
-**Scale:** An extensive "Reading Guide" leading the reader through Scripture book by book, contributed by numerous Catholic biblical scholars; 32 pages of full-color Oxford Bible maps; a glossary of special terms; complete Sunday and weekday lectionary readings for the Church's liturgical years.
-
-### General editors
-**Donald Senior, C.P.** — President and Professor of New Testament, Catholic Theological Union, Chicago; a leading American Catholic New Testament scholar.
-**John J. Collins** — Holmes Professor of Old Testament Criticism and Interpretation, Yale University; a past president of the Society of Biblical Literature, widely regarded as one of the foremost scholars of Second Temple Judaism and apocalyptic literature writing in English.
-**Mary Ann Getty** contributed as a further general editor on more recent editions.
-
-### Denominational leaning
-Explicitly and exclusively Catholic, given its direct use of the NABRE (the official translation for Mass and the Liturgy of the Hours throughout the United States, discussed at length in the companion "Popular Bible Translations" section) and its lectionary-aligned Reading Guide; see the Catholic Church entry in "Top Christian Denominations" for the fuller shared doctrinal framework, alongside the Ignatius Catholic Study Bible entry above for the closest direct parallel already profiled in this section.
-
-### Ethical and lifestyle commentary
-Consistent with official Catholic teaching as described in the Catholic Church entry in "Top Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed in this research pass, in the same manner already noted for the Jewish Study Bible's and Cultural Backgrounds Study Bible's comparably academic orientation elsewhere in this section.
-
----
-
-## 17. Reformation Study Bible
-
-**Translation used:** English Standard Version (current edition; earlier editions used the New King James Version)
-**Publisher:** Reformation Trust Publishing (the publishing arm of Ligonier Ministries)
-
-### General editor
-**R.C. Sproul** (1939–2017) — B.A., Westminster College; Ph.D., Free University of Amsterdam. Founder of Ligonier Ministries (1971) and a leading 20th-century popularizer of Reformed theology in America, known for his teaching ministry (*Renewing Your Mind* radio broadcast) and his book *The Holiness of God*. Sproul died in 2017; subsequent editions have been overseen by Ligonier's continuing editorial team.
-
-### Denominational leaning
-Explicitly and confessionally Reformed/Calvinist — reflects confessional covenant theology (in contrast to MacArthur's Calvinist-but-dispensationalist combination), closest among Denominations entries to the Presbyterian Church in America's theological orientation, though Sproul himself and Ligonier Ministries are not formally part of the PCA.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | No prohibition; drunkenness alone condemned, consistent with confessional Reformed tradition generally. |
-
----
-
-## 18. Scofield Reference Bible / Scofield Study Bible
-
-**Translation used:** Originally King James Version (1909; revised 1917); a "New Scofield" revision appeared in 1967 and 1986, and a further revision ("Scofield III") in 2005.
-**Publisher:** Oxford University Press.
-
-### General editor
-**Cyrus Ingerson Scofield** (1843–1921), a pastor and Bible teacher whose extensive interpretive notes — printed directly alongside the biblical text rather than segregated as a separate commentary — are credited with popularizing dispensationalist theology (including the framework of successive biblical "dispensations" and the doctrine of a pretribulational rapture) more broadly and durably within American evangelicalism than any other single work.
-
-### Denominational leaning
-Broadly evangelical, foundational to 20th-century American dispensationalism specifically; historically influential on institutions including Dallas Theological Seminary. Later revisions (1967, 1986, 2005) softened or removed some of Scofield's own most historically controversial original notes while retaining the overall dispensationalist framework.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary in this research pass. |
-| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions not independently confirmed. |
+| Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording in this research pass. |
 | Alcohol | Not independently confirmed in this research pass. |
 
 ---
 
-## 19. Full Life Study Bible / Fire Bible
+## 23. Henry Morris KJV Study Bible
 
-**Translation used:** New International Version (Full Life Study Bible); also published as the "Fire Bible" in other translations.
-**Publisher:** Zondervan (Full Life); Life Publishers International (Fire Bible), closely associated with the Assemblies of God.
+**Translation used:** King James Version
+**Publisher:** Master Books (the publishing arm of the Institute for Creation Research/New Leaf Publishing Group), a "now-classic" study Bible according to its own publisher's marketing, still in continuous print across multiple binding editions.
+**Scale:** Over 10,000 study notes across more than 2,200 pages, with a stated focus on grounding the entirety of Scripture's other 65 books in the foundational truths of Genesis, alongside extensive apologetic material addressing geology, astronomy, biology, and other sciences from a young-earth creationist perspective.
 
 ### General editor
-**Donald Stamps** (1938–1995), an Assemblies of God missionary and theologian; the project was completed and revised after his death by a continuing editorial team.
+**Dr. Henry M. Morris** (1918–2006) — Ph.D. in hydraulic engineering, University of Minnesota. Widely known as "the father of modern creation science," Morris co-authored the influential 1961 book *The Genesis Flood* with Dr. John C. Whitcomb, a work credited with substantially reviving young-earth creationism within 20th-century American evangelicalism. Morris founded the Institute for Creation Research (ICR) in 1972 and authored more than 60 apologetics-focused books over his career.
 
 ### Denominational leaning
-Pentecostal/Assemblies of God — see the Assemblies of God entry in "Top Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin.
+Broadly evangelical and conservative Protestant, cross-denominational, distinguished among the study Bibles in this section by its specific and sustained emphasis on young-earth creationism and scientific apologetics rather than a particular denomination's confessional distinctives; endorsements printed with the volume include figures such as John MacArthur and Tim LaHaye, both broadly conservative evangelical figures, though neither is personally responsible for this volume's own content.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with Assemblies of God doctrine: opposed except to save the mother's life. |
-| Homosexuality | Consistent with Assemblies of God doctrine: considered sinful. |
-| Alcohol | Counseled against as a matter of total abstinence, reflecting the Pentecostal-Holiness temperance heritage discussed in that denomination's own entry. |
+| Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed in this research pass. |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording in this research pass. |
+| Alcohol | Not independently confirmed in this research pass. |
 
 ---
 
-## 20. NET Bible, Full-Notes Edition
+## 24. Jonathan Edwards Study Bible
 
-**Translation used:** New English Translation (NET Bible)
-**Publisher:** Biblical Studies Press / Thomas Nelson.
-**Scale:** More than 60,000 translators' notes in the full-notes print and digital editions, explaining virtually every significant textual, lexical, and translation decision in the entire Bible — functioning, by volume and density of notes, as a de facto study Bible even though it is formally presented as the base translation's own annotated edition rather than a separate study-Bible product built atop it.
-
-### General editor / project leadership
-Produced by a multi-denominational team of more than 25 biblical scholars under the sponsorship of the Biblical Studies Foundation (Bible.org); no single named general editor comparable to Grudem, Sproul, or MacArthur is credited, consistent with the translation's origins as an internet-distributed, committee-produced work rather than one scholar's or pastor's personal project.
-
-### Denominational leaning
-Multi-denominational, broadly evangelical; the translation team was deliberately assembled to be interdenominational rather than reflecting one confessional tradition, and its translators' notes are oriented toward transparency about translation decisions and textual variants rather than doctrinal or devotional application in the manner of the ESV Study Bible or MacArthur Study Bible.
-
-### Ethical and lifestyle commentary
-Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified in this research pass.
-
----
-
-## 21. Oxford Annotated Bible (RSV)
-
-**Translation used:** Revised Standard Version (RSV)
-**Publisher:** Oxford University Press, first published 1962; the direct ancestor of the later, NRSV-based New Oxford Annotated Bible.
-**Scale:** Extensive scholarly annotations and introductory essays for each book, produced by a large team of biblical scholars under a general editor, in the historical-critical academic tradition Oxford's annotated-Bible line has maintained across each of its translation updates.
+**Translation used:** New King James Version
+**Publisher:** Thomas Nelson, first published 2025.
+**Scale:** Study notes, doctrinal insights, and personal applications drawn directly from Jonathan Edwards's own writings and sermons; full-page essays on Edwards's theology, life, and role in the First Great Awakening; an introduction to Edwards's own "Resolutions" and his "miscellanies" note-taking system, with space for readers to develop their own; and the complete texts of two of Edwards's sermons, including his most famous, "Sinners in the Hands of an Angry God."
 
 ### General editor
-**Herbert G. May** served as Old Testament editor and **Bruce M. Metzger** — the internationally recognized New Testament textual critic whose *Textual Commentary on the Greek New Testament* remains a standard scholarly reference cited at several points elsewhere in this book's own manuscript-variant discussions — served as New Testament editor for the original 1962 edition.
+**Dr. Matthew Everhard**, a scholar of Jonathan Edwards's life and theology, served as General Editor. The volume draws its content from the writings of **Jonathan Edwards** (1703–1758), the colonial American theologian, philosopher, and Congregationalist pastor widely regarded as one of the most important and original theologians in American history, best known for his central role in the First Great Awakening and for sermons including "Sinners in the Hands of an Angry God."
 
 ### Denominational leaning
-Broadly mainline Protestant and academic/ecumenical, the same general orientation as the later NRSV-based New Oxford Annotated Bible; historical-critical and less devotionally or doctrinally oriented than most other entries in this section, closer in spirit to the Jewish Study Bible's or Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach. Oxford's own annotated-Bible line was later revised to use the NRSV rather than the RSV as the underlying translation, reflecting the wider mainline and academic shift toward the NRSV addressed in the companion "Popular Bible Translations" section.
+Broadly evangelical and Reformed, reflecting Edwards's own historic Congregationalist and broadly Calvinist theological commitments; the volume's stated organizing theme is Edwards's conviction that true and lasting joy is found only in God, rather than a systematic verse-by-verse doctrinal commentary in the manner of the MacArthur Study Bible or ESV Study Bible. As the newest entry in this section (2025), it has not yet had time to establish the kind of broad market presence several other entries in this list have achieved over decades.
 
 ### Ethical and lifestyle commentary
-Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed on any of the three categories in this research pass.
+Given this volume's specific devotional and historical-theological orientation around Edwards's own writings, rather than a systematic modern doctrinal or pastoral commentary, direct notes on contemporary questions such as abortion, homosexuality, or alcohol comparable to the more directly application-focused study Bibles in this section have not been identified in this research pass.
 
 ---
 
-## 22. Haydock's Catholic Bible and Commentary
+## 25. Haydock's Catholic Bible and Commentary
 
 **Translation used:** Douay-Rheims Bible
 **Publisher:** Originally published by Thomas Haydock (publisher) beginning 1811-1814, in installments affordable to ordinary Catholic families under the era's Penal Laws restricting Catholic publishing in England; still in print today through several independent Catholic publishers, most commonly reproducing the expanded 1859 edition.
-**Scale:** Extensive verse-by-verse commentary drawing on over 200 sources, chiefly the Church Fathers and Doctors; widely regarded as the most popular English Catholic Bible of the 19th century on both sides of the Atlantic, and still valued today for its apologetic and traditional commentary value.
+**Scale:** Extensive verse-by-verse commentary drawing on over 200 sources, chiefly the Church Fathers and Doctors; widely regarded as the most popular English Catholic Bible of the 19th century on both sides of the Atlantic, though its market presence today is considerably smaller and concentrated among traditionalist Catholics specifically, which is reflected in this entry's placement toward the end of this list despite its substantial historical significance.
 
 ### General editor / commentator
 **Rev. George Leo Haydock** (1774–1849) — an English Catholic priest from an old Recusant family (a family that maintained Catholic practice through the era of English anti-Catholic Penal Laws), himself a descendant of the martyred 16th-century "seminary priest" Blessed George Haydock. Compiled the commentary that bears his name, drawing on patristic and later Catholic scholarship, for publication by his brother Thomas Haydock.
@@ -434,94 +495,36 @@ Reflecting its early-19th-century original composition, Haydock's commentary doe
 
 ---
 
-## 23. Cultural Backgrounds Study Bible
+## 26. Oxford Annotated Bible (RSV)
 
-**Translation used:** New International Version.
-**Publisher:** Zondervan.
+**Translation used:** Revised Standard Version (RSV)
+**Publisher:** Oxford University Press, first published 1962; the direct ancestor of the later, NRSV-based New Oxford Annotated Bible, which superseded it as Oxford's flagship annotated-Bible product and has considerably reduced the RSV-based original edition's own current market presence.
+**Scale:** Extensive scholarly annotations and introductory essays for each book, produced by a large team of biblical scholars under a general editor, in the historical-critical academic tradition Oxford's annotated-Bible line has maintained across each of its translation updates.
 
-### General editors
-**John H. Walton** (Old Testament) — Ph.D., Hebrew Union College; professor of Old Testament at Wheaton College, known for his work situating the Old Testament within its ancient Near Eastern context. **Craig S. Keener** (New Testament) — Ph.D., Duke University; professor at Asbury Theological Seminary, a widely published New Testament scholar particularly known for extensive historical-background commentary work.
+### General editor
+**Herbert G. May** served as Old Testament editor and **Bruce M. Metzger** — the internationally recognized New Testament textual critic whose *Textual Commentary on the Greek New Testament* remains a standard scholarly reference cited at several points elsewhere in this book's own manuscript-variant discussions — served as New Testament editor for the original 1962 edition.
 
 ### Denominational leaning
-Broadly evangelical, cross-denominational; distinctive among this list for its specific focus on ancient historical and cultural background rather than doctrinal or devotional application, making it something of a specialized complement to, rather than a substitute for, a more doctrinally oriented study Bible.
+Broadly mainline Protestant and academic/ecumenical, the same general orientation as the later NRSV-based New Oxford Annotated Bible; historical-critical and less devotionally or doctrinally oriented than most other entries in this section, closer in spirit to the Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach.
 
 ### Ethical and lifestyle commentary
-Given this volume's specifically historical-background orientation (comparable in kind, though not in theological starting point, to the Jewish Study Bible's own academic approach), it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified in this research pass.
+Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed on any of the three categories in this research pass.
 
 ---
 
-## 24. Thomas Nelson KJV Open Bible, Expanded Edition
+## 27. Logos Complete Study Bible
 
-**Translation used:** King James Version
-**Publisher:** Thomas Nelson, part of its long-running Signature Series; over 2 million copies sold across editions since the original Open Bible's first release, more than 50 years ago.
-**Scale:** A topical index with tens of thousands of entries connecting names, places, concepts, and doctrines; comprehensive book introductions and outlines; a multi-thousand-word concordance; chain-reference doctrinal notes; "The Christian's Guide to the New Life," a 32-part doctrinal overview; a seven-step method for personal Bible study; and a visual survey of Scripture's overall scope and timeline.
+**Translation used:** American Standard Version (ASV), 1901
+**Publisher:** Logos International, published 1972; based on the earlier "Cross-Reference Bible" (1910, edited by J.W. Monser). No second edition was ever produced, and the publisher itself ceased operations not long after this volume's release, making it very much a historical curiosity today rather than an actively marketed product -- reflected in its placement at the end of this list -- though it remains the one identifiable dedicated study Bible built specifically on the ASV among the sources checked for this research pass.
+**Scale:** Roughly 100,000 cross-references (more than many later study Bibles), topical articles and analyses distributed throughout the text, and variorum (alternative) readings drawn from the work of some 150 scholars.
 
 ### Editorial credit
-Produced as an institutional Thomas Nelson editorial project rather than credited to one or two named general editors, in the same category as the Life Application Study Bible, NIV Study Bible, and Baker CSB Illustrated Study Bible elsewhere in this section; the Open Bible line has been continuously revised and reissued across more than five decades rather than reflecting one fixed editorial team's single point-in-time work.
+Credited to Logos International as publisher rather than to a single named general editor; its content was substantially reprinted, with some material omitted, from the 1910 Cross-Reference Bible.
 
 ### Denominational leaning
-Broadly evangelical, cross-denominational, associated with the same publisher (Thomas Nelson) responsible for the MacArthur Study Bible, Orthodox Study Bible, and NKJV Study Bible editions in this book's wider survey, though this specific volume represents a general-purpose reference and topical-study tool rather than a denominationally or theologically distinct commentary project.
+Broadly evangelical and Protestant, cross-denominational so far as can be determined from available sources; given the volume's age, obscurity, and the publisher's own closure shortly after its release, this entry has not identified a specific confessional orientation beyond its general evangelical Protestant character.
 
 ### Ethical and lifestyle commentary
-Given this volume's emphasis on topical cross-referencing, doctrinal overview articles, and general Bible-study methodology rather than verse-by-verse interpretive commentary, direct notes on abortion, homosexuality, or alcohol comparable to the more heavily annotated study Bibles in this section have not been identified in this research pass.
-
----
-
-## 25. Henry Morris KJV Study Bible
-
-**Translation used:** King James Version
-**Publisher:** Master Books (the publishing arm of the Institute for Creation Research/New Leaf Publishing Group), a "now-classic" study Bible according to its own publisher's marketing, still in continuous print across multiple binding editions.
-**Scale:** Over 10,000 study notes across more than 2,200 pages, with a stated focus on grounding the entirety of Scripture's other 65 books in the foundational truths of Genesis, alongside extensive apologetic material addressing geology, astronomy, biology, and other sciences from a young-earth creationist perspective.
-
-### General editor
-**Dr. Henry M. Morris** (1918–2006) — Ph.D. in hydraulic engineering, University of Minnesota. Widely known as "the father of modern creation science," Morris co-authored the influential 1961 book *The Genesis Flood* with Dr. John C. Whitcomb, a work credited with substantially reviving young-earth creationism within 20th-century American evangelicalism. Morris founded the Institute for Creation Research (ICR) in 1972 and authored more than 60 apologetics-focused books over his career. The study Bible bearing his name draws on his own published writings and notes, compiled and issued by Master Books.
-
-### Denominational leaning
-Broadly evangelical and conservative Protestant, cross-denominational, distinguished among the study Bibles in this section by its specific and sustained emphasis on young-earth creationism and scientific apologetics rather than a particular denomination's confessional distinctives; endorsements printed with the volume include figures such as John MacArthur (profiled elsewhere in this section) and Tim LaHaye, both broadly conservative evangelical figures, though neither is personally responsible for this volume's own content.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording in this research pass. |
-| Alcohol | Not independently confirmed in this research pass. |
-
----
-
-## 26. The Evidence Study Bible
-
-**Translation used:** New King James Version
-**Publisher:** Bridge-Logos / Living Waters; the official Bible of the *Way of the Master* evangelism ministry and television program.
-**Scale:** Thousands of verse-related comments and over 130 informative articles, more than two dozen specifically addressing evolution; extensive material addressing other world religions (Mormonism, Hinduism, Islam, Jehovah's Witnesses, and others) from a comparative-apologetics standpoint; a finalist for the ECPA's 2012 Christian Book Award.
-
-### General editor / commentator
-**Ray Comfort** (b. 1949) — a New Zealand-born evangelist and author of more than 100 books, founder and CEO of Living Waters ministries and co-host, with actor Kirk Cameron, of the *Way of the Master* television and teaching ministry. Widely known for a confrontational, apologetics-driven approach to evangelism emphasizing the Ten Commandments as a tool for provoking moral self-examination prior to presenting the Gospel. Endorsements printed with the volume include the apologist Norman Geisler and evangelist Franklin Graham.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational, with a specific and sustained focus on apologetics and evangelism training rather than a particular denomination's confessional distinctives — closest in general spirit and purpose among the entries in this section to the (CSB-based) Apologetics Study Bible tradition, though produced by an independent evangelistic ministry rather than a denominational publisher.
-
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
-|---|---|
-| Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording in this research pass. |
-| Alcohol | Not independently confirmed in this research pass. |
-
----
-
-## 27. Jonathan Edwards Study Bible
-
-**Translation used:** New King James Version
-**Publisher:** Thomas Nelson, first published 2025.
-**Scale:** Study notes, doctrinal insights, and personal applications drawn directly from Jonathan Edwards's own writings and sermons; full-page essays on Edwards's theology, life, and role in the First Great Awakening; an introduction to Edwards's own "Resolutions" and his "miscellanies" note-taking system, with space for readers to develop their own; and the complete texts of two of Edwards's sermons, including his most famous, "Sinners in the Hands of an Angry God."
-
-### General editor
-**Dr. Matthew Everhard**, a scholar of Jonathan Edwards's life and theology, served as General Editor. The volume draws its content from the writings of **Jonathan Edwards** (1703–1758), the colonial American theologian, philosopher, and Congregationalist pastor widely regarded as one of the most important and original theologians in American history, best known for his central role in the First Great Awakening and for sermons including "Sinners in the Hands of an Angry God."
-
-### Denominational leaning
-Broadly evangelical and Reformed, reflecting Edwards's own historic Congregationalist and broadly Calvinist theological commitments; the volume's stated organizing theme is Edwards's conviction that true and lasting joy is found only in God, rather than a systematic verse-by-verse doctrinal commentary in the manner of the MacArthur Study Bible or ESV Study Bible.
-
-### Ethical and lifestyle commentary
-Given this volume's specific devotional and historical-theological orientation around Edwards's own writings, rather than a systematic modern doctrinal or pastoral commentary, direct notes on contemporary questions such as abortion, homosexuality, or alcohol comparable to the more directly application-focused study Bibles in this section have not been identified in this research pass.
+Reflecting its 1972 original composition, this volume's notes and cross-references do not address these specific contemporary questions the way modern study Bibles do; not independently confirmed in this research pass on any of the three categories.
 
 ---
