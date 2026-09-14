@@ -18,7 +18,7 @@ analysis of the underlying Greek rhetorical figure Matthew employs.
 **Verification status:** Entries 2 and 4 (the Micah 5:2/Matthew 2:6 wording difference, and
 the "from of old, from ancient days" translation question) were both checked directly against
 multiple sources, including academic commentary specifically analyzing the Greek text of
-Matthew's citation. The remaining entries are theological and literary questions where all ten
+Matthew's citation. The remaining entries are theological and literary questions where all 27 tracked
 translations render the same underlying text and the harmonization is exegetical rather than a
 matter of wording, several of which cross-reference fuller treatments already published
 elsewhere in this project.

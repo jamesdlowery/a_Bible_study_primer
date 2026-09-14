@@ -24,7 +24,7 @@ companion 2 Maccabees document.
 **Verification status:** Every wording-specific claim in this document was checked against
 the published text of all 27 tracked translations as part of producing this document. Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all ten
+claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
 turn on a disagreement between two biblical passages rather than on how any single verse
 happens to be translated, not an unchecked assumption.

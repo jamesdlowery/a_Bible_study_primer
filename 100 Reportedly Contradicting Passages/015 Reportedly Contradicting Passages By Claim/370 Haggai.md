@@ -18,7 +18,7 @@ directly addressing rather than contradicting the earlier curse.
 
 **Verification status:** Entry 3 was checked in detail against a wide range of sources,
 including a dedicated academic intertextuality database entry analyzing this exact literary
-relationship. The remaining entries are theological and historical questions where all ten
+relationship. The remaining entries are theological and historical questions where all 27 tracked
 translations render the same underlying text and the harmonization is exegetical rather than a
 matter of wording.
 
