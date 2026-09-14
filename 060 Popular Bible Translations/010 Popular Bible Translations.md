@@ -2,25 +2,48 @@
 
 Introduction To Bible Translations
 
-**As of early 2026, the most popular English-language Bible translations, ranked primarily by recent U.S. sales data (ECPA/Circana BookScan via Christian Book Expo and related reports for 2025–early 2026), are typically:**
+**This book tracks 27 English-language Bible translations throughout (see the companion "Histories of Various Bible Translations" section for each one's individual history). The list below orders all 27 from most to least popular, drawing on the best available evidence for each — but that evidence is far stronger for some translations than others, and this section says so plainly rather than presenting a false uniform precision.**
+
+For the eight most widely sold translations, solid comparative data exists: the Evangelical Christian Publishers Association (ECPA) publishes a monthly bestseller list compiled from Circana BookScan retail data. As of the November 2025 list (the most recent available at the time of this writing), the English-language ranking was:
 
 1. **New International Version (NIV)**
-
 2. **English Standard Version (ESV)**
-
 3. **King James Version (KJV)**
-
 4. **New Living Translation (NLT)**
-
 5. **New King James Version (NKJV)**
+6. **Christian Standard Bible (CSB)**
+7. **New American Standard Bible (NASB)**
+8. **New Revised Standard Version (NRSV)** -- tracked in this book as the **NRSV-CE**, the Catholic edition of the same underlying translation
 
-Close contenders that frequently appear in the top 6–10 (and sometimes swap places depending on the month, channel, or region) include the **Christian Standard Bible (CSB)**, **New American Standard Bible (NASB)**, and **New Revised Standard Version (Updated Edition / NRSVue)**.
+Beyond this top eight, no single dataset ranks all 27 translations against each other, because most of the remaining nineteen are not tracked by Circana BookScan at all -- either because they are Catholic-specific translations distributed largely outside the Protestant-dominated Christian retail channel ECPA measures, or because they are free, public-domain, or digital-first works with little or no retail sales to begin with. For these, the ranking below draws on the best available substitute evidence: official institutional adoption (a translation's status as the authorized text for a denomination's Mass or worship, which drives real readership entirely outside retail sales), publisher and platform prominence (a translation's visibility on major free Bible platforms and apps), and general public recognition. This evidence is real but considerably weaker than retail sales data, and readers should treat the ordering from roughly position 9 onward as a reasoned estimate rather than a precise, sourced ranking -- particularly for the 19th-century literalist translations and other niche works clustered near the bottom, where no meaningful popularity data exists at all and the relative order mostly reflects each work's general degree of ongoing recognition rather than any measured difference in current readership.
 
-Key nuances on “popularity”
+9. **New American Bible Revised Edition (NABRE)** -- not tracked by ECPA's Protestant-retail-focused data, but the official translation used at Mass and in the Liturgy of the Hours for the entire United States Catholic Church (roughly 20% of the U.S. population), making its real-world readership almost certainly far larger than its absence from retail bestseller lists would suggest.
+10. **Amplified Bible (AMP)** -- a long-established translation (1965) with continuous publisher support from Zondervan and The Lockman Foundation and broad recognition across evangelical and charismatic circles, even though it does not typically appear in ECPA's top ranks.
+11. **NET Bible (NET)** -- originally developed as a free digital translation and still available at no cost online; its extensive translators' notes have made it a fixture of digital and seminary-level study despite modest print sales.
+12. **Berean Standard Bible (BSB)** -- a free, public-domain translation with a fast-growing footprint on major Bible websites (particularly Bible Hub) since its release around 2020.
+13. **Legacy Standard Bible (LSB)** -- released in 2021 with institutional backing from John MacArthur, The Master's Seminary, and The Lockman Foundation (the same publisher behind the NASB), and has gained real traction quickly in Reformed and conservative evangelical circles despite its recency.
+14. **American Standard Version (ASV)** -- the 1901 translation underlying the NASB, the RSV/ESV lineage, and the WEB; no longer commercially sold as a standalone edition but still widely available and referenced due to this central position in the King James/RSV family tree.
+15. **Revised Standard Version (RSV)** -- the mid-20th-century base text for the ESV and (via the Catholic-edition line) the NRSV-CE and RSV2CE; retains a real, if diminished, following especially among older mainline congregations and in academic settings.
+16. **World English Bible (WEB)** -- a public-domain modernization of the ASV, widely used in free audio Bible and app projects because of its unrestricted licensing.
+17. **Darby Bible (Darby)** -- an 1890 translation retaining a real following within Plymouth Brethren and some dispensationalist circles, and still commonly consulted for its extreme literalism.
+18. **Young's Literal Translation (YLT)** -- an 1862/1898 translation widely known and consulted specifically for its maximal, often unusual literalness to Hebrew and Greek word order, a niche but durable reputation.
+19. **RSV, Second Catholic Edition (RSV2CE)** -- a smaller-circulation Catholic edition that has gained visibility in recent years through Ignatius Press's marketing to traditional and homeschooling Catholic audiences.
+20. **Douay-Rheims Bible** -- the historic English Catholic translation (1582/1609-1610), retaining real use among traditionalist Catholics and considerable cultural and historical recognition, though a smaller current readership than the NABRE or RSV2CE.
+21. **Complete Jewish Bible (CJB)** -- a 1998 translation with an established, dedicated readership within Messianic Judaism specifically.
+22. **Easy-to-Read Version (ERV)** -- originally developed for Deaf readers and those with limited English literacy, with an established niche readership domestically and through international ministry use.
+23. **Catholic Public Domain Version (CPDV)** -- a 2009 translation from the Vulgate with a small but real online and traditionalist readership.
+24. **Webster's Bible** -- Noah Webster's 1833 light modernization of the KJV, today consulted mostly as a historical curiosity rather than read as a primary translation.
+25. **American King James Version (AKJV)** -- a 1999 modernization of the KJV's vocabulary and spelling with a modest, mostly online following.
+26. **Smith's Literal Translation** -- an 1876 translation of comparable literalism to Young's and Darby's, but with markedly less ongoing recognition or use today.
+27. **The Readable Bible (TRB)** -- released in 2024, the newest translation tracked in this book, and accordingly the one with the least market penetration and reader base so far.
 
-- **Sales rankings** (the most objective measure for physical and many digital units) consistently place the **NIV first** in the U.S. and overall English market for years. It balances readability and accuracy and has massive institutional use in churches, study resources, and digital platforms.
+These rankings reflect sales, institutional adoption, and general usage patterns rather than scholarly preference or theological endorsement. Different translations serve different purposes—devotional reading, public worship, deep study, outreach, or literary appreciation—and many serious readers keep more than one.
 
-- The **ESV** is a very strong second (and sometimes first in certain months or the UK market). It is especially favored for serious study, preaching, and among Reformed and conservative evangelical circles because of its more formal (“essentially literal”) approach.
+Key nuances on "popularity"
+
+- **Sales rankings** (the most objective measure for physical and many digital units, though limited to the eight translations ECPA tracks) consistently place the **NIV first** in the U.S. and overall English market for years. It balances readability and accuracy and has massive institutional use in churches, study resources, and digital platforms.
+
+- The **ESV** is a very strong second (and sometimes first in certain months or the UK market). It is especially favored for serious study, preaching, and among Reformed and conservative evangelical circles because of its more formal ("essentially literal") approach.
 
 - The **KJV** remains remarkably durable more than four centuries after its 1611 publication. It holds a large traditional following, strong sales in gift/ceremonial editions, and high cultural recognition, even as everyday reading preference has shifted toward modern language.
 
@@ -28,7 +51,8 @@ Key nuances on “popularity”
 
 - Rankings can vary by channel: Christian bookstores sometimes show NLT stronger -- and 2025 Christian-retail unit data specifically has shown the NLT overtaking the NIV in that channel at points during the year, even though the NIV continues to lead the broader overall U.S. market reflected in the ranking above; broader retail and digital platforms reinforce NIV/ESV dominance. Google search interest frequently favors the KJV. Digital engagement (especially YouVersion) also elevates the NIV heavily. Because retail sales rankings shift from month to month and channel to channel, readers consulting this section more than a year or so after this book's stated version date should treat the ranking above as illustrative of relative popularity rather than a current snapshot, and check ECPA/Circana's own current reporting for up-to-date figures.
 
-These rankings reflect sales and usage patterns rather than scholarly preference or theological endorsement. Different translations serve different purposes—devotional reading, public worship, deep study, outreach, or literary appreciation—and many serious readers keep more than one.
+- The translations ranked from roughly 9th onward are not tracked by ECPA/Circana at all, for the reasons explained above, so their relative order is this book's own reasoned estimate rather than a sourced ranking, and should be treated with correspondingly greater caution.
+
 
 **The differences arise primarily from underlying Greek New Testament text bases and, secondarily, from translation philosophy.**
 
