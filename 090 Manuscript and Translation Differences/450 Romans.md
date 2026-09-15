@@ -12,7 +12,8 @@
 
 **Translations — a real split:**
 - **Include the additional clause:** KJV and NKJV. **The AKJV, Webster's Bible, and YLT** would be expected to include it, on the same Textus-Receptus-preservation grounds discussed throughout this NT section.
-- **Omit the clause, following the shorter and generally preferred earlier reading:** ESV, NIV, CSB, NASB, LSB, NLT, and RSV2CE (nearly all with a footnote noting that some manuscripts add the clause, sometimes citing its likely origin in verse 4). **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, matching the general pattern established throughout this project for scribal-migration-type additions, though not separately confirmed for this specific verse.
+- **Omit the clause, following the shorter and generally preferred earlier reading:** ESV, NIV, CSB, NASB, LSB, NLT, and RSV2CE (nearly all with a footnote noting that some manuscripts add the clause, sometimes citing its likely origin in verse 4).
+- **A third, genuinely hybrid reading, confirmed directly and not previously documented for this entry:** **the Douay-Rheims Bible** reads "There is now therefore no condemnation to them that are in Christ Jesus, who walk not according to the flesh" -- including the first half of the disputed clause ("who walk not according to the flesh") while omitting the second half ("but according to the Spirit") entirely. This is neither the full Textus-Receptus reading nor the fully shortened modern-critical-text reading, but a distinct partial form reflecting the Vulgate's own specific wording at this verse -- a useful reminder that the pattern of Douay-Rheims simply "including" or "omitting" disputed material as a whole, documented at several other verses elsewhere in this project, does not hold uniformly; each verse needs its own direct check. **The CPDV**, given its general reliance on Douay-Rheims, would be expected to follow this same partial reading, though its own text was not separately confirmed.
 - **AMP** renders the shorter reading in its main text.
 - **Not independently confirmed in this research pass:** ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
@@ -25,9 +26,10 @@
 **Why it matters:** The sentiment is undisputed, since a nearly identical benediction already appears earlier in the same chapter — the question here is narrow: whether Paul's letter states it twice in close succession, or once.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV. **The AKJV, Webster's Bible, and YLT** would be expected to include it, on the same grounds noted throughout this section.
-- **Omit it from the main text, moving directly to the closing doxology, typically with a footnote noting its presence in some manuscripts:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same grounds noted throughout this project.
-- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The AKJV, Webster's Bible, and YLT** would be expected to include it, on the same grounds noted throughout this section. **Confirmed directly, and correcting this entry's prior assumption**, the Douay-Rheims Bible also includes this verse ("The grace of our Lord Jesus Christ be with you all! Amen") -- the fourteenth confirmed instance of Douay-Rheims including, rather than omitting, material absent from the earliest manuscripts. **Darby and the ASV are also confirmed directly** including it, each reading "The grace of our Lord Jesus Christ be with you all. Amen."
+- **Omit it from the main text, moving directly to the closing doxology, typically with a footnote noting its presence in some manuscripts:** ESV, NIV, CSB, NASB, LSB, NLT.
+- **Given this now fourteen-times-confirmed Douay-Rheims pattern, the CPDV** would be expected to include this verse as well, reversing this entry's prior expectation that it would side with the shorter reading.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with WEB, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
 ---
 
