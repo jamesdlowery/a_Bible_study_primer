@@ -1,6 +1,6 @@
 # Baruch (including the Letter of Jeremiah): RSV2CE Compared Against Other English Translations of the Apocrypha
 
-**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, the Catholic Public Domain Version (CPDV), NRSV.
+**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, CPDV, NRSV.
 
 This research pass did not confirm a specific verse where RSV2CE and NABRE or Douay-Rheims render clearly different wording with a clearly different meaning. That's a gap in this research pass, not a finding that no such verse exists.
 

@@ -10,7 +10,7 @@
 
 **How the translations render it:**
 - **"Forty-two" (retaining MT's Chronicles reading as written):** KJV, NKJV. **Douay-Rheims, the RSV, and Darby** are all confirmed directly in this camp as well. The **CPDV** would be expected to follow Douay-Rheims here, though not separately confirmed.
-- **"Twenty-two" (adopting the Septuagint/Syriac reading, harmonizing with 2 Kings 8:26):** ESV, NIV, NASB, CSB, NLT — generally with a footnote noting the Hebrew reads "forty-two." **ASV and the Berean Standard Bible** are both confirmed directly in this camp. The **NRSV-CE** would be expected to follow the modern-critical-text pattern, though not separately confirmed.
+- **"Twenty-two" (adopting the Septuagint/Syriac reading, harmonizing with 2 Kings 8:26):** ESV, NIV, NASB, CSB, NLT — generally with a footnote noting the Hebrew reads "forty-two." **ASV and the BSB** are both confirmed directly in this camp. The **NRSV-CE** would be expected to follow the modern-critical-text pattern, though not separately confirmed.
 - **Not independently confirmed in this research pass:** AMP, LSB, and RSV2CE (as the original entry already noted), along with WEB, Smith's Literal Translation, Webster's Bible, AKJV, NABRE, ERV, NET, TRB, and CJB were not checked against their own text for this specific verse.
 
 **The difference in meaning:** With "forty-two," the passage contains an internal chronological impossibility (a son older than his father). With "twenty-two," the passage is chronologically coherent and matches the parallel account in Kings.
@@ -23,7 +23,7 @@
 
 **How the translations render it:**
 - **"Eight" (retaining MT's Chronicles reading as written):** KJV, NKJV. **Darby and Douay-Rheims** are both confirmed directly in this camp as well. The **CPDV** would be expected to follow Douay-Rheims, though not separately confirmed.
-- **"Eighteen" (adopting the Greek/Syriac/Hebrew-manuscript alternate, harmonizing with 2 Kings 24:8):** ESV, NASB, CSB, NIV, NLT. **ASV and the Berean Standard Bible** are both confirmed directly in this camp.
+- **"Eighteen" (adopting the Greek/Syriac/Hebrew-manuscript alternate, harmonizing with 2 Kings 24:8):** ESV, NASB, CSB, NIV, NLT. **ASV and the BSB** are both confirmed directly in this camp.
 - **Not independently confirmed in this research pass:** AMP, LSB, and RSV2CE (as the original entry already noted), along with WEB, Smith's Literal Translation, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, TRB, and CJB were not checked against their own text for this specific verse.
 
 **The difference in meaning:** An 8-year-old king who is then described negotiating with Babylon, ruling in his own right, and being imprisoned for life reads as historically implausible; "eighteen" removes that difficulty and matches the parallel Kings account.

@@ -18,13 +18,13 @@ Beyond these two options, the Greek manuscript tradition actually preserves **fo
 
 **Translations — how the full set of 27 handle this:**
 
-KJV, NKJV, ASV, WEB, Darby, Young's Literal, Smith's Literal, Webster's Bible, and the American King James Version would be expected to print the passage as ordinary, unflagged text, consistent with translations that either predate modern critical-text apparatus entirely or (for AKJV/WBT) explicitly preserve the KJV's underlying text without engaging that apparatus at all -- though only KJV and NKJV have been directly confirmed for this specific passage; the others are reasoned expectations based on stated translation method, not independently checked.
+KJV, NKJV, ASV, WEB, Darby, Young's Literal, Smith's Literal, Webster's Bible, and the AKJV would be expected to print the passage as ordinary, unflagged text, consistent with translations that either predate modern critical-text apparatus entirely or (for AKJV/WBT) explicitly preserve the KJV's underlying text without engaging that apparatus at all -- though only KJV and NKJV have been directly confirmed for this specific passage; the others are reasoned expectations based on stated translation method, not independently checked.
 
 ESV, NIV, CSB, NASB, and LSB set the passage off with brackets or a footnote noting its absence from the earliest manuscripts. NLT includes it with an explanatory footnote. RSV2CE follows the general modern-critical-text pattern of flagging it. The original 1952 RSV famously relegated the entire passage to a footnote rather than the main text -- a decision significant enough that it's already discussed in this book's own RSV/ESV history entry, and one that drew real public controversy at the time. The NRSV-CE, being a further revision in the same critical tradition as the RSV, would be expected to flag the passage similarly, though this was not separately confirmed.
 
 The Douay-Rheims Bible and the Catholic Public Domain Version, both translated from the Latin Vulgate, would be expected to print the passage as ordinary text -- the Vulgate has always contained the longer ending (unlike, for instance, the Matthew 6:13 doxology discussed in the companion Matthew document, which the Vulgate never included), so this is a reasoned expectation grounded in the Vulgate's own known content, not independently confirmed for this specific printed edition.
 
-**Genuinely unconfirmed, and not safely predictable from translation family alone:** the NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific passage. This entry should not guess at any of these — some (like the NET Bible, known for extensive translator notes on exactly this kind of textual question) could plausibly go either way, and asserting a prediction here would be exactly the kind of unverified claim this book tries not to make.
+**Genuinely unconfirmed, and not safely predictable from translation family alone:** the NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific passage. This entry should not guess at any of these — some (like the NET Bible, known for extensive translator notes on exactly this kind of textual question) could plausibly go either way, and asserting a prediction here would be exactly the kind of unverified claim this book tries not to make.
 
 ---
 
@@ -35,9 +35,9 @@ The Douay-Rheims Bible and the Catholic Public Domain Version, both translated f
 **Why it matters:** As with the Matthew parallel, the question is how much weight this specific pairing of prayer with fasting should carry as Jesus' own words describing what's needed for this kind of spiritual authority.
 
 **Translations — a real split:**
-- **Include "and fasting":** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to include it as well, on the same Textus-Receptus-preservation grounds discussed in the companion Matthew entries, though none was separately confirmed.
+- **Include "and fasting":** KJV, NKJV. **The AKJV, Webster's Bible, and YLT** would be expected to include it as well, on the same Textus-Receptus-preservation grounds discussed in the companion Matthew entries, though none was separately confirmed.
 - **Read "prayer" alone, typically with a footnote noting that some manuscripts add "and fasting":** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading here, matching the general pattern of Vulgate-tradition agreement with the critical text against later Byzantine expansions, though this specific verse was not separately confirmed for either.
-- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
 ---
 
@@ -48,9 +48,9 @@ The Douay-Rheims Bible and the Catholic Public Domain Version, both translated f
 **Why it matters:** The teaching itself is undisputed as Matthew's own wording — the question here is narrower, whether Mark's Gospel also states it at this point, or whether the verse belongs only to Matthew.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would again be expected to include it, on the same grounds as the entry above.
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The AKJV, Webster's Bible, and YLT** would again be expected to include it, on the same grounds as the entry above.
 - **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Matthew 6:15:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same general Vulgate-tradition grounds noted above, though not separately confirmed for this specific verse.
-- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
 ---
 
@@ -61,9 +61,9 @@ The Douay-Rheims Bible and the Catholic Public Domain Version, both translated f
 **Why it matters:** The Isaiah 53:12 connection to Jesus' crucifixion is undisputed as Luke's own wording — the question here is whether Mark's Gospel also draws out this explicit fulfillment citation at this point, or whether it belongs only to Luke's account.
 
 **Translations — a real split:**
-- **Include the verse in the main text, without qualification:** KJV, NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would again be expected to include it, on the same grounds as the two entries above.
+- **Include the verse in the main text, without qualification:** KJV, NKJV. **The AKJV, Webster's Bible, and YLT** would again be expected to include it, on the same grounds as the two entries above.
 - **Omit it from the main text, typically with a footnote noting its absence from the earliest manuscripts and the parallel at Luke 22:37:** ESV, NIV, CSB, NASB, LSB, NLT. **Douay-Rheims and the CPDV** would be expected to side with the shorter reading, on the same grounds noted above, though not separately confirmed for this specific verse.
-- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
+- **Not independently confirmed in this research pass:** AMP and RSV2CE (as the original entry already noted), along with ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
 ---
 

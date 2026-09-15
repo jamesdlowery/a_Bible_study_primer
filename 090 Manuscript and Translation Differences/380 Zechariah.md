@@ -11,10 +11,10 @@ Zechariah has two well-known candidate cruxes, described below. The original res
 **The variant:** MT has the prophet told to throw his wages "to the potter" (*hayotser*) in the house of the LORD; this is the verse Matthew 27:9-10 draws on for the "potter's field" purchased with Judas's returned silver. The Syriac Peshitta instead reads "treasury" (*ha'otsar*) — a plausible one-consonant confusion between the two similar-looking Hebrew words.
 
 **How the translations render it:**
-- **"Potter":** KJV, NIV, NASB, CSB, NLT. **Webster's Bible, the World English Bible, and Young's Literal Translation** are all confirmed directly in this camp as well.
+- **"Potter":** KJV, NIV, NASB, CSB, NLT. **Webster's Bible, the WEB, and YLT** are all confirmed directly in this camp as well.
 - **"Treasury":** **ESV, the RSV, and the NRSV (and, by direct extension, the NRSV-CE)** are all confirmed directly in this camp — a genuinely new finding this expansion pass turned up, since the original entry had not established that ESV in particular departs from the "potter" reading found in most of the other tracked translations.
 - **A third, distinct reading — "statuary":** the **Douay-Rheims Bible** renders this "cast it to the statuary" (a caster or molder of images), neither "potter" nor "treasury" but a related craft-term reflecting the Vulgate's own specific Latin wording. The **Catholic Public Domain Version** would be expected to follow this same Vulgate-derived reading, though not separately confirmed.
-- **Not independently confirmed in this research pass:** AMP, NKJV, LSB, RSV2CE, ASV, Darby, Smith's Literal Translation, AKJV, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
+- **Not independently confirmed in this research pass:** AMP, NKJV, LSB, RSV2CE, ASV, Darby, Smith's Literal Translation, AKJV, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
 **The difference in meaning:** "Potter" ties the verse directly to the Matthew 27 "potter's field" narrative that quotes it; "treasury" removes that specific connection, describing instead a straightforward act of returning the money to the temple's general funds; "statuary" (Douay-Rheims) sits closer to "potter" in general sense (both describe a craftsman who works with molded material) without matching either English word choice directly.
 

@@ -11,12 +11,12 @@
 **Why it matters:** "God was manifest in the flesh" is about as direct an affirmation of the incarnation and Christ's deity as any single verse in the New Testament, which is exactly why the reading has mattered so much historically — the "he who" reading requires the reader to supply the antecedent (presumably still Christ, from context) rather than stating it explicitly as "God." The doctrinal substance most Christian traditions draw from this passage isn't actually dependent on this one word, since the incarnation and Christ's deity are affirmed unambiguously in many other New Testament passages — but this verse in particular has often been cited as if it were an especially direct, standalone proof-text, which is why the textual question is worth understanding on its own terms.
 
 **Translations — a real split:**
-- **"God was manifested"/"God was manifest":** KJV and NKJV. **The American King James Version, Webster's Bible, and Young's Literal Translation** would be expected to render "God" as well, on the same Textus-Receptus-preservation grounds discussed throughout this section, though none was separately confirmed.
+- **"God was manifested"/"God was manifest":** KJV and NKJV. **The AKJV, Webster's Bible, and YLT** would be expected to render "God" as well, on the same Textus-Receptus-preservation grounds discussed throughout this section, though none was separately confirmed.
 - **"He who was revealed"/"He was manifested" (or similar, referring back to Christ without using the word "God" explicitly):** ESV, NIV, CSB, NASB, and LSB (several with a footnote noting the "God" reading found in some manuscripts). **Douay-Rheims and the CPDV** would be expected to side with the "he who" reading, matching the general pattern established elsewhere in this project for this kind of visually-similar-abbreviation scribal variant, though not separately confirmed for this specific verse.
 - **NLT** renders "Christ was revealed in a human body," making the referent explicit rather than leaving "he" ambiguous, while still following the "he/who" textual tradition rather than "God."
 - **RSV2CE** follows the same general pattern as the modern critical-text translations, rendering "he was manifested" or similar.
 - **AMP** renders in an expanded form that leans toward making the christological referent explicit while working from the "he who" textual base.
-- **Not independently confirmed in this research pass:** ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the Easy-to-Read Version, the NET Bible, the Berean Standard Bible, The Readable Bible, and the Complete Jewish Bible were not checked against their own text for this specific verse.
+- **Not independently confirmed in this research pass:** ASV, WEB, Darby, Smith's Literal Translation, NRSV-CE, RSV, NABRE, the ERV, the NET Bible, the BSB, TRB, and the CJB were not checked against their own text for this specific verse.
 
 ---
 

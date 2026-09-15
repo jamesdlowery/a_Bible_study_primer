@@ -1,6 +1,6 @@
 # Sirach (Ecclesiasticus): RSV2CE Compared Against Other English Translations of the Apocrypha
 
-**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, the Catholic Public Domain Version (CPDV), NRSV.
+**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, CPDV, NRSV.
 
 There is solid background on Sirach's textual complexity (see below), but this research pass did not confirm a specific verse where RSV2CE and NABRE (or Douay-Rheims) render clearly different wording with a clearly different meaning, the way it could for Tobit and Judith. That's a gap in this research pass, not a claim that no such verse exists -- Sirach is textually complex enough that real candidates would likely turn up with more targeted searching.
 

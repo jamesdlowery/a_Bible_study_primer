@@ -1,6 +1,6 @@
 # Judith: RSV2CE Compared Against Other English Translations of the Apocrypha
 
-**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, the Catholic Public Domain Version (CPDV), NRSV.
+**Comparison translations:** RSV2CE, NABRE, Douay-Rheims, CPDV, NRSV.
 
 **A note on scope:** as with Tobit, this comparison is limited to translations that include the Apocrypha/Deuterocanon at all -- the bulk of this project's Protestant-tradition translations, and the Complete Jewish Bible, are not relevant additions here.
 
