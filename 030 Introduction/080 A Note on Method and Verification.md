@@ -37,4 +37,4 @@ The sources this book draws on for harmonizations are broadly evangelical and ha
 
 ## Corrections and Ongoing Work
 
-This is a single-author project maintained on an ongoing basis, not a finished, peer-reviewed academic work. Errors are found and corrected as they surface — sometimes through routine re-verification passes, sometimes through outside feedback. If you find something that appears incorrect, incomplete, or unfairly stated, please raise it (see the repository's contribution guidance); corrections are welcome and expected.
+This is a single-editor project (with AI assistance, as described above) maintained on an ongoing basis, not a finished, peer-reviewed academic work. Errors are found and corrected as they surface — sometimes through routine re-verification passes, sometimes through outside feedback. If you find something that appears incorrect, incomplete, or unfairly stated, please raise it (see the repository's contribution guidance); corrections are welcome and expected.
