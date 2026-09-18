@@ -27,6 +27,10 @@ Where a work is available in multiple editions, the most recent edition at the t
 
 - Metzger, Bruce M. *A Textual Commentary on the Greek New Testament*. 2nd ed. Stuttgart: United Bible Societies, 1994. (Explains the reasoning behind specific textual decisions in the United Bible Societies' Greek New Testament, verse by verse.)
 
+Wording comparisons throughout this section and "Reportedly Contradicting Passages" were checked directly against each translation's own published text, rather than relied on secondhand. The translations consulted this way include: the King James Version; the New King James Version; the American Standard Version; the World English Bible; the Berean Standard Bible; the NET Bible; Young's Literal Translation; the Darby Bible Translation; Webster's Bible; the American King James Version; Smith's Literal Translation; the Douay-Rheims Bible; the Catholic Public Domain Version; and the Easy-to-Read Version. Each is public domain or freely available online (e.g., via Bible Gateway or Bible Hub) and is not separately listed here by publisher, given how many editions and web presentations of each exist.
+
+- Truth is Christ. truthischrist.com. Brandon Peterson. (A King James Version–only ministry site covering wording differences between the KJV and modern translations, among other topics; useful as a starting point for the kinds of differences this section documents, though written from a KJV-primacy viewpoint rather than the text-critical consensus this section generally follows. See "A Note on Perspective" in the front matter for where to find a counterpart representing the mainstream text-critical position.)
+
 ## Reportedly Contradicting Passages
 
 - Archer, Gleason L., Jr. *Encyclopedia of Bible Difficulties*. Grand Rapids: Zondervan, 1982. (Reissued 2001 as *New International Encyclopedia of Bible Difficulties*.)
