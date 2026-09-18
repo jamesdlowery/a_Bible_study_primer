@@ -5,10 +5,16 @@
 Every entry in this book — whether a manuscript comparison, a translation history, or a reportedly contradicting passage — follows the same basic method:
 
 1. **State the claim or variant as it's actually made.** For contradiction claims, this means stating it the way it's typically raised in skeptical literature or popular debate, not a straw-man version of it. For textual variants, this means identifying the actual point where translations or manuscripts diverge.
-2. **Check it against the primary text.** Translation-specific wording claims are verified against the actual published text of each of the ten tracked translations — not assumed from a translation's general reputation or philosophy.
+2. **Check it against the primary text.** Translation-specific wording claims are verified against the actual published text of each of the tracked translations — not assumed from a translation's general reputation or philosophy.
 3. **Give the standard scholarly response.** Where a passage has a well-established harmonization or explanation, it's presented as such. Where scholars genuinely disagree, that disagreement is represented rather than resolved.
 
 The Top Christian Denominations and Top Study Bibles entries follow a related but distinct method, since the underlying claims are different in kind: a denomination's doctrinal and ethical positions are checked against that body's own official confessional statements, catechisms, or resolutions wherever available, rather than against a Bible translation's wording. For study Bibles specifically, this book distinguishes a general editor's own published personal views (well-documented in many cases) from independently confirmed content of that specific volume's own verse notes — the two are related but not the same kind of evidence, and entries say plainly which one is actually being reported where this matters.
+
+## AI-Assisted Research and Verification
+
+This book's entries were drafted and verified with the help of AI, under my direction as Editor throughout — I pointed the research, reviewed what came back, and patched what needed patching, as noted in the Preface. To guard against any single AI's blind spots or hallucinated claims, multiple different AI systems were used to cross-check and fact-check the material at various points across the book's development, rather than one model working alone start to finish.
+
+This doesn't replace the verification standard described below — claims are still checked against primary and authoritative secondary sources, not simply trusted because an AI produced them. Using multiple AI systems adds a layer of scrutiny to that process; it isn't a substitute for it.
 
 ## What "Verified" Means Here
 
@@ -21,7 +27,7 @@ It does not mean original manuscript collation was performed by hand for every e
 A few recurring pitfalls have shaped how entries are checked, worth stating plainly:
 
 - **The same error can appear independently in multiple places.** A verse cited in more than one book's document can carry the same mistake in both places, because fixing one occurrence doesn't propagate to the other. Cross-references are checked individually, not assumed consistent.
-- **"All ten translations agree" is not proof the underlying claim is accurate.** Several early entries in this project were found to state a "contradiction" confidently, with all ten translations cited in support, when the underlying premise itself didn't hold up under closer inspection. Translation agreement confirms what the text says; it doesn't confirm that a popular claim built on that text is sound.
+- **"All tracked translations agree" is not proof the underlying claim is accurate.** Several early entries in this project were found to state a "contradiction" confidently, with every tracked translation cited in support, when the underlying premise itself didn't hold up under closer inspection. Translation agreement confirms what the text says; it doesn't confirm that a popular claim built on that text is sound.
 - **Attribution errors are easy to introduce and easy to miss.** Misattributing a specific translation's wording, or a specific historical detail about a translation's origin, has happened and been corrected before. Spot-checking against the primary source remains the most reliable safeguard.
 - **The total claim count can change, and that's expected, not a data error.** The catalog held 866 claims at one point; it holds 865 now. The difference is a single duplicate entry (two separate numbered entries in 1 Samuel that turned out to ask the identical question) that was found and merged into one. If this number moves again in the future for the same kind of reason, that's the ordinary, healthy result of catching a mistake — not a sign the catalog was miscounted.
 
