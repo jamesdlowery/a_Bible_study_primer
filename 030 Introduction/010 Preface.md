@@ -6,4 +6,6 @@ I don't deny God's ability to work such a miracle, but I do deny my own ability 
 
 Beyond trying to find the "best" translation to use as that baseline, it's up to the individual to develop a personal relationship with God and to seek out the 100% Truth. That's why I am open to considering the Bible commentaries of men with differing views, and why I have not been able to formally join any particular church or denomination.
 
+One more thing worth saying plainly: this book's information was gathered with the help of AI, but every bit of it was directed, curated, and patched by me personally as the Editor. I didn't just turn it loose and publish whatever came back — I pointed it, checked its work, and fixed what needed fixing.
+
 Don't let manmade doctrine or dogma get in the way of your seeking after the Truth!
