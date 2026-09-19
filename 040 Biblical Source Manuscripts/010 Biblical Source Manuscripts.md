@@ -65,5 +65,6 @@ Scrivener’s edition (the form underlying the KJV) and the various Elzevir / St
 - **Accordance, Logos, BibleWorks** (legacy), and **STEP Bible** – all integrate many of the above editions with searchable apparatuses.
 - **Center for the Study of New Testament Manuscripts (CSNTM)** and the **Institut für Neutestamentliche Textforschung (INTF)** – manuscript images and the *Kurzgefasste Liste*.
 - **Göttingen Septuagint** and **Leiden Peshitta** have growing digital presence through their publishers.
+- **Bible Hub** (biblehub.com) — not a manuscript or apparatus tool, but the single most useful resource for this project's own translation-comparison work: free, searchable parallel access to dozens of English translations verse by verse. Every translation directly verified in the "Manuscript and Translation Differences" and "Reportedly Contradicting Passages" sections was checked against its Bible Hub text.
 
 These are the reference works scholars actually open when they need the full evidence rather than a summary. If you want recommendations for a specific book or tradition (e.g., the best apparatus for Isaiah or for the Catholic Epistles), 
