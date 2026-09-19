@@ -14,6 +14,7 @@ Where a work is available in multiple editions, the most recent edition at the t
 - Aland, Kurt, and Barbara Aland. *The Text of the New Testament: An Introduction to the Critical Editions and to the Theory and Practice of Modern Textual Criticism*. Translated by Erroll F. Rhodes. 2nd ed. Grand Rapids: Eerdmans, 1995.
 - *Biblia Hebraica Stuttgartensia*. Edited by Karl Elliger and Wilhelm Rudolph. Stuttgart: Deutsche Bibelgesellschaft, 1997. (The standard critical edition of the Masoretic Text.)
 - *Novum Testamentum Graece* (Nestle-Aland). 28th ed. Stuttgart: Deutsche Bibelgesellschaft, 2012. (The standard critical edition of the Greek New Testament.)
+- Wallace, Daniel B. bible.org. (Wallace, founder of the Center for the Study of New Testament Manuscripts noted below under "Useful digital hubs," publishes accessible textual-critical commentary here on individual New Testament variants; cited directly for the genuine textual difficulty at 2 Peter 3:10 and a documented discrepancy in secondary sources over one translation's exact wording there.)
 
 ## Popular Bible Translations / Bible Translations and Their Source Manuscripts / Histories of Various Bible Translations
 
@@ -29,6 +30,8 @@ Where a work is available in multiple editions, the most recent edition at the t
 
 Wording comparisons throughout this section and "Reportedly Contradicting Passages" were checked directly against each translation's own published text, rather than relied on secondhand. The translations consulted this way include: the King James Version; the American Standard Version; the World English Bible; the Berean Standard Bible; the NET Bible; Young's Literal Translation; the Darby Bible Translation; Webster's Bible; the American King James Version; Smith's Literal Translation; the Douay-Rheims Bible; the Catholic Public Domain Version; and the Easy-to-Read Version. (The New King James Version's readings, where cited, are inferred from its close textual relationship to the KJV rather than independently checked against its own published text.) Each is public domain or freely available online (e.g., via Bible Gateway or Bible Hub) and is not separately listed here by publisher, given how many editions and web presentations of each exist.
 
+- United States Conference of Catholic Bishops. *New American Bible, Revised Edition*, with official USCCB study notes. bible.usccb.org. (The authoritative online source for the NABRE's own text and its translators' notes; consulted directly, rather than inferred, at dozens of individual verses throughout this section and "Reportedly Contradicting Passages.")
+
 - Truth is Christ. truthischrist.com. Brandon Peterson. (A King James Version–only ministry site covering wording differences between the KJV and modern translations, among other topics; useful as a starting point for the kinds of differences this section documents, though written from a KJV-primacy viewpoint rather than the text-critical consensus this section generally follows. See "A Note on Perspective" in the front matter for where to find a counterpart representing the mainstream text-critical position.)
 
 ## Reportedly Contradicting Passages
@@ -36,6 +39,7 @@ Wording comparisons throughout this section and "Reportedly Contradicting Passag
 - Archer, Gleason L., Jr. *Encyclopedia of Bible Difficulties*. Grand Rapids: Zondervan, 1982. (Reissued 2001 as *New International Encyclopedia of Bible Difficulties*.)
 - Geisler, Norman L., and Thomas Howe. *The Big Book of Bible Difficulties: Clear and Concise Answers from Genesis to Revelation*. Grand Rapids: Baker Books, 2008.
 - Kaiser, Walter C., Jr., Peter H. Davids, F. F. Bruce, and Manfred T. Brauch. *Hard Sayings of the Bible*. Downers Grove, IL: InterVarsity Press, 1996.
+- Catholic Answers. catholic.com. (A Catholic apologetics organization consulted directly for several entries requiring a specifically Catholic perspective on a disputed reading or canonical question, including the Comma Johanneum at 1 John 5:7, a text-critical point in 1 Maccabees, and the Letter of Jeremiah's inclusion in Baruch.)
 
 (On the perspective these sources bring, and where to find a non-apologetic counterpart, see "A Note on Perspective" in the front matter.)
 
