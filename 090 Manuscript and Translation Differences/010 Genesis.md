@@ -2,7 +2,7 @@
 
 **Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-This file lists cases where the tracked translations actually render a verse with different words that change its meaning -- not just stylistic differences. Where a real manuscript variant exists but the translations happen to agree on the same reading, that's noted separately at the end as a side note, since it doesn't create a difference among them but is still useful background.
+This chapter lists cases where the tracked translations actually render a verse with different words that change its meaning -- not just stylistic differences. Where a real manuscript variant exists but the translations happen to agree on the same reading, that's noted separately at the end as a side note, since it doesn't create a difference among them but is still useful background.
 
 ---
 

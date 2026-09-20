@@ -9,7 +9,9 @@ translation's own wording materially affects how sharp or resolvable the claim a
 English), and gives the standard scholarly reconciliation or harmonization.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -245,7 +247,7 @@ directly.
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
-**Reconciliation:** As with the parallel question concerning the tabernacle's daily offering (addressed in this project's Exodus companion document), Ezekiel 40-48's temple vision is widely read by conservative interpreters as an idealized, symbolic, and in important respects future or eschatological picture rather than a literal blueprint meant to correct or replace the Mosaic sacrificial regulations already given through Moses -- the book explicitly signals its visionary character throughout ('in the visions of God,' 40:2), and several of its details differ in scale and specificity from any temple Israel ever actually built. On this reading, the differing figures for the new moon offering reflect the distinct purpose and literary genre of Ezekiel's prophetic vision, not a claimed correction of Numbers 28, which Ezekiel elsewhere continues to treat as authoritative background for Israel's sacrificial system generally.
+**Reconciliation:** As with the parallel question concerning the tabernacle's daily offering (addressed in this project's Exodus companion chapter), Ezekiel 40-48's temple vision is widely read by conservative interpreters as an idealized, symbolic, and in important respects future or eschatological picture rather than a literal blueprint meant to correct or replace the Mosaic sacrificial regulations already given through Moses -- the book explicitly signals its visionary character throughout ('in the visions of God,' 40:2), and several of its details differ in scale and specificity from any temple Israel ever actually built. On this reading, the differing figures for the new moon offering reflect the distinct purpose and literary genre of Ezekiel's prophetic vision, not a claimed correction of Numbers 28, which Ezekiel elsewhere continues to treat as authoritative background for Israel's sacrificial system generally.
 
 ---
 

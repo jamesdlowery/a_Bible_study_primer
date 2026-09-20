@@ -14,7 +14,7 @@ series -- padding to a round number with weak material would not serve this proj
 standard of quality, and several of the strongest candidate questions (Ruth's inclusion
 despite the Moabite exclusion; the levirate/redemption custom) are law-and-narrative
 questions that connect directly to material already covered at greater length in the
-companion Deuteronomy document, which this document cross-references rather than repeats.
+companion Deuteronomy chapter, which this document cross-references rather than repeats.
 
 **Verification status:** The one specific wording question checked in this pass (whether any
 translation softens or euphemizes "uncover his feet" at Ruth 3:4, 7) was confirmed against
@@ -56,7 +56,7 @@ directly.
 
 **How the translations render it:** All 27 tracked translations render Ruth 1:16-17, the genealogy of 4:18-22, and Deuteronomy 23:3-6 plainly and consistently as given; the harmonization rests on the scope of the original exclusion, not on translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion Deuteronomy document, which addresses Deuteronomy 23:3-6 directly. In brief, the leading harmonizations hold either that the exclusion concerned formal, corporate covenant status and public assembly specifically as a matter of national policy (tied to the Ammonites' and Moabites' historical hostility, Deuteronomy 23:4) rather than an absolute bar against any individual, including a convert, from those peoples who personally forsook their native gods and allegiance to join Israel's covenant -- exactly as Ruth explicitly does ('your people shall be my people, and your God my God,' 1:16) -- or that the Hebrew grammatical forms in Deuteronomy 23:3 are specifically masculine, addressing Ammonite and Moabite men (tied to the specific historical offense of failing to meet Israel with bread and water and hiring Balaam, a corporate/national failure of hospitality and aggression), which would remove Ruth from the restriction's scope on textual grounds rather than requiring an exception to it. Ruth's own book can be read as itself making an implicit theological argument for one of these readings, given how deliberately and approvingly it narrates her inclusion.
+**Reconciliation:** This question is treated at greater length in the companion Deuteronomy chapter, which addresses Deuteronomy 23:3-6 directly. In brief, the leading harmonizations hold either that the exclusion concerned formal, corporate covenant status and public assembly specifically as a matter of national policy (tied to the Ammonites' and Moabites' historical hostility, Deuteronomy 23:4) rather than an absolute bar against any individual, including a convert, from those peoples who personally forsook their native gods and allegiance to join Israel's covenant -- exactly as Ruth explicitly does ('your people shall be my people, and your God my God,' 1:16) -- or that the Hebrew grammatical forms in Deuteronomy 23:3 are specifically masculine, addressing Ammonite and Moabite men (tied to the specific historical offense of failing to meet Israel with bread and water and hiring Balaam, a corporate/national failure of hospitality and aggression), which would remove Ruth from the restriction's scope on textual grounds rather than requiring an exception to it. Ruth's own book can be read as itself making an implicit theological argument for one of these readings, given how deliberately and approvingly it narrates her inclusion.
 
 ---
 

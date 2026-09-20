@@ -14,7 +14,9 @@ genuinely appeared, a deception occurred, or something else -- consistent with t
 practice of flagging live disagreements rather than manufacturing false certainty.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -91,9 +93,9 @@ texts and the cross-references directly.
 
 **The claim:** 1 Samuel 17 credits David with killing Goliath the Gittite in single combat. 2 Samuel 21:19 (Masoretic Hebrew, read literally) states that Elhanan killed Goliath the Gittite in a later battle.
 
-**How the translations render it:** See the fuller treatment and full 27-translation breakdown in the general document set's entry on this question, since the decisive textual variant occurs at 2 Samuel 21:19 rather than within 1 Samuel 17 itself; 1 Samuel 17's own account of David and Goliath is rendered identically across all 27 translations. As documented there: the "brother of" harmonization is confirmed for KJV, NKJV, NIV (2011+), WEB, Webster's Bible, the BSB, the AKJV, YLT, the ERV, and the NET Bible; the literal, unharmonized reading is confirmed for ESV, NASB, CSB, LSB, AMP, RSV2CE, ASV, the RSV, Darby, and Smith's Literal Translation; and the Douay-Rheims Bible and the CPDV both depart from either camp entirely, naming the warrior "Adeodatus" rather than "Elhanan" and omitting any brother-of-Goliath language, reflecting the older Clementine Vulgate's own distinct textual tradition at this verse.
+**How the translations render it:** See the fuller treatment and full 27-translation breakdown in elsewhere in this book's entry on this question, since the decisive textual variant occurs at 2 Samuel 21:19 rather than within 1 Samuel 17 itself; 1 Samuel 17's own account of David and Goliath is rendered identically across all 27 translations. As documented there: the "brother of" harmonization is confirmed for KJV, NKJV, NIV (2011+), WEB, Webster's Bible, the BSB, the AKJV, YLT, the ERV, and the NET Bible; the literal, unharmonized reading is confirmed for ESV, NASB, CSB, LSB, AMP, RSV2CE, ASV, the RSV, Darby, and Smith's Literal Translation; and the Douay-Rheims Bible and the CPDV both depart from either camp entirely, naming the warrior "Adeodatus" rather than "Elhanan" and omitting any brother-of-Goliath language, reflecting the older Clementine Vulgate's own distinct textual tradition at this verse.
 
-**Reconciliation:** This entry is treated at greater length in the general document set covering the wider 27-translation textual-variant project. In brief, 1 Chronicles 20:5, describing the same later battle, states Elhanan killed 'Lahmi, the brother of Goliath,' and most textual scholars conclude 2 Samuel 21:19 suffered a scribal mix-up in transmission (the Hebrew word for 'the brother of' and the accusative particle before a name closely resemble each other), with Chronicles most likely preserving the original sense.
+**Reconciliation:** This entry is treated at greater length in elsewhere in this book covering the wider 27-translation textual-variant project. In brief, 1 Chronicles 20:5, describing the same later battle, states Elhanan killed 'Lahmi, the brother of Goliath,' and most textual scholars conclude 2 Samuel 21:19 suffered a scribal mix-up in transmission (the Hebrew word for 'the brother of' and the accusative particle before a name closely resemble each other), with Chronicles most likely preserving the original sense.
 
 ---
 

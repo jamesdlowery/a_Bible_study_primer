@@ -2,7 +2,7 @@
 
 This document catalogs 7 commonly cited alleged contradictions involving 2 Corinthians,
 either entirely internal to the letter or in comparison with 1 Corinthians, Galatians,
-Deuteronomy, and the companion Luke document. For each item, this document states the claim as
+Deuteronomy, and the companion Luke chapter. For each item, this document states the claim as
 it is typically raised, notes how the tracked translations render the passages involved
 (only where the translation's own wording materially affects how sharp or resolvable the claim
 appears in English), and gives the standard scholarly reconciliation or harmonization.
@@ -10,7 +10,7 @@ appears in English), and gives the standard scholarly reconciliation or harmoniz
 **A note on this letter's most significant entries:** Entry 1 catalogs the wide range of
 proposals for the identity of Paul's famous "thorn in the flesh," one of the most genuinely
 unresolved ambiguities in the entire Pauline corpus. Entry 5 addresses a compositional question
-comparable in kind to 1 Corinthians 14:34-35 (addressed in its own companion document), though
+comparable in kind to 1 Corinthians 14:34-35 (addressed in its own companion chapter), though
 resting on internal literary evidence (including a specific, influential connection to the Dead
 Sea Scrolls) rather than manuscript variation.
 
@@ -18,7 +18,9 @@ Sea Scrolls) rather than manuscript variation.
 rather than a single forced resolution.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -110,7 +112,7 @@ primary texts and the cross-references directly.
 
 **References:** 2 Corinthians 6:14-7:1
 
-**The claim:** 2 Corinthians 6:14-7:1 ('Do not be unequally yoked with unbelievers... Come out from among them, and be separate, says the Lord... let us cleanse ourselves from every defilement of body and spirit') has been the subject of over a century of scholarly controversy regarding whether Paul actually wrote it, comparable in kind (though with a different specific textual basis) to the questions addressed regarding 1 Corinthians 14:34-35 in the companion 1 Corinthians document.
+**The claim:** 2 Corinthians 6:14-7:1 ('Do not be unequally yoked with unbelievers... Come out from among them, and be separate, says the Lord... let us cleanse ourselves from every defilement of body and spirit') has been the subject of over a century of scholarly controversy regarding whether Paul actually wrote it, comparable in kind (though with a different specific textual basis) to the questions addressed regarding 1 Corinthians 14:34-35 in the companion 1 Corinthians chapter.
 
 **How the translations render it:** All 27 tracked translations render 2 Corinthians 6:14-7:1 in its standard location within the letter, without marking it as a separate insertion in the text itself; this is a matter of compositional and literary interpretation, not translation choice.
 

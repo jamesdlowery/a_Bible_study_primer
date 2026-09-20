@@ -2,7 +2,7 @@
 
 This document catalogs 4 commonly cited alleged contradictions involving Titus, the
 third and final Pastoral Epistle addressed in this series, either entirely internal to the
-letter or in comparison with the companion 1 Timothy and Romans documents, Acts, 1
+letter or in comparison with the companion 1 Timothy and Romans chapters, Acts, 1
 Corinthians, John, and Ephesians. For each item, this document states the claim as it is
 typically raised, notes how the tracked translations render the passages involved (only where
 translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization.
@@ -60,15 +60,15 @@ primary texts and the cross-references directly.
 
 ## Literary Composition
 
-### 2. The authorship question -- addressed at length in the companion 1 Timothy document
+### 2. The authorship question -- addressed at length in the companion 1 Timothy chapter
 
 **References:** Titus 1:1
 
-**The claim:** Titus identifies its own author as Paul (1:1), connecting to the broader authorship debate regarding the Pastoral Epistles addressed at length in the companion 1 Timothy document.
+**The claim:** Titus identifies its own author as Paul (1:1), connecting to the broader authorship debate regarding the Pastoral Epistles addressed at length in the companion 1 Timothy chapter.
 
-**How the translations render it:** All 27 tracked translations render Titus as a continuous text attributed to Paul; see the companion 1 Timothy document for the fuller discussion of the Pastoral Epistles' authorship question.
+**How the translations render it:** All 27 tracked translations render Titus as a continuous text attributed to Paul; see the companion 1 Timothy chapter for the fuller discussion of the Pastoral Epistles' authorship question.
 
-**Reconciliation:** This question is treated fully in the companion 1 Timothy document, which addresses the general critical arguments against, and conservative arguments for, common Pauline authorship of 1 Timothy, 2 Timothy, and Titus as a group, including specific, quantified linguistic evidence on both sides. This project does not adjudicate the underlying authorship question.
+**Reconciliation:** This question is treated fully in the companion 1 Timothy chapter, which addresses the general critical arguments against, and conservative arguments for, common Pauline authorship of 1 Timothy, 2 Timothy, and Titus as a group, including specific, quantified linguistic evidence on both sides. This project does not adjudicate the underlying authorship question.
 
 ---
 
@@ -90,15 +90,15 @@ primary texts and the cross-references directly.
 
 ---
 
-### 4. 'Grace... bringing salvation for all people' -- addressed at length in the companion Romans document
+### 4. 'Grace... bringing salvation for all people' -- addressed at length in the companion Romans chapter
 
 **References:** Titus 2:11; Romans 5:12-19
 
-**The claim:** Titus 2:11 states, 'For the grace of God has appeared, bringing salvation for all people' -- language connecting to the same question addressed at length in the companion Romans document regarding Romans 5:18's similarly universal-sounding 'all men' language and its relationship to salvation's scope.
+**The claim:** Titus 2:11 states, 'For the grace of God has appeared, bringing salvation for all people' -- language connecting to the same question addressed at length in the companion Romans chapter regarding Romans 5:18's similarly universal-sounding 'all men' language and its relationship to salvation's scope.
 
-**How the translations render it:** All 27 tracked translations render Titus 2:11 plainly and consistently as given; see the companion Romans document for the fuller discussion of this question regarding the scope of salvation language.
+**How the translations render it:** All 27 tracked translations render Titus 2:11 plainly and consistently as given; see the companion Romans chapter for the fuller discussion of this question regarding the scope of salvation language.
 
-**Reconciliation:** This question is treated fully in the companion Romans document, which addresses the standard resolution: 'all people' in passages of this kind is generally read as referring to the removal of any ethnic, social, or national restriction on who may receive God's grace (all kinds and categories of people, without distinction, rather than a claim of universal salvation for every individual without exception regardless of personal faith), consistent with Paul's own repeated emphasis elsewhere that salvation is received specifically through faith. This same chapter's own immediate continuation (2:12, describing grace as 'training us to renounce ungodliness... and to live self-controlled, upright, and godly lives') is generally read as addressing those who have actually received this grace through faith, not asserting that literally every individual, regardless of response, is automatically saved.
+**Reconciliation:** This question is treated fully in the companion Romans chapter, which addresses the standard resolution: 'all people' in passages of this kind is generally read as referring to the removal of any ethnic, social, or national restriction on who may receive God's grace (all kinds and categories of people, without distinction, rather than a claim of universal salvation for every individual without exception regardless of personal faith), consistent with Paul's own repeated emphasis elsewhere that salvation is received specifically through faith. This same chapter's own immediate continuation (2:12, describing grace as 'training us to renounce ungodliness... and to live self-controlled, upright, and godly lives') is generally read as addressing those who have actually received this grace through faith, not asserting that literally every individual, regardless of response, is automatically saved.
 
 ---
 

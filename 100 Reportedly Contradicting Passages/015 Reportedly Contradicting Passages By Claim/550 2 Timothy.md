@@ -2,7 +2,7 @@
 
 This document catalogs 5 commonly cited alleged contradictions involving 2 Timothy,
 traditionally regarded as Paul's final letter, either entirely internal to the letter or in
-comparison with the companion 1 Timothy and Joel documents, 2 Peter, and Hebrews. For each
+comparison with the companion 1 Timothy and Joel chapters, 2 Peter, and Hebrews. For each
 item, this document states the claim as it is typically raised, notes how the **KJV**
 specifically renders the passages involved (only where the translation's own wording
 materially affects how sharp or resolvable the claim appears in English), and gives the
@@ -19,7 +19,9 @@ time of writing.
 diversity of opinion rather than a single forced resolution.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim -- including, for the new entry below, a direct check of all 27 tracked translations' specific
 rendering of 2 Timothy 2:26's genuinely ambiguous pronoun. Where no such check turned up a
@@ -66,7 +68,7 @@ encouraged to consult the primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render 2 Timothy 3:1-9 plainly and consistently as given; the harmonization rests on recognizing 'the last days' as describing the whole period between Christ's two comings, consistent with its use elsewhere in the New Testament, not on translation choice.
 
-**Reconciliation:** This is not treated as a contradiction, but as a matter of how 'the last days' language functions throughout the New Testament more broadly -- most commentators read this phrase, consistent with its use elsewhere in the New Testament (compare Acts 2:17's application of Joel's 'last days' prophecy, addressed in the companion Joel document, to the entire church age inaugurated at Pentecost, and Hebrews 1:2's description of the incarnation itself as occurring 'in these last days'), as describing the whole period from Christ's first coming to his return, rather than a specific, narrowly future window immediately preceding the second coming exclusively. On this reading, Paul's description of moral decay and false godliness is not a claim uniquely and specifically predictive of one particular future generation (including, necessarily, the reader's own present moment), but a general characterization of the kind of opposition and moral corruption the church should expect to encounter at any point throughout this entire 'last days' period between Christ's two comings -- consistent with the passage's own immediately following instruction to Timothy to remain grounded in the Scriptures and sound teaching specifically because such conditions would be a persistent, recurring feature of church life throughout this whole era (3:14-17), not a one-time crisis limited to a specific future period alone.
+**Reconciliation:** This is not treated as a contradiction, but as a matter of how 'the last days' language functions throughout the New Testament more broadly -- most commentators read this phrase, consistent with its use elsewhere in the New Testament (compare Acts 2:17's application of Joel's 'last days' prophecy, addressed in the companion Joel chapter, to the entire church age inaugurated at Pentecost, and Hebrews 1:2's description of the incarnation itself as occurring 'in these last days'), as describing the whole period from Christ's first coming to his return, rather than a specific, narrowly future window immediately preceding the second coming exclusively. On this reading, Paul's description of moral decay and false godliness is not a claim uniquely and specifically predictive of one particular future generation (including, necessarily, the reader's own present moment), but a general characterization of the kind of opposition and moral corruption the church should expect to encounter at any point throughout this entire 'last days' period between Christ's two comings -- consistent with the passage's own immediately following instruction to Timothy to remain grounded in the Scriptures and sound teaching specifically because such conditions would be a persistent, recurring feature of church life throughout this whole era (3:14-17), not a one-time crisis limited to a specific future period alone.
 
 ---
 
@@ -88,15 +90,15 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ## Literary Composition
 
-### 4. The authorship question -- addressed at length in the companion 1 Timothy document, with a further nuance specific to this letter
+### 4. The authorship question -- addressed at length in the companion 1 Timothy chapter, with a further nuance specific to this letter
 
 **References:** 2 Timothy 1:1
 
-**The claim:** 2 Timothy identifies its own author as Paul (1:1), connecting to the broader authorship debate regarding the Pastoral Epistles (1 Timothy, 2 Timothy, and Titus) addressed at length in the companion 1 Timothy document.
+**The claim:** 2 Timothy identifies its own author as Paul (1:1), connecting to the broader authorship debate regarding the Pastoral Epistles (1 Timothy, 2 Timothy, and Titus) addressed at length in the companion 1 Timothy chapter.
 
-**How the translations render it:** All 27 tracked translations render 2 Timothy as a continuous text attributed to Paul; see the companion 1 Timothy document for the fuller discussion of the Pastoral Epistles' authorship question.
+**How the translations render it:** All 27 tracked translations render 2 Timothy as a continuous text attributed to Paul; see the companion 1 Timothy chapter for the fuller discussion of the Pastoral Epistles' authorship question.
 
-**Reconciliation:** This question is treated fully in the companion 1 Timothy document, which addresses the general critical arguments against, and conservative arguments for, common Pauline authorship of all three Pastoral Epistles. A further nuance specific to 2 Timothy is worth noting here: some scholars who question the authenticity of 1 Timothy and Titus are nonetheless more open to regarding 2 Timothy specifically as more plausibly authentic, or as containing a larger proportion of genuine Pauline material, given this letter's unusually personal, biographical character -- its specific, detailed personal references (to Timothy's mother Eunice and grandmother Lois, 1:5; to Paul's own abandonment by certain named companions and support from others, 4:9-16; and its overall tone of a dying man's final, intimate testimony) are sometimes read as more difficult to attribute to a later, pseudonymous author writing in Paul's name than the more generalized instructional material found in 1 Timothy and Titus. This project does not adjudicate the underlying authorship question for any of the three letters, noting only this additional, letter-specific nuance within the broader debate.
+**Reconciliation:** This question is treated fully in the companion 1 Timothy chapter, which addresses the general critical arguments against, and conservative arguments for, common Pauline authorship of all three Pastoral Epistles. A further nuance specific to 2 Timothy is worth noting here: some scholars who question the authenticity of 1 Timothy and Titus are nonetheless more open to regarding 2 Timothy specifically as more plausibly authentic, or as containing a larger proportion of genuine Pauline material, given this letter's unusually personal, biographical character -- its specific, detailed personal references (to Timothy's mother Eunice and grandmother Lois, 1:5; to Paul's own abandonment by certain named companions and support from others, 4:9-16; and its overall tone of a dying man's final, intimate testimony) are sometimes read as more difficult to attribute to a later, pseudonymous author writing in Paul's name than the more generalized instructional material found in 1 Timothy and Titus. This project does not adjudicate the underlying authorship question for any of the three letters, noting only this additional, letter-specific nuance within the broader debate.
 
 ---
 

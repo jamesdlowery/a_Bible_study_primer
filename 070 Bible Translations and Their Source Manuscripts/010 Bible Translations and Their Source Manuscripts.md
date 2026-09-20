@@ -1,34 +1,36 @@
 # Bible Translations and Their Source Manuscripts
 
-| Abbreviation | Full Name | Year | Old Testament Basis | New Testament Basis |
-|-------------------------|---------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| AKJV | American King James Version | 1999 | Masoretic Text (via KJV) | Textus Receptus (via KJV) |
-| AMP | Amplified Bible | 1965 (updated 1987/2015) | Masoretic Text / Biblia Hebraica (OT drafts followed the RSV base closely, including some RSV emendations; DSS/LXX consulted) | Westcott-Hort / Nestle (critical text; via ASV base) |
-| ASV | American Standard Version | 1901 | Masoretic Text (with some LXX influence) | Westcott-Hort 1881 + Tregelles 1857 |
-| BSB | Berean Standard Bible | 2016 (NT); complete ~2020–2022 | Masoretic Text / Leningrad Codex (favoring MT over LXX) | Nestle-Aland critical text (favoring earlier Alexandrian manuscripts) |
-| CJB | Complete Jewish Bible | 1998 | Masoretic Text | UBS Greek New Testament, 3rd ed. (1975) |
-| CPDV | Catholic Public Domain Version | 2009 | Latin Vulgate (primarily Clementine / Sixtus-Clementine editions) | Latin Vulgate (Clementine) |
-| CSB | Christian Standard Bible | 2017 | Biblia Hebraica Stuttgartensia (BHS) | Nestle-Aland 28th ed. / UBS 5th ed. |
-| DBT | Darby Bible Translation (Darby) | 1890 (NT earlier editions from 1867) | Masoretic Text | Critical texts (including Vaticanus, Sinaiticus, and other early manuscripts; not primarily TR) |
-| DR | Douay-Rheims Bible (Challoner revision; also abbreviated DRB) | 1582 (NT); 1609–1610 (OT); Challoner 1749–1752 | Latin Vulgate (Clementine / related editions; original languages consulted secondarily) | Latin Vulgate (Clementine / related editions) |
-| ERV | Easy-to-Read Version | ~1987 / revised editions (e.g., 2004) | Biblia Hebraica Stuttgartensia (with DSS and LXX readings where preferred) | UBS Greek New Testament (4th ed.) / Nestle-Aland 27th ed. |
-| ESV | English Standard Version | 2001 (revisions 2007, 2011, 2016) | Biblia Hebraica Stuttgartensia (DSS, LXX, and other versions in difficult cases) | Nestle-Aland / UBS critical text (primarily 27th/28th eds. and equivalents) |
-| KJV | King James Version (Authorized Version) | 1611 (standard Cambridge/Oxford editions 1769) | Masoretic Text (Bomberg / related; some LXX/Vulgate influence especially for Apocrypha) | Textus Receptus (primarily Beza 1598 and related editions) |
-| LSB | Legacy Standard Bible | 2021 | Biblia Hebraica Stuttgartensia (with DSS and lexicographical insights) | Nestle-Aland 27th ed. (28th ed. for General Epistles); SBL GNT and Tyndale House GNT consulted |
-| NABRE | New American Bible Revised Edition | 2011 (NT revision 1986) | Biblia Hebraica Stuttgartensia / Masoretic Text (DSS and LXX consulted; deuterocanonicals mainly LXX) | UBS 3rd ed. / Nestle-Aland 26th ed. |
-| NASB | New American Standard Bible | 1971 (updates 1977, 1995, 2020) | Biblia Hebraica / BHS (DSS consulted; BHQ where available in later editions) | Nestle-Aland (23rd ed. original; later 26th–28th eds.) |
-| NET | New English Translation (NET Bible) | 2001 (updates through 2019) | Biblia Hebraica Stuttgartensia | Nestle-Aland 27th ed. / UBS 4th ed. (eclectic critical text) |
-| NIV | New International Version | 1978 (updates 1984, 2011) | Biblia Hebraica / Masoretic Text (DSS, Samaritan Pentateuch, LXX, and other versions consulted) | Eclectic critical text based on Nestle-Aland / UBS editions |
-| NKJV | New King James Version | 1982 (NT 1979) | Biblia Hebraica Stuttgartensia (with comparisons to earlier Masoretic editions) | Textus Receptus (footnotes note Critical Text / Majority Text variants) |
-| NLT | New Living Translation | 1996 (updates 2004, 2007, 2015) | Biblia Hebraica Stuttgartensia (DSS, LXX, Samaritan Pentateuch, Peshitta, Vulgate consulted) | UBS 4th ed. / Nestle-Aland 27th ed. |
-| NRSV-CE | New Revised Standard Version Catholic Edition | 1989 (CE 1991) | Biblia Hebraica Stuttgartensia / Masoretic Text (DSS and other versions; deuterocanonicals mainly LXX) | Nestle-Aland / UBS critical text |
-| RSV | Revised Standard Version | 1952 (NT 1946; updates later) | Masoretic Text / Biblia Hebraica (early DSS influence, e.g., Isaiah) | Nestle Greek text (critical) |
-| RSV-2CE | Revised Standard Version, Second Catholic Edition | 2006 | Based on RSV (Masoretic Text / Biblia Hebraica tradition; deuterocanonicals LXX/Vulgate influence) | Based on RSV (Nestle critical text); limited updates per **Liturgiam Authenticam** |
-| SLT | Smith’s Literal Translation (Julia E. Smith) | 1876 | Hebrew Masoretic Text (literal rendering from original tongues) | Greek Textus Receptus / traditional text (literal rendering) |
-| TRB | The Readable Bible | 2024 (Complete Bible; an earlier partial edition appeared in 2022) | Biblia Hebraica Stuttgartensia (BHS), 5th ed. (modified in some passages by the Septuagint, Dead Sea Scrolls, Samaritan Pentateuch, Targums, and Syriac text where BHS is questionable) | Nestle-Aland Novum Testamentum Graece, 28th ed. (modified in some passages by more recent manuscript and textual discoveries) |
-| WBT | Webster’s Bible Translation | 1833 | Masoretic Text (via KJV revision) | Textus Receptus (via KJV revision) |
-| WEB | World English Bible | Drafts from 1997; essentially complete ~2000–2020 | Biblia Hebraica Stuttgartensia (some LXX/DSS influence) | Byzantine Majority Text (Robinson-Pierpont / related) |
-| YLT | Young’s Literal Translation | 1862 (revised 1887/1898) | Masoretic Text | Textus Receptus |
+| Abbreviation | Full Name | Year | Old Testament Basis | New Testament Basis | Translation Philosophy | Includes Deuterocanon |
+|-------------------------|---------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------|:---:|
+| AKJV | American King James Version | 1999 | Masoretic Text (via KJV) | Textus Receptus (via KJV) | Formal, light KJV modernization | No |
+| AMP | Amplified Bible | 1965 (updated 1987/2015) | Masoretic Text / Biblia Hebraica (OT drafts followed the RSV base closely, including some RSV emendations; DSS/LXX consulted) | Westcott-Hort / Nestle (critical text; via ASV base) | Expanded/amplified literal | No |
+| ASV | American Standard Version | 1901 | Masoretic Text (with some LXX influence) | Westcott-Hort 1881 + Tregelles 1857 | Formal, essentially literal | No |
+| BSB | Berean Standard Bible | 2016 (NT); complete ~2020–2022 | Masoretic Text / Leningrad Codex (favoring MT over LXX) | Nestle-Aland critical text (favoring earlier Alexandrian manuscripts) | Essentially literal | No |
+| CJB | Complete Jewish Bible | 1998 | Masoretic Text | UBS Greek New Testament, 3rd ed. (1975) | Idiomatic, Messianic-Jewish framing | No |
+| CPDV | Catholic Public Domain Version | 2009 | Latin Vulgate (primarily Clementine / Sixtus-Clementine editions) | Latin Vulgate (Clementine) | Formal, literal Vulgate rendering | Yes |
+| CSB | Christian Standard Bible | 2017 | Biblia Hebraica Stuttgartensia (BHS) | Nestle-Aland 28th ed. / UBS 5th ed. | Optimal equivalence (balanced) | No |
+| DBT | Darby Bible Translation (Darby) | 1890 (NT earlier editions from 1867) | Masoretic Text | Critical texts (including Vaticanus, Sinaiticus, and other early manuscripts; not primarily TR) | Extremely literal | No |
+| DR | Douay-Rheims Bible (Challoner revision; also abbreviated DRB) | 1582 (NT); 1609–1610 (OT); Challoner 1749–1752 | Latin Vulgate (Clementine / related editions; original languages consulted secondarily) | Latin Vulgate (Clementine / related editions) | Formal, literal Vulgate rendering | Yes |
+| ERV | Easy-to-Read Version | ~1987 / revised editions (e.g., 2004) | Biblia Hebraica Stuttgartensia (with DSS and LXX readings where preferred) | UBS Greek New Testament (4th ed.) / Nestle-Aland 27th ed. | Simplified, controlled-vocabulary | No |
+| ESV | English Standard Version | 2001 (revisions 2007, 2011, 2016) | Biblia Hebraica Stuttgartensia (DSS, LXX, and other versions in difficult cases) | Nestle-Aland / UBS critical text (primarily 27th/28th eds. and equivalents) | Essentially literal | No |
+| KJV | King James Version (Authorized Version) | 1611 (standard Cambridge/Oxford editions 1769) | Masoretic Text (Bomberg / related; some LXX/Vulgate influence especially for Apocrypha) | Textus Receptus (primarily Beza 1598 and related editions) | Formal, Elizabethan English | No (in editions tracked here) |
+| LSB | Legacy Standard Bible | 2021 | Biblia Hebraica Stuttgartensia (with DSS and lexicographical insights) | Nestle-Aland 27th ed. (28th ed. for General Epistles); SBL GNT and Tyndale House GNT consulted | Highly literal | No |
+| NABRE | New American Bible Revised Edition | 2011 (NT revision 1986) | Biblia Hebraica Stuttgartensia / Masoretic Text (DSS and LXX consulted; deuterocanonicals mainly LXX) | UBS 3rd ed. / Nestle-Aland 26th ed. | Formal, moderate | Yes |
+| NASB | New American Standard Bible | 1971 (updates 1977, 1995, 2020) | Biblia Hebraica / BHS (DSS consulted; BHQ where available in later editions) | Nestle-Aland (23rd ed. original; later 26th–28th eds.) | Highly literal | No |
+| NET | New English Translation (NET Bible) | 2001 (updates through 2019) | Biblia Hebraica Stuttgartensia | Nestle-Aland 27th ed. / UBS 4th ed. (eclectic critical text) | Balanced, with extensive translator notes | No |
+| NIV | New International Version | 1978 (updates 1984, 2011) | Biblia Hebraica / Masoretic Text (DSS, Samaritan Pentateuch, LXX, and other versions consulted) | Eclectic critical text based on Nestle-Aland / UBS editions | Balanced (mediating) equivalence | No |
+| NKJV | New King James Version | 1982 (NT 1979) | Biblia Hebraica Stuttgartensia (with comparisons to earlier Masoretic editions) | Textus Receptus (footnotes note Critical Text / Majority Text variants) | Formal, updates KJV language | No |
+| NLT | New Living Translation | 1996 (updates 2004, 2007, 2015) | Biblia Hebraica Stuttgartensia (DSS, LXX, Samaritan Pentateuch, Peshitta, Vulgate consulted) | UBS 4th ed. / Nestle-Aland 27th ed. | Dynamic / meaning-based | No |
+| NRSV-CE | New Revised Standard Version Catholic Edition | 1989 (CE 1991) | Biblia Hebraica Stuttgartensia / Masoretic Text (DSS and other versions; deuterocanonicals mainly LXX) | Nestle-Aland / UBS critical text | Formal, with gender-accurate language | Yes |
+| RSV | Revised Standard Version | 1952 (NT 1946; updates later) | Masoretic Text / Biblia Hebraica (early DSS influence, e.g., Isaiah) | Nestle Greek text (critical) | Formal, essentially literal | No |
+| RSV-2CE | Revised Standard Version, Second Catholic Edition | 2006 | Based on RSV (Masoretic Text / Biblia Hebraica tradition; deuterocanonicals LXX/Vulgate influence) | Based on RSV (Nestle critical text); limited updates per **Liturgiam Authenticam** | Formal, restores traditional wording | Yes |
+| SLT | Smith’s Literal Translation (Julia E. Smith) | 1876 | Hebrew Masoretic Text (literal rendering from original tongues) | Greek Textus Receptus / traditional text (literal rendering) | Extremely literal | No |
+| TRB | The Readable Bible | 2024 (Complete Bible; an earlier partial edition appeared in 2022) | Biblia Hebraica Stuttgartensia (BHS), 5th ed. (modified in some passages by the Septuagint, Dead Sea Scrolls, Samaritan Pentateuch, Targums, and Syriac text where BHS is questionable) | Nestle-Aland Novum Testamentum Graece, 28th ed. (modified in some passages by more recent manuscript and textual discoveries) | Literal, reformatted for readability | No |
+| WBT | Webster’s Bible Translation | 1833 | Masoretic Text (via KJV revision) | Textus Receptus (via KJV revision) | Formal, light KJV modernization | No |
+| WEB | World English Bible | Drafts from 1997; essentially complete ~2000–2020 | Biblia Hebraica Stuttgartensia (some LXX/DSS influence) | Byzantine Majority Text (Robinson-Pierpont / related) | Formal, modernized ASV | No |
+| YLT | Young’s Literal Translation | 1862 (revised 1887/1898) | Masoretic Text | Textus Receptus | Extremely literal | No |
+
+"Includes Deuterocanon" reflects the specific edition tracked in this book, not every edition ever published under that name -- some KJV printings historically included the Apocrypha as a separate section, but the edition tracked here does not.
 
 **Notes**
 

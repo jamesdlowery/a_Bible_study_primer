@@ -20,11 +20,11 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Character of Each Source Manuscript Tradition | How those traditions are weighed against one another |
 | Popular Bible Translations | An overview of English translation philosophy generally |
 | Bible Translations and Their Source Manuscripts | Which manuscript traditions underlie which translations |
-| Histories of Various Bible Translations | A history for each of 26 major translations |
+| Histories of Various Bible Translations | A history for each of {{TRANSLATION_COUNT}} major translations |
 | Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all {{TRANSLATION_COUNT}} tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
 | Top Christian Denominations | Profiles of the 25 most prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
-| Top Study Bibles | Profiles of 25 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
+| Top Study Bibles | Profiles of 27 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
 | References for Further Reading | A bibliography for readers who want to go deeper on any section |
 
 Within each folder, files are numbered the same way, so everything sorts correctly whether you're browsing on GitHub or reading the compiled document.

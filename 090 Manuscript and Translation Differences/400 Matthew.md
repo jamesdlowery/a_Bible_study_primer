@@ -30,7 +30,7 @@ The New Testament's textual situation is fundamentally different from the Old Te
 
 ## 3. Matthew 17:21 — "this kind goeth not out but by prayer and fasting"
 
-**The variant:** After the disciples fail to cast out a demon and ask Jesus why, the majority of later Greek manuscripts (and so the Textus Receptus) add his explanation: "Howbeit this kind goeth not out but by prayer and fasting." This verse is absent from the earliest manuscripts (including Sinaiticus and Vaticanus), and most textual scholars regard it as an early scribal harmonization, copied in from the nearly identical explanation at Mark 9:29 (itself also textually disputed — see the companion Mark document).
+**The variant:** After the disciples fail to cast out a demon and ask Jesus why, the majority of later Greek manuscripts (and so the Textus Receptus) add his explanation: "Howbeit this kind goeth not out but by prayer and fasting." This verse is absent from the earliest manuscripts (including Sinaiticus and Vaticanus), and most textual scholars regard it as an early scribal harmonization, copied in from the nearly identical explanation at Mark 9:29 (itself also textually disputed — see the companion Mark chapter).
 
 **Why it matters:** The verse has shaped a great deal of Christian teaching and practice around fasting as a spiritual discipline connected to answered prayer and spiritual authority, making its textual status directly relevant to how much weight that specific pairing of "prayer and fasting" should carry as Jesus' own recorded words at this point in the narrative.
 

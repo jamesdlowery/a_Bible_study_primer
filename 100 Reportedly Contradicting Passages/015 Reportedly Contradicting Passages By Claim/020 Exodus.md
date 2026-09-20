@@ -9,7 +9,9 @@ resolvable the claim appears in English), and gives the standard scholarly recon
 harmonization.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim (for example, Deuteronomy 16:8's "six days" against Exodus 12:15's "seven days," and
 1 Kings 8:9's description of the ark's contents). Where no such check turned up a meaningful

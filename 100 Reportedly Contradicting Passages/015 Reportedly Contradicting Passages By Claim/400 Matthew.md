@@ -26,7 +26,9 @@ scholarly diversity of opinion, including on questions (entry 12 especially) tha
 up with sincerely contested denominational differences this project does not adjudicate.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -64,7 +66,7 @@ primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render Matthew 1:1-17 and Luke 3:23-38 plainly and consistently as given, without harmonizing the two genealogies in the text itself; this is a matter of historical and genealogical interpretation, not translation choice.
 
-**Reconciliation:** This is one of the most extensively discussed harmonization questions in the entire New Testament. The standard, long-held resolution, traceable at least to the early church historian Eusebius and reflected in most conservative commentary since, holds that the two genealogies trace two different lines because they serve two different purposes and, in the majority reading, follow two different family lines entirely. Matthew traces Joseph's own legal, royal descent through Solomon's kingly line, establishing Jesus' legal right to David's throne through his adoptive father Joseph -- appropriate to Matthew's overall interest in Jesus as the promised Davidic king. Luke, on the majority interpretive reading, actually traces Mary's own biological descent through Nathan's non-royal line, with 'Heli' understood as Mary's father, and Joseph's own listing in Luke 3:23 ('being the son, as was supposed, of Joseph') read as Joseph being Heli's son-in-law rather than blood son -- a common ancient convention when a genealogy passed through a daughter with no surviving sons. This reading is also the standard explanation offered in this project's own earlier discussion of Jeremiah's curse on Jehoiachin, addressed at length in the companion Jeremiah and Haggai documents. If Matthew's line, which includes the cursed Jehoiachin, traces Joseph's legal claim, while Luke's line, which does not pass through Jehoiachin at all, traces Mary's own biological descent, then Jesus inherits David's legal throne-right through his adoptive father while avoiding Jehoiachin's specific curse through his actual, virgin-born biological descent via Mary. A minority of scholars read both genealogies as tracing Joseph's own line by two different, both fully biological, reckonings, with adoptive or levirate marriage customs proposed to explain the divergence. This project does not adjudicate this position as superior to the majority reading, noting only that multiple serious harmonizations have been proposed and defended at length.
+**Reconciliation:** This is one of the most extensively discussed harmonization questions in the entire New Testament. The standard, long-held resolution, traceable at least to the early church historian Eusebius and reflected in most conservative commentary since, holds that the two genealogies trace two different lines because they serve two different purposes and, in the majority reading, follow two different family lines entirely. Matthew traces Joseph's own legal, royal descent through Solomon's kingly line, establishing Jesus' legal right to David's throne through his adoptive father Joseph -- appropriate to Matthew's overall interest in Jesus as the promised Davidic king. Luke, on the majority interpretive reading, actually traces Mary's own biological descent through Nathan's non-royal line, with 'Heli' understood as Mary's father, and Joseph's own listing in Luke 3:23 ('being the son, as was supposed, of Joseph') read as Joseph being Heli's son-in-law rather than blood son -- a common ancient convention when a genealogy passed through a daughter with no surviving sons. This reading is also the standard explanation offered in this project's own earlier discussion of Jeremiah's curse on Jehoiachin, addressed at length in the companion Jeremiah and Haggai chapters. If Matthew's line, which includes the cursed Jehoiachin, traces Joseph's legal claim, while Luke's line, which does not pass through Jehoiachin at all, traces Mary's own biological descent, then Jesus inherits David's legal throne-right through his adoptive father while avoiding Jehoiachin's specific curse through his actual, virgin-born biological descent via Mary. A minority of scholars read both genealogies as tracing Joseph's own line by two different, both fully biological, reckonings, with adoptive or levirate marriage customs proposed to explain the divergence. This project does not adjudicate this position as superior to the majority reading, noting only that multiple serious harmonizations have been proposed and defended at length.
 
 ---
 
@@ -548,15 +550,15 @@ primary texts and the cross-references directly.
 
 ---
 
-### 36. 'Thirty pieces of silver... thrown to the potter' -- attributed to 'Jeremiah,' addressed at length in the companion Zechariah document
+### 36. 'Thirty pieces of silver... thrown to the potter' -- attributed to 'Jeremiah,' addressed at length in the companion Zechariah chapter
 
 **References:** Matthew 27:9-10; Zechariah 11:12-13
 
-**The claim:** Matthew 27:9-10 attributes a citation regarding the 'thirty pieces of silver' and the potter's field to 'the prophet Jeremiah,' yet the specific wording matches Zechariah 11:12-13, not any passage found in the book of Jeremiah -- a well-known textual puzzle addressed at greater length in this project's companion Zechariah document.
+**The claim:** Matthew 27:9-10 attributes a citation regarding the 'thirty pieces of silver' and the potter's field to 'the prophet Jeremiah,' yet the specific wording matches Zechariah 11:12-13, not any passage found in the book of Jeremiah -- a well-known textual puzzle addressed at greater length in this project's companion Zechariah chapter.
 
-**How the translations render it:** All 27 tracked translations render Matthew 27:9-10 consistently; see the companion Zechariah document for the fuller discussion of this attribution question.
+**How the translations render it:** All 27 tracked translations render Matthew 27:9-10 consistently; see the companion Zechariah chapter for the fuller discussion of this attribution question.
 
-**Reconciliation:** This question is treated fully in the companion Zechariah document, which addresses two leading explanations: the traditional Hebrew ordering of the prophetic scrolls placed Jeremiah first, allowing 'Jeremiah' to function as a way of citing the entire prophetic collection by its lead book; and/or Matthew is deliberately weaving together Zechariah's specific numerical and 'potter' details with imagery more distinctively associated with Jeremiah's own extended potter, field, and burial-ground material (Jeremiah 18-19, 32), attributing the composite citation to the prophet whose imagery supplies its most substantial and unusual element (the field itself).
+**Reconciliation:** This question is treated fully in the companion Zechariah chapter, which addresses two leading explanations: the traditional Hebrew ordering of the prophetic scrolls placed Jeremiah first, allowing 'Jeremiah' to function as a way of citing the entire prophetic collection by its lead book; and/or Matthew is deliberately weaving together Zechariah's specific numerical and 'potter' details with imagery more distinctively associated with Jeremiah's own extended potter, field, and burial-ground material (Jeremiah 18-19, 32), attributing the composite citation to the prophet whose imagery supplies its most substantial and unusual element (the field itself).
 
 ---
 
@@ -590,15 +592,15 @@ primary texts and the cross-references directly.
 
 ---
 
-### 39. The Triumphal Entry: one donkey, or two? Addressed at length in the companion Zechariah document
+### 39. The Triumphal Entry: one donkey, or two? Addressed at length in the companion Zechariah chapter
 
 **References:** Matthew 21:1-7; Zechariah 9:9
 
-**The claim:** Matthew's account of the Triumphal Entry describes both a donkey and its colt being brought to Jesus (21:2, 7), a detail some read as depicting Jesus riding two animals simultaneously, in a manner some scholars connect to Matthew's own handling of Zechariah 9:9's Hebrew poetic parallelism -- addressed at length in this project's companion Zechariah document, which treats this as one of its own central entries.
+**The claim:** Matthew's account of the Triumphal Entry describes both a donkey and its colt being brought to Jesus (21:2, 7), a detail some read as depicting Jesus riding two animals simultaneously, in a manner some scholars connect to Matthew's own handling of Zechariah 9:9's Hebrew poetic parallelism -- addressed at length in this project's companion Zechariah chapter, which treats this as one of its own central entries.
 
-**How the translations render it:** All 27 tracked translations render Matthew 21:1-7 consistently; see the companion Zechariah document for the fuller discussion of this question, including citation to Stephen C. Carlson, "'The Jenny and the Colt' in Matthew's Messianic Entry," Catholic Biblical Quarterly 81, no. 1 (2019): 62-84, and no. 2 (2019): 235-251, which analyzes this question directly.
+**How the translations render it:** All 27 tracked translations render Matthew 21:1-7 consistently; see the companion Zechariah chapter for the fuller discussion of this question, including citation to Stephen C. Carlson, "'The Jenny and the Colt' in Matthew's Messianic Entry," Catholic Biblical Quarterly 81, no. 1 (2019): 62-84, and no. 2 (2019): 235-251, which analyzes this question directly.
 
-**Reconciliation:** This question is treated fully in the companion Zechariah document, which presents the genuine scholarly division on this question: the majority position holds Matthew is simply recording, in additional detail the other Synoptic accounts omit, that a mother donkey accompanied her colt (a natural detail for leading an unbroken young animal), with Jesus riding only the colt; a minority position holds Matthew read Zechariah 9:9's Hebrew synonymous parallelism (describing one animal in two poetic phrases) overly literally, producing an account of two distinct animals. Both positions are addressed there with citation to Stephen C. Carlson, "'The Jenny and the Colt' in Matthew's Messianic Entry," Catholic Biblical Quarterly 81, no. 1 (2019): 62-84, and no. 2 (2019): 235-251, which analyzes this question directly.
+**Reconciliation:** This question is treated fully in the companion Zechariah chapter, which presents the genuine scholarly division on this question: the majority position holds Matthew is simply recording, in additional detail the other Synoptic accounts omit, that a mother donkey accompanied her colt (a natural detail for leading an unbroken young animal), with Jesus riding only the colt; a minority position holds Matthew read Zechariah 9:9's Hebrew synonymous parallelism (describing one animal in two poetic phrases) overly literally, producing an account of two distinct animals. Both positions are addressed there with citation to Stephen C. Carlson, "'The Jenny and the Colt' in Matthew's Messianic Entry," Catholic Biblical Quarterly 81, no. 1 (2019): 62-84, and no. 2 (2019): 235-251, which analyzes this question directly.
 
 ---
 
@@ -796,7 +798,7 @@ primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
-**Reconciliation:** This question is addressed at length in this project's companion Malachi document (see its entry on Malachi 4:5-6, discussing Jesus' identification of John with Elijah's promised return, John's own denial in John 1:21, and Luke 1:17's clarifying statement that John would come 'in the spirit and power of Elijah'); the same distinction between typological, functional fulfillment and literal personal identity applies here without modification.
+**Reconciliation:** This question is addressed at length in this project's companion Malachi chapter (see its entry on Malachi 4:5-6, discussing Jesus' identification of John with Elijah's promised return, John's own denial in John 1:21, and Luke 1:17's clarifying statement that John would come 'in the spirit and power of Elijah'); the same distinction between typological, functional fulfillment and literal personal identity applies here without modification.
 
 ---
 
@@ -808,7 +810,7 @@ primary texts and the cross-references directly.
 
 **References:** Matthew 5:43-44; Psalm 137:8-9; Deuteronomy 7:1-2
 
-**The claim:** Matthew 5:43-44 has Jesus command, 'Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you.' This is set by some against Old Testament texts describing hostility toward enemies, including the imprecatory psalms (addressed at length in the companion Psalms document) and the commanded conquest of the Canaanite nations (addressed in the companion Deuteronomy and Joshua documents).
+**The claim:** Matthew 5:43-44 has Jesus command, 'Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you.' This is set by some against Old Testament texts describing hostility toward enemies, including the imprecatory psalms (addressed at length in the companion Psalms chapter) and the commanded conquest of the Canaanite nations (addressed in the companion Deuteronomy and Joshua chapters).
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
@@ -840,7 +842,7 @@ primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
-**Reconciliation:** This question touches the same ground addressed at length elsewhere in this project regarding Old Testament civil penalties and their relationship to the New Testament era (see the companion Leviticus document's entries on Levitical capital penalties, and the Deuteronomy document's entry on the 'curse of the law'). Jesus' citation here serves a specific rhetorical purpose -- demonstrating that the Pharisees' own human tradition ('Corban,' allowing a technical vow to override the commandment to honor one's parents) actually violated the very Mosaic law they claimed to uphold, a point about their internal inconsistency and hypocrisy rather than a personal endorsement of executing this particular penalty under the new covenant. Citing an Old Testament law to expose a specific instance of hypocrisy is not the same as prescribing that law's civil penalties as a program for New Testament-era believers or societies to implement.
+**Reconciliation:** This question touches the same ground addressed at length elsewhere in this project regarding Old Testament civil penalties and their relationship to the New Testament era (see the companion Leviticus chapter's entries on Levitical capital penalties, and the Deuteronomy document's entry on the 'curse of the law'). Jesus' citation here serves a specific rhetorical purpose -- demonstrating that the Pharisees' own human tradition ('Corban,' allowing a technical vow to override the commandment to honor one's parents) actually violated the very Mosaic law they claimed to uphold, a point about their internal inconsistency and hypocrisy rather than a personal endorsement of executing this particular penalty under the new covenant. Citing an Old Testament law to expose a specific instance of hypocrisy is not the same as prescribing that law's civil penalties as a program for New Testament-era believers or societies to implement.
 
 ---
 

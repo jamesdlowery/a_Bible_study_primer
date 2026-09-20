@@ -15,7 +15,9 @@ with this project's practice of flagging genuine open questions rather than manu
 false certainty.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -268,9 +270,9 @@ texts and the cross-references directly.
 
 **The claim:** 1 Kings 6:1 states the Temple's construction began 480 years after the Exodus. Adding up the individual reign and judgeship lengths recorded through the books of Judges, Samuel, and the early monarchy produces a total noticeably higher than 480 years by many reckonings.
 
-**How the translations render it:** All 27 tracked translations render 1 Kings 6:1's '480 years' exactly as given, without adjusting the figure; the resolution is a matter of historical-chronological interpretation, addressed at greater length in the companion Judges document, not translation choice.
+**How the translations render it:** All 27 tracked translations render 1 Kings 6:1's '480 years' exactly as given, without adjusting the figure; the resolution is a matter of historical-chronological interpretation, addressed at greater length in the companion Judges chapter, not translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion Judges document, which addresses the cumulative judges-period arithmetic directly. In brief, the most widely offered harmonization treats 480 (12 x 40) as a stylized, generation-counting figure common in ancient Near Eastern chronological writing rather than a strict sum of sequential periods, and holds that several of the judgeships recorded in Judges were regional rather than nationwide, and therefore overlapped in time rather than following one another in a single unbroken sequence -- which would make a straightforward addition of every period's length an overstatement of the actual elapsed time even on the text's own terms.
+**Reconciliation:** This question is treated at greater length in the companion Judges chapter, which addresses the cumulative judges-period arithmetic directly. In brief, the most widely offered harmonization treats 480 (12 x 40) as a stylized, generation-counting figure common in ancient Near Eastern chronological writing rather than a strict sum of sequential periods, and holds that several of the judgeships recorded in Judges were regional rather than nationwide, and therefore overlapped in time rather than following one another in a single unbroken sequence -- which would make a straightforward addition of every period's length an overstatement of the actual elapsed time even on the text's own terms.
 
 ---
 
@@ -442,7 +444,7 @@ texts and the cross-references directly.
 
 **The claim:** Deuteronomy's law governing a future Israelite king explicitly prohibits the king from acquiring many horses, many wives ('lest his heart turn away'), or excessive silver and gold. This book describes Solomon doing all three at an extraordinary scale -- vast horse-trading operations (10:26-29), 700 wives and 300 concubines explicitly said to have turned his heart away after his foreign wives led him into idolatry (11:1-8), and enormous quantities of gold (10:14-25) -- largely without an immediate prophetic rebuke recorded at the moment each accumulation is first described, though the text does record God's displeasure and its consequences shortly afterward, in 11:9-13.
 
-**How the translations render it:** All 27 tracked translations render both passages plainly and consistently as given; the connection between them is a matter of recognizing this book's own narrative structure and echoing vocabulary, not translation choice. This same question, and the same "horses/wives/gold" pattern, is treated at greater length in this project's Deuteronomy companion document, which addresses Deuteronomy 17:14-17's own textual details directly.
+**How the translations render it:** All 27 tracked translations render both passages plainly and consistently as given; the connection between them is a matter of recognizing this book's own narrative structure and echoing vocabulary, not translation choice. This same question, and the same "horses/wives/gold" pattern, is treated at greater length in this project's Deuteronomy companion chapter, which addresses Deuteronomy 17:14-17's own textual details directly.
 
 **Reconciliation:** This is not generally treated as Scripture contradicting itself but as Scripture directly illustrating, in narrative form, the very failure Deuteronomy's law was written to prevent -- the author narrates Solomon's accumulations largely without comment through chapter 10, then explicitly ties the consequence (God's anger, the announced division of the kingdom) directly back to the specific violation of exactly this pattern in 11:1-13, using language ('his wives turned away his heart,' 11:3) that directly echoes Deuteronomy 17:17's warning. Far from an oversight, most commentators read 1 Kings 10-11 as a deliberate, structured demonstration of Deuteronomy's king-law being violated in each of its particulars, with consequences following exactly as that law implied they would.
 

@@ -18,7 +18,9 @@ mother's name and Zechariah's father's name) presented candidly as open question
 serious scholars have not reached consensus.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -86,9 +88,9 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **The claim:** This book states Solomon had 4,000 stalls of horses for his chariots (9:25); the parallel at 1 Kings 4:26 (Masoretic Hebrew) states 40,000.
 
-**How the translations render it:** All 27 tracked translations render this book's '4,000' consistently and without dispute; the translation variance in this discrepancy occurs entirely at 1 Kings 4:26, addressed in the companion 1 Kings document with full translation-by-translation detail (where the great majority of the 27 tracked translations, including Douay-Rheims, RSV, ASV, WEB, Webster's Bible, YLT, and Darby, are confirmed retaining the Masoretic "40,000," with only NIV, NLT, the BSB, and the NABRE confirmed adopting the harmonized "4,000").
+**How the translations render it:** All 27 tracked translations render this book's '4,000' consistently and without dispute; the translation variance in this discrepancy occurs entirely at 1 Kings 4:26, addressed in the companion 1 Kings chapter with full translation-by-translation detail (where the great majority of the 27 tracked translations, including Douay-Rheims, RSV, ASV, WEB, Webster's Bible, YLT, and Darby, are confirmed retaining the Masoretic "40,000," with only NIV, NLT, the BSB, and the NABRE confirmed adopting the harmonized "4,000").
 
-**Reconciliation:** This question is treated at greater length in the companion 1 Kings document, which addresses 1 Kings 4:26 as the disputed text. In brief, given that 1 Kings 10:26 elsewhere states Solomon had 1,400 chariots, a ratio requiring 40,000 stalls is widely judged implausible, while 4,000 fits comfortably; most textual scholars conclude 40,000 is a scribal error in the Masoretic transmission of the Kings parallel, with this book's 4,000 widely regarded as the more likely original figure -- though, as the companion document shows, the great majority of tracked translations across every era in fact retain the Kings passage's traditional Masoretic 40,000 figure rather than adopting the harmonized reading found in this book.
+**Reconciliation:** This question is treated at greater length in the companion 1 Kings chapter, which addresses 1 Kings 4:26 as the disputed text. In brief, given that 1 Kings 10:26 elsewhere states Solomon had 1,400 chariots, a ratio requiring 40,000 stalls is widely judged implausible, while 4,000 fits comfortably; most textual scholars conclude 40,000 is a scribal error in the Masoretic transmission of the Kings parallel, with this book's 4,000 widely regarded as the more likely original figure -- though, as the companion chapter shows, the great majority of tracked translations across every era in fact retain the Kings passage's traditional Masoretic 40,000 figure rather than adopting the harmonized reading found in this book.
 
 ---
 
@@ -134,7 +136,7 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render both accounts plainly and consistently as given; the harmonization concerns recognizing each book's differing scope and selective emphasis, not translation choice.
 
-**Reconciliation:** These are best read as complementary rather than conflicting accounts, reflecting each book's own selective emphasis: 2 Kings, more narrowly focused on the specific covenant-renewal crisis triggered by the book's discovery and its immediate national consequences, begins its account of Josiah's reign at that pivotal moment without necessarily implying no prior reform activity had occurred (2 Kings nowhere states Josiah did nothing religiously significant before his eighteenth year); this book, with its characteristic interest in supplying fuller detail on the personal piety and gradual moral development of its kings, traces Josiah's reforming zeal back to its earlier roots, showing a young king's faith and reforming energy building for over a decade before the book's dramatic discovery served as a capstone confirmation and intensification of a reform already well underway, rather than its sole trigger. This is treated as a straightforward case of one account supplementing rather than contradicting a shorter parallel, consistent with a pattern already documented for Manasseh's and Josiah's own death narratives in the companion 2 Kings document.
+**Reconciliation:** These are best read as complementary rather than conflicting accounts, reflecting each book's own selective emphasis: 2 Kings, more narrowly focused on the specific covenant-renewal crisis triggered by the book's discovery and its immediate national consequences, begins its account of Josiah's reign at that pivotal moment without necessarily implying no prior reform activity had occurred (2 Kings nowhere states Josiah did nothing religiously significant before his eighteenth year); this book, with its characteristic interest in supplying fuller detail on the personal piety and gradual moral development of its kings, traces Josiah's reforming zeal back to its earlier roots, showing a young king's faith and reforming energy building for over a decade before the book's dramatic discovery served as a capstone confirmation and intensification of a reform already well underway, rather than its sole trigger. This is treated as a straightforward case of one account supplementing rather than contradicting a shorter parallel, consistent with a pattern already documented for Manasseh's and Josiah's own death narratives in the companion 2 Kings chapter.
 
 ---
 
@@ -146,7 +148,7 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **The claim:** Leviticus 25:1-7 commands a Sabbath year of rest for the land every seventh year. This book states that the seventy-year Babylonian exile corresponded specifically to 'the days that it lay desolate it kept sabbath, to fulfil threescore and ten years' (36:21) -- explaining the seventy-year figure as compensation for the accumulated Sabbath years Israel had failed to observe throughout the preceding centuries, in fulfillment of Jeremiah's prophecy (Jeremiah 25:11-12).
 
-**How the translations render it:** All 27 tracked translations render 2 Chronicles 36:21's explanatory statement identically; no translation differences are involved. This same passage, and its 490-year calculation, is treated at greater length in this project's Leviticus companion document.
+**How the translations render it:** All 27 tracked translations render 2 Chronicles 36:21's explanatory statement identically; no translation differences are involved. This same passage, and its 490-year calculation, is treated at greater length in this project's Leviticus companion chapter.
 
 **Reconciliation:** This is not a contradiction but a case where this book supplies its own explicit theological explanation for a chronological figure (the seventy years) that Jeremiah's prophecy states but does not itself explain -- 2 Chronicles 36:21 directly connects the exile's length to the land's accumulated, unobserved Sabbath-year rest, implying roughly 490 years (seventy sabbatical cycles of seven years each) of prior non-observance across the monarchy period, a figure broadly consistent with standard chronological reckonings of Israel's time in the land from the conquest to the exile. This entry is included as an example, alongside a few others in this project, of an apparent 'unexplained number' in one biblical text (Jeremiah's seventy years) receiving its own explicit, internally-supplied explanation elsewhere in Scripture, rather than being left to speculation.
 
@@ -160,9 +162,9 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **The claim:** This book states, 'In the thirty-sixth year of the reign of Asa, Baasha king of Israel came up against Judah' (16:1). Yet 1 Kings 15:33 and 16:8 together establish that Baasha began to reign in Asa's third year and reigned 24 years, meaning his death fell in Asa's 26th year -- ten years before this book's stated date for his campaign against Judah.
 
-**How the translations render it:** All 27 tracked translations render '36' at this verse and '24 years'/'26th year' at the 1 Kings parallel exactly as given in the Masoretic Hebrew, without adjusting any of the figures; see the companion 1 Kings document for the fuller, unresolved discussion.
+**How the translations render it:** All 27 tracked translations render '36' at this verse and '24 years'/'26th year' at the 1 Kings parallel exactly as given in the Masoretic Hebrew, without adjusting any of the figures; see the companion 1 Kings chapter for the fuller, unresolved discussion.
 
-**Reconciliation:** This question is treated at greater length in the companion 1 Kings document, which presents it candidly as a genuinely unresolved chronological puzzle rather than manufacturing a confident answer: the leading proposed solutions (a scribal transmission error reading '36' for an original '26,' following an observation credited to Josephus; or reckoning the '36th year' from the division of the kingdom under Rehoboam rather than from Asa's own accession) each face real objections from serious conservative scholars, and no single explanation commands full consensus.
+**Reconciliation:** This question is treated at greater length in the companion 1 Kings chapter, which presents it candidly as a genuinely unresolved chronological puzzle rather than manufacturing a confident answer: the leading proposed solutions (a scribal transmission error reading '36' for an original '26,' following an observation credited to Josephus; or reckoning the '36th year' from the division of the kingdom under Rehoboam rather than from Asa's own accession) each face real objections from serious conservative scholars, and no single explanation commands full consensus.
 
 ---
 
@@ -208,7 +210,7 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render this book's fuller account plainly and consistently as given; the harmonization concerns recognizing each book's distinct selective purpose, not translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion 2 Kings document, which addresses 2 Kings 21 as the shorter parallel account. In brief, this is not a contradiction (2 Kings never states or implies Manasseh did not repent, only that it does not mention it) but a difference in selection consistent with each book's distinct purpose: 2 Kings, tracing Judah's cumulative covenant unfaithfulness toward the coming exile, has a clear thematic reason to emphasize Manasseh's guilt and its lasting consequences (even after his own repentance, per 2 Kings 23:26-27, 24:3-4); this book, written after the exile for a returning community needing a message of hope and the possibility of restoration through repentance, has an equally clear thematic reason to include Manasseh's captivity and repentance as an encouraging pattern for its own audience.
+**Reconciliation:** This question is treated at greater length in the companion 2 Kings chapter, which addresses 2 Kings 21 as the shorter parallel account. In brief, this is not a contradiction (2 Kings never states or implies Manasseh did not repent, only that it does not mention it) but a difference in selection consistent with each book's distinct purpose: 2 Kings, tracing Judah's cumulative covenant unfaithfulness toward the coming exile, has a clear thematic reason to emphasize Manasseh's guilt and its lasting consequences (even after his own repentance, per 2 Kings 23:26-27, 24:3-4); this book, written after the exile for a returning community needing a message of hope and the possibility of restoration through repentance, has an equally clear thematic reason to include Manasseh's captivity and repentance as an encouraging pattern for its own audience.
 
 ---
 
@@ -222,7 +224,7 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render this book's fuller account plainly and consistently as given; the harmonization is a matter of recognizing supplementation rather than contradiction, not translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion 2 Kings document. In brief, this is a standard case of one account (this book) narrating at greater length and in more circumstantial detail what a shorter parallel (2 Kings) summarizes briefly, rather than two conflicting versions of the same event -- the core facts agree entirely (Josiah is fatally wounded in battle against Pharaoh Neco at Megiddo and dies before or shortly after reaching Jerusalem), and this book's additional detail supplements rather than contradicts the shorter account in Kings.
+**Reconciliation:** This question is treated at greater length in the companion 2 Kings chapter. In brief, this is a standard case of one account (this book) narrating at greater length and in more circumstantial detail what a shorter parallel (2 Kings) summarizes briefly, rather than two conflicting versions of the same event -- the core facts agree entirely (Josiah is fatally wounded in battle against Pharaoh Neco at Megiddo and dies before or shortly after reaching Jerusalem), and this book's additional detail supplements rather than contradicts the shorter account in Kings.
 
 ---
 
@@ -238,7 +240,7 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render this book's account of Solomon building cities Huram had given him, and 1 Kings 9:11-13's account of Solomon giving cities to Hiram, exactly as given; the harmonization rests on reading the two texts as sequential stages of one transaction, not on translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion 1 Kings document. In brief, commentators overwhelmingly read these as two stages of a single continuous transaction: Solomon first gave the twenty cities to Hiram as payment (1 Kings 9:11), Hiram inspected and rejected them as unsatisfactory (9:12-13), and Hiram then returned the unwanted cities to Solomon, who subsequently rebuilt, fortified, and resettled them with Israelites -- precisely the stage of the process this book describes.
+**Reconciliation:** This question is treated at greater length in the companion 1 Kings chapter. In brief, commentators overwhelmingly read these as two stages of a single continuous transaction: Solomon first gave the twenty cities to Hiram as payment (1 Kings 9:11), Hiram inspected and rejected them as unsatisfactory (9:12-13), and Hiram then returned the unwanted cities to Solomon, who subsequently rebuilt, fortified, and resettled them with Israelites -- precisely the stage of the process this book describes.
 
 ---
 

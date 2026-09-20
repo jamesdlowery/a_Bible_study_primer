@@ -2,7 +2,7 @@
 
 This document catalogs 14 commonly cited alleged contradictions involving the Acts of the
 Apostles, either entirely internal to the book or in comparison with Paul's own letters
-(especially Galatians), the companion Matthew document, and Josephus's independent historical
+(especially Galatians), the companion Matthew chapter, and Josephus's independent historical
 record. For each item, this document states the claim as it is typically raised, notes how the
 tracked translations render the passages involved (only where the translation's own
 wording materially affects how sharp or resolvable the claim appears in English), and gives the
@@ -20,7 +20,9 @@ narrative.
 opinion rather than a single forced resolution.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -63,15 +65,15 @@ primary texts and the cross-references directly.
 
 ---
 
-### 2. Judas's death -- addressed at length in the companion Matthew document
+### 2. Judas's death -- addressed at length in the companion Matthew chapter
 
 **References:** Acts 1:15-19; Matthew 27:3-10
 
-**The claim:** Acts 1:18 describes Judas 'falling headlong' and bursting open, a description addressed at length in the companion Matthew document alongside Matthew 27:5's account of Judas hanging himself.
+**The claim:** Acts 1:18 describes Judas 'falling headlong' and bursting open, a description addressed at length in the companion Matthew chapter alongside Matthew 27:5's account of Judas hanging himself.
 
-**How the translations render it:** All 27 tracked translations render Acts 1:18 plainly and consistently as given; see the companion Matthew document for the fuller discussion of this question.
+**How the translations render it:** All 27 tracked translations render Acts 1:18 plainly and consistently as given; see the companion Matthew chapter for the fuller discussion of this question.
 
-**Reconciliation:** This question is treated fully in the companion Matthew document, which addresses the standard harmonization: Judas hanged himself (Matthew's account of the immediate cause of death), after which the rope or branch gave way, causing a fall onto rocky ground that produced the additional physical detail Acts describes -- two compatible descriptions of the same event from different vantage points and levels of detail, rather than competing claims.
+**Reconciliation:** This question is treated fully in the companion Matthew chapter, which addresses the standard harmonization: Judas hanged himself (Matthew's account of the immediate cause of death), after which the rope or branch gave way, causing a fall onto rocky ground that produced the additional physical detail Acts describes -- two compatible descriptions of the same event from different vantage points and levels of detail, rather than competing claims.
 
 ---
 
@@ -205,7 +207,7 @@ primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render Acts 12:20-23 plainly and consistently as given; this entry addresses a matter of historical corroboration, not translation choice.
 
-**Reconciliation:** This is not treated as a contradiction, but is included here, similar to several other cases of independent historical corroboration addressed elsewhere in this project (Belshazzar's status in the companion Daniel document, the Lysanias identification in the companion Luke document), as a notable point where Acts' own account is independently and substantially corroborated by extra-biblical history. The Jewish historian Josephus, writing independently of any Christian source and with no theological motive to confirm the biblical account, separately records Agrippa I's death in strikingly similar terms (Antiquities of the Jews 19.343-350): during a public festival in Caesarea, the assembled crowd flatteringly hailed Agrippa as a god, he failed to rebuke them, was immediately seized with severe abdominal pain, and died several days later -- a substantially matching account of both the specific occasion (public acclamation as divine) and the general nature of his sudden, agonizing death, from an entirely independent, non-Christian historical source.
+**Reconciliation:** This is not treated as a contradiction, but is included here, similar to several other cases of independent historical corroboration addressed elsewhere in this project (Belshazzar's status in the companion Daniel chapter, the Lysanias identification in the companion Luke chapter), as a notable point where Acts' own account is independently and substantially corroborated by extra-biblical history. The Jewish historian Josephus, writing independently of any Christian source and with no theological motive to confirm the biblical account, separately records Agrippa I's death in strikingly similar terms (Antiquities of the Jews 19.343-350): during a public festival in Caesarea, the assembled crowd flatteringly hailed Agrippa as a god, he failed to rebuke them, was immediately seized with severe abdominal pain, and died several days later -- a substantially matching account of both the specific occasion (public acclamation as divine) and the general nature of his sudden, agonizing death, from an entirely independent, non-Christian historical source.
 
 ---
 
@@ -231,9 +233,9 @@ primary texts and the cross-references directly.
 
 **References:** Acts 7:6; Genesis 15:13; Exodus 12:40-41; Galatians 3:17
 
-**The claim:** In his speech before the Sanhedrin, Stephen states that God told Abraham his descendants would be 'sojourners in a land belonging to others, who will enslave them and afflict them four hundred years' (Acts 7:6, closely echoing Genesis 15:13). Exodus 12:40-41 instead gives a total of 430 years for 'the time that the people of Israel lived in Egypt.' Paul, in Galatians 3:17, uses the 430-year figure but applies it to the span between God's promise to Abraham and the giving of the Law at Sinai -- a different starting point than the descent into Egypt itself. This is the same underlying textual question addressed at greater length in the companion Exodus document (entry 12), here specifically in the form Stephen's speech gives it.
+**The claim:** In his speech before the Sanhedrin, Stephen states that God told Abraham his descendants would be 'sojourners in a land belonging to others, who will enslave them and afflict them four hundred years' (Acts 7:6, closely echoing Genesis 15:13). Exodus 12:40-41 instead gives a total of 430 years for 'the time that the people of Israel lived in Egypt.' Paul, in Galatians 3:17, uses the 430-year figure but applies it to the span between God's promise to Abraham and the giving of the Law at Sinai -- a different starting point than the descent into Egypt itself. This is the same underlying textual question addressed at greater length in the companion Exodus chapter (entry 12), here specifically in the form Stephen's speech gives it.
 
-**How the translations render it:** All 27 tracked translations render Acts 7:6, Genesis 15:13, Exodus 12:40-41, and Galatians 3:17 plainly and consistently as given; this is a matter of historical reconstruction addressed at length in the companion Exodus document, not a matter of translation choice.
+**How the translations render it:** All 27 tracked translations render Acts 7:6, Genesis 15:13, Exodus 12:40-41, and Galatians 3:17 plainly and consistently as given; this is a matter of historical reconstruction addressed at length in the companion Exodus chapter, not a matter of translation choice.
 
 **Reconciliation:** As discussed more fully in the Exodus document's own treatment of this question, the standard harmonization holds that the 400-year figure (Genesis 15:13; Acts 7:6) and the 430-year figure (Exodus 12:40-41; Galatians 3:17) are not strictly interchangeable totals for the same span, and ancient Jewish tradition itself (reflected in the Septuagint's expanded wording at Exodus 12:40, in Josephus, and in rabbinic sources) generally understood 430 years to run from Abraham's original call and covenant to the Exodus (including the patriarchal period in Canaan before the family's descent into Egypt), while treating 400 years as a rounded figure specifically for the sojourn and bondage within Egypt itself, a shorter span nested within the longer 430-year total. On this reading, Stephen (citing Genesis 15:13's 400-year figure for time within Egypt) and Paul (citing the 430-year total from the promise to the Law) are both using figures that were already conventionally understood and distinguished in first-century Jewish exegesis, rather than contradicting either Exodus or each other.
 

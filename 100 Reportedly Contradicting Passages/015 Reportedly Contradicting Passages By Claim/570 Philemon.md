@@ -2,7 +2,7 @@
 
 This document catalogs 3 commonly cited alleged contradictions involving Philemon,
 Paul's shortest surviving letter, either entirely internal to the letter or in comparison
-with the companion Colossians document and 2 Corinthians. For each item, this document states
+with the companion Colossians chapter and 2 Corinthians. For each item, this document states
 the claim as it is typically raised, notes how the tracked translations render the
 passages involved (only where the translation's own wording materially affects how sharp or
 resolvable the claim appears in English), and gives the standard scholarly reconciliation or
@@ -48,7 +48,7 @@ to consult the primary text and the cross-references directly.
 
 **References:** Philemon 1:1-25
 
-**The claim:** Paul's letter to Philemon concerns Onesimus, a slave belonging to Philemon (a wealthy member of the Colossian church, addressed in the companion Colossians document) who had apparently fled and come into contact with Paul, who was then imprisoned. Rather than helping Onesimus escape permanently, hiding him, or declaring the institution of slavery itself unjust, Paul sends Onesimus back to Philemon, accompanied by this letter -- a fact this letter itself has been cited, at direct cross purposes, on both sides of one of history's most consequential moral debates: this letter was extensively and explicitly invoked by pro-slavery advocates in the nineteenth-century American South (one slaveholding writer calling its supposed endorsement of slavery 'clear and conclusive'), while abolitionists pointed to the same letter's own specific language -- Paul's appeal that Philemon receive Onesimus 'no longer as a slave but more than a slave, as a beloved brother' (v.16), and Paul's explicit preference to act 'not by compulsion but of your own accord' (v.14) -- as evidence the letter's actual thrust undermines rather than endorses slavery as an institution.
+**The claim:** Paul's letter to Philemon concerns Onesimus, a slave belonging to Philemon (a wealthy member of the Colossian church, addressed in the companion Colossians chapter) who had apparently fled and come into contact with Paul, who was then imprisoned. Rather than helping Onesimus escape permanently, hiding him, or declaring the institution of slavery itself unjust, Paul sends Onesimus back to Philemon, accompanied by this letter -- a fact this letter itself has been cited, at direct cross purposes, on both sides of one of history's most consequential moral debates: this letter was extensively and explicitly invoked by pro-slavery advocates in the nineteenth-century American South (one slaveholding writer calling its supposed endorsement of slavery 'clear and conclusive'), while abolitionists pointed to the same letter's own specific language -- Paul's appeal that Philemon receive Onesimus 'no longer as a slave but more than a slave, as a beloved brother' (v.16), and Paul's explicit preference to act 'not by compulsion but of your own accord' (v.14) -- as evidence the letter's actual thrust undermines rather than endorses slavery as an institution.
 
 **How the translations render it:** All 27 tracked translations render the entirety of Philemon plainly and consistently as given; this remains one of the most historically significant and actively contested ethical questions addressed anywhere in this project, not resolved through translation choice.
 
@@ -80,7 +80,7 @@ to consult the primary text and the cross-references directly.
 
 **References:** Philemon 1:1-2; Colossians 4:9, 17
 
-**The claim:** Philemon shares several named individuals and circumstances in common with Colossians (addressed in its own companion document), including Onesimus himself, described in Colossians 4:9 as 'our faithful and beloved brother, who is one of you' being sent along with Tychicus -- suggesting both letters were written and delivered at the same time, by the same messengers, to closely related recipients (Philemon likely being a leading member of the Colossian church addressed more broadly in the other letter).
+**The claim:** Philemon shares several named individuals and circumstances in common with Colossians (addressed in its own companion chapter), including Onesimus himself, described in Colossians 4:9 as 'our faithful and beloved brother, who is one of you' being sent along with Tychicus -- suggesting both letters were written and delivered at the same time, by the same messengers, to closely related recipients (Philemon likely being a leading member of the Colossian church addressed more broadly in the other letter).
 
 **How the translations render it:** All 27 tracked translations render Philemon 1:1-2 and Colossians 4:9, 17 plainly and consistently as given; this entry addresses a matter of historical and literary connection between two related letters, not a contradiction, and is not a matter of translation choice.
 

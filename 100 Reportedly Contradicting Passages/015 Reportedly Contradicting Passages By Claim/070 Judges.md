@@ -18,7 +18,9 @@ elsewhere of acknowledging where the evidence genuinely does not settle the matt
 claimed discrepancy survives a close reading -- the prose and poetic accounts agree.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -55,7 +57,7 @@ texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render both verses plainly and consistently as given; the harmonization rests on distinguishing a raid from securing a fortified stronghold, not on translation choice.
 
-**Reconciliation:** This entry is treated at greater length in the companion Joshua document (which addresses the parallel statement at Joshua 15:63), since the same underlying question appears in both books. In brief, the standard harmonization holds that Judah's forces inflicted serious damage on the lower or more exposed parts of the city in a raid (Judges 1:8), without securing permanent control of the city's fortified citadel, which the Jebusites retained -- consistent with 2 Samuel 5:6-9 later describing David's capture of the city's stronghold as a first, decisive seizure rather than a re-conquest of ground Israel already fully held.
+**Reconciliation:** This entry is treated at greater length in the companion Joshua chapter (which addresses the parallel statement at Joshua 15:63), since the same underlying question appears in both books. In brief, the standard harmonization holds that Judah's forces inflicted serious damage on the lower or more exposed parts of the city in a raid (Judges 1:8), without securing permanent control of the city's fortified citadel, which the Jebusites retained -- consistent with 2 Samuel 5:6-9 later describing David's capture of the city's stronghold as a first, decisive seizure rather than a re-conquest of ground Israel already fully held.
 
 ---
 
@@ -205,7 +207,7 @@ texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render each individual figure in Judges and 1 Kings 6:1's 480 years exactly as given, without adjusting any of them; the resolution is a matter of historical-chronological interpretation (regional versus national judgeships, and the stylized nature of the 480-year figure), not translation choice.
 
-**Reconciliation:** As with the related question addressed for 1 Kings 6:1 in the general document set, the most widely offered resolution holds that a number of the judges' periods of activity were regional rather than nationwide, and therefore overlapped in time rather than following one another in a single unbroken national sequence. The book of Judges itself gives no indication that all Israel was uniformly under a single judge's authority at every point -- compare, for example, how Jephthah's activity in Gilead, east of the Jordan (11:1-12:7), and Samson's activity centered on the Philistine-adjacent territory of Dan and Judah (13:2, 25), read naturally as regionally focused rather than nationwide. That would make a straightforward addition of every judge's tenure an overstatement of the actual elapsed time, even on the text's own terms. 1 Kings 6:1's 480 years is also widely read, as addressed at greater length elsewhere in this project, as a stylized, generational figure (12 x 40) rather than a strict, independently-arrived-at sum, further reducing the pressure to force an exact match between the two separate chronological approaches.
+**Reconciliation:** As with the related question addressed for 1 Kings 6:1 in elsewhere in this book, the most widely offered resolution holds that a number of the judges' periods of activity were regional rather than nationwide, and therefore overlapped in time rather than following one another in a single unbroken national sequence. The book of Judges itself gives no indication that all Israel was uniformly under a single judge's authority at every point -- compare, for example, how Jephthah's activity in Gilead, east of the Jordan (11:1-12:7), and Samson's activity centered on the Philistine-adjacent territory of Dan and Judah (13:2, 25), read naturally as regionally focused rather than nationwide. That would make a straightforward addition of every judge's tenure an overstatement of the actual elapsed time, even on the text's own terms. 1 Kings 6:1's 480 years is also widely read, as addressed at greater length elsewhere in this project, as a stylized, generational figure (12 x 40) rather than a strict, independently-arrived-at sum, further reducing the pressure to force an exact match between the two separate chronological approaches.
 
 ---
 

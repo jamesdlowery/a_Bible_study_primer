@@ -3,7 +3,7 @@
 This document catalogs 7 commonly cited alleged contradictions and notable textual and
 theological questions involving the book of Malachi, the final book of the Old Testament in
 canonical order, either entirely internal to the book or in comparison with Romans, Matthew,
-Mark, Luke, John, and the companion documents addressing related recurring themes across this
+Mark, Luke, John, and the companion chapters addressing related recurring themes across this
 project. For each item, this document states the claim as it is typically raised, notes how
 the tracked translations render the passages involved (only where the translation's own
 wording materially affects how sharp or resolvable the claim appears in English), and gives
@@ -21,7 +21,9 @@ substantively debated questions in the history of Christian theology and is pres
 taking a side between major theological traditions.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -68,9 +70,9 @@ the primary texts and the cross-references directly.
 
 **The claim:** Malachi 3:6 states plainly, 'For I the LORD do not change; therefore you, O children of Jacob, are not consumed' -- one of the most direct Old Testament affirmations of divine immutability, connecting to the same general tension addressed at several points elsewhere in this project (regarding Numbers 23:19 and 1 Samuel 15:29's similar affirmations, set against Genesis 6:6, Exodus 32:14, and Jonah 3:10's descriptions of God 'relenting' or changing his stated intention).
 
-**How the translations render it:** All 27 tracked translations render Malachi 3:6 plainly and consistently as given; the harmonization rests on the same distinction between unchanging character and responsive, conditional intention addressed at greater length in the companion Jeremiah and 1 Samuel documents, not on translation choice.
+**How the translations render it:** All 27 tracked translations render Malachi 3:6 plainly and consistently as given; the harmonization rests on the same distinction between unchanging character and responsive, conditional intention addressed at greater length in the companion Jeremiah and 1 Samuel chapters, not on translation choice.
 
-**Reconciliation:** This question is treated at greater length in this project's companion documents addressing the same recurring pattern (most explicitly in the Jeremiah document's discussion of Jeremiah 18:7-10 as the Bible's clearest statement of the underlying conditional principle, and in the 1 Samuel document's treatment of 1 Samuel 15's own internal tension). As with those cases, Malachi 3:6's affirmation of God's unchanging character and covenant faithfulness (the specific point the verse itself makes: Israel's continued existence despite its own unfaithfulness rests on God's own unchanging commitment to his covenant promises, not on Israel's merit) is generally read as compatible with, rather than contradicting, the pattern of God's responsive change of specific, stated intentions in response to changed human circumstances (repentance, intercession) addressed throughout the Old Testament -- a distinction between unchanging character, purpose, and covenant faithfulness on the one hand, and specific, conditionally-stated intentions that appropriately and consistently respond to changing human conduct on the other, which this project has addressed at several points as the standard resolution to this recurring pattern.
+**Reconciliation:** This question is treated at greater length in this project's companion chapters addressing the same recurring pattern (most explicitly in the Jeremiah document's discussion of Jeremiah 18:7-10 as the Bible's clearest statement of the underlying conditional principle, and in the 1 Samuel document's treatment of 1 Samuel 15's own internal tension). As with those cases, Malachi 3:6's affirmation of God's unchanging character and covenant faithfulness (the specific point the verse itself makes: Israel's continued existence despite its own unfaithfulness rests on God's own unchanging commitment to his covenant promises, not on Israel's merit) is generally read as compatible with, rather than contradicting, the pattern of God's responsive change of specific, stated intentions in response to changed human circumstances (repentance, intercession) addressed throughout the Old Testament -- a distinction between unchanging character, purpose, and covenant faithfulness on the one hand, and specific, conditionally-stated intentions that appropriately and consistently respond to changing human conduct on the other, which this project has addressed at several points as the standard resolution to this recurring pattern.
 
 ---
 
@@ -84,7 +86,7 @@ the primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render Malachi 3:8-10 plainly and consistently as given; the harmonization rests on recognizing this as a specific, corporate covenantal challenge addressed to Malachi's own immediate historical community, addressed at greater length regarding the same underlying question in the companion Proverbs, Job, and Haggai documents, not on translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion Proverbs and Job documents, both addressing the same underlying genre distinction between a general, reliable covenantal principle and a strict, universal, individually-guaranteed mechanical outcome. Malachi's own specific challenge is best read within its immediate historical context -- addressed to a post-exilic community whose collective, corporate failure to support the Temple and its priesthood through tithing (the immediate target of Malachi's rebuke throughout this section, 3:8, 'you are robbing me') had produced real agricultural hardship (3:11, locusts devouring crops), inviting the community as a whole to test, through renewed corporate covenant faithfulness, whether God's own covenant blessing would be restored -- a pattern of national, corporate blessing and curse tied to collective covenant faithfulness (addressed at greater length regarding Deuteronomy 28 and its outworking in the companion Haggai document, which addresses a closely parallel case) rather than a strict, universal promise guaranteeing every individual tither's material prosperity regardless of all other circumstances.
+**Reconciliation:** This question is treated at greater length in the companion Proverbs and Job chapters, both addressing the same underlying genre distinction between a general, reliable covenantal principle and a strict, universal, individually-guaranteed mechanical outcome. Malachi's own specific challenge is best read within its immediate historical context -- addressed to a post-exilic community whose collective, corporate failure to support the Temple and its priesthood through tithing (the immediate target of Malachi's rebuke throughout this section, 3:8, 'you are robbing me') had produced real agricultural hardship (3:11, locusts devouring crops), inviting the community as a whole to test, through renewed corporate covenant faithfulness, whether God's own covenant blessing would be restored -- a pattern of national, corporate blessing and curse tied to collective covenant faithfulness (addressed at greater length regarding Deuteronomy 28 and its outworking in the companion Haggai chapter, which addresses a closely parallel case) rather than a strict, universal promise guaranteeing every individual tither's material prosperity regardless of all other circumstances.
 
 ---
 
@@ -94,7 +96,7 @@ the primary texts and the cross-references directly.
 
 **References:** Malachi 3:13-15; Exodus 17:2; James 1:13
 
-**The claim:** Malachi 3:15 states, 'we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered' -- appearing to claim that people who test or tempt God nevertheless escape consequence, and raising the same general question addressed elsewhere in this project's Exodus companion document (regarding Exodus 17:2 and James 1:13) about the different senses in which God can or cannot be 'tempted.'
+**The claim:** Malachi 3:15 states, 'we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered' -- appearing to claim that people who test or tempt God nevertheless escape consequence, and raising the same general question addressed elsewhere in this project's Exodus companion chapter (regarding Exodus 17:2 and James 1:13) about the different senses in which God can or cannot be 'tempted.'
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 

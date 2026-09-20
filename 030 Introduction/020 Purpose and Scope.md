@@ -8,15 +8,15 @@ Concretely, this book:
 
 - Surveys the major families of biblical source manuscripts (Masoretic Text, Septuagint, Dead Sea Scrolls, Samaritan Pentateuch, Textus Receptus, Alexandrian text-type, and others) and how they relate to one another.
 - Traces the history of {{TRANSLATION_COUNT}} major English translations, from the King James Version to modern critical-text translations.
-- Documents, for all 73 books of the Protestant Old and New Testaments plus the Catholic Deuterocanon, the {{VARIANT_COUNT}} significant places where ten tracked translations (AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, RSV2CE) render a passage differently in ways that affect meaning.
-- Catalogs the {{RCP_COUNT}} passages most commonly cited as biblical contradictions, book by book, together with the standard scholarly harmonization for each and a note of how the ten tracked translations render the passages involved wherever that actually differs.
-- Profiles the 25 most prominent U.S. Christian denominations and 25 prominent study Bibles, covering core doctrine, ethical/lifestyle positions, and (for study Bibles) the general editor's background and denominational leaning.
+- Documents, for all 73 books of the Protestant Old and New Testaments plus the Catholic Deuterocanon, the {{VARIANT_COUNT}} significant places where the {{TRANSLATION_COUNT}} tracked translations render a passage differently in ways that affect meaning.
+- Catalogs the {{RCP_COUNT}} passages most commonly cited as biblical contradictions, book by book, together with the standard scholarly harmonization for each and a note of how the tracked translations render the passages involved wherever that actually differs.
+- Profiles the 25 most prominent U.S. Christian denominations and 27 prominent study Bibles, covering core doctrine, ethical/lifestyle positions, and (for study Bibles) the general editor's background and denominational leaning.
 
 ## What This Book Is Not
 
 - **It is not a doctrinal argument.** It does not attempt to settle which translation is "best," which manuscript tradition is most authoritative, or which theological position is correct on any disputed question. Where scholars disagree, this book tries to represent that disagreement rather than resolve it.
 - **It is not a substitute for the biblical text itself.** It is a companion and a map, meant to be read alongside a Bible, not instead of one.
-- **It is not exhaustive.** Ten translations and one catalog of commonly-raised claims cannot cover every variant or every contradiction ever proposed. This book focuses on what is well-documented and widely discussed.
+- **It is not exhaustive.** {{TRANSLATION_COUNT}} translations and one catalog of commonly-raised claims cannot cover every variant or every contradiction ever proposed. This book focuses on what is well-documented and widely discussed.
 - **It does not adjudicate faith questions.** Whether a given translation, manuscript, or harmonization is convincing is left to the reader.
 
 ## Two Different Questions, Kept Separate
@@ -32,6 +32,6 @@ Keeping these separate means a reader can ask either question precisely, rather 
 ## Scope Boundaries
 
 - **Canon covered:** the 39 books of the Protestant Old Testament, the 27 books of the New Testament, and the 7 books of the Catholic Deuterocanon (Tobit, Judith, Wisdom of Solomon, Sirach, Baruch, 1 Maccabees, 2 Maccabees) — 73 books total.
-- **Translations tracked for direct comparison:** AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, and RSV2CE. {{TRANSLATION_COUNT}} translations in total have a documented history in this book, but these ten are the ones compared verse-by-verse throughout.
+- **Translations tracked for direct comparison:** all {{TRANSLATION_COUNT}} translations with a documented history in this book (see "Bible Translations and Their Source Manuscripts" for the complete list) are compared verse-by-verse throughout the Manuscript and Translation Differences and Reportedly Contradicting Passages sections.
 - **Primary sources represented:** manuscript traditions are discussed at the level of well-established scholarly consensus (critical editions, published textual apparatuses, and standard reference works), not from original manual collation of manuscripts.
-- **Denomination and study Bible rankings:** the 25 denominations profiled are ranked primarily by U.S. adherents (per the 2020 U.S. Religion Census); the 25 study Bibles are chosen for a combination of sales prominence and denominational/traditional breadth. Neither list claims to be exhaustive or to settle which denomination or study Bible is "correct" or "best" — see the introductory note at the start of each section for the specific method and its limits.
+- **Denomination and study Bible rankings:** the 25 denominations profiled are ranked primarily by U.S. adherents (per the 2020 U.S. Religion Census); the 27 study Bibles are chosen for a combination of sales prominence and denominational/traditional breadth. Neither list claims to be exhaustive or to settle which denomination or study Bible is "correct" or "best" — see the introductory note at the start of each section for the specific method and its limits.

@@ -18,7 +18,9 @@ published, rather than repeating it. The remaining entries are freshly researche
 genealogical and literary questions substantially unique to this book.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -198,7 +200,7 @@ cross-references directly.
 
 **References:** 1 Chronicles 23:24-27; Numbers 4:3; Numbers 8:24
 
-**The claim:** Numbers 4 sets the age for Levites beginning their tabernacle transport service at 30 (a figure addressed at greater length in the companion Numbers document, alongside Numbers 8:24's age 25 for a related aspect of service). This book instead states Levites were numbered 'from twenty years old' for service in David's reorganized system (23:24, 27) -- a third, lower figure.
+**The claim:** Numbers 4 sets the age for Levites beginning their tabernacle transport service at 30 (a figure addressed at greater length in the companion Numbers chapter, alongside Numbers 8:24's age 25 for a related aspect of service). This book instead states Levites were numbered 'from twenty years old' for service in David's reorganized system (23:24, 27) -- a third, lower figure.
 
 **How the translations render it:** All 27 tracked translations render '20' at 1 Chronicles 23:24, 27 and the accompanying explanatory rationale exactly as given, without adjusting the figure to match Numbers; the harmonization is drawn directly from the text's own stated reasoning, not from translation choice.
 
@@ -248,7 +250,7 @@ cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render both verses as given, without softening either statement; the harmonization is theological/interpretive rather than a matter of translation choice.
 
-**Reconciliation:** This question is treated at greater length in the companion 2 Samuel document, which addresses 2 Samuel 24:1 as its primary text. In brief, the standard reading holds both true at different levels of causation: God, in judgment for an unstated prior sin (2 Samuel 24:1 ties the census to God's anger against Israel), permitted or directed Satan to tempt David, exactly as God later permits Satan to test Job. This book names the proximate tempter; 2 Samuel names the ultimate, permitting cause -- a pattern, not a contradiction, that appears elsewhere in Scripture.
+**Reconciliation:** This question is treated at greater length in the companion 2 Samuel chapter, which addresses 2 Samuel 24:1 as its primary text. In brief, the standard reading holds both true at different levels of causation: God, in judgment for an unstated prior sin (2 Samuel 24:1 ties the census to God's anger against Israel), permitted or directed Satan to tempt David, exactly as God later permits Satan to test Job. This book names the proximate tempter; 2 Samuel names the ultimate, permitting cause -- a pattern, not a contradiction, that appears elsewhere in Scripture.
 
 ---
 
@@ -260,9 +262,9 @@ cross-references directly.
 
 **The claim:** 1 Samuel 17 credits David with killing Goliath the Gittite. 2 Samuel 21:19 (Masoretic Hebrew, read literally) states Elhanan killed Goliath the Gittite. This book, describing the same later battle, states Elhanan killed 'Lahmi the brother of Goliath the Gittite' (20:5) -- widely regarded by textual scholars as preserving the original, correct sense that 2 Samuel 21:19's transmission garbled.
 
-**How the translations render it:** All 27 tracked translations render 1 Chronicles 20:5's 'the brother of Goliath' consistently and without dispute; the translation variance in this discrepancy occurs entirely at 2 Samuel 21:19, addressed in the companion 2 Samuel document and the general document set (where the split is documented across all 27 translations, including the Douay-Rheims Bible's distinct third reading naming the warrior "Adeodatus").
+**How the translations render it:** All 27 tracked translations render 1 Chronicles 20:5's 'the brother of Goliath' consistently and without dispute; the translation variance in this discrepancy occurs entirely at 2 Samuel 21:19, addressed in the companion 2 Samuel chapter and elsewhere in this book (where the split is documented across all 27 translations, including the Douay-Rheims Bible's distinct third reading naming the warrior "Adeodatus").
 
-**Reconciliation:** Comparing the Hebrew consonants involved across the two parallel verses, most textual scholars conclude 2 Samuel 21:19 suffered a scribal mix-up in transmission (the word for 'the brother of' and the accusative particle before a name closely resemble each other in Hebrew, and a nearby word for 'Bethlehemite' appears to have absorbed what should have been the name 'Lahmi'), while this book's version of the same verse escaped the same corruption and preserves what most scholars regard as the more original reading -- making this book's account the clarifying text for the whole discrepancy, rather than a third, additional puzzle. This is treated at greater length, including full translation-by-translation wording, in this project's general document set and the companion 2 Samuel document.
+**Reconciliation:** Comparing the Hebrew consonants involved across the two parallel verses, most textual scholars conclude 2 Samuel 21:19 suffered a scribal mix-up in transmission (the word for 'the brother of' and the accusative particle before a name closely resemble each other in Hebrew, and a nearby word for 'Bethlehemite' appears to have absorbed what should have been the name 'Lahmi'), while this book's version of the same verse escaped the same corruption and preserves what most scholars regard as the more original reading -- making this book's account the clarifying text for the whole discrepancy, rather than a third, additional puzzle. This is treated at greater length, including full translation-by-translation wording, in the Manuscript and Translation Differences chapter and the companion 2 Samuel chapter.
 
 ---
 
@@ -278,7 +280,7 @@ cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render both figures as given, without harmonizing them in the text; the resolution is interpretive (different purchases), not a matter of translation.
 
-**Reconciliation:** This question is treated at greater length in the companion 2 Samuel document. In brief, the most widely held harmonization treats these as two separate purchases at different scopes: the 600 shekels of gold in this book covers the entire surrounding plot of land on which the Temple would later be built (per 2 Chronicles 3:1), described from a broader, Temple-history perspective, while the 50 shekels of silver in 2 Samuel covers only the threshing floor and oxen used for the immediate sacrifice.
+**Reconciliation:** This question is treated at greater length in the companion 2 Samuel chapter. In brief, the most widely held harmonization treats these as two separate purchases at different scopes: the 600 shekels of gold in this book covers the entire surrounding plot of land on which the Temple would later be built (per 2 Chronicles 3:1), described from a broader, Temple-history perspective, while the 50 shekels of silver in 2 Samuel covers only the threshing floor and oxen used for the immediate sacrifice.
 
 ---
 
@@ -290,9 +292,9 @@ cross-references directly.
 
 **The claim:** This book offers David three years of famine as one of three punishment options (21:11-12); 2 Samuel 24:13 (Masoretic Hebrew) offers seven years for the same event.
 
-**How the translations render it:** All 27 tracked translations render this book's '3 years' consistently and without dispute; the translation variance in this discrepancy occurs entirely at 2 Samuel 24:13, addressed in the companion 2 Samuel document with full translation-by-translation detail (including the RSV and NET Bible's harmonized "three years," and a minority explanation, defended by those retaining the Masoretic "seven," that reconciles both figures by combining an already-elapsed famine with the newly offered years).
+**How the translations render it:** All 27 tracked translations render this book's '3 years' consistently and without dispute; the translation variance in this discrepancy occurs entirely at 2 Samuel 24:13, addressed in the companion 2 Samuel chapter with full translation-by-translation detail (including the RSV and NET Bible's harmonized "three years," and a minority explanation, defended by those retaining the Masoretic "seven," that reconciles both figures by combining an already-elapsed famine with the newly offered years).
 
-**Reconciliation:** This question is treated at greater length in the companion 2 Samuel document. In brief, the Septuagint text of 2 Samuel 24:13 itself reads 'three years,' matching this book, and many textual scholars judge the Masoretic Hebrew's 'seven' at 2 Samuel 24:13 to be a copying error, with this book's 'three' widely regarded as preserving the more original figure.
+**Reconciliation:** This question is treated at greater length in the companion 2 Samuel chapter. In brief, the Septuagint text of 2 Samuel 24:13 itself reads 'three years,' matching this book, and many textual scholars judge the Masoretic Hebrew's 'seven' at 2 Samuel 24:13 to be a copying error, with this book's 'three' widely regarded as preserving the more original figure.
 
 ---
 
@@ -306,7 +308,7 @@ cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
-**Reconciliation:** This question -- whether so few listed generations can accommodate both the stated length of the Egyptian sojourn and Israel's population growth from seventy persons to several hundred thousand by the Exodus -- is addressed at length in this project's Exodus companion document (see its entry on the genealogy from Levi to Moses and the scale of Israel's population growth), which discusses both the well-documented pattern of ancient genealogies naming only prominent ancestors while skipping intervening generations, and the demographic plausibility of substantial natural population growth over four centuries. The same reasoning applies without modification to this book's repetition of the identical brief genealogy for a different, administrative purpose (organizing the Levitical divisions for tabernacle and Temple service) rather than a new instance of the underlying chronological question.
+**Reconciliation:** This question -- whether so few listed generations can accommodate both the stated length of the Egyptian sojourn and Israel's population growth from seventy persons to several hundred thousand by the Exodus -- is addressed at length in this project's Exodus companion chapter (see its entry on the genealogy from Levi to Moses and the scale of Israel's population growth), which discusses both the well-documented pattern of ancient genealogies naming only prominent ancestors while skipping intervening generations, and the demographic plausibility of substantial natural population growth over four centuries. The same reasoning applies without modification to this book's repetition of the identical brief genealogy for a different, administrative purpose (organizing the Levitical divisions for tabernacle and Temple service) rather than a new instance of the underlying chronological question.
 
 ---
 

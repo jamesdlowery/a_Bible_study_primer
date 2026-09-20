@@ -22,7 +22,9 @@ opinion rather than a single forced resolution. Entry 5 addresses a real interna
 than treating the tension as illusory.
 
 **Verification status:** Every wording-specific claim in this document was checked against
-the published text of all 27 tracked translations as part of producing this document. Translation
+the published text of the tracked translations as part of producing this document, except where
+a specific entry below names a translation that could not be checked (for example, TRB's lack
+of a searchable published text). Translation
 wording was checked directly wherever a difference seemed plausible enough to matter to the
 claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
 translations render the passage similarly -- reflecting the fact that most of these claims
@@ -95,15 +97,15 @@ primary texts and the cross-references directly.
 
 ---
 
-### 4. Luke's own genealogy of Jesus -- addressed at length in the companion Matthew document
+### 4. Luke's own genealogy of Jesus -- addressed at length in the companion Matthew chapter
 
 **References:** Luke 3:23-38; Matthew 1:1-17
 
-**The claim:** Luke's genealogy of Jesus (3:23-38) diverges substantially from Matthew's own genealogy (1:1-17), addressed at length in the companion Matthew document as one of the most extensively discussed harmonization questions in the New Testament. Luke's version is also distinctive in tracing the line all the way back to Adam (rather than stopping at Abraham, as Matthew does) and in explicitly qualifying Joseph's paternity with the phrase 'being the son, as was supposed, of Joseph' (3:23).
+**The claim:** Luke's genealogy of Jesus (3:23-38) diverges substantially from Matthew's own genealogy (1:1-17), addressed at length in the companion Matthew chapter as one of the most extensively discussed harmonization questions in the New Testament. Luke's version is also distinctive in tracing the line all the way back to Adam (rather than stopping at Abraham, as Matthew does) and in explicitly qualifying Joseph's paternity with the phrase 'being the son, as was supposed, of Joseph' (3:23).
 
-**How the translations render it:** All 27 tracked translations render Luke 3:23-38 plainly and consistently as given; see the companion Matthew document for the fuller discussion of this genealogy's relationship to Matthew's own.
+**How the translations render it:** All 27 tracked translations render Luke 3:23-38 plainly and consistently as given; see the companion Matthew chapter for the fuller discussion of this genealogy's relationship to Matthew's own.
 
-**Reconciliation:** This question is treated fully in the companion Matthew document, which addresses the majority reading (Matthew tracing Joseph's legal, royal descent through Solomon; Luke tracing Mary's own biological descent through Nathan, with Joseph listed as Heli's son-in-law per ancient convention) and the reasons this reading is generally preferred. Luke's own distinctive extension of the genealogy back to Adam (rather than stopping at Abraham) is generally read as consistent with this Gospel's own broader emphasis, relative to Matthew's more specifically Jewish-audience-oriented Gospel, on Jesus' significance for all humanity rather than for Israel specifically -- Adam, unlike Abraham, is the shared ancestor of all people rather than specifically of the Jewish nation, a detail consistent with Luke's demonstrated interest elsewhere in Gentile inclusion and universal salvation.
+**Reconciliation:** This question is treated fully in the companion Matthew chapter, which addresses the majority reading (Matthew tracing Joseph's legal, royal descent through Solomon; Luke tracing Mary's own biological descent through Nathan, with Joseph listed as Heli's son-in-law per ancient convention) and the reasons this reading is generally preferred. Luke's own distinctive extension of the genealogy back to Adam (rather than stopping at Abraham) is generally read as consistent with this Gospel's own broader emphasis, relative to Matthew's more specifically Jewish-audience-oriented Gospel, on Jesus' significance for all humanity rather than for Israel specifically -- Adam, unlike Abraham, is the shared ancestor of all people rather than specifically of the Jewish nation, a detail consistent with Luke's demonstrated interest elsewhere in Gentile inclusion and universal salvation.
 
 ---
 
@@ -123,29 +125,29 @@ primary texts and the cross-references directly.
 
 ---
 
-### 6. The Sermon on the Plain -- addressed at length in the companion Matthew document
+### 6. The Sermon on the Plain -- addressed at length in the companion Matthew chapter
 
 **References:** Luke 6:17-49; Matthew 5:1-7:29
 
-**The claim:** Luke's account of Jesus' extended ethical teaching, delivered 'on a level place' (6:17), differs in setting, length, and specific wording from Matthew's Sermon on the Mount, addressed at length in the companion Matthew document, including Luke's own distinctive series of 'woes' addressed to the rich and comfortable (6:24-26), absent from Matthew's version.
+**The claim:** Luke's account of Jesus' extended ethical teaching, delivered 'on a level place' (6:17), differs in setting, length, and specific wording from Matthew's Sermon on the Mount, addressed at length in the companion Matthew chapter, including Luke's own distinctive series of 'woes' addressed to the rich and comfortable (6:24-26), absent from Matthew's version.
 
-**How the translations render it:** All 27 tracked translations render Luke 6:17-49 plainly and consistently as given; see the companion Matthew document for the fuller discussion of this question.
+**How the translations render it:** All 27 tracked translations render Luke 6:17-49 plainly and consistently as given; see the companion Matthew chapter for the fuller discussion of this question.
 
-**Reconciliation:** This question is treated fully in the companion Matthew document, which presents both major positions -- that this represents a single occasion reported with each Gospel's own selective compression and emphasis, or two genuinely distinct occasions on which Jesus delivered substantially similar core teaching -- without adjudicating between them. Luke's own distinctive inclusion of explicit 'woes' balancing the Beatitudes is generally read as consistent with this Gospel's demonstrated broader concern, relative to Matthew, with economic reversal and God's particular concern for the poor (a theme reflected at several other points unique to Luke's Gospel, including the Magnificat, 1:46-55, and the parable of the rich man and Lazarus, 16:19-31).
-
----
+**Reconciliation:** This question is treated fully in the companion Matthew chapter, which presents both major positions -- that this represents a single occasion reported with each Gospel's own selective compression and emphasis, or two genuinely distinct occasions on which Jesus delivered substantially similar core teaching -- without adjudicating between them. Luke's own distinctive inclusion of explicit 'woes' balancing the Beatitudes is generally read as consistent with this Gospel's demonstrated broader concern, relative to Matthew, with economic reversal and God's particular concern for the poor (a theme reflected at several other points unique to Luke's Gospel, including the Magnificat, 1:46-55, and the parable of the rich man and Lazarus, 16:19-31).
 
 ---
 
-### 7. Luke's own resurrection account -- addressed at length in the companion Matthew document
+---
+
+### 7. Luke's own resurrection account -- addressed at length in the companion Matthew chapter
 
 **References:** Luke 24:1-12; Matthew 28:1-10; Mark 16:1-8; John 20:1-18
 
-**The claim:** Luke's resurrection account describes an unspecified larger group of women finding the tomb empty and encountering 'two men... in dazzling apparel' (24:4), without the direct encounter with the risen Jesus at the tomb itself that Matthew's account includes -- one of several specific points of difference among the four Gospels' resurrection narratives addressed at length in the companion Matthew document.
+**The claim:** Luke's resurrection account describes an unspecified larger group of women finding the tomb empty and encountering 'two men... in dazzling apparel' (24:4), without the direct encounter with the risen Jesus at the tomb itself that Matthew's account includes -- one of several specific points of difference among the four Gospels' resurrection narratives addressed at length in the companion Matthew chapter.
 
-**How the translations render it:** All 27 tracked translations render Luke 24:1-12 plainly and consistently as given; see the companion Matthew document for the fuller discussion of the resurrection narratives' differing details across all four Gospels.
+**How the translations render it:** All 27 tracked translations render Luke 24:1-12 plainly and consistently as given; see the companion Matthew chapter for the fuller discussion of the resurrection narratives' differing details across all four Gospels.
 
-**Reconciliation:** This question is treated fully in the companion Matthew document, which addresses the standard approach to these differing resurrection-narrative details: each Gospel's own selective emphasis and access to different eyewitness testimony, combined over a short span of time and multiple overlapping visits to the tomb by different individuals and groups, rather than any author's carelessness or fabrication, with all four Gospels agreeing on the central, most theologically significant facts (the tomb was empty, angelic messengers were present, and Jesus was seen alive afterward).
+**Reconciliation:** This question is treated fully in the companion Matthew chapter, which addresses the standard approach to these differing resurrection-narrative details: each Gospel's own selective emphasis and access to different eyewitness testimony, combined over a short span of time and multiple overlapping visits to the tomb by different individuals and groups, rather than any author's carelessness or fabrication, with all four Gospels agreeing on the central, most theologically significant facts (the tomb was empty, angelic messengers were present, and Jesus was seen alive afterward).
 
 ---
 
@@ -249,7 +251,7 @@ primary texts and the cross-references directly.
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
-**Reconciliation:** This specific question is part of the broader genealogy-harmonization question addressed at length in this document's entry on Luke's genealogy generally, and in the companion Matthew document: the majority position holds that Matthew traces Joseph's own legal, biological paternal line (Jacob being Joseph's actual father), while Luke traces Mary's own biological line, with Joseph listed as Heli's son not by blood but by marriage -- Heli being Mary's father and thus Joseph's father-in-law, listed according to the ancient convention of reckoning a son-in-law as a 'son' in a legal genealogy lacking a male heir of his own body. On this reading, Jacob was Joseph's biological father (per Matthew) and Heli was Joseph's father-in-law, Mary's father (per Luke) -- both genealogies accurately naming a different, correctly-related 'father' figure for Joseph depending on which line (legal/paternal versus biological/maternal) each Gospel is tracing.
+**Reconciliation:** This specific question is part of the broader genealogy-harmonization question addressed at length in this document's entry on Luke's genealogy generally, and in the companion Matthew chapter: the majority position holds that Matthew traces Joseph's own legal, biological paternal line (Jacob being Joseph's actual father), while Luke traces Mary's own biological line, with Joseph listed as Heli's son not by blood but by marriage -- Heli being Mary's father and thus Joseph's father-in-law, listed according to the ancient convention of reckoning a son-in-law as a 'son' in a legal genealogy lacking a male heir of his own body. On this reading, Jacob was Joseph's biological father (per Matthew) and Heli was Joseph's father-in-law, Mary's father (per Luke) -- both genealogies accurately naming a different, correctly-related 'father' figure for Joseph depending on which line (legal/paternal versus biological/maternal) each Gospel is tracing.
 
 ---
 

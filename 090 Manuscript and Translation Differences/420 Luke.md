@@ -2,7 +2,7 @@
 
 **Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-As explained in the companion Matthew document, New Testament translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others), with Vulgate-tradition translations (Douay-Rheims, CPDV) forming a third lineage. Luke contains two of the most emotionally significant variants in this category — both concerning the crucifixion scene.
+As explained in the companion Matthew chapter, New Testament translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others), with Vulgate-tradition translations (Douay-Rheims, CPDV) forming a third lineage. Luke contains two of the most emotionally significant variants in this category — both concerning the crucifixion scene.
 
 ---
 
