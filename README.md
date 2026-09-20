@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260920c/A_Bible_Study_Primer_v20260920c.docx)
-- [📄 OpenDocument (.odt)](../../releases/download/v20260920c/A_Bible_Study_Primer_v20260920c.odt)
-- [📄 PDF](../../releases/download/v20260920c/A_Bible_Study_Primer_v20260920c.pdf)
-- [🌐 HTML](../../releases/download/v20260920c/A_Bible_Study_Primer_v20260920c.html)
+- [📄 Word (.docx)](../../releases/download/v20260920d/A_Bible_Study_Primer_v20260920d.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260920d/A_Bible_Study_Primer_v20260920d.odt)
+- [📄 PDF](../../releases/download/v20260920d/A_Bible_Study_Primer_v20260920d.pdf)
+- [🌐 HTML](../../releases/download/v20260920d/A_Bible_Study_Primer_v20260920d.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
