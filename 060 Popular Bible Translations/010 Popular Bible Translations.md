@@ -76,8 +76,8 @@ Below is a focused comparison for the major popular English translations. I have
 
 These verses appear in the main text of the **KJV** and (with footnotes) the **NKJV**. They are typically omitted from the main text, placed in footnotes, or enclosed in brackets in **NIV, ESV, NLT, CSB, NRSV/NRSVue**, and most others. **NASB** often retains them in brackets with a note.
 
-| Verse Reference | KJV/NKJV Reading | Treatment in Modern Critical-Text Translations | Likely Origin of the Longer Reading |
-|-------------------------|-------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------------------------------|
+| Verse | KJV/NKJV Reading | Treatment in Modern Translations | Likely Origin |
+|---|---|---|---|
 | Matt 17:21 | “Howbeit this kind goeth not out but by prayer and fasting.” | Omitted or footnote | Likely harmonization from Mark 9:29 |
 | Matt 18:11 | “For the Son of man is come to save that which was lost.” | Omitted or footnote | Parallel in Luke 19:10 |
 | Matt 23:14 | Woe to scribes/Pharisees for devouring widows’ houses… | Omitted or footnote | Parallel in Mark 12:40 / Luke 20:47 |
@@ -103,8 +103,8 @@ Three passages longer than a single verse carry the same basic KJV/NKJV-vs-criti
 
 These are not “missing” but involve significant wording differences that affect nuance, emphasis, or (in a few cases) apparent doctrine. Most are textual variants; a few are translation-philosophy choices.
 
-| Verse Reference | KJV/NKJV Reading | Modern Critical-Text Reading | Nature of the Difference |
-|-----------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Verse | KJV/NKJV Reading | Modern Critical-Text Reading | Nature of the Difference |
+|---|---|---|---|
 | Matt 1:25 | “her firstborn son” | “a son” / “her son” | Textual; “firstborn” absent in earliest mss |
 | Matt 5:22 | “angry with his brother without a cause” | “angry with his brother” | Textual; “without a cause” later |
 | Matt 6:13 | Lord’s Prayer ends with doxology (“For thine is the kingdom…”) | Doxology omitted or footnoted | Textual; absent from earliest mss (present in Didache and later tradition) |
@@ -128,8 +128,8 @@ Other frequent translational differences (not purely textual):
 
 Summary by Translation Family
 
-| Translation | Textual Basis | Treatment of Disputed Passages | Translation Philosophy |
-|--------------------------|-----------------|----------------------------------------------------------|------------------------------------------|
+| Translation | Textual Basis | Treatment of Disputed Passages | Philosophy |
+|---|---|---|---|
 | **KJV** | Textus Receptus | All included in main text | Formal, Elizabethan English |
 | **NKJV** | Textus Receptus | All included; footnotes flag critical-text omissions | Updates KJV language while retaining TR |
 | **NIV** (2011) | Critical | Most omitted or footnoted | Balanced (mediating) equivalence |

@@ -79,12 +79,26 @@ def fix_column_widths(text):
     pandoc derives from relative dash-count in the separator row) reflects
     actual content, instead of the source's arbitrary dash lengths which
     often left label columns too narrow (e.g. 'Samaritan Pentateuch (SP)'
-    wrapping across 3 lines). Longest-content columns are capped so one
-    very long paragraph column doesn't squeeze a short label column down
-    to unreadable width.
+    wrapping across 3 lines).
+
+    Sizing is driven by the LONGEST SINGLE UNBREAKABLE WORD in each
+    column, not the longest full cell. A column only needs to be as wide
+    as its worst-case single word to avoid ever splitting a word across
+    lines -- ordinary multi-word cell content can always wrap at a space
+    regardless of column width, so total cell length is the wrong signal
+    and was exactly what caused headers like "Philosophy" or "Translation"
+    to break mid-word (e.g. "Philosop-hy") in earlier versions of this
+    function: a long PROSE column's high total-length pushed short-label
+    columns below their own single-word minimum, even though the prose
+    column itself didn't need that width to avoid breaking (it wraps at
+    spaces just fine either way). Using longest-word as the floor and a
+    softer, capped total-length signal for the remaining proportional
+    weight keeps every column at least as wide as its own worst word,
+    while still giving noticeably longer columns proportionally more of
+    whatever width is left over.
     """
-    CAP = 60
-    FLOOR = 15
+    CAP = 45
+    WORD_FLOOR = 13
     lines = text.split("\n")
     out = []
     i = 0
@@ -101,10 +115,17 @@ def fix_column_widths(text):
             row = row[:-1]
         return row.split("|")
 
-    def clean_len(cell):
+    def clean_cell(cell):
         c = cell.strip()
         c = c.replace("**", "").replace("*", "").replace("`", "")
-        return len(c)
+        return c
+
+    def longest_word(cell_text):
+        # Split on whitespace only -- hyphens/slashes are legitimate
+        # in-word break points pandoc/Word can already use, so they
+        # don't need to count as part of one unbreakable run.
+        words = cell_text.split()
+        return max((len(w) for w in words), default=0)
 
     while i < len(lines):
         if i + 1 < len(lines) and lines[i].strip().startswith("|") and is_sep(lines[i + 1]):
@@ -117,15 +138,27 @@ def fix_column_widths(text):
                 body_rows.append(lines[j])
                 j += 1
             all_rows = [header_row] + body_rows
-            max_lens = [FLOOR] * ncols
+            max_word = [WORD_FLOOR] * ncols
+            max_total = [WORD_FLOOR] * ncols
             for row in all_rows:
                 cells = split_row(row)
                 for c_idx in range(min(ncols, len(cells))):
-                    l = clean_len(cells[c_idx])
-                    if l > max_lens[c_idx]:
-                        max_lens[c_idx] = l
-            capped = [min(l, CAP) for l in max_lens]
-            new_sep = "|" + "|".join("-" * n for n in capped) + "|"
+                    c = clean_cell(cells[c_idx])
+                    w = longest_word(c)
+                    if w > max_word[c_idx]:
+                        max_word[c_idx] = w
+                    if len(c) > max_total[c_idx]:
+                        max_total[c_idx] = len(c)
+            # Each column's width is its own longest-word floor, plus a
+            # softer contribution from overall content length (capped, and
+            # heavily discounted) so genuinely prose-heavy columns still
+            # get proportionally more room without being able to starve a
+            # short-label column below its own single-word minimum.
+            widths = []
+            for c_idx in range(ncols):
+                extra = max(0, min(max_total[c_idx], CAP) - max_word[c_idx])
+                widths.append(max_word[c_idx] + extra // 6)
+            new_sep = "|" + "|".join("-" * n for n in widths) + "|"
             out.append(header_row)
             out.append(new_sep)
             out.extend(body_rows)
@@ -914,16 +947,53 @@ def bookmark_marker_md(target_id):
 bookmark_marker_md.counter = 1000  # start well above pandoc's own auto-assigned bookmark ids
 
 
+def smarten_quotes(s):
+    """Convert straight quotes/apostrophes to the curly equivalents pandoc's
+    own \"smart\" extension applies everywhere else in this book. XE field
+    text is inserted as raw OOXML and never passes through pandoc's normal
+    markdown processing, so without this step every Index entry pulled from
+    a heading that (like most of this book's source) is written with plain
+    ASCII quotes would print with straight quotes while every other page
+    uses curly ones -- exactly the inconsistency a reader would notice
+    first, since the Index sits at the very end of the book. This is a
+    simple, non-perfect heuristic (parity-based for double quotes; letter-
+    adjacency for apostrophes vs. single quotes), matched to how heading
+    text actually looks in this book's source, not a general-purpose
+    typography engine."""
+    out = []
+    double_open = True
+    for i, ch in enumerate(s):
+        if ch == '"':
+            out.append('\u201c' if double_open else '\u201d')
+            double_open = not double_open
+        elif ch == "'":
+            prev_alpha = i > 0 and s[i - 1].isalpha()
+            next_alpha = i + 1 < len(s) and s[i + 1].isalpha()
+            if prev_alpha and not next_alpha:
+                out.append('\u2019')  # possessive/contraction end, e.g. Jesus'
+            elif prev_alpha and next_alpha:
+                out.append('\u2019')  # mid-word apostrophe, e.g. don't
+            elif not prev_alpha:
+                out.append('\u2018')  # opening single quote
+            else:
+                out.append('\u2019')
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
 def xe_escape(s):
     """Escape a string for use inside a Word XE field's quoted argument,
-    embedded inside a raw-openxml inline code span. Two escaping layers
-    apply, in this order: Word's own field-quoting rules (backslash and
-    double-quote each need their own backslash), then XML entity escaping
-    (&, <, > -- since the raw_attribute code span's content becomes
-    literal XML text, not further processed by pandoc). Skipping the XML
-    layer is exactly what corrupted document.xml the first time this was
-    written (an unescaped "&" inside a heading, e.g. "C&MA", broke the
-    whole file as invalid XML)."""
+    embedded inside a raw-openxml inline code span. Smart-quotes the text
+    first (see smarten_quotes), then applies two escaping layers, in this
+    order: Word's own field-quoting rules (backslash and double-quote each
+    need their own backslash), then XML entity escaping (&, <, > -- since
+    the raw_attribute code span's content becomes literal XML text, not
+    further processed by pandoc). Skipping the XML layer is exactly what
+    corrupted document.xml the first time this was written (an unescaped
+    "&" inside a heading, e.g. "C&MA", broke the whole file as invalid
+    XML)."""
+    s = smarten_quotes(s)
     s = s.replace('\\', '\\\\').replace('"', '\\"')
     return html_entities.escape(s, quote=False)
 
