@@ -15,6 +15,21 @@
    duplicated row. Pandoc doesn't expose a markdown-level way to set
    this, so it's applied uniformly here to every row in every table
    rather than requiring it be set table-by-table in source.
+4. Retarget the Table of Contents' own list paragraphs from the shared
+   "Compact" style to a dedicated "TOCCompact" style (identical except
+   for one added right-aligned, dot-leader tab stop), so the ToC's page
+   numbers line up consistently regardless of entry length or nesting
+   depth. This can't be done from markdown: pandoc's docx writer always
+   assigns "Compact" to tight list items, ignoring any custom-style div
+   wrapped around them, and "Compact" is shared by roughly 2,600 other
+   tight-list paragraphs throughout the rest of the book (plus whatever
+   style LibreOffice's own INDEX field generator happens to reuse for
+   the compiled back-of-book index) -- giving the shared style its own
+   tab stop broke the Index's two-column layout the first time this was
+   tried. Scoping the rename to only the text between the "Table of
+   Contents" heading's own bookmark and the literal "End of Table of
+   Contents" marker text (both emitted by assemble.py specifically to
+   bound this section) keeps the change confined to the ToC itself.
 
 Usage: python3 postprocess_docx.py <docx_path> [build_version]
 If build_version is omitted, falls back to the BUILD_VERSION environment
@@ -50,6 +65,27 @@ def fix_docx(path, build_version=None):
     doc_xml, bare_count = re.subn(r"<w:tr>(?!<w:trPr>)", '<w:tr><w:trPr><w:cantSplit/></w:trPr>', doc_xml)
     row_count = trpr_count + bare_count
 
+    # Retarget "Compact" -> "TOCCompact" only within the Table of Contents
+    # section, bounded by its own heading bookmark and its closing marker
+    # text. Both are emitted once, in that exact form, by assemble.py.
+    toc_start_marker = '<w:bookmarkStart w:id="20" w:name="table-of-contents" />'
+    toc_end_marker = 'End of Table of Contents'
+    toc_count = 0
+    start_idx = doc_xml.find(toc_start_marker)
+    if start_idx == -1:
+        # Bookmark ids aren't guaranteed stable across builds; fall back to
+        # searching for the bookmark name alone, ignoring its numeric id.
+        m = re.search(r'<w:bookmarkStart w:id="\d+" w:name="table-of-contents" />', doc_xml)
+        start_idx = m.start() if m else -1
+    end_idx = doc_xml.find(toc_end_marker, start_idx if start_idx != -1 else 0)
+    if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
+        before, toc_section, after = doc_xml[:start_idx], doc_xml[start_idx:end_idx], doc_xml[end_idx:]
+        toc_section, toc_count = re.subn(r'w:pStyle w:val="Compact"', 'w:pStyle w:val="TOCCompact"', toc_section)
+        doc_xml = before + toc_section + after
+    else:
+        print("WARNING: could not find Table of Contents start/end markers; "
+              "ToC paragraph style left unchanged.")
+
     version = build_version or os.environ.get("BUILD_VERSION")
     version_count = 0
     if version:
@@ -71,6 +107,7 @@ def fix_docx(path, build_version=None):
     shutil.move(tmp, path)
     print(f"Fixed {count} table(s) in {path}")
     print(f"Marked {row_count} table row(s) as cantSplit in {path}")
+    print(f"Retargeted {toc_count} ToC paragraph(s) to TOCCompact in {path}")
     if version:
         print(f"Replaced {version_count} {{{{BUILD_VERSION}}}} placeholder(s) with {version}")
 
