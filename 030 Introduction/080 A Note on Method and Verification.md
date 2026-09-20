@@ -33,6 +33,10 @@ A few recurring pitfalls have shaped how entries are checked, worth stating plai
 - **Attribution errors are easy to introduce and easy to miss.** Misattributing a specific translation's wording, or a specific historical detail about a translation's origin, has happened and been corrected before. Spot-checking against the primary source remains the most reliable safeguard.
 - **The total claim count can change, and that's expected, not a data error.** The catalog held 866 claims at one point; it holds 865 now. The difference is a single duplicate entry (two separate numbered entries in 1 Samuel that turned out to ask the identical question) that was found and merged into one. If this number moves again in the future for the same kind of reason, that's the ordinary, healthy result of catching a mistake — not a sign the catalog was miscounted.
 
+## A Note on "LORD" in Small Capitals
+
+Throughout this book, "LORD" in full or small capitals represents the Hebrew divine name YHWH (the Tetragrammaton), following the convention nearly all English translations tracked in this book use in the Old Testament -- distinguishing it from "Lord" (ordinary capitalization), which translates a different Hebrew or Greek word (adonai or kyrios) used as a title rather than the name itself. Where a translation's own printed convention differs from this (a small number use "Yahweh" or "Jehovah" directly instead), the relevant entry says so.
+
 ## A Note on Greek and Hebrew
 
 Throughout this book, Greek and Hebrew terms are given in transliteration (e.g., *almah*, *monogenes*) rather than in the original script, so the text remains readable without requiring a Greek or Hebrew font and renders consistently across the DOCX, ODT, PDF, and HTML editions. This is a readability choice, not a claim that transliteration alone is sufficient for serious textual work; readers doing their own primary-language study should consult a critical edition (BHS/BHQ for Hebrew, NA28/UBS5 for Greek) directly.

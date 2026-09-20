@@ -7,6 +7,14 @@
    template's footers with the actual build version, since the footers
    live in the static reference doc and never pass through the markdown
    pipeline that already handles this substitution for the title page.
+3. Mark every table row "cannot split across pages" (w:cantSplit).
+   Word's default lets a tall row break mid-row at a page boundary,
+   which is exactly what produced entries like a table row's label on
+   one page and the rest of its content stranded alone at the top of
+   the next -- confusing to read and easy to mistake for a missing or
+   duplicated row. Pandoc doesn't expose a markdown-level way to set
+   this, so it's applied uniformly here to every row in every table
+   rather than requiring it be set table-by-table in source.
 
 Usage: python3 postprocess_docx.py <docx_path> [build_version]
 If build_version is omitted, falls back to the BUILD_VERSION environment
@@ -32,6 +40,16 @@ def fix_docx(path, build_version=None):
     count = doc_xml.count(old)
     doc_xml = doc_xml.replace(old, new)
 
+    # Prevent any table row from splitting across a page break. A row
+    # already carrying <w:trPr>...</w:trPr> (e.g. the header row's
+    # tblHeader marker) gets <w:cantSplit/> inserted inside it; a bare
+    # <w:tr> with no trPr at all gets one added.
+    def add_cant_split_to_trpr(m):
+        return m.group(0)[:-len("</w:trPr>")] + "<w:cantSplit/></w:trPr>"
+    doc_xml, trpr_count = re.subn(r"<w:trPr>.*?</w:trPr>", add_cant_split_to_trpr, doc_xml, flags=re.DOTALL)
+    doc_xml, bare_count = re.subn(r"<w:tr>(?!<w:trPr>)", '<w:tr><w:trPr><w:cantSplit/></w:trPr>', doc_xml)
+    row_count = trpr_count + bare_count
+
     version = build_version or os.environ.get("BUILD_VERSION")
     version_count = 0
     if version:
@@ -52,6 +70,7 @@ def fix_docx(path, build_version=None):
                 zout.writestr(item, zin.read(item.filename))
     shutil.move(tmp, path)
     print(f"Fixed {count} table(s) in {path}")
+    print(f"Marked {row_count} table row(s) as cantSplit in {path}")
     if version:
         print(f"Replaced {version_count} {{{{BUILD_VERSION}}}} placeholder(s) with {version}")
 
