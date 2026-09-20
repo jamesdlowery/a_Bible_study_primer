@@ -19,15 +19,7 @@ opinion rather than a single forced resolution. Entry 7 is presented as a minor 
 point of specific verbal difference between the Synoptic accounts, addressed candidly rather
 than forced into an artificially seamless harmony.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -54,6 +46,8 @@ primary texts and the cross-references directly.
 
 ### 1. The ending of Mark -- the single most significant textual-critical question in the New Testament
 
+*Entry ID: MARK-001*
+
 **References:** Mark 16:1-20
 
 **The claim:** The two oldest surviving complete Greek manuscripts of Mark's Gospel, Codex Vaticanus and Codex Sinaiticus, end the Gospel abruptly at 16:8, with no resurrection appearance of Jesus narrated at all -- while the great majority of later Greek manuscripts include an extended "longer ending" (16:9-20) containing resurrection appearances, the Great Commission, and the well-known "signs" passage (addressed in entry 2 below). This is widely regarded as the single most significant open textual-critical question in the entire New Testament; the full manuscript evidence on both sides, and how each of the 27 tracked translations presents the passage, is addressed at length in the Manuscript and Translation Differences chapter (see its first entry on Mark).
@@ -69,6 +63,8 @@ primary texts and the cross-references directly.
 ## Ethical Tensions
 
 ### 2. 'They will pick up serpents... and if they drink any deadly poison, it will not hurt them' -- a disputed text with documented real-world consequences
+
+*Entry ID: MARK-002*
 
 **References:** Mark 16:17-18
 
@@ -86,6 +82,8 @@ primary texts and the cross-references directly.
 
 ### 3. The 'Messianic Secret' -- Jesus's repeated commands to silence, alongside open, public ministry
 
+*Entry ID: MARK-003*
+
 **References:** Mark 1:34, 44; Mark 3:12; Mark 5:19, 43; Mark 7:36; Mark 8:30; Mark 9:9
 
 **The claim:** Mark's Gospel repeatedly depicts Jesus commanding demons, healed individuals, and even his own disciples to keep silent about his identity or his miracles (1:34, 44; 3:12; 5:43; 7:36; 8:30; 9:9) -- a recurring pattern scholars call the 'Messianic Secret.' Yet elsewhere in the same Gospel, Jesus performs miracles openly before large crowds, and at least one formerly demon-possessed man is explicitly told to publicize what happened to him rather than remain silent (5:19-20, the Gerasene demoniac instructed to 'go home to your friends and tell them how much the Lord has done for you'), raising a question of whether Mark's Gospel is internally consistent on this point.
@@ -102,6 +100,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'In the days of Abiathar the high priest' -- naming a different priest than 1 Samuel's own account
 
+*Entry ID: MARK-004*
+
 **References:** Mark 2:25-26; 1 Samuel 21:1-6
 
 **The claim:** Mark 2:26 has Jesus refer to David eating the consecrated showbread 'in the days of Abiathar the high priest.' 1 Samuel 21:1-6, however, the passage Jesus is clearly referencing, names the priest who gave David the bread as Ahimelech, Abiathar's own father -- Abiathar himself becomes high priest only later, after Ahimelech's death at Saul's hands (1 Samuel 22:20).
@@ -115,6 +115,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. 'As it is written in Isaiah the prophet' -- yet the quotation combines Malachi and Isaiah
+
+*Entry ID: MARK-005*
 
 **References:** Mark 1:2-3; Malachi 3:1; Isaiah 40:3
 
@@ -133,6 +135,8 @@ primary texts and the cross-references directly.
 
 ### 6. Bartimaeus at Jericho -- Mark's own specific version of a detail addressed at greater length in the companion Matthew chapter
 
+*Entry ID: MARK-006*
+
 **References:** Mark 10:46-52; Matthew 20:29-34; Luke 18:35-43
 
 **The claim:** Mark's account of the healing at Jericho names a single blind man, Bartimaeus, son of Timaeus (10:46) -- addressed at greater length in the companion Matthew chapter, which discusses Matthew's parallel account of two blind men at the same event.
@@ -149,6 +153,8 @@ primary texts and the cross-references directly.
 
 ### 7. 'Take nothing for their journey except a staff' -- vs. Matthew's and Luke's parallel instructions
 
+*Entry ID: MARK-007*
+
 **References:** Mark 6:8-9; Matthew 10:9-10; Luke 9:3
 
 **The claim:** Mark 6:8-9 records Jesus instructing the twelve disciples as he sends them out that they should 'take nothing for their journey except a staff -- no bread, no bag, no money in their belts.' Matthew's parallel account of the same instruction (10:9-10) and Luke's (9:3) both explicitly include the staff among the items the disciples are told NOT to take, directly opposite to Mark's specific allowance of a staff.
@@ -162,6 +168,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. Jesus's own family: 'he is out of his mind' -- a detail some read as evidence of Mark's unusually early and unpolished character
+
+*Entry ID: MARK-008*
 
 **References:** Mark 3:20-21
 
@@ -177,6 +185,8 @@ primary texts and the cross-references directly.
 
 ### 9. The young man who fled naked -- a unique, unexplained detail
 
+*Entry ID: MARK-009*
+
 **References:** Mark 14:51-52
 
 **The claim:** Mark 14:51-52 includes a brief, strange detail found in no other Gospel: at Jesus' arrest in Gethsemane, 'a young man followed him, with nothing but a linen cloth about his body. And they seized him, but he left the linen cloth and ran away naked.' The passage offers no explanation of who this young man was or why the detail is included at all.
@@ -190,6 +200,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. What did Jesus do immediately after his baptism?
+
+*Entry ID: MARK-010*
 
 **References:** Mark 1:12-13; John 1:29-2:11
 
@@ -205,6 +217,8 @@ primary texts and the cross-references directly.
 
 ### 11. Where did Jesus heal a blind man -- Bethsaida, Jericho, or elsewhere?
 
+*Entry ID: MARK-011*
+
 **References:** Mark 8:22-26; Mark 10:46-52; John 9:1-7
 
 **The claim:** Mark 8:22-26 records Jesus healing a blind man at Bethsaida. Mark 10:46-52 records a different blind man, Bartimaeus, healed near Jericho. John 9:1-7 records still another blind man (blind from birth) healed near Jerusalem, at the pool of Siloam.
@@ -219,6 +233,8 @@ primary texts and the cross-references directly.
 
 ### 12. Who can cast out devils in the name of Jesus?
 
+*Entry ID: MARK-012*
+
 **References:** Mark 9:38-41
 
 **The claim:** Mark 9:38 has John tell Jesus, 'Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.' Jesus responds, 'Forbid him not... he that is not against us is on our part' (9:39-40) -- an inclusive posture toward an unaffiliated exorcist some read as in tension with other, more exclusive-sounding statements about who genuinely acts for Christ.
@@ -232,6 +248,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 13. Did the Temple veil tear before, or after, Jesus' death?
+
+*Entry ID: MARK-013*
 
 **References:** Mark 15:37-38; Matthew 27:50-51; Luke 23:45-46
 
@@ -249,6 +267,8 @@ primary texts and the cross-references directly.
 
 ### 14. 'It was the third hour when they crucified him' -- vs. John's 'about the sixth hour'
 
+*Entry ID: MARK-014*
+
 **References:** Mark 15:25; John 19:14
 
 **The claim:** Mark 15:25 states plainly, 'it was the third hour when they crucified him' (roughly 9:00 a.m. by standard ancient reckoning from sunrise). John 19:14, however, describes Pilate still presenting Jesus for judgment and sentencing 'about the sixth hour' (roughly noon) -- meaning the crucifixion itself, which follows this scene in John's own narrative, could not have begun before roughly noon, several hours later than Mark's stated timing.
@@ -262,6 +282,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 15. How many times did the rooster crow, and how many denials, in Peter's denial narrative?
+
+*Entry ID: MARK-015*
 
 **References:** Mark 14:30, 66-72; Matthew 26:34, 69-75; Luke 22:34, 54-62; John 13:38; John 18:15-27
 
@@ -289,6 +311,8 @@ primary texts and the cross-references directly.
 
 ### 16. Are those who correctly believe Jesus is the Christ of God saved, given that even demons make this same confession?
 
+*Entry ID: MARK-016*
+
 **References:** Mark 1:23-24; James 2:19
 
 **The claim:** Mark 1:23-24 has an unclean spirit in the synagogue correctly identify Jesus: 'I know thee who thou art, the Holy One of God.' James 2:19 states, 'the devils also believe, and tremble' -- both showing that demonic spirits possess accurate knowledge of Jesus' true identity.
@@ -302,6 +326,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 17. When was the Holy Ghost given -- to David, centuries before Christ, or only at Pentecost?
+
+*Entry ID: MARK-017*
 
 **References:** Mark 12:36; Acts 2:1-4; John 7:39
 

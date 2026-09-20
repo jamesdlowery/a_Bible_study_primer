@@ -56,6 +56,8 @@ encouraged to consult the primary text and the cross-references directly.
 
 ### 1. Four major interpretive frameworks for the entire book -- the most foundational question in Revelation studies
 
+*Entry ID: REV-001*
+
 **References:** Revelation 1:1-3; Revelation 1:19
 
 **The claim:** Before any single passage in Revelation can be addressed, readers face a foundational interpretive choice regarding the book's own overall structure and referent, since nearly every other specific question addressed elsewhere in this document is downstream of this choice. Revelation 1:19 instructs John to write 'the things that you have seen, those that are and those that are to take place after this' -- language itself open to different readings of scope and timing.
@@ -70,6 +72,8 @@ encouraged to consult the primary text and the cross-references directly.
 
 ### 2. The Millennium -- premillennial, postmillennial, or amillennial?
 
+*Entry ID: REV-002*
+
 **References:** Revelation 20:1-6
 
 **The claim:** Revelation 20:1-6 describes Satan being bound for 'a thousand years,' the martyred saints reigning with Christ for this same period, and a subsequent, final rebellion -- the primary New Testament text for the doctrine of the millennium, one of the most substantively and actively debated eschatological questions across contemporary Christian denominations.
@@ -83,6 +87,8 @@ encouraged to consult the primary text and the cross-references directly.
 ---
 
 ### 3. 'Do not add to... or take away' -- a warning about the whole Bible, or specifically about Revelation itself?
+
+*Entry ID: REV-003*
 
 **References:** Revelation 22:18-19; Deuteronomy 4:2
 
@@ -99,6 +105,8 @@ encouraged to consult the primary text and the cross-references directly.
 ## Numbers and Text
 
 ### 4. 'His number is 666' -- or 616? A genuine textual variant, most likely both pointing to the same historical figure
+
+*Entry ID: REV-004*
 
 **References:** Revelation 13:16-18
 
@@ -117,6 +125,8 @@ encouraged to consult the primary text and the cross-references directly.
 
 ### 5. The 144,000 -- literal ethnic Israel, or symbolic of the whole church? And why is the tribe of Dan missing?
 
+*Entry ID: REV-005*
+
 **References:** Revelation 7:4-8; Revelation 14:1-5
 
 **The claim:** Revelation 7:4-8 lists 144,000 sealed servants of God, 12,000 from each of twelve tribes of Israel -- yet the specific list of tribes differs from every Old Testament tribal listing: the tribe of Dan is entirely absent, with Manasseh included alongside Joseph to restore the number to twelve. This substitution has generated centuries of interpretive discussion regarding both the identity of the 144,000 as a whole (literal ethnic Israelites, or symbolic of the complete church) and the specific, otherwise unexplained omission of Dan.
@@ -132,6 +142,8 @@ encouraged to consult the primary text and the cross-references directly.
 ## Ethical Tensions
 
 ### 6. 'Babylon the Great' -- Rome, a future empire, or a specific later church? A historically fraught identification
+
+*Entry ID: REV-006*
 
 **References:** Revelation 17:1-18; Revelation 18:1-24
 
@@ -149,6 +161,8 @@ encouraged to consult the primary text and the cross-references directly.
 
 ### 7. 'John' -- the apostle, or a distinct 'John the Elder'? The same authorship complexity already addressed regarding 2 and 3 John
 
+*Entry ID: REV-007*
+
 **References:** Revelation 1:1, 4, 9
 
 **The claim:** Revelation identifies its own author simply as 'John' (1:1, 4, 9), a servant of God who received this vision while exiled 'on the island called Patmos.' Tradition has long identified this John with the apostle, author of the fourth Gospel and the three Johannine letters, but this identification connects directly to the same 'two Johns' question addressed at length in the companion 2 John chapter -- notably, the fourth-century historian Eusebius, who explicitly distinguished a separate 'John the Elder' from the apostle John based on his reading of the second-century bishop Papias, specifically credited this distinct 'Elder' (not the apostle) with authorship of Revelation.
@@ -165,6 +179,8 @@ encouraged to consult the primary text and the cross-references directly.
 
 ### 8. The two witnesses (11:1-13) -- Moses and Elijah, Enoch and Elijah, or symbolic figures?
 
+*Entry ID: REV-008*
+
 **References:** Revelation 11:3-13
 
 **The claim:** Revelation 11:3-13 describes two unnamed 'witnesses' who prophesy for 1,260 days, are killed by 'the beast,' and are then miraculously resurrected and taken up to heaven before onlooking crowds -- figures whose specific identity Revelation itself never names, generating several distinct proposed identifications.
@@ -178,6 +194,8 @@ encouraged to consult the primary text and the cross-references directly.
 ---
 
 ### 9. 'His share in the tree of life' -- or 'the book of life'? A textual variant traceable to a single historical event
+
+*Entry ID: REV-009*
 
 **References:** Revelation 22:19
 

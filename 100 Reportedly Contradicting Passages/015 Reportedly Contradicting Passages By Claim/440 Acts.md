@@ -19,15 +19,7 @@ narrative.
 **A note on candor:** Entries 1, 3, and 4 are presented with genuine scholarly diversity of
 opinion rather than a single forced resolution.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -53,6 +45,8 @@ primary texts and the cross-references directly.
 
 ### 1. Paul's conversion, told three times: did his companions hear the voice, or not?
 
+*Entry ID: ACTS-001*
+
 **References:** Acts 9:1-19; Acts 22:6-16; Acts 26:12-18
 
 **The claim:** Acts records Paul's Damascus road conversion three separate times -- once in Luke's own third-person narration (9:1-19), and twice more in Paul's own first-person retelling to different audiences (22:6-16, before a Jerusalem crowd; 26:12-18, before King Agrippa). The three accounts differ in some specific details, most notably regarding Paul's traveling companions: 9:7 states the men 'heard the voice but saw no one,' while 22:9 states 'those who were with me saw the light but did not hear the voice of the one who spoke to me' -- an apparent direct contradiction about whether the companions heard the voice, all three accounts appearing within the same book by the same author.
@@ -66,6 +60,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Judas's death -- addressed at length in the companion Matthew chapter
+
+*Entry ID: ACTS-002*
 
 **References:** Acts 1:15-19; Matthew 27:3-10
 
@@ -83,6 +79,8 @@ primary texts and the cross-references directly.
 
 ### 3. Paul's own account of his post-conversion movements (Galatians 1:15-18) vs. Acts' narrative sequence
 
+*Entry ID: ACTS-003*
+
 **References:** Acts 9:19-26; Galatians 1:15-18
 
 **The claim:** Acts 9:19-26 narrates Paul's activity immediately following his conversion in relatively compressed terms: he stays with the disciples in Damascus, immediately begins proclaiming Jesus in the synagogues there, and, after escaping a plot against his life, goes to Jerusalem. Paul's own first-person account in Galatians 1:15-18 describes a different, more specific sequence: after his conversion, he states he 'did not immediately consult with anyone... nor did I go up to Jerusalem,' but instead 'went away into Arabia, and again returned to Damascus,' only going up to Jerusalem 'after three years' -- a specific chronological detail (the journey to Arabia, and the three-year interval) that Acts' own narrative does not explicitly mention or account for.
@@ -96,6 +94,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. The Jerusalem Council (Acts 15) and Paul's own account of a Jerusalem visit (Galatians 2:1-10) -- the same meeting, or two different ones?
+
+*Entry ID: ACTS-004*
 
 **References:** Acts 15:1-29; Galatians 2:1-10; Acts 11:27-30
 
@@ -113,6 +113,8 @@ primary texts and the cross-references directly.
 
 ### 5. The Jerusalem Council's decree on food offered to idols -- vs. Paul's own, seemingly more permissive teaching
 
+*Entry ID: ACTS-005*
+
 **References:** Acts 15:19-20, 28-29; 1 Corinthians 8:1-13; 1 Corinthians 10:23-30
 
 **The claim:** The Jerusalem Council's letter to Gentile believers specifies four requirements, including abstaining from 'what has been sacrificed to idols' (15:29) -- language that reads as an absolute, unconditional prohibition. Paul's own later teaching on the same subject, however, appears considerably more nuanced and permissive: in 1 Corinthians 8, Paul acknowledges 'an idol has no real existence' and that food itself is not defiled by having been offered to it, permitting believers with sufficiently mature conscience to eat such food freely so long as it does not cause a weaker believer to stumble; in 1 Corinthians 10:25-27, Paul explicitly tells believers they may eat 'whatever is sold in the meat market' or served at an unbeliever's table 'without raising any question on the ground of conscience,' unless someone specifically points out that it had been offered in sacrifice.
@@ -126,6 +128,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. Who raised Jesus from the dead -- God the Father, or Jesus himself?
+
+*Entry ID: ACTS-006*
 
 **References:** Acts 2:24; John 10:17-18; Romans 8:11
 
@@ -141,6 +145,8 @@ primary texts and the cross-references directly.
 
 ### 7. If a husband believes, is his wife automatically saved also?
 
+*Entry ID: ACTS-007*
+
 **References:** Acts 16:31-34; Romans 10:9-10
 
 **The claim:** Acts 16:31 has Paul tell the Philippian jailer, 'Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house' -- language some read as promising the jailer's entire household salvation contingent only on his own individual faith. Elsewhere, Scripture consistently ties salvation to each individual's own personal faith and confession (Romans 10:9-10, 'if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart... thou shalt be saved').
@@ -155,6 +161,8 @@ primary texts and the cross-references directly.
 
 ### 8. Can women serve as church leaders or teachers, given Priscilla's role in instructing Apollos?
 
+*Entry ID: ACTS-008*
+
 **References:** Acts 18:24-26; 1 Timothy 2:12
 
 **The claim:** Acts 18:26 describes Priscilla, alongside her husband Aquila, taking part in instructing Apollos, a learned and eloquent teacher, 'the way of God more perfectly.' 1 Timothy 2:12 states, 'I suffer not a woman to teach, nor to usurp authority over the man.'
@@ -168,6 +176,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. In whose name is baptism to be performed -- Jesus's name alone, or the name of the Father, Son, and Holy Spirit?
+
+*Entry ID: ACTS-009*
 
 **References:** Acts 19:5; Acts 2:38; Matthew 28:19
 
@@ -185,6 +195,8 @@ primary texts and the cross-references directly.
 
 ### 10. 'Herod' -- at least four distinct rulers across the New Testament sharing the same family name
 
+*Entry ID: ACTS-010*
+
 **References:** Acts 12:1-23; Matthew 2:1-19; Luke 3:1; Acts 25:13-26:32
 
 **The claim:** The New Testament refers to several different members of the Herodian dynasty simply as 'Herod,' without always distinguishing which specific ruler is meant: Herod the Great, who ordered the slaughter of the infants at Bethlehem (Matthew 2:1-19); his son Herod Antipas, tetrarch of Galilee, who executed John the Baptist and interrogated Jesus before the crucifixion (Luke 3:1, 23:6-12); Herod Agrippa I, grandson of Herod the Great, who executed the apostle James and imprisoned Peter (Acts 12:1-23); and Herod Agrippa II, son of Agrippa I, before whom Paul later makes his defense (Acts 25:13-26:32) -- four distinct historical individuals across roughly a century, connected by dynasty and by the frequent, unqualified use of the single family name 'Herod' for each.
@@ -200,6 +212,8 @@ primary texts and the cross-references directly.
 ## Chronology and Historicity
 
 ### 11. Herod Agrippa I's death -- independently corroborated by Josephus's own historical account
+
+*Entry ID: ACTS-011*
 
 **References:** Acts 12:20-23
 
@@ -217,6 +231,8 @@ primary texts and the cross-references directly.
 
 ### 12. The number of men in Paul's arresting escort -- and other minor numerical details across Acts' narrative
 
+*Entry ID: ACTS-012*
+
 **References:** Acts 23:23
 
 **The claim:** Acts 23:23 records the Roman commander Claudius Lysias dispatching an unusually large security detachment to protect Paul en route to Caesarea: 'two hundred soldiers, seventy horsemen, and two hundred spearmen' -- a total of 470 armed men escorting a single prisoner, a detail some have questioned as implausibly large for the stated purpose.
@@ -231,6 +247,8 @@ primary texts and the cross-references directly.
 
 ### 13. How many years did the Israelites serve foreign rulers before the Exodus, per Stephen's speech and Exodus's own numbers?
 
+*Entry ID: ACTS-013*
+
 **References:** Acts 7:6; Genesis 15:13; Exodus 12:40-41; Galatians 3:17
 
 **The claim:** In his speech before the Sanhedrin, Stephen states that God told Abraham his descendants would be 'sojourners in a land belonging to others, who will enslave them and afflict them four hundred years' (Acts 7:6, closely echoing Genesis 15:13). Exodus 12:40-41 instead gives a total of 430 years for 'the time that the people of Israel lived in Egypt.' Paul, in Galatians 3:17, uses the 430-year figure but applies it to the span between God's promise to Abraham and the giving of the Law at Sinai -- a different starting point than the descent into Egypt itself. This is the same underlying textual question addressed at greater length in the companion Exodus chapter (entry 12), here specifically in the form Stephen's speech gives it.
@@ -244,6 +262,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. 'It is more blessed to give than to receive' -- a saying of Jesus not found in the Gospels
+
+*Entry ID: ACTS-014*
 
 **References:** Acts 20:35
 

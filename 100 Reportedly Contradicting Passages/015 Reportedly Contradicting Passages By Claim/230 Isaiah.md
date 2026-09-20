@@ -14,15 +14,7 @@ identity of the Suffering Servant) are both presented with genuine scholarly div
 opinion rather than a single forced resolution -- these are among the most substantively
 debated questions in Old Testament scholarship.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -48,6 +40,8 @@ primary texts directly.
 
 ### 1. One prophet, or several? Isaiah's authorship across radically different historical settings
 
+*Entry ID: ISA-001*
+
 **References:** Isaiah 1:1; Isaiah 44:28; Isaiah 45:1; Isaiah 39:5-7
 
 **The claim:** Isaiah 1:1 attributes the entire book to 'Isaiah the son of Amoz,' who ministered during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah -- kings of the eighth century BC. Yet chapters 40 onward consistently presuppose a much later setting: Jerusalem and the Temple already destroyed, the people already in Babylonian exile, and the return from exile anticipated as imminent, including two explicit references to the Persian king Cyrus by name (44:28, 45:1) -- a monarch who did not begin his reign until roughly a century and a half after Isaiah's own attested ministry, and whose decree ending the exile Isaiah himself predicts in 39:5-7 as still future from his own eighth-century vantage point.
@@ -61,6 +55,8 @@ primary texts directly.
 ---
 
 ### 2. 'They shall beat their swords into plowshares' -- a passage appearing nearly word-for-word in Micah as well
+
+*Entry ID: ISA-002*
 
 **References:** Isaiah 2:2-4; Micah 4:1-3
 
@@ -78,6 +74,8 @@ primary texts directly.
 
 ### 3. 'A virgin shall conceive' -- a sign to Ahaz, a messianic prophecy, or both? The almah/virgin question
 
+*Entry ID: ISA-003*
+
 **References:** Isaiah 7:14; Isaiah 7:16; Matthew 1:22-23
 
 **The claim:** Isaiah 7:14 is quoted in Matthew 1:22-23 as a fulfilled messianic prophecy of Jesus' virgin birth: 'the virgin shall conceive and bear a son.' Read in its own original context, however, the sign is given specifically to King Ahaz regarding an imminent, near-term deliverance from a coalition of two threatening kings, with the immediately following verse stating that before the promised child even reaches the age of moral discernment, 'the land whose two kings you dread will be deserted' (7:16) -- language that reads as describing an event within Ahaz's own lifetime, centuries before Jesus. Compounding this, the underlying Hebrew word (almah) most literally and commonly means 'young woman' rather than specifically 'virgin' (the more precise Hebrew term for which, betulah, is not used here), and English translations genuinely differ on how to render it.
@@ -94,6 +92,8 @@ primary texts directly.
 ---
 
 ### 4. 'I form light and create darkness, I make well-being and create calamity' -- does God author evil?
+
+*Entry ID: ISA-004*
 
 **References:** Isaiah 45:7; James 1:13
 
@@ -116,6 +116,8 @@ primary texts directly.
 
 ### 5. The Suffering Servant: the nation of Israel, or an individual, messianic figure?
 
+*Entry ID: ISA-005*
+
 **References:** Isaiah 41:8; Isaiah 44:1; Isaiah 49:3; Isaiah 52:13-53:12
 
 **The claim:** Isaiah repeatedly and explicitly identifies 'my servant' as the nation Israel: 'you, Israel, my servant' (41:8), 'my servant Jacob' (44:1), and most directly, 'you are my servant, Israel, in whom I will be glorified' (49:3). Yet the extended 'Suffering Servant' passage (52:13-53:12) describes an individual figure who suffers innocently, bears others' sins vicariously, is 'cut off out of the land of the living' for his people's transgression, and is buried -- language most naturally read as describing a specific person's death, distinct from and on behalf of the very nation the earlier chapters identify as 'the servant.'
@@ -129,6 +131,8 @@ primary texts directly.
 ---
 
 ### 6. 'How you are fallen, O Lucifer' -- Satan's primordial fall, or a taunt against a historical king of Babylon?
+
+*Entry ID: ISA-006*
 
 **References:** Isaiah 14:4; Isaiah 14:12-15
 
@@ -149,6 +153,8 @@ primary texts directly.
 
 ### 7. 'I do not delight in the blood of bulls' -- prophetic critique of sacrifice, or rejection of the Torah's own requirements?
 
+*Entry ID: ISA-007*
+
 **References:** Isaiah 1:11-17; Leviticus 1-7
 
 **The claim:** Isaiah 1:11-17 records God declaring, through the prophet, 'I have had enough of burnt offerings of rams and the fat of well-fed beasts; I do not delight in the blood of bulls, or of lambs, or of goats... bring no more vain offerings; incense is an abomination to me' -- language that reads as a sweeping rejection of the sacrificial system, in apparent tension with the Torah's own extensive, detailed institution of exactly these sacrifices as divinely required worship (Leviticus 1-7).
@@ -162,6 +168,8 @@ primary texts directly.
 ---
 
 ### 8. Isaiah's vision of God enthroned -- and John's claim that Isaiah 'saw his glory and spoke of him' regarding Christ
+
+*Entry ID: ISA-008*
 
 **References:** Isaiah 6:1-5; John 12:41; Exodus 33:20; John 1:18
 
@@ -177,6 +185,8 @@ primary texts directly.
 
 ### 9. 'The everlasting God... does not faint or grow weary' -- vs. God resting on the seventh day
 
+*Entry ID: ISA-009*
+
 **References:** Isaiah 40:28; Genesis 2:2-3
 
 **The claim:** Isaiah 40:28 declares, 'The everlasting God, the LORD, the Creator of the ends of the earth, does not faint or grow weary; his understanding is unsearchable' -- an emphatic denial that God experiences any form of fatigue or exhaustion. Genesis 2:2-3, by contrast, states that 'on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work' -- language that, read plainly, appears to describe God resting, which some take to imply a state of tiredness Isaiah 40:28 denies.
@@ -190,6 +200,8 @@ primary texts directly.
 ---
 
 ### 10. 'Besides me there is no God' -- strict monotheism, vs. the Old Testament's language of a divine council and 'gods'
+
+*Entry ID: ISA-010*
 
 **References:** Isaiah 45:5-6; Isaiah 45:21-22; Psalm 82:1; Deuteronomy 32:8-9
 
@@ -205,6 +217,8 @@ primary texts directly.
 
 ### 11. What was Sodom's sin?
 
+*Entry ID: ISA-011*
+
 **References:** Isaiah 1:10; Genesis 19:4-9; Ezekiel 16:49-50
 
 **The claim:** Isaiah 1:10 addresses Jerusalem's corrupt rulers as 'rulers of Sodom' and its people as 'people of Gomorrah,' invoking Sodom as a byword for grave sin, in a context primarily concerned with hollow ritual and social injustice (1:11-17). Genesis 19:4-9 narrates the men of Sodom's attempted sexual assault on Lot's angelic visitors. Ezekiel 16:49-50, reflecting on the same city generations later, identifies Sodom's sin as 'pride, fulness of bread, and abundance of idleness... neither did she strengthen the hand of the poor and needy,' naming social injustice and complacency rather than the specific act narrated in Genesis, and only afterward adding that 'they committed abomination before me.'
@@ -218,6 +232,8 @@ primary texts directly.
 ---
 
 ### 12. Will everyone eventually see and acknowledge God's majesty, or will the wicked never behold it?
+
+*Entry ID: ISA-012*
 
 **References:** Isaiah 26:10; Isaiah 40:5; Philippians 2:10-11
 
@@ -233,6 +249,8 @@ primary texts directly.
 
 ### 13. Does God ever get furious, given this verse's explicit denial that fury is in him?
 
+*Entry ID: ISA-013*
+
 **References:** Isaiah 27:4; Isaiah 51:20; Nahum 1:2
 
 **The claim:** Isaiah 27:4 has God declare, regarding his 'vineyard' (Israel, picking up the imagery of Isaiah 5), 'Fury is not in me: who would set the briers and thorns against me in battle? I would go through them, I would burn them together.' Elsewhere, Scripture explicitly and repeatedly describes God's fury and fierce anger, including within this same book (Isaiah 51:20's 'full of the fury of the LORD') and elsewhere (Nahum 1:2, 'the LORD revengeth, and is furious').
@@ -246,6 +264,8 @@ primary texts directly.
 ---
 
 ### 14. Who is 'the first and the last' -- the LORD, or Jesus?
+
+*Entry ID: ISA-014*
 
 **References:** Isaiah 44:6; Revelation 1:17; Revelation 22:13
 
@@ -263,6 +283,8 @@ primary texts directly.
 
 ### 15. Babylon's prophesied permanent desolation -- vs. its continued habitation for centuries afterward
 
+*Entry ID: ISA-015*
+
 **References:** Isaiah 13:19-22; 1 Peter 5:13
 
 **The claim:** Isaiah 13:19-22 prophesies Babylon's total, permanent destruction in the most absolute terms: 'Babylon... will be like Sodom and Gomorrah... it will never be inhabited or lived in for all generations; no Arab will pitch his tent there, no shepherds will make their flocks lie down there.' Yet Babylon continued to be inhabited for many centuries after the fall of the Babylonian and then Persian empires, well into the Hellenistic, Parthian, and even early Islamic periods, and appears to still have a functioning population, or at least an associated Jewish or Christian community, referenced in the New Testament itself (1 Peter 5:13, 'she who is at Babylon, who is likewise chosen, sends you greetings' -- though this reference is itself debated between literal Babylon and a coded reference to Rome).
@@ -278,6 +300,8 @@ primary texts directly.
 ## Internal Narrative Tensions
 
 ### 16. Judgment oracles against Egypt and Assyria -- yet both later called blessed alongside Israel
+
+*Entry ID: ISA-016*
 
 **References:** Isaiah 19:1-18; Isaiah 10:5-19; Isaiah 19:23-25
 
@@ -295,6 +319,8 @@ primary texts directly.
 
 ### 17. Is 'Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace' one name for the Messiah, or several?
 
+*Entry ID: ISA-017*
+
 **References:** Isaiah 9:6
 
 **The claim:** Isaiah 9:6 gives the coming child a string of titles: 'Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace' -- raising a question, sometimes posed with deliberate irony, about what the Messiah's actual 'name' is if so many different titles are given at once.
@@ -310,6 +336,8 @@ primary texts directly.
 ## Genealogy
 
 ### 18. Will the Messiah be a descendant of David, given the recorded curse on Jeconiah's royal line?
+
+*Entry ID: ISA-018*
 
 **References:** Isaiah 11:1; Jeremiah 22:28-30; Matthew 1:11-16; Luke 3:23-31
 

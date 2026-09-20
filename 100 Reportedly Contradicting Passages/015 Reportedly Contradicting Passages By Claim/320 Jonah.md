@@ -47,6 +47,8 @@ primary texts and the cross-references directly.
 
 ### 1. A historical prophetic mission, or a didactic parable?
 
+*Entry ID: JONAH-001*
+
 **References:** Jonah 1:1; 2 Kings 14:25; Matthew 12:39-41
 
 **The claim:** Jonah's superscription (1:1) identifies its subject as 'Jonah the son of Amittai,' a name matching a historical prophet mentioned in 2 Kings 14:25 as active during the reign of Jeroboam II of Israel. Yet the book's narrative style, content, and structure differ markedly from every other prophetic book -- it is almost entirely third-person narrative about the prophet rather than a collection of his oracles, includes an extended miraculous episode (survival inside a great fish), and features an almost satirical characterization of its own central figure (a reluctant, resentful prophet who sulks over God's mercy) -- leading a substantial number of scholars to read the book as a didactic parable or extended teaching narrative composed around a historical name, rather than as a straightforward historical account.
@@ -63,6 +65,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'Yet forty days, and Nineveh shall be overthrown' -- the Bible's paradigm case of an announced judgment that did not occur
 
+*Entry ID: JONAH-002*
+
 **References:** Jonah 3:4; Jonah 3:10; Jeremiah 18:7-10
 
 **The claim:** Jonah delivers what reads as an unconditional, unqualified prophecy of destruction: 'Yet forty days, and Nineveh shall be overthrown!' (3:4) -- with no stated condition attached. Yet the city was not destroyed, because 'when God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it' (3:10).
@@ -78,6 +82,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 3. Three days and three nights in 'the belly of the great fish'
+
+*Entry ID: JONAH-003*
 
 **References:** Jonah 1:17; Matthew 12:40
 
@@ -99,6 +105,8 @@ primary texts and the cross-references directly.
 
 ### 4. Nineveh 'three days' journey in breadth' -- a size question with a well-documented resolution
 
+*Entry ID: JONAH-004*
+
 **References:** Jonah 3:3
 
 **The claim:** Jonah 3:3 describes Nineveh as 'an exceedingly great city, three days' journey in breadth.' Archaeological excavation of Nineveh's actual walled city (the site now within modern Mosul, Iraq) reveals a walled circumference of only about 12 kilometers (roughly 7.5 square kilometers in total area) -- a distance a person could walk around in considerably less than a single day, let alone three, raising a question about the accuracy of Jonah's description.
@@ -112,6 +120,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. Nineveh's mass, immediate national repentance -- a historicity question, addressed candidly
+
+*Entry ID: JONAH-005*
 
 **References:** Jonah 3:5-9
 
@@ -129,6 +139,8 @@ primary texts and the cross-references directly.
 
 ### 6. A prayer of thanksgiving for deliverance -- offered from inside the fish, before Jonah is actually delivered
 
+*Entry ID: JONAH-006*
+
 **References:** Jonah 2:1-10
 
 **The claim:** Jonah's prayer from inside the fish (2:1-9) is composed almost entirely in the past tense, describing a deliverance that has apparently already been accomplished: 'I called out to the LORD, out of my distress, and he answered me... you heard my voice... yet you brought up my life from the pit, O LORD my God' -- language of completed rescue and thanksgiving, offered while Jonah is still, narratively, inside the fish, with his actual return to dry land not occurring until the fish 'vomited Jonah out upon the dry land' in the very next verse (2:10).
@@ -142,6 +154,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. Jonah's own stated reason for fleeing: resentment of mercy extended to a Gentile enemy
+
+*Entry ID: JONAH-007*
 
 **References:** Jonah 4:1-3; Jonah 4:11; Amos 9:7; Isaiah 19:23-25
 

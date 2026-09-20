@@ -44,6 +44,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'He emptied himself' -- of what, exactly? The kenosis debate
 
+*Entry ID: PHIL-001*
+
 **References:** Philippians 2:6-8
 
 **The claim:** Philippians 2:6-7 describes Christ as one 'who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men' -- language (the Greek verb heauton ekenosen, from which the theological term 'kenosis' derives) that has generated a substantial and long-running theological debate, extending back at least 150 years, over precisely what Christ 'emptied himself' of in becoming human.
@@ -64,6 +66,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'At the name of Jesus every knee should bow' -- Isaiah 45:23's language for YHWH, applied directly to Jesus
 
+*Entry ID: PHIL-002*
+
 **References:** Philippians 2:9-11; Isaiah 45:22-23
 
 **The claim:** Philippians 2:10-11 states that God has exalted Jesus 'so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord' -- language directly echoing Isaiah 45:23's own emphatic monotheistic declaration, spoken by YHWH himself: 'To me every knee shall bow, every tongue shall swear allegiance,' occurring in the same chapter addressed at length in the companion Isaiah chapter regarding Isaiah's strict monotheism (45:5-6, 21).
@@ -77,6 +81,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 3. 'Work out your own salvation... for it is God who works in you' -- human effort and divine sovereignty held together explicitly
+
+*Entry ID: PHIL-003*
 
 **References:** Philippians 2:12-13
 
@@ -92,6 +98,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'I can do all things through him who strengthens me' -- a verse widely quoted apart from its actual context
 
+*Entry ID: PHIL-004*
+
 **References:** Philippians 4:11-13
 
 **The claim:** Philippians 4:13 -- 'I can do all things through him who strengthens me' -- is among the most widely quoted verses in popular contemporary Christian usage, frequently applied to achieving personal ambitions, athletic victories, career success, or overcoming any general life challenge. Read in its actual, immediate context, however, the verse specifically concludes Paul's own testimony about learning contentment in both scarcity and abundance: 'I have learned, in whatever situation I am, to be content... I know how to be brought low, and I know how to abound... I can do all things through him who strengthens me' (4:11-13) -- a statement specifically about contentment and endurance amid difficult or fluctuating material circumstances, not a general promise of empowered success in any undertaking.
@@ -105,6 +113,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. 'To depart and be with Christ, for that is far better' -- addressed at length in the companion 2 Corinthians and Luke chapters
+
+*Entry ID: PHIL-005*
 
 **References:** Philippians 1:21-24; 2 Corinthians 5:1-10; Luke 23:43
 
@@ -121,6 +131,8 @@ primary texts and the cross-references directly.
 ## Theological Tensions
 
 ### 6. 'Not that I have already... become perfect' -- Paul's own admission, vs. later doctrines of Christian perfection
+
+*Entry ID: PHIL-006*
 
 **References:** Philippians 3:12-14
 

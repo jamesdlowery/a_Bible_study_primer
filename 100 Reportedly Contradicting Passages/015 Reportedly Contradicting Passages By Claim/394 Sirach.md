@@ -1,12 +1,8 @@
 # Reportedly Contradicting Passages in Sirach (Ecclesiasticus)
 
 **A note on this document's place in the series:** As with Tobit, Judith, and the Wisdom of
-Solomon, Sirach is a deuterocanonical book included in only five of the 27 tracked
-translations in this project -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the
-NABRE, all representing Catholic-tradition translations. The remaining 22 follow the
-Protestant, Jewish, or otherwise non-deuterocanonical-affirming canon, which excludes it. This
-document notes, for each entry, that the majority of tracked translations do not contain the
-book at all.
+Solomon, Sirach is a deuterocanonical book -- see the note on canon status at the start of the
+Apocrypha block above for which five of the 27 tracked translations include it.
 
 This document catalogs 6 commonly cited alleged contradictions and notable theological
 questions involving Sirach, either entirely internal to the book or in comparison with
@@ -47,6 +43,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 1. The only book in the entire Bible or deuterocanon with a named author and a securely datable translator's preface
 
+*Entry ID: SIR-001*
+
 **References:** Sirach 50:27; Sirach (Prologue)
 
 **The claim:** Unlike every other book addressed in this project -- including the pseudonymous Wisdom of Solomon and the disputed Ecclesiastes and Song of Solomon, both addressed at length in their own companion chapters -- Sirach names its actual historical author directly within the text itself: 'Instruction in understanding and knowledge I have written in this book, Jesus [Yeshua] the son of Sirach, son of Eleazar, of Jerusalem' (50:27). The book is further preceded by a prologue, written by the author's own grandson, explaining that he translated his grandfather's original Hebrew work into Greek after arriving in Egypt 'in the thirty-eighth year of the reign of Euergetes' -- a specific regnal reference allowing modern scholars to date the grandson's arrival with unusual precision to 132 BC.
@@ -63,6 +61,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 2. 'From a woman sin had its beginning' -- Eve, or a bad wife specifically? And how this relates to Romans 5 and 1 Timothy 2
 
+*Entry ID: SIR-002*
+
 **References:** Sirach 25:13-26; Genesis 3:1-19; Romans 5:12; 1 Timothy 2:13-14
 
 **The claim:** Sirach 25:24 states, 'From a woman sin had its beginning, and because of her we all die' -- language widely read as attributing the origin of universal human sin and death specifically to Eve, in some tension with Paul's own statement in Romans 5:12 that 'sin came into the world through one man' (Adam, not Eve), even though 1 Timothy 2:13-14 separately emphasizes that 'Adam was not deceived, but the woman was deceived and became a transgressor' -- meaning the New Testament's own two most relevant passages do not fully agree with each other on how responsibility for the Fall should be apportioned between Adam and Eve, and Sirach adds a third, seemingly still different emphasis.
@@ -77,6 +77,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 3. Kindness to a father 'will be credited to you against your sins' -- good deeds atoning for sin?
 
+*Entry ID: SIR-003*
+
 **References:** Sirach 3:1-16
 
 **The claim:** Sirach 3:14-15, part of an extended teaching on honoring one's parents, states, 'kindness to a father will not be forgotten... it will be credited to you against your sins' -- language suggesting that a specific good deed (caring for an aging parent) can offset or atone for one's own sins, raising a question about how this relates to the rest of Scripture's more typical emphasis on sacrifice, repentance, and (in New Testament theology) faith in Christ's own atoning work as the proper means of addressing sin, rather than compensatory good deeds.
@@ -90,6 +92,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 ---
 
 ### 4. 'Honor the physician... for the Lord created him' -- vs. King Asa's condemnation for seeking physicians rather than the LORD
+
+*Entry ID: SIR-004*
 
 **References:** Sirach 38:1-15; 2 Chronicles 16:12
 
@@ -107,6 +111,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 5. Sirach's severe statements about women -- an outlier within the wisdom tradition's more balanced treatment elsewhere
 
+*Entry ID: SIR-005*
+
 **References:** Sirach 25:13-26; Sirach 42:14; Proverbs 31:10-31
 
 **The claim:** Beyond 25:24 (addressed in entry 2), Sirach contains several further severe statements about women in general: 'there is no venom worse than a snake's venom, and no anger worse than a woman's wrath' (25:15), and 'better is the wickedness of a man than a woman who does good' (42:14) -- language considerably harsher in its general characterization of women than the wisdom tradition's treatment elsewhere, most notably Proverbs 31:10-31's extended, warmly admiring acrostic poem praising an excellent wife's industriousness, wisdom, and business acumen.
@@ -122,6 +128,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 ## Theological Interpretation
 
 ### 6. A caution against investigating 'what is too difficult for you' -- vs. the wisdom tradition's call to actively seek understanding
+
+*Entry ID: SIR-006*
 
 **References:** Sirach 3:21-23; Proverbs 2:1-5; Ecclesiastes 7:16
 

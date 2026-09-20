@@ -48,6 +48,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. 2 Peter's authorship -- widely regarded as the single most disputed authorship question in the New Testament canon
 
+*Entry ID: 2PET-001*
+
 **References:** 2 Peter 1:1, 16-18; 2 Peter 3:1; 2 Peter 3:15-16
 
 **The claim:** 2 Peter explicitly claims apostolic authorship, opening 'Simeon Peter, a servant and apostle of Jesus Christ' (1:1) and claiming direct eyewitness testimony to the Transfiguration (1:16-18) and to having written an earlier letter to the same readers (3:1, apparently referring to 1 Peter). Despite these explicit claims, 2 Peter is widely regarded, by a wider range of scholars than for any other New Testament book, as the most difficult case for defending traditional apostolic authorship -- D. A. Carson and Douglas J. Moo state plainly, in a standard evangelical New Testament introduction, that 'for no other letter in the New Testament is there a greater consensus that the person who is named as the author could not, in fact, be the author' (An Introduction to the New Testament, 2nd ed. (Grand Rapids: Zondervan, 2005)).
@@ -64,6 +66,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 2. 'Not wishing that any should perish' -- God's universal saving will, and its relationship to particular election
 
+*Entry ID: 2PET-002*
+
 **References:** 2 Peter 3:9; Romans 9:10-24
 
 **The claim:** 2 Peter 3:9 states, regarding the seeming delay of Christ's return, 'The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance' -- language some read as a clear statement of God's universal saving will toward literally every individual person, connecting to the same broader question addressed at length in the companion Romans chapter regarding divine election and God's sovereign purposes.
@@ -77,6 +81,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 3. 'Carried along by the Holy Spirit' -- a further inspiration text, addressed alongside the companion 2 Timothy chapter
+
+*Entry ID: 2PET-003*
 
 **References:** 2 Peter 1:20-21; 2 Timothy 3:16
 
@@ -93,6 +99,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 4. 'The earth and the works done on it will be burned up' -- or 'will be found' or 'exposed'? A genuine, widely discussed textual variant
+
+*Entry ID: 2PET-004*
 
 **References:** 2 Peter 3:10
 

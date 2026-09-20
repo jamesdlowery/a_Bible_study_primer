@@ -42,6 +42,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. 'Submit to one another' -- and then, 'wives, submit to your own husbands'
 
+*Entry ID: EPH-001*
+
 **References:** Ephesians 5:21-33
 
 **The claim:** Ephesians 5:21 instructs believers generally to be 'submitting to one another out of reverence for Christ' -- language of mutual, reciprocal submission. The very next verse specifies this in gender-differentiated terms: 'Wives, submit to your own husbands, as to the Lord... as the church submits to Christ, so also wives should submit in everything to their husbands' (5:22, 24) -- language addressed specifically and only to wives, with husbands instead instructed to love their wives 'as Christ loved the church and gave himself up for her' (5:25), rather than being given a parallel command to submit. This is one of the most actively and sincerely debated passages in contemporary Christian theology and ethics regarding marriage and gender roles.
@@ -55,6 +57,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 2. 'By grace you have been saved through faith... not a result of works' -- addressed at length in the companion Romans chapter
+
+*Entry ID: EPH-002*
 
 **References:** Ephesians 2:8-9; Romans 3:28; James 2:14-26
 
@@ -72,6 +76,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 3. 'He chose us in him before the foundation of the world' -- addressed at length in the companion Romans chapter
 
+*Entry ID: EPH-003*
+
 **References:** Ephesians 1:4-5; Romans 9:10-24
 
 **The claim:** Ephesians 1:4-5 states, 'he chose us in him before the foundation of the world... he predestined us for adoption as sons through Jesus Christ' -- language connecting to the same election and predestination question addressed at length in the companion Romans chapter regarding Romans 9.
@@ -86,6 +92,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 4. 'He had also descended into the lower regions, the earth' -- the incarnation, or a descent to the underworld?
 
+*Entry ID: EPH-004*
+
 **References:** Ephesians 4:9-10
 
 **The claim:** Ephesians 4:9, in the midst of the discussion addressed in entry 6 above, adds a further detail: 'In saying, "He ascended," what does it mean but that he had also descended into the lower regions, the earth?' -- a phrase whose precise meaning has been debated, since some later Christian tradition (reflected in some historic forms of the Apostles' Creed, which include the phrase 'he descended into hell') has connected this verse to a supposed descent by Christ to the underworld or realm of the dead between his crucifixion and resurrection, while other readings understand the passage more simply as referring to the incarnation itself.
@@ -99,6 +107,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 5. 'The mystery... which was not made known to the sons of men in other generations' -- vs. earlier Old Testament anticipations of Gentile inclusion
+
+*Entry ID: EPH-005*
 
 **References:** Ephesians 3:1-13; Isaiah 19:23-25; Amos 9:11-12; Ruth 1:1-4:22; Jonah 1:1-4:11
 
@@ -115,6 +125,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 6. 'He gave gifts to men' -- vs. Psalm 68:18's 'received gifts among men'
+
+*Entry ID: EPH-006*
 
 **References:** Ephesians 4:8; Psalm 68:18
 

@@ -48,6 +48,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. 'All Scripture is breathed out by God' -- the classic proof-text for biblical inspiration, and a genuine question about its own scope
 
+*Entry ID: 2TIM-001*
+
 **References:** 2 Timothy 3:14-17
 
 **The claim:** 2 Timothy 3:16 states, 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness' -- the single most frequently cited biblical text for the doctrine of Scripture's own divine inspiration, foundational to how this entire project's source material has itself been treated throughout this series. A genuine question arises regarding this verse's own scope: since the New Testament canon had not yet been completed, and in some cases not yet even written, at the time Paul wrote this letter, did Paul's own statement about 'all Scripture' being God-breathed refer only to the already-existing Hebrew Scriptures (the Old Testament), or did it also anticipate or apply to the New Testament writings that would later be recognized as Scripture alongside them -- including, by strict extension, this very letter itself?
@@ -62,6 +64,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 2. 'The last days' bringing 'times of difficulty' -- an imminent prediction, or a description of the church age generally?
 
+*Entry ID: 2TIM-002*
+
 **References:** 2 Timothy 3:1-9
 
 **The claim:** 2 Timothy 3:1-5 warns that 'in the last days there will come times of difficulty. For people will be lovers of self, lovers of money, proud, arrogant, abusive... having the appearance of godliness, but denying its power' -- a description frequently applied by contemporary readers to describe specifically their own current era's moral and social conditions, raising a question of whether Paul intends a specific, imminent future period, or a general, ongoing description characterizing the entire period between Christ's first and second coming.
@@ -75,6 +79,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 3. 'If we are faithless, he remains faithful' -- does this mean God saves the faithless regardless?
+
+*Entry ID: 2TIM-003*
 
 **References:** 2 Timothy 2:11-13
 
@@ -92,6 +98,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 4. The authorship question -- addressed at length in the companion 1 Timothy chapter, with a further nuance specific to this letter
 
+*Entry ID: 2TIM-004*
+
 **References:** 2 Timothy 1:1
 
 **The claim:** 2 Timothy identifies its own author as Paul (1:1), connecting to the broader authorship debate regarding the Pastoral Epistles (1 Timothy, 2 Timothy, and Titus) addressed at length in the companion 1 Timothy chapter.
@@ -107,6 +115,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Theological Tensions
 
 ### 5. Can the devil simply capture and control people at his own will, with no possibility of resistance or escape?
+
+*Entry ID: 2TIM-005*
 
 **References:** 2 Timothy 2:25-26; James 4:7; 1 Peter 5:8-9
 

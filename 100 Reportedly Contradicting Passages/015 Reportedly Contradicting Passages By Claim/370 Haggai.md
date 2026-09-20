@@ -43,6 +43,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'The latter glory of this house shall be greater than the former' -- despite its visibly diminished splendor
 
+*Entry ID: HAG-001*
+
 **References:** Haggai 2:3; Haggai 2:9; Ezra 3:12
 
 **The claim:** Haggai 2:3 has God ask, through the prophet, 'Who is left among you who saw this house in its former glory? How do you see it now? Is it not as nothing in your eyes?' -- acknowledging directly that the rebuilt Second Temple was, by any visible measure, a shadow of Solomon's original Temple's splendor (a diminishment already lamented at the earlier laying of its foundation, when older eyewitnesses 'wept with a loud voice' at the memory of the first Temple, Ezra 3:12). Yet only six verses later, God promises, 'The latter glory of this house shall be greater than the former' (2:9) -- an apparent direct contradiction of the very diminishment just acknowledged.
@@ -56,6 +58,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. 'Yet once more I will shake the heavens and the earth' -- a near-term political upheaval, or the final eschatological judgment?
+
+*Entry ID: HAG-002*
 
 **References:** Haggai 2:6-7; Hebrews 12:26-27
 
@@ -73,6 +77,8 @@ primary texts and the cross-references directly.
 
 ### 3. Zerubbabel made God's 'signet ring' -- a deliberate reversal of the curse pronounced on his own grandfather
 
+*Entry ID: HAG-003*
+
 **References:** Haggai 2:23; Jeremiah 22:24-30
 
 **The claim:** Haggai's closing verse delivers a striking, personal promise to Zerubbabel, the governor overseeing the Temple's reconstruction: 'I will take you, O Zerubbabel my servant, the son of Shealtiel, declares the LORD, and make you like a signet ring, for I have chosen you' (2:23). This is the identical image -- a royal signet ring -- that Jeremiah had used a generation earlier to pronounce God's rejection of Zerubbabel's own grandfather, King Jehoiachin (also called Coniah): 'though Coniah the son of Jehoiakim, king of Judah, were the signet ring on my right hand, yet I would tear you off' (Jeremiah 22:24), a curse this project's companion Jeremiah chapter addresses at length, including its declaration that none of Jehoiachin's descendants would ever again sit on David's throne (Jeremiah 22:30).
@@ -89,6 +95,8 @@ primary texts and the cross-references directly.
 
 ### 4. Economic hardship attributed directly to Temple neglect -- a specific instance of a general principle
 
+*Entry ID: HAG-004*
+
 **References:** Haggai 1:6-11; Haggai 2:15-19
 
 **The claim:** Haggai attributes the returned community's economic hardship -- poor harvests, insufficient wages, drought -- directly and specifically to their own neglect of rebuilding the Temple: 'You have sown much, and harvested little... because of my house that lies in ruins, while each of you busies himself with his own house' (1:6, 9). This direct, specific cause-and-effect claim (one particular sin producing one particular economic consequence) raises the same general question addressed at several points elsewhere in this project (regarding Proverbs' and Job's treatment of retribution theology) about whether such direct correlations between specific sin and specific consequence hold as a strict, universal rule.
@@ -104,6 +112,8 @@ primary texts and the cross-references directly.
 ## Chronology
 
 ### 5. An unusually precise dating system, unmatched by most other prophetic books
+
+*Entry ID: HAG-005*
 
 **References:** Haggai 1:1; Haggai 1:15; Haggai 2:1; Haggai 2:10; Haggai 2:20
 

@@ -1,12 +1,9 @@
 # Reportedly Contradicting Passages in Baruch (including the Letter of Jeremiah)
 
 **A note on this document's place in the series:** As with Tobit, Judith, the Wisdom of
-Solomon, and Sirach, Baruch is a deuterocanonical book included in only five of the 27 tracked
-translations in this project -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the
-NABRE, all representing Catholic-tradition translations, and all of which include the "Letter
-of Jeremiah" as its sixth chapter. The remaining 22 follow the Protestant, Jewish, or otherwise
-non-deuterocanonical-affirming canon, which excludes it. This document notes, for each entry,
-that the majority of tracked translations do not contain the book at all.
+Solomon, and Sirach, Baruch is a deuterocanonical book -- see the note on canon status at the
+start of the Apocrypha block above for which five of the 27 tracked translations include it,
+all of which include the "Letter of Jeremiah" as its sixth chapter.
 
 This document catalogs 6 commonly cited alleged contradictions and notable historical,
 literary, and theological questions involving Baruch, either entirely internal to the book or
@@ -51,6 +48,8 @@ of it. Readers are encouraged to consult the primary text directly.
 
 ### 1. 'His son Belshazzar' -- the same Nebuchadnezzar/Belshazzar genealogical issue already addressed regarding Daniel
 
+*Entry ID: BAR-001*
+
 **References:** Baruch 1:11-12; Daniel 5:2, 11, 18, 22
 
 **The claim:** Baruch 1:11-12 records the exiles' instruction to 'pray for the life of Nebuchadnezzar king of Babylon, and for the life of Belshazzar his son... that we may live under the protection of Nebuchadnezzar king of Babylon and of Belshazzar his son.' This is the identical genealogical claim already addressed in this project's companion Daniel chapter -- historically, Belshazzar was the son of Nabonidus, not Nebuchadnezzar, a detail independently confirmed by cuneiform records including the Nabonidus Cylinder.
@@ -64,6 +63,8 @@ of it. Readers are encouraged to consult the primary text directly.
 ---
 
 ### 2. Baruch's narrative setting among the exiles in Babylon -- yet the historical Baruch is independently attested going to Egypt with Jeremiah
+
+*Entry ID: BAR-002*
 
 **References:** Baruch 1:1-4; Jeremiah 43:1-7
 
@@ -81,6 +82,8 @@ of it. Readers are encouraged to consult the primary text directly.
 
 ### 3. A prayer that assumes the Temple lies in ruins -- embedded in a narrative frame where Temple worship continues normally
 
+*Entry ID: BAR-003*
+
 **References:** Baruch 1:10, 14; Baruch 2:26
 
 **The claim:** Baruch's opening narrative frame has the exiles in Babylon sending money back to Jerusalem specifically 'to procure burnt offerings, sin offerings, and frankincense' for continued sacrificial worship at the Temple (1:10), and instructs that Baruch's accompanying scroll be read publicly 'in the house of the LORD' on feast days (1:14) -- language assuming the Temple is standing and its normal sacrificial worship is ongoing. Yet the extended prayer of confession that follows explicitly presupposes the Temple's destruction: 'the house that is called by your name you have made as it is today, because of the wickedness of the house of Israel' (2:26), referring to the Temple's ruined state as an already-accomplished fact.
@@ -96,6 +99,8 @@ of it. Readers are encouraged to consult the primary text directly.
 ## Theological Interpretation
 
 ### 4. 'Afterward she appeared on earth and lived among men' -- language read since antiquity as anticipating the Incarnation
+
+*Entry ID: BAR-004*
 
 **References:** Baruch 3:36-38; John 1:14
 
@@ -113,6 +118,8 @@ of it. Readers are encouraged to consult the primary text directly.
 
 ### 5. Jeremiah's seventy years reinterpreted as seven generations
 
+*Entry ID: BAR-005*
+
 **References:** Baruch 6:2 (Letter of Jeremiah); Jeremiah 25:11-12; Jeremiah 29:10
 
 **The claim:** The 'Letter of Jeremiah' (included as Baruch chapter 6 in RSV2CE and most Catholic editions) opens by stating the exiles would remain in Babylon 'for seven generations,' after which God would bring them out in peace -- reinterpreting Jeremiah's own well-known prophecy of a seventy-year exile (Jeremiah 25:11-12, 29:10, addressed at greater length in the companion Jeremiah chapter) into a different unit of measurement.
@@ -128,6 +135,8 @@ of it. Readers are encouraged to consult the primary text directly.
 ## Literary Composition
 
 ### 6. Attributed to Jeremiah's own scribe -- yet likely composed centuries after his lifetime
+
+*Entry ID: BAR-006*
 
 **References:** Baruch 1:1-4
 

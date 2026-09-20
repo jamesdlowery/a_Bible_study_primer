@@ -17,15 +17,7 @@ remaining entries include two genuine, actively debated genealogical cruxes (Abi
 mother's name and Zechariah's father's name) presented candidly as open questions where
 serious scholars have not reached consensus.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -51,6 +43,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. Jehoiachin's age at accession: 18, or 8?
 
+*Entry ID: 2CHR-001*
+
 **References:** 2 Chronicles 36:9; 2 Kings 24:8
 
 **The claim:** 2 Chronicles 36:9 (Masoretic Hebrew) states Jehoiachin was 8 years old when he began to reign; 2 Kings 24:8 states 18.
@@ -68,6 +62,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 2. Ahaziah's age at accession: 22, or 42?
 
+*Entry ID: 2CHR-002*
+
 **References:** 2 Chronicles 22:2; 2 Kings 8:26
 
 **The claim:** 2 Chronicles 22:2 (Masoretic Hebrew) states Ahaziah was 42 when he began to reign -- which would make him two years older than his own father Jehoram, who died at 40 (2 Chronicles 21:20). 2 Kings 8:26 states Ahaziah was 22.
@@ -83,6 +79,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 3. Solomon's stalls for horses: 4,000 here -- or 40,000, per the parallel in Kings?
+
+*Entry ID: 2CHR-003*
 
 **References:** 2 Chronicles 9:25; 1 Kings 4:26
 
@@ -100,6 +98,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 4. Abijah's mother: Maacah daughter of Absalom, or Micaiah daughter of Uriel of Gibeah?
 
+*Entry ID: 2CHR-004*
+
 **References:** 2 Chronicles 11:20-22; 2 Chronicles 13:2; 1 Kings 15:2; 2 Samuel 14:27
 
 **The claim:** This book itself gives two different identifications for the mother of King Abijah, within the span of only two chapters: 2 Chronicles 11:20-22 names Rehoboam's favorite wife, mother of Abijah, as 'Maacah the daughter of Absalom.' 2 Chronicles 13:2, introducing Abijah's own reign, instead gives his mother's name as 'Micaiah the daughter of Uriel of Gibeah.' Complicating matters further, 2 Samuel 14:27 states Absalom had only one daughter, named Tamar -- not Maacah -- raising a question about how Maacah could be Absalom's literal daughter at all.
@@ -113,6 +113,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 5. Zechariah's father: Jehoiada, or Berechiah?
+
+*Entry ID: 2CHR-005*
 
 **References:** 2 Chronicles 24:20-22; Matthew 23:35; Zechariah 1:1
 
@@ -130,6 +132,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 6. Did Josiah's reforms precede, or follow, the discovery of the Book of the Law?
 
+*Entry ID: 2CHR-006*
+
 **References:** 2 Chronicles 34:3-8; 2 Kings 22:3-13
 
 **The claim:** This book states that Josiah 'began to seek the God of David his father' in his eighth year (age 16) and began actively purging Judah and Jerusalem of idolatry -- destroying high places, altars, and idols across the land -- in his twelfth year (age 20), fully six years before the Book of the Law is discovered during Temple repairs in his eighteenth year (34:3-8). 2 Kings 22, by contrast, opens its account of Josiah's reforms with the Temple repairs and the book's discovery in his eighteenth year, with no earlier mention of reform activity, reading as though the book's discovery was what first prompted Josiah's reforming zeal.
@@ -143,6 +147,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 7. The seventy-year exile and the land's unobserved Sabbath years
+
+*Entry ID: 2CHR-007*
 
 **References:** 2 Chronicles 36:20-21; Leviticus 25:1-7; Jeremiah 25:11-12
 
@@ -158,6 +164,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 8. Baasha's campaign in the 'thirty-sixth year of Asa' -- after his own recorded death
 
+*Entry ID: 2CHR-008*
+
 **References:** 2 Chronicles 16:1; 1 Kings 15:33; 1 Kings 16:6-8
 
 **The claim:** This book states, 'In the thirty-sixth year of the reign of Asa, Baasha king of Israel came up against Judah' (16:1). Yet 1 Kings 15:33 and 16:8 together establish that Baasha began to reign in Asa's third year and reigned 24 years, meaning his death fell in Asa's 26th year -- ten years before this book's stated date for his campaign against Judah.
@@ -171,6 +179,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 9. Did Jehoiakim die in Babylon, or in or near Jerusalem?
+
+*Entry ID: 2CHR-009*
 
 **References:** 2 Chronicles 36:5-6; 2 Kings 24:1, 6; Jeremiah 22:18-19
 
@@ -188,6 +198,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 10. Was the Temple built on the same 'Mount Moriah' where Abraham nearly sacrificed Isaac?
 
+*Entry ID: 2CHR-010*
+
 **References:** 2 Chronicles 3:1; Genesis 22:2
 
 **The claim:** This book identifies the site of Solomon's Temple as 'Mount Moriah... at the threshing floor of Ornan the Jebusite' (3:1). Genesis 22:2 identifies the location of Abraham's near-sacrifice of Isaac as 'the land of Moriah,' on 'one of the mountains' God would show him -- raising the question of whether 2 Chronicles is claiming these are the same specific site (many centuries and narrative developments apart), a connection Genesis itself never makes explicit.
@@ -204,6 +216,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 
 ### 11. Manasseh's evil reign -- and his otherwise-unrecorded captivity and repentance
 
+*Entry ID: 2CHR-011*
+
 **References:** 2 Chronicles 33:1-20; 2 Kings 21:1-18
 
 **The claim:** This book narrates Manasseh's exceptionally wicked, 55-year reign, but uniquely adds an account entirely absent from the parallel record in 2 Kings 21: Manasseh being taken captive to Babylon in bonds, humbling himself and praying to the LORD there, being restored to his throne, and undertaking reforms afterward (33:10-16).
@@ -217,6 +231,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 12. Josiah's death: a fuller, more circumstantial account than the parallel in Kings
+
+*Entry ID: 2CHR-012*
 
 **References:** 2 Chronicles 35:20-24; 2 Kings 23:29-30
 
@@ -233,6 +249,8 @@ are encouraged to consult the primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 13. Cities exchanged between Solomon and Hiram: received here, given in Kings
+
+*Entry ID: 2CHR-013*
 
 **References:** 2 Chronicles 8:1-2; 1 Kings 9:10-14
 

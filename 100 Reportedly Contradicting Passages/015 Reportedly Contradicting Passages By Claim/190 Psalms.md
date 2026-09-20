@@ -13,15 +13,7 @@ standard scholarly reconciliation or harmonization.
 than a single forced resolution -- serious, careful commentators are divided on both
 questions, and this document says so plainly.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -48,6 +40,8 @@ to consult the primary texts directly.
 
 ### 1. 'Blessed shall he be who dashes your little ones against the rock' -- vs. loving one's enemies
 
+*Entry ID: PS-001*
+
 **References:** Psalm 137:8-9; Matthew 5:44; Romans 12:14
 
 **The claim:** Psalm 137, a lament over the Babylonian exile, closes with a blessing pronounced on whoever will repay Babylon by seizing and dashing her infants against the rocks (137:8-9) -- among the most viscerally violent lines in the Psalter. This sits in stark tension with the New Testament's explicit command to love one's enemies and bless, not curse, those who persecute (Matthew 5:44, Romans 12:14).
@@ -61,6 +55,8 @@ to consult the primary texts directly.
 ---
 
 ### 2. Should the righteous rejoice at the vengeance taken on the wicked?
+
+*Entry ID: PS-002*
 
 **References:** Psalm 58:10; Proverbs 24:17; Matthew 5:44
 
@@ -78,6 +74,8 @@ to consult the primary texts directly.
 
 ### 3. Psalm 14 and Psalm 53: nearly identical psalms, with notable differences
 
+*Entry ID: PS-003*
+
 **References:** Psalm 14:1-7; Psalm 53:1-6
 
 **The claim:** Psalm 14 and Psalm 53 are, for the most part, the same psalm, sharing the identical opening line ('The fool says in his heart, There is no God') and following largely the same structure and content throughout. They differ, however, in several specific ways: Psalm 14 consistently uses the divine name 'the LORD' (YHWH) throughout, while Psalm 53 consistently uses the more generic 'God' (Elohim) at each corresponding point; and the two versions diverge more substantially in their final verse (14:5-6 differs noticeably in wording and content from 53:5).
@@ -94,6 +92,8 @@ to consult the primary texts directly.
 
 ### 4. 'My God, my God, why have you forsaken me?' -- genuine abandonment, or something else?
 
+*Entry ID: PS-004*
+
 **References:** Psalm 22:1; Matthew 27:46; Psalm 22:22-31
 
 **The claim:** Psalm 22 opens with a cry of profound abandonment: 'My God, my God, why have you forsaken me?' -- words Jesus himself quotes verbatim from the cross (Matthew 27:46), raising the question of whether this represents a genuine rupture between the Father and the Son, in apparent tension with other scriptural affirmations that God never forsakes his own (Deuteronomy 31:6, Hebrews 13:5) or, more specifically for Christ, the unity of the Trinity.
@@ -107,6 +107,8 @@ to consult the primary texts directly.
 ---
 
 ### 5. 'In sin did my mother conceive me' -- original sin, or in tension with individual responsibility?
+
+*Entry ID: PS-005*
 
 **References:** Psalm 51:5; Deuteronomy 24:16; Ezekiel 18:20
 
@@ -122,6 +124,8 @@ to consult the primary texts directly.
 
 ### 6. 'Who shall dwell on your holy hill?' -- entry by merit, or compatible with grace?
 
+*Entry ID: PS-006*
+
 **References:** Psalm 15:1-5; Psalm 24:3-4; Psalm 51:1-2, 17
 
 **The claim:** Psalm 15 and Psalm 24 both pose the question of who may approach God's presence or dwell in his sanctuary, and both answer with a list of moral qualifications: 'he who walks blamelessly and does what is right... who does not slander... who swears to his own hurt' (15:2-4); 'he who has clean hands and a pure heart' (24:4) -- language that reads as establishing personal righteousness as the entry requirement for approaching God. This appears to be in some tension with the Psalter's equally prominent emphasis on grace and forgiveness for the genuinely repentant sinner, most notably in Psalm 51's own plea for mercy despite serious sin (51:1-2) and its explicit statement that 'a broken and contrite heart, O God, you will not despise' (51:17).
@@ -135,6 +139,8 @@ to consult the primary texts directly.
 ---
 
 ### 7. Is foolishness ever good, given that the 'foolishness of God' is called wiser than human wisdom?
+
+*Entry ID: PS-007*
 
 **References:** Psalm 5:5; 1 Corinthians 1:18-25; 1 Corinthians 3:18
 
@@ -150,6 +156,8 @@ to consult the primary texts directly.
 
 ### 8. Where does God dwell -- in Zion specifically, or is he not localized to any one place?
 
+*Entry ID: PS-008*
+
 **References:** Psalm 9:11
 
 **The claim:** Psalm 9:11 calls on worshippers to 'sing praises to the LORD, which dwelleth in Zion,' language that could be read as localizing God's presence to one specific place.
@@ -163,6 +171,8 @@ to consult the primary texts directly.
 ---
 
 ### 9. Are God's words always pure and true, given that Scripture elsewhere describes God sending a 'lying spirit'?
+
+*Entry ID: PS-009*
 
 **References:** Psalm 12:6; 1 Kings 22:22-23; Ezekiel 14:9
 
@@ -178,6 +188,8 @@ to consult the primary texts directly.
 
 ### 10. Is it acceptable to call someone a fool, given Jesus's warning against doing so?
 
+*Entry ID: PS-010*
+
 **References:** Psalm 14:1; Matthew 5:22
 
 **The claim:** Psalm 14:1 states plainly, 'The fool hath said in his heart, There is no God,' applying the label 'fool' as an objective description. Jesus warns, 'whosoever shall say, Thou fool, shall be in danger of hell fire' (Matthew 5:22).
@@ -191,6 +203,8 @@ to consult the primary texts directly.
 ---
 
 ### 11. Does anyone ever do anything good, given the psalm's statement that 'there is none that doeth good, no, not one'?
+
+*Entry ID: PS-011*
 
 **References:** Psalm 14:3; Romans 3:10-12
 
@@ -206,6 +220,8 @@ to consult the primary texts directly.
 
 ### 12. Does God listen to and answer prayer, given that this psalm describes him refusing to answer those who cried out to him?
 
+*Entry ID: PS-012*
+
 **References:** Psalm 18:41; Psalm 34:17; Psalm 145:18-19
 
 **The claim:** Psalm 18:41, describing David's enemies in the heat of battle, states, 'They cried, but there was none to save them: even unto the LORD, but he answered them not.' Elsewhere, the Psalter repeatedly affirms that the LORD hears and answers the cry of his people (Psalm 34:17; 145:18-19).
@@ -219,6 +235,8 @@ to consult the primary texts directly.
 ---
 
 ### 13. Is the law of God perfect, given the New Testament's statements that the law could not perfect anyone?
+
+*Entry ID: PS-013*
 
 **References:** Psalm 19:7; Hebrews 7:19; Romans 8:3
 
@@ -234,6 +252,8 @@ to consult the primary texts directly.
 
 ### 14. Does righteousness reliably bring material prosperity, given the wisdom literature's own record of righteous suffering and wicked flourishing?
 
+*Entry ID: PS-014*
+
 **References:** Psalm 37:25; Psalm 92:12-14
 
 **The claim:** Psalm 37:25 states, 'I have not seen the righteous forsaken, or his seed begging bread,' and Psalm 92:12-14 declares that 'the righteous shall flourish like the palm tree... they shall still bring forth fruit in old age' -- both read by some as promising material prosperity and security as the reliable, guaranteed outcome of righteous living.
@@ -247,6 +267,8 @@ to consult the primary texts directly.
 ---
 
 ### 15. Is salvation by faith alone, given the psalm's statement that God renders to each according to their works?
+
+*Entry ID: PS-015*
 
 **References:** Psalm 62:12; Ephesians 2:8-9; Matthew 25:31-46
 
@@ -262,6 +284,8 @@ to consult the primary texts directly.
 
 ### 16. Does God ever slumber or sleep, given the psalms that call on him to 'awake'?
 
+*Entry ID: PS-016*
+
 **References:** Psalm 121:3-4; Psalm 44:23; Psalm 78:65
 
 **The claim:** Psalm 121:4 states plainly, 'he that keepeth Israel shall neither slumber nor sleep.' Yet other psalms call on God to 'awake' as though he had been inactive or asleep: 'Awake, why sleepest thou, O Lord?' (Psalm 44:23), and Psalm 78:65 describes 'the LORD awaked as one out of sleep.'
@@ -276,6 +300,8 @@ to consult the primary texts directly.
 
 ### 17. Can only God work wonders, given that prophets and apostles are also recorded performing miracles?
 
+*Entry ID: PS-017*
+
 **References:** Psalm 136:4; Exodus 4:1-9; Acts 3:1-8
 
 **The claim:** Psalm 136:4 praises God as the one 'who alone doeth great wonders.' Yet Scripture elsewhere records Moses (Exodus 4:1-9), Elijah, Elisha, and the apostles (e.g. Acts 3:1-8) performing what are described as miraculous signs and wonders.
@@ -289,6 +315,8 @@ to consult the primary texts directly.
 ---
 
 ### 18. Is anyone justified before God?
+
+*Entry ID: PS-018*
 
 **References:** Psalm 143:2; Romans 3:20; Galatians 2:16
 
@@ -306,6 +334,8 @@ to consult the primary texts directly.
 
 ### 19. 'I have not seen the righteous forsaken' -- vs. the crisis of the wicked's prosperity
 
+*Entry ID: PS-019*
+
 **References:** Psalm 37:25; Psalm 73:1-14
 
 **The claim:** Psalm 37:25 makes a sweeping, confident claim from personal experience: 'I have been young, and now am old, yet I have not seen the righteous forsaken or his children begging for bread.' Psalm 73, by contrast, opens with the psalmist's own faith nearly failing precisely because he observes the wicked flourishing while apparently suffering no consequence -- 'they have no pangs until death; their bodies are fat and sleek... they are not in trouble as others are' (73:4-5) -- to the point that the psalmist confesses, 'my feet had almost stumbled' (73:2) over the apparent injustice.
@@ -320,6 +350,8 @@ to consult the primary texts directly.
 
 ### 20. Within the same psalm: the Davidic covenant celebrated as unconditional, then God accused of renouncing it
 
+*Entry ID: PS-020*
+
 **References:** Psalm 89:1-4, 28-37; Psalm 89:38-39, 46-49
 
 **The claim:** Psalm 89 opens with an extended, confident celebration of God's unconditional covenant promise to David -- 'I will establish your offspring forever... my covenant will stand firm for him' (89:4, 28), explicitly affirming that even if David's descendants sin, God's covenant loyalty will not be revoked (89:30-34). Yet the same psalm's later half turns to bitter complaint, directly accusing God of having done the opposite of what the opening celebrated: 'you have renounced the covenant with your servant; you have defiled his crown in the dust... how long, O LORD? Will you hide yourself forever?' (89:38-39, 46).
@@ -333,6 +365,8 @@ to consult the primary texts directly.
 ---
 
 ### 21. Psalm 109's curses against an enemy -- and Peter's application of verse 8 to Judas
+
+*Entry ID: PS-021*
 
 **References:** Psalm 109:6-15; Acts 1:15-20
 
@@ -350,6 +384,8 @@ to consult the primary texts directly.
 
 ### 22. Psalm 34's superscription names 'Abimelech' -- but 1 Samuel 21 names the king Achish
 
+*Entry ID: PS-022*
+
 **References:** Psalm 34 (superscription); 1 Samuel 21:10-15
 
 **The claim:** Psalm 34's superscription (the introductory note, in Hebrew tradition considered part of the received text though not universally regarded as part of the original inspired composition) states the psalm was written 'when he changed his behavior before Abimelech, so that he drove him out, and he went away' -- an episode matching only one story in the historical books: 1 Samuel 21:10-15, where David feigns madness before the Philistine king of Gath to escape recognition and danger. That narrative, however, consistently names the king 'Achish,' not Abimelech.
@@ -365,6 +401,8 @@ to consult the primary texts directly.
 ## Numbers and Text
 
 ### 23. 'A little lower than the angels' -- or 'than God'? Translation variance in Psalm 8:5, and its use in Hebrews
+
+*Entry ID: PS-023*
 
 **References:** Psalm 8:5; Hebrews 2:7
 
@@ -386,6 +424,8 @@ to consult the primary texts directly.
 
 ### 24. Psalm 145's missing 'nun' verse -- a genuine, well-documented textual gap with real translation differences
 
+*Entry ID: PS-024*
+
 **References:** Psalm 145:13
 
 **The claim:** Psalm 145 is an acrostic poem, with each successive verse beginning with the next letter of the Hebrew alphabet -- except that, in the standard Masoretic Hebrew text, there is no verse beginning with the letter nun (the fourteenth letter), which would be expected between the current verses 13 and 14. This creates a genuine gap in an otherwise complete literary pattern, and several ancient witnesses -- the Dead Sea Scrolls (specifically the Great Psalms Scroll, 11QPsa), the Greek Septuagint, the Syriac Peshitta, and at least one medieval Hebrew manuscript -- all independently preserve a nun-verse at exactly this point, reading (in most reconstructions) something close to 'The LORD is faithful in all his words, and gracious in all his deeds.'
@@ -405,6 +445,8 @@ to consult the primary texts directly.
 ## Chronology and Historicity
 
 ### 25. Reflecting on mortality: 'the days of our years are threescore years and ten' -- and the patriarchs' far longer lifespans
+
+*Entry ID: PS-025*
 
 **References:** Psalm 90:10; Genesis 5; Genesis 11:10-32
 

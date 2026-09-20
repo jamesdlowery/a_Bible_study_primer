@@ -1,12 +1,9 @@
 # Reportedly Contradicting Passages in 1 Maccabees
 
 **A note on this document's place in the series:** As with the five prior deuterocanonical
-books addressed in this series, 1 Maccabees is included in only five of the 27 tracked
-translations surveyed -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE,
-all representing Catholic-tradition translations. The remaining 22 follow the Protestant,
-Jewish, or otherwise non-deuterocanonical-affirming canon, which excludes it. This document
-notes, for each entry, that the majority of tracked translations do not contain the book at
-all.
+books addressed in this series, 1 Maccabees is a deuterocanonical book -- see the note on
+canon status at the start of the Apocrypha block above for which five of the 27 tracked
+translations include it.
 
 This document catalogs 6 commonly cited alleged contradictions and notable historical
 and theological questions involving 1 Maccabees, either entirely internal to the book or in
@@ -48,6 +45,8 @@ honest account of it. Readers are encouraged to consult the primary text directl
 
 ### 1. A book widely regarded, unlike Tobit and Judith, as one of the most historically reliable sources in the ancient world
 
+*Entry ID: 1MACC-001*
+
 **References:** 1 Maccabees (entire book)
 
 **The claim:** Unlike Tobit and Judith (addressed in their own companion chapters, both widely read as edifying religious fiction due to substantial, acknowledged historical anomalies), 1 Maccabees is widely regarded by historians -- including secular historians with no particular investment in its canonical status -- as one of the most detailed, careful, and generally reliable historical narratives to survive from the ancient Hellenistic period, closely following the annalistic style of the Old Testament's own historical books (Kings and Chronicles). It supplies specific, checkable dates using the Seleucid calendar throughout, and its account of the Maccabean revolt is extensively corroborated by, and served as a primary source for, the first-century Jewish historian Josephus's own later, independent historical work.
@@ -61,6 +60,8 @@ honest account of it. Readers are encouraged to consult the primary text directl
 ---
 
 ### 2. Alexander the Great 'divided his kingdom among them while he was still alive' -- a specific, checkable historical inaccuracy
+
+*Entry ID: 1MACC-002*
 
 **References:** 1 Maccabees 1:5-9
 
@@ -78,6 +79,8 @@ honest account of it. Readers are encouraged to consult the primary text directl
 
 ### 3. God's name almost entirely avoided in favor of 'Heaven' -- a further parallel to Esther's own reticence
 
+*Entry ID: 1MACC-003*
+
 **References:** 1 Maccabees 3:18-19; 1 Maccabees 3:50; 1 Maccabees 4:24; 1 Maccabees 4:55
 
 **The claim:** 1 Maccabees almost entirely avoids direct theological language describing God acting visibly in history, consistently substituting indirect terms such as 'Heaven' where a direct reference to God's own action might be expected (compare 3:18-19, 'it is easy for many to be hemmed in by few, for in the sight of Heaven there is no difference between saving by many or by few'; similarly 3:50, 4:24, 4:55) -- a stylistic and theological reticence closely paralleling this project's earlier discussion, in the companion Esther chapter, of that book's own complete avoidance of any explicit reference to God.
@@ -91,6 +94,8 @@ honest account of it. Readers are encouraged to consult the primary text directl
 ---
 
 ### 4. 'Since the time that prophets ceased to appear' -- a temporary absence, or a permanent, doctrinal cessation of prophecy?
+
+*Entry ID: 1MACC-004*
 
 **References:** 1 Maccabees 4:46; 1 Maccabees 9:27; 1 Maccabees 14:41
 
@@ -108,6 +113,8 @@ honest account of it. Readers are encouraged to consult the primary text directl
 
 ### 5. Antiochus IV's death -- a comparatively restrained account, compared with 2 Maccabees' more elaborate parallel version
 
+*Entry ID: 1MACC-005*
+
 **References:** 1 Maccabees 6:1-16
 
 **The claim:** 1 Maccabees 6:1-16 narrates the death of the persecutor Antiochus IV Epiphanes in relatively restrained terms: he falls ill from grief and shock upon receiving news of his armies' defeats in Judea and the failure of an attempted temple robbery in Persia, and dies of this wasting illness, delivering a deathbed speech acknowledging his own troubles resulted from his mistreatment of Jerusalem (6:8-13). This account differs in several details and in overall tone from 2 Maccabees 9's own parallel account of the same death (addressed at greater length in the companion 2 Maccabees chapter), which is considerably more elaborate and includes graphic details of physical decay absent from this book's own version.
@@ -123,6 +130,8 @@ honest account of it. Readers are encouraged to consult the primary text directl
 ## Literary Composition
 
 ### 6. Mattathias's dying roll call of faithful heroes (2:51-60) -- a pattern with a notable New Testament parallel
+
+*Entry ID: 1MACC-006*
 
 **References:** 1 Maccabees 2:49-70; Hebrews 11:1-40
 

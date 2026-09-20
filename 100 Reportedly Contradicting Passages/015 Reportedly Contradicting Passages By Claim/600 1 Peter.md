@@ -45,6 +45,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'The spirits in prison' -- widely regarded as one of the single most difficult passages in the entire New Testament
 
+*Entry ID: 1PET-001*
+
 **References:** 1 Peter 3:18-20; 1 Peter 4:6
 
 **The claim:** 1 Peter 3:18-20 states that Christ, 'being put to death in the flesh but made alive in the spirit... went and proclaimed to the spirits in prison, because they formerly did not obey, when God's patience waited in the days of Noah.' A related, similarly difficult statement follows at 4:6: 'the gospel was preached even to those who are dead, that though judged in the flesh the way people are, they might live in the spirit the way God does.' Together, these two passages have generated one of the most extensive and genuinely unresolved interpretive debates in the entire New Testament, touching on the nature of the intermediate state, the possibility of post-mortem evangelization, and the identity of a mysterious group of imprisoned 'spirits.'
@@ -58,6 +60,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. 'Baptism... now saves you' -- addressed at length in the companion Titus chapter, with a notable qualifying clause
+
+*Entry ID: 1PET-002*
 
 **References:** 1 Peter 3:21; Titus 3:5
 
@@ -75,6 +79,8 @@ primary texts and the cross-references directly.
 
 ### 3. Wives' submission and Sarah's example -- addressed at length in the companion Ephesians and 1 Timothy chapters
 
+*Entry ID: 1PET-003*
+
 **References:** 1 Peter 3:1-6; Ephesians 5:21-33; 1 Timothy 2:11-15
 
 **The claim:** 1 Peter 3:1-6 instructs wives to be subject to their own husbands, citing Sarah's example of 'obeying Abraham, calling him lord' -- connecting to the broader egalitarian/complementarian debate regarding household relationships addressed at length in the companion Ephesians and 1 Timothy chapters.
@@ -90,6 +96,8 @@ primary texts and the cross-references directly.
 ## Ethical Tensions
 
 ### 4. Submission to human authorities -- addressed at length in the companion Romans chapter
+
+*Entry ID: 1PET-004*
 
 **References:** 1 Peter 2:13-17; Romans 13:1-7
 

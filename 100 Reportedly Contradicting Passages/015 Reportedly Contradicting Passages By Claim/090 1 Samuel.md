@@ -13,15 +13,7 @@ resolution, since serious interpreters have long disagreed about whether Samuel'
 genuinely appeared, a deception occurred, or something else -- consistent with this project's
 practice of flagging live disagreements rather than manufacturing false certainty.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -47,6 +39,8 @@ texts and the cross-references directly.
 
 ### 1. How did Saul become king -- private anointing, public lot, or acclamation after victory?
 
+*Entry ID: 1SAM-001*
+
 **References:** 1 Samuel 9:15-10:1; 1 Samuel 10:17-25; 1 Samuel 11:12-15
 
 **The claim:** 1 Samuel describes what looks like three distinct occasions on which Saul becomes king: Samuel privately anoints him in advance, with no public audience (9:15-10:1); Samuel later has Saul publicly selected by sacred lot before the assembled tribes at Mizpah, where Saul is found hiding among the baggage (10:17-24); and, after Saul's decisive victory over the Ammonites at Jabesh-gilead, the people gather at Gilgal and 'made Saul king before the LORD' a third time (11:14-15).
@@ -60,6 +54,8 @@ texts and the cross-references directly.
 ---
 
 ### 2. Did Saul already know David -- or not? (1 Samuel 16 vs. 17:55-58)
+
+*Entry ID: 1SAM-002*
 
 **References:** 1 Samuel 16:14-23; 1 Samuel 17:55-58
 
@@ -75,6 +71,8 @@ texts and the cross-references directly.
 
 ### 3. Two rejections of Saul as king (1 Samuel 13 and 15) -- one event told twice, or two distinct failures?
 
+*Entry ID: 1SAM-003*
+
 **References:** 1 Samuel 13:8-14; 1 Samuel 15:2, 10-29
 
 **The claim:** 1 Samuel 13:13-14 has Samuel tell Saul that because he did not wait for Samuel and instead offered the burnt offering himself, his kingdom 'shall not continue' and the LORD has sought out 'a man after his own heart' to replace him. Two chapters later, 1 Samuel 15:22-23 and 15:26-28 has Samuel again pronounce Saul's rejection as king, this time over his failure to fully carry out the command to destroy the Amalekites and their livestock -- raising a question of whether these are two literary accounts of a single rejection, or two separate historical incidents.
@@ -88,6 +86,8 @@ texts and the cross-references directly.
 ---
 
 ### 4. Who killed Goliath -- David, or Elhanan?
+
+*Entry ID: 1SAM-004*
 
 **References:** 1 Samuel 17:1-51; 2 Samuel 21:19; 1 Chronicles 20:5
 
@@ -103,6 +103,8 @@ texts and the cross-references directly.
 
 ### 5. How did Saul die -- by his own hand, or an Amalekite's?
 
+*Entry ID: 1SAM-005*
+
 **References:** 1 Samuel 31:3-6; 2 Samuel 1:6-10; 2 Samuel 21:12; 1 Chronicles 10:4-5
 
 **The claim:** 1 Samuel 31:3-6 narrates Saul's death directly: mortally wounded by Philistine archers, he asks his armor-bearer to kill him rather than let the enemy capture and abuse him; when the armor-bearer refuses, 'Saul took his own sword and fell on it,' and his armor-bearer, seeing him dead, does the same. Only twenty verses later, in 2 Samuel 1:6-10, an Amalekite arrives at David's camp claiming a very different story: he found Saul still alive, leaning on his spear, and at Saul's own request finished him off and took his crown and armband as proof. 1 Chronicles 10:4-5, retelling the same events, follows 1 Samuel's account exactly and does not mention the Amalekite's claim at all. A third, much briefer note (2 Samuel 21:12) simply attributes Saul's death to 'the Philistines,' without specifying the manner. This is one of the most frequently cited alleged contradictions in the Old Testament, appearing on numerous published lists of Bible difficulties.
@@ -116,6 +118,8 @@ texts and the cross-references directly.
 ---
 
 ### 6. 'The Glory of Israel will not lie or have regret' -- stated in the very chapter that twice says the LORD regretted making Saul king
+
+*Entry ID: 1SAM-006*
 
 **References:** 1 Samuel 15:11; 1 Samuel 15:29; 1 Samuel 15:35
 
@@ -131,6 +135,8 @@ texts and the cross-references directly.
 
 ### 7. Was Samuel's father an Ephraimite, or a Levite?
 
+*Entry ID: 1SAM-007*
+
 **References:** 1 Samuel 1:1; 1 Chronicles 6:16, 22, 33-38
 
 **The claim:** 1 Samuel 1:1 identifies Samuel's father Elkanah as 'an Ephrathite' of Ramathaim-zophim, in the hill country of Ephraim -- language some read as identifying him by the tribe of Ephraim. 1 Chronicles 6:33-38, tracing Samuel's ancestry, places him squarely within the tribe of Levi, through the Kohathite line.
@@ -144,6 +150,8 @@ texts and the cross-references directly.
 ---
 
 ### 8. Were the Philistines subdued 'all the days of Samuel,' given their renewed threat only a few chapters later?
+
+*Entry ID: 1SAM-008*
 
 **References:** 1 Samuel 7:13-14; 1 Samuel 13:3-5, 19-23
 
@@ -159,6 +167,8 @@ texts and the cross-references directly.
 
 ### 9. Who was Samuel's firstborn son -- Joel, or Vashni?
 
+*Entry ID: 1SAM-009*
+
 **References:** 1 Samuel 8:2; 1 Chronicles 6:28
 
 **The claim:** 1 Samuel 8:2 names Samuel's sons plainly: 'the name of his firstborn was Joel; and the name of his second, Abiah.' 1 Chronicles 6:28, in the Masoretic Hebrew text as it has come down to us, lists Samuel's sons as 'Vashni' and Abiah, without mentioning Joel at all in the firstborn position.
@@ -172,6 +182,8 @@ texts and the cross-references directly.
 ---
 
 ### 10. Was Kish's father Abiel, or Ner?
+
+*Entry ID: 1SAM-010*
 
 **References:** 1 Samuel 9:1; 1 Chronicles 8:33; 1 Chronicles 9:39
 
@@ -187,6 +199,8 @@ texts and the cross-references directly.
 
 ### 11. What was Jonathan's first strike against the Philistines -- at Geba, or at the Michmash pass?
 
+*Entry ID: 1SAM-011*
+
 **References:** 1 Samuel 13:3; 1 Samuel 14:1-14
 
 **The claim:** 1 Samuel 13:3 has Jonathan striking 'the garrison of the Philistines that was in Geba,' an action that provokes the larger Philistine mobilization described in the rest of chapter 13. 1 Samuel 14:1-14 then narrates a separate, more detailed episode in which Jonathan and his armor-bearer alone climb up to a Philistine garrison at the Michmash pass and strike down about twenty men -- raising a question, for some readers, about which of these two actions was Jonathan's actual 'first' engagement.
@@ -200,6 +214,8 @@ texts and the cross-references directly.
 ---
 
 ### 12. Who were Saul's sons -- did 'Ishvi' survive to become king after Saul's death?
+
+*Entry ID: 1SAM-012*
 
 **References:** 1 Samuel 14:49; 1 Samuel 31:2; 2 Samuel 2:8-10; 1 Chronicles 8:33; 1 Chronicles 9:39
 
@@ -215,6 +231,8 @@ texts and the cross-references directly.
 
 ### 13. Did Saul and Samuel destroy all the Amalekites, given their continued presence in the very same book?
 
+*Entry ID: 1SAM-013*
+
 **References:** 1 Samuel 15:7-8, 20; 1 Samuel 27:8; 1 Samuel 30:1-20
 
 **The claim:** 1 Samuel 15:7-8 and 15:20 both state that Saul 'utterly destroyed all the people' of Amalek, sparing only King Agag and the best of the livestock. Yet the same book later records the Amalekites as a substantial, active raiding people: David fights them at 27:8, and 1 Samuel 30:1-20 has an Amalekite raiding party burning Ziklag and taking captives, with David subsequently pursuing and defeating a large Amalekite force -- all within the same book, only a few years after their supposed total destruction.
@@ -228,6 +246,8 @@ texts and the cross-references directly.
 ---
 
 ### 14. When exactly did Saul become David's enemy?
+
+*Entry ID: 1SAM-014*
 
 **References:** 1 Samuel 18:8-9; 1 Samuel 18:28-29
 
@@ -244,6 +264,8 @@ texts and the cross-references directly.
 ## Numbers and Text
 
 ### 15. Saul's age and length of reign: a famously incomplete Hebrew text
+
+*Entry ID: 1SAM-015*
 
 **References:** 1 Samuel 13:1
 
@@ -266,6 +288,8 @@ texts and the cross-references directly.
 
 ### 16. Michal's bride-price: one hundred Philistine foreskins, or two hundred?
 
+*Entry ID: 1SAM-016*
+
 **References:** 1 Samuel 18:25; 1 Samuel 18:27; 2 Samuel 3:14
 
 **The claim:** Saul sets the bride-price for his daughter Michal at one hundred Philistine foreskins (18:25), hoping David will die in the attempt. David and his men go on to kill two hundred Philistines and deliver two hundred foreskins -- double what was required (18:27). Later, when David demands Michal's return from Ish-bosheth, he cites the bride-price he originally paid as 'a hundred foreskins of the Philistines' (2 Samuel 3:14) -- the original required amount, not the larger amount he actually delivered.
@@ -280,6 +304,8 @@ texts and the cross-references directly.
 
 ### 17. Was the ark of the covenant kept at Kiriath-jearim for only twenty years, or for decades longer, until David retrieved it?
 
+*Entry ID: 1SAM-017*
+
 **References:** 1 Samuel 7:1-2; 2 Samuel 6:1-3
 
 **The claim:** 1 Samuel 7:2 states that the ark remained at Abinadab's house in Kiriath-jearim for 'twenty years,' during which 'all the house of Israel lamented after the LORD.' Yet the ark is not actually moved from that location until David retrieves it in 2 Samuel 6, an event that -- given the length of Saul's reign and the early years of David's own reign that preceded it -- occurred considerably more than twenty years after the ark's arrival at Kiriath-jearim, raising a question about the stated duration.
@@ -293,6 +319,8 @@ texts and the cross-references directly.
 ---
 
 ### 18. Was David the seventh son of Jesse, or the eighth?
+
+*Entry ID: 1SAM-018*
 
 **References:** 1 Samuel 16:10-11; 1 Chronicles 2:13-15
 
@@ -310,6 +338,8 @@ texts and the cross-references directly.
 
 ### 19. The witch of Endor: was it really Samuel's spirit that appeared?
 
+*Entry ID: 1SAM-019*
+
 **References:** 1 Samuel 28:3-19
 
 **The claim:** 1 Samuel 28:3 states plainly that 'Samuel had died,' and that Saul himself 'had removed the mediums and necromancers from the land' -- explicit background establishing both Samuel's death and the illegality of necromancy under Saul's own prior policy (consistent with the Law's prohibition, Deuteronomy 18:10-11, Leviticus 20:6). Yet later in the same chapter, Saul consults a medium at Endor, who appears to summon a figure the text repeatedly calls 'Samuel,' who speaks accurately about Saul's impending death and the outcome of the next day's battle (28:11-19) -- raising the question of whether Scripture presents an actual appearance of a deceased prophet's spirit, in apparent tension with the Law's own prohibition of exactly this kind of practice.
@@ -326,6 +356,8 @@ texts and the cross-references directly.
 
 ### 20. David spares Saul's life in the cave at En Gedi and again in Saul's camp -- one event told twice, or two separate occasions?
 
+*Entry ID: 1SAM-020*
+
 **References:** 1 Samuel 24:1-22; 1 Samuel 26:1-25
 
 **The claim:** 1 Samuel 24 and 26 both narrate David having the clear opportunity to kill the sleeping or vulnerable Saul, David's companions urging him to do so, David refusing out of respect for 'the LORD's anointed,' David instead taking a token (a piece of Saul's robe in ch. 24, Saul's spear and water jug in ch. 26) as proof of his restraint, David subsequently confronting Saul from a safe distance to demonstrate his innocence, and Saul acknowledging David's righteousness and that he will become king -- a striking degree of structural similarity that raises the question of whether these are two accounts of a single event, or two separate incidents.
@@ -339,6 +371,8 @@ texts and the cross-references directly.
 ---
 
 ### 21. 'Is Saul also among the prophets?' -- the same proverb explained on two separate occasions
+
+*Entry ID: 1SAM-021*
 
 **References:** 1 Samuel 10:10-13; 1 Samuel 19:18-24
 
@@ -356,6 +390,8 @@ texts and the cross-references directly.
 
 ### 22. Was Israel's request for a king a sin, or a legitimate institution the Law anticipated?
 
+*Entry ID: 1SAM-022*
+
 **References:** 1 Samuel 8:4-9; 1 Samuel 8:19-22; 1 Samuel 12:16-19; Deuteronomy 17:14-20
 
 **The claim:** When Israel's elders ask Samuel for a king, God tells Samuel, 'they have not rejected you, but they have rejected me from being king over them' (8:7), and Samuel later has the people confess, under a dramatic sign of thunder and rain, 'we have added to all our sins this evil, to ask for ourselves a king' (12:19) -- language treating the request itself as sinful. Yet Deuteronomy 17:14-20, given centuries earlier, explicitly anticipates and provides regulating law for 'when you... say, I will set a king over me, like all the nations that are around me,' without condemning the request itself as inherently wrong, and God goes on to establish, bless, and make an everlasting covenant with David's kingship (2 Samuel 7).
@@ -370,6 +406,8 @@ texts and the cross-references directly.
 
 ### 23. What is the earth set upon -- pillars, or nothing at all?
 
+*Entry ID: 1SAM-023*
+
 **References:** 1 Samuel 2:8; Job 26:7
 
 **The claim:** Hannah's song declares that 'the pillars of the earth are the LORD's, and he hath set the world upon them' (1 Samuel 2:8), language some read as a literal claim that the earth rests upon physical pillars. Job 26:7 instead states that God 'hangeth the earth upon nothing.'
@@ -383,6 +421,8 @@ texts and the cross-references directly.
 ---
 
 ### 24. Does God help his people in times of need, given his refusal to hear their cry in 1 Samuel 8:18?
+
+*Entry ID: 1SAM-024*
 
 **References:** 1 Samuel 8:18; Psalm 34:17; Psalm 145:18-19
 
@@ -399,6 +439,8 @@ texts and the cross-references directly.
 ## Names and Identity
 
 ### 25. Could Haman genuinely be called 'the Agagite' centuries after Samuel killed Agag and Saul's campaign against Amalek?
+
+*Entry ID: 1SAM-025*
 
 **References:** 1 Samuel 15:8-33; Esther 3:1, 10
 

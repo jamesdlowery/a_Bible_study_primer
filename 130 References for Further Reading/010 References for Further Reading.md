@@ -6,7 +6,7 @@ This is a general bibliography of standard, widely respected reference works in 
 
 Where a work is available in multiple editions, the most recent edition at the time of writing is listed; earlier editions remain valuable and are often what's available secondhand or in libraries.
 
-## Biblical Source Manuscripts / Character of Each Source Manuscript Tradition
+## Biblical Source Manuscripts / Manuscript Traditions: Character, Relationships, and Weighing
 
 - Würthwein, Ernst, and Alexander Achilles Fischer. *The Text of the Old Testament: An Introduction to the Biblia Hebraica*. 3rd ed. Grand Rapids: Eerdmans, 2014.
 - Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Revised and expanded 4th ed. Minneapolis: Fortress Press, 2022.
@@ -16,7 +16,7 @@ Where a work is available in multiple editions, the most recent edition at the t
 - *Novum Testamentum Graece* (Nestle-Aland). 28th ed. Stuttgart: Deutsche Bibelgesellschaft, 2012. (The standard critical edition of the Greek New Testament.)
 - Wallace, Daniel B. bible.org. (Wallace, founder of the Center for the Study of New Testament Manuscripts noted below under "Useful digital hubs," publishes accessible textual-critical commentary here on individual New Testament variants; cited directly for the genuine textual difficulty at 2 Peter 3:10 and a documented discrepancy in secondary sources over one translation's exact wording there.)
 
-## Popular Bible Translations / Bible Translations and Their Source Manuscripts / Histories of Various Bible Translations
+## Popular Bible Translations / Bible Translations and Their Source Manuscripts / Histories of English Bible Translations
 
 - Lewis, Jack P. *The English Bible from KJV to NIV: A History and Evaluation*. 2nd ed. Grand Rapids: Baker Book House, 1991.
 - Daniell, David. *The Bible in English: Its History and Influence*. New Haven: Yale University Press, 2003.
@@ -43,8 +43,8 @@ Wording comparisons throughout this section and "Reportedly Contradicting Passag
 
 (On the perspective these sources bring, and where to find a non-apologetic counterpart, see "A Note on Perspective" in the front matter.)
 
-## Top Christian Denominations / Top Study Bibles
+## Major U.S. Christian Denominations / Prominent English Study Bibles
 
-- Association of Statisticians of American Religious Bodies. *2020 U.S. Religion Census*. (The primary source for U.S. denominational adherent figures used throughout the Top Christian Denominations section.)
+- Association of Statisticians of American Religious Bodies. *2020 U.S. Religion Census*. (The primary source for U.S. denominational adherent figures used throughout the Major U.S. Christian Denominations section.)
 - *The Chicago Statement on Biblical Inerrancy*. International Council on Biblical Inerrancy, 1978. (Referenced directly in "What Is Meant by an 'Inerrant' Word of God?" and in several denomination entries' discussion of the term.)
 - Each denomination's own confessional or catechetical documents are the primary source for that entry's doctrinal and ethical positions (e.g., the *Catechism of the Catholic Church*, the *Baptist Faith and Message*, the *Book of Concord*, the *Westminster Confession of Faith*, and each denomination's own general assembly, synod, or conference resolutions where cited). These are not separately listed here given their number; specific citations appear within each entry.

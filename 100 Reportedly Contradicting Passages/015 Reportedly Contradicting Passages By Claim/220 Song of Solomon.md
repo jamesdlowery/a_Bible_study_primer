@@ -48,6 +48,8 @@ the primary texts directly.
 
 ### 1. Human romantic love poetry, or an allegory of divine love? -- and a book that never mentions God
 
+*Entry ID: SONG-001*
+
 **References:** Song of Solomon (entire book)
 
 **The claim:** Song of Solomon consists entirely of frank, sensuous love poetry exchanged between a bride and groom (or, in some readings, a woman and two suitors), celebrating physical desire and romantic attraction in vivid, sometimes erotic detail. Like Esther (addressed at length in the companion Esther chapter), the book never once mentions God by name or explicit title anywhere in its text -- raising, in an even sharper form than Esther, the question of how a book of secular-seeming romantic and physical love poetry came to be included in the canon of Scripture at all, and whether it should be read literally (as a celebration of human marital love) or allegorically (as a figure for God's love for Israel, or Christ's love for the Church).
@@ -63,6 +65,8 @@ the primary texts directly.
 ## Internal Narrative Tensions
 
 ### 2. Celebrating exclusive, singular love -- in a book attributed to a king famous for 700 wives and 300 concubines
+
+*Entry ID: SONG-002*
 
 **References:** Song of Solomon 1:1; Song of Solomon 2:16; Song of Solomon 6:3; Song of Solomon 6:8-9; 1 Kings 11:3
 
@@ -80,6 +84,8 @@ the primary texts directly.
 
 ### 3. Solomonic authorship claimed -- yet questioned on similar grounds to Ecclesiastes
 
+*Entry ID: SONG-003*
+
 **References:** Song of Solomon 1:1
 
 **The claim:** Song of Solomon 1:1 identifies the book as 'The Song of Songs, which is Solomon's,' traditionally read as a straightforward authorship claim. As with Ecclesiastes (addressed at greater length in the companion Ecclesiastes chapter), a number of scholars -- including some who otherwise hold a high view of the book's inspiration -- have questioned strict Solomonic authorship on linguistic grounds (some of the same late Hebrew and apparent Persian/Aramaic features found in Ecclesiastes appear here as well) and on the observation that the book's superscription, in Hebrew, is itself somewhat ambiguous between 'the Song of Songs, which is Solomon's [i.e., by Solomon],' 'which is about Solomon,' or 'which is dedicated to Solomon.'
@@ -96,6 +102,8 @@ the primary texts directly.
 
 ### 4. The 'Shulammite' -- Abishag the Shunammite, or an unrelated figure?
 
+*Entry ID: SONG-004*
+
 **References:** Song of Solomon 6:13; 1 Kings 1:1-4; 1 Kings 2:17-22
 
 **The claim:** Song of Solomon 6:13 refers to the beloved woman by a specific title, 'the Shulammite' (or, in some translations, 'the Shulamite') -- a term that closely resembles 'the Shunammite,' the description given to Abishag, the young woman brought to care for the aging King David in 1 Kings 1:1-4, and later the subject of a request by Adonijah that nearly cost him his life (1 Kings 2:17-22). Some readers, noting the similarity, have identified the beloved of this book with Abishag specifically; others regard the resemblance as coincidental or the result of a scribal or dialectal variation rather than evidence of the same historical individual.
@@ -111,6 +119,8 @@ the primary texts directly.
 ## Numbers and Text
 
 ### 5. 'I am black, but lovely' -- or 'and lovely'? A translation choice with real cultural and historical weight
+
+*Entry ID: SONG-005*
 
 **References:** Song of Solomon 1:5
 
@@ -131,6 +141,8 @@ the primary texts directly.
 ## Ethical Tensions
 
 ### 6. 'Jealousy is fierce as the grave' -- a vice condemned elsewhere, or a mark of committed love?
+
+*Entry ID: SONG-006*
 
 **References:** Song of Solomon 8:6; Galatians 5:19-21; Exodus 20:5
 

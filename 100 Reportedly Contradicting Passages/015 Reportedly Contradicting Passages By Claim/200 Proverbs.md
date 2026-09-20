@@ -14,15 +14,7 @@ back to back, deliberately teaching that proverbs are compressed, situational wi
 than universal, exceptionless laws. Several other entries in this set (2, 4, and 8) apply this
 same genre principle to other frequently misread "guarantee" verses.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -47,6 +39,8 @@ primary texts directly.
 
 ### 1. 'Answer not a fool' -- and 'Answer a fool,' back to back
 
+*Entry ID: PROV-001*
+
 **References:** Proverbs 26:4-5
 
 **The claim:** Proverbs 26:4 instructs, 'Answer not a fool according to his folly, lest you be like him yourself.' The very next verse instructs the opposite: 'Answer a fool according to his folly, lest he be wise in his own eyes' (26:5) -- two directly contradictory pieces of advice placed immediately next to each other by the book's own compiler, with no attempt to reconcile or choose between them.
@@ -60,6 +54,8 @@ primary texts directly.
 ---
 
 ### 2. 'Train up a child' -- an absolute guarantee, or a general principle?
+
+*Entry ID: PROV-002*
 
 **References:** Proverbs 22:6
 
@@ -77,6 +73,8 @@ primary texts directly.
 
 ### 3. 'He who justifies the wicked... is an abomination' -- yet God 'justifies the ungodly'
 
+*Entry ID: PROV-003*
+
 **References:** Proverbs 17:15; Romans 4:5
 
 **The claim:** Proverbs 17:15 states plainly, 'He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD' -- establishing the declaration of a guilty person as innocent as a serious moral wrong. Yet Paul, describing the doctrine of justification by faith, writes that God 'justifies the ungodly' (Romans 4:5) as the very heart of the gospel -- language that, on its face, describes exactly the act Proverbs 17:15 condemns.
@@ -90,6 +88,8 @@ primary texts directly.
 ---
 
 ### 4. 'The fear of the LORD prolongs life' -- retribution theology, and the observed reality of the righteous dying young
+
+*Entry ID: PROV-004*
 
 **References:** Proverbs 10:27; Proverbs 3:1-2; Ecclesiastes 7:15; 2 Kings 23:29
 
@@ -105,6 +105,8 @@ primary texts directly.
 
 ### 5. Prosperity promised for honoring God with wealth -- vs. Job's suffering despite piety
 
+*Entry ID: PROV-005*
+
 **References:** Proverbs 3:9-10; Job 1:1-3, 13-19
 
 **The claim:** Proverbs 3:9-10 promises, 'Honor the LORD with your wealth and with the firstfruits of all your produce; then your barns will be filled with plenty, and your vats will be bursting with wine' -- a confident promise of material blessing in response to faithful giving. Job, by contrast, is introduced as the most scrupulously righteous man of his generation (Job 1:1), explicitly including careful, proactive religious devotion on behalf of his whole household (1:5), yet loses all his wealth and his children in a single day (1:13-19) -- an experience that reads as the direct opposite of Proverbs' promised pattern.
@@ -118,6 +120,8 @@ primary texts directly.
 ---
 
 ### 6. 'The LORD possessed me' -- or 'created me'? A theologically loaded translation variance, central to the ancient Arian controversy
+
+*Entry ID: PROV-006*
 
 **References:** Proverbs 8:22-31
 
@@ -138,6 +142,8 @@ primary texts directly.
 
 ### 7. Does wisdom make people happy, or does increasing wisdom increase sorrow?
 
+*Entry ID: PROV-007*
+
 **References:** Proverbs 3:13; Ecclesiastes 1:18
 
 **The claim:** Proverbs 3:13 declares, 'Happy is the man that findeth wisdom, and the man that getteth understanding.' Ecclesiastes 1:18, however, states, 'in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.'
@@ -151,6 +157,8 @@ primary texts directly.
 ---
 
 ### 8. Is it true that no evil happens to the righteous, given the wisdom tradition's own acknowledgment of righteous suffering?
+
+*Entry ID: PROV-008*
 
 **References:** Proverbs 12:21
 
@@ -166,6 +174,8 @@ primary texts directly.
 
 ### 9. Can wealth serve as a ransom for a person's life, given that no amount of riches can redeem a soul from death?
 
+*Entry ID: PROV-009*
+
 **References:** Proverbs 13:8; Psalm 49:6-9
 
 **The claim:** Proverbs 13:8 states, 'The ransom of a man's life are his riches,' suggesting wealth can function protectively, buying off threats or danger. Psalm 49:6-9, however, states that the wealthy 'cannot by any means redeem his brother, nor give to God a ransom for him... that he should still live for ever, and not see corruption.'
@@ -179,6 +189,8 @@ primary texts directly.
 ---
 
 ### 10. Should we believe everything, or does true wisdom require scrutiny rather than simple belief?
+
+*Entry ID: PROV-010*
 
 **References:** Proverbs 14:15; Matthew 18:3; 1 Corinthians 13:7
 
@@ -194,6 +206,8 @@ primary texts directly.
 
 ### 11. Did God make the wicked specifically for the day of destruction?
 
+*Entry ID: PROV-011*
+
 **References:** Proverbs 16:4; 2 Peter 3:9; 1 Timothy 2:4
 
 **The claim:** Proverbs 16:4 states, 'The LORD hath made all things for himself: yea, even the wicked for the day of evil' -- language some read as teaching that God specifically created certain people for the purpose of their own damnation. 2 Peter 3:9 states God is 'not willing that any should perish, but that all should come to repentance,' and 1 Timothy 2:4 says God 'will have all men to be saved.'
@@ -208,6 +222,8 @@ primary texts directly.
 
 ### 12. Does pleasing God guarantee that even one's enemies will be at peace, given the consistent biblical pattern of the righteous being persecuted?
 
+*Entry ID: PROV-012*
+
 **References:** Proverbs 16:7; John 15:18-20; 2 Timothy 3:12
 
 **The claim:** Proverbs 16:7 states, 'When a man's ways please the LORD, he maketh even his enemies to be at peace with him' -- read by some as an unconditional guarantee. Yet Jesus tells his disciples the world will hate them as it hated him (John 15:18-20), and Paul states that 'all that will live godly in Christ Jesus shall suffer persecution' (2 Timothy 3:12) -- both describing faithful, God-pleasing people facing ongoing hostility rather than universal peace with their enemies.
@@ -221,6 +237,8 @@ primary texts directly.
 ---
 
 ### 13. Is happiness good, or is sorrow better than laughter?
+
+*Entry ID: PROV-013*
 
 **References:** Proverbs 17:22; Ecclesiastes 7:3
 
@@ -238,6 +256,8 @@ primary texts directly.
 
 ### 14. 'He who finds a wife finds a good thing' -- vs. Ecclesiastes' bitter assessment of women
 
+*Entry ID: PROV-014*
+
 **References:** Proverbs 18:22; Ecclesiastes 7:26, 28
 
 **The claim:** Proverbs 18:22 states warmly, 'He who finds a wife finds a good thing and obtains favor from the LORD.' Ecclesiastes, by contrast, includes among its more startling and difficult statements: 'I find more bitter than death the woman whose heart is snares and nets, and whose hands are fetters... one man among a thousand I found, but a woman among all these I have not found' (7:26, 28) -- language that reads as a sweeping, negative generalization about women specifically.
@@ -254,6 +274,8 @@ primary texts directly.
 
 ### 15. Wine as 'a mocker' -- vs. gladdening the heart, Cana, and Paul's advice to Timothy
 
+*Entry ID: PROV-015*
+
 **References:** Proverbs 20:1; Proverbs 23:29-35; Psalm 104:15; John 2:1-11; 1 Timothy 5:23
 
 **The claim:** Proverbs repeatedly and vividly warns against wine and strong drink: 'Wine is a mocker, strong drink a brawler, and whoever is led astray by it is not wise' (20:1), reinforced by an extended, graphic warning against drunkenness in 23:29-35. Yet Psalm 104:15 describes wine as one of God's good gifts that 'gladdens the heart of man,' Jesus' first recorded miracle involves producing an abundance of good wine for a wedding celebration (John 2:1-11), and Paul explicitly instructs Timothy to 'use a little wine for the sake of your stomach' (1 Timothy 5:23) -- a range of positive scriptural references to the same substance Proverbs warns against.
@@ -268,6 +290,8 @@ primary texts directly.
 
 ### 16. 'The rod' of discipline -- vs. the New Testament's gentler counsel to fathers
 
+*Entry ID: PROV-016*
+
 **References:** Proverbs 13:24; Proverbs 23:13-14; Ephesians 6:4
 
 **The claim:** Proverbs repeatedly endorses physical discipline of children in strong terms: 'Whoever spares the rod hates his son, but he who loves him is diligent to discipline him' (13:24), and 'Do not withhold discipline from a child; if you strike him with a rod, he will not die... you will save his soul from Sheol' (23:13-14). The New Testament, by contrast, instructs fathers, 'do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord' (Ephesians 6:4), language some read as urging a gentler approach in some tension with Proverbs' more forceful endorsement of physical correction.
@@ -281,6 +305,8 @@ primary texts directly.
 ---
 
 ### 17. Does the Bible condemn gambling, given its own approving use of casting lots?
+
+*Entry ID: PROV-017*
 
 **References:** Proverbs 10:4; Proverbs 16:33; Proverbs 13:11; Joshua 18:10; Acts 1:26
 
@@ -298,6 +324,8 @@ primary texts directly.
 
 ### 18. Multiple named authors within a single book -- Solomon, Agur, and King Lemuel
 
+*Entry ID: PROV-018*
+
 **References:** Proverbs 1:1; Proverbs 10:1; Proverbs 25:1; Proverbs 30:1; Proverbs 31:1
 
 **The claim:** Proverbs is repeatedly introduced and re-introduced as 'the proverbs of Solomon' (1:1, 10:1, and again at 25:1, 'these too are proverbs of Solomon'). Yet chapter 30 is explicitly headed 'the words of Agur son of Jakeh' (30:1), an otherwise unknown figure, and chapter 31 is headed 'the words of King Lemuel' (31:1), a king not identified anywhere else in Scripture -- raising a question about whether the book's overall attribution to Solomon is undermined by these two clearly distinct sections.
@@ -311,6 +339,8 @@ primary texts directly.
 ---
 
 ### 19. 'A way that seems right to a man' -- the same proverb, repeated twice in the book
+
+*Entry ID: PROV-019*
 
 **References:** Proverbs 14:12; Proverbs 16:25
 
@@ -327,6 +357,8 @@ primary texts directly.
 ## Numbers and Text
 
 ### 20. Solomon's 3,000 proverbs -- yet this book contains roughly 915
+
+*Entry ID: PROV-020*
 
 **References:** 1 Kings 4:32; Proverbs (entire book)
 

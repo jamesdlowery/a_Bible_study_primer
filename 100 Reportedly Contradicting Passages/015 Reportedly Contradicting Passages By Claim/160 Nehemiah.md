@@ -49,6 +49,8 @@ primary texts and the cross-references directly.
 
 ### 1. The wall completed in 52 days -- a later account gives a very different timeframe
 
+*Entry ID: NEH-001*
+
 **References:** Nehemiah 6:15
 
 **The claim:** Nehemiah 6:15 states the wall of Jerusalem, a massive rebuilding project, was completed in just 52 days. The first-century Jewish historian Josephus, writing centuries later (Antiquities 11.5.8), instead states the project took two years and four months -- a starkly different timeframe for what both authors present as the same undertaking.
@@ -64,6 +66,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 2. The returnees' census, appearing again in this book
+
+*Entry ID: NEH-002*
 
 **References:** Nehemiah 7:6-69; Ezra 2:1-67
 
@@ -81,6 +85,8 @@ primary texts and the cross-references directly.
 
 ### 3. The high priestly genealogy reaching Jaddua -- does this point to material added after Nehemiah's own lifetime?
 
+*Entry ID: NEH-003*
+
 **References:** Nehemiah 12:10-11, 22; Nehemiah 13:28
 
 **The claim:** Nehemiah 12:10-11 and 22 trace the succession of high priests from Jeshua (contemporary with Zerubbabel, generations before Nehemiah) down through Joiakim, Eliashib (high priest during Nehemiah's own governorship), Joiada, Jonathan/Johanan, and finally Jaddua. According to the later historian Josephus, Jaddua was the high priest who met Alexander the Great -- an event dated to roughly 332 BC, nearly a full century after Nehemiah's own attested activity in the mid-400s BC. Separately, Nehemiah 13:28 records Nehemiah personally expelling an unnamed son of Joiada (Eliashib's grandson) for marrying a daughter of Sanballat, Nehemiah's chief opponent -- an episode Josephus also narrates, but assigns to a man named Manasseh, brother of the high priest Jaddua, occurring generations later, at the time of Alexander's arrival, rather than during Nehemiah's own lifetime.
@@ -96,6 +102,8 @@ primary texts and the cross-references directly.
 ## Ethical Tensions
 
 ### 4. Nehemiah's harsh personal enforcement against intermarriage -- a different method than Ezra's
+
+*Entry ID: NEH-004*
 
 **References:** Nehemiah 13:23-27; Ezra 10:1-17
 
@@ -113,6 +121,8 @@ primary texts and the cross-references directly.
 
 ### 5. The renewed exclusion of Ammonites and Moabites
 
+*Entry ID: NEH-005*
+
 **References:** Nehemiah 13:1-3; Deuteronomy 23:3-6; Ruth 4:13-17
 
 **The claim:** Nehemiah 13:1-3 records that, upon reading 'the Book of Moses... it was found written there that no Ammonite or Moabite should ever enter the assembly of God,' the community responded by separating out 'all those of foreign descent' -- applying a law (Deuteronomy 23:3-6) that this project's companion Deuteronomy and Ruth chapters address at length, including the tension this exclusion creates with Ruth the Moabite's celebrated inclusion in Israel generations earlier.
@@ -129,6 +139,8 @@ primary texts and the cross-references directly.
 
 ### 6. How many nations did God dispossess for Israel -- do the lists match?
 
+*Entry ID: NEH-006*
+
 **References:** Nehemiah 9:8; Genesis 15:19-21; Deuteronomy 7:1
 
 **The claim:** Nehemiah's great prayer of confession recounts God's covenant with Abraham, including the promise to give the land 'of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite' to his descendants (9:8) -- a list of six nations. Genesis 15:19-21, recording the original covenant promise itself, lists ten nations (adding the Kenite, Kenizzite, Kadmonite, and Rephaim to the six named in Nehemiah). Deuteronomy 7:1, in yet another restatement, lists seven nations (the same six as Nehemiah, plus the Hivite).
@@ -144,6 +156,8 @@ primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 7. Eliashib the high priest: wall-builder, then enabler of Nehemiah's chief opponent
+
+*Entry ID: NEH-007*
 
 **References:** Nehemiah 3:1; Nehemiah 13:4-9
 

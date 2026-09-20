@@ -43,6 +43,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'Does disaster come to a city, unless the LORD has done it?'
 
+*Entry ID: AMOS-001*
+
 **References:** Amos 3:6; James 1:13
 
 **The claim:** Amos 3:6 asks rhetorically, 'Does disaster come to a city, unless the LORD has done it?' -- a strong statement of divine sovereignty over calamity, connecting to the broader question addressed at several points elsewhere in this project (Isaiah 45:7, Lamentations 3:37-38, Ezekiel 20:25) regarding whether Scripture consistently distinguishes God's sovereignty over calamity and judgment from the claim, denied by James 1:13, that God directly tempts or authors moral evil.
@@ -57,6 +59,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'I hate, I despise your feasts... let justice roll down like waters'
 
+*Entry ID: AMOS-002*
+
 **References:** Amos 5:21-24; Leviticus 1-7
 
 **The claim:** Amos 5:21-24 records one of the most forceful prophetic critiques of empty ritual in the Bible: 'I hate, I despise your feasts, and I take no delight in your solemn assemblies... take away from me the noise of your songs... but let justice roll down like waters, and righteousness like an ever-flowing stream' -- connecting to the same general tension addressed at several points elsewhere in this project (Isaiah 1:11-17, Hosea 6:6, 1 Samuel 15:22, Jeremiah 7:22-23) regarding whether such prophetic language is compatible with the Torah's own extensive sacrificial and festival legislation.
@@ -70,6 +74,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 3. 'Are you not like the Cushites to me?' -- God's providential governance of other nations' histories, alongside Israel's unique election
+
+*Entry ID: AMOS-003*
 
 **References:** Amos 9:7; Deuteronomy 7:6-8; Exodus 19:5-6
 
@@ -87,6 +93,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'I will raise up the booth of David' -- and a major Hebrew/Greek textual variant with real theological consequences
 
+*Entry ID: AMOS-004*
+
 **References:** Amos 9:11-12; Acts 15:16-18
 
 **The claim:** Amos 9:11-12, in the Masoretic Hebrew text underlying all 27 tracked translations' Old Testament rendering, promises that when God restores 'the booth of David that is fallen,' Israel will 'possess the remnant of Edom and all the nations who are called by my name.' James, at the Jerusalem Council, quotes this same passage (Acts 15:16-17) to settle the debate over Gentile inclusion -- but his quotation, following the Greek Septuagint rather than the Hebrew, reads differently: 'that the remnant of mankind may seek the Lord, and all the Gentiles who are called by my name.' The differences are substantial: 'possess' (Hebrew yirshu) becomes 'may seek' (Greek ekzetesosin), and 'Edom' (Hebrew edom) becomes 'mankind' (Greek anthropoi) -- and James's entire argument for admitting Gentiles without circumcision depends specifically on the Greek reading, not the Hebrew one a modern reader consulting an Old Testament translation would actually find at Amos 9:12.
@@ -100,6 +108,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. 'I was no prophet' -- past tense, or present? A real translation difference bearing on what Amos actually denies
+
+*Entry ID: AMOS-005*
 
 **References:** Amos 7:14-15
 
@@ -122,6 +132,8 @@ primary texts and the cross-references directly.
 
 ### 6. 'Two years before the earthquake' -- an unusually specific historical anchor, with possible archaeological corroboration
 
+*Entry ID: AMOS-006*
+
 **References:** Amos 1:1; Zechariah 14:5
 
 **The claim:** Amos 1:1 dates the prophet's ministry unusually precisely: 'two years before the earthquake,' during the reigns of Uzziah of Judah and Jeroboam II of Israel. This specific earthquake is referenced again, generations later, in Zechariah 14:5, which describes people fleeing 'as you fled from the earthquake in the days of Uzziah king of Judah' -- treating it as a well-remembered historical event significant enough to still be a common point of reference more than two centuries afterward.
@@ -137,6 +149,8 @@ primary texts and the cross-references directly.
 ## Theological Interpretation
 
 ### 7. 'Why would you have the day of the LORD? It is darkness, and not light'
+
+*Entry ID: AMOS-007*
 
 **References:** Amos 5:18-20
 

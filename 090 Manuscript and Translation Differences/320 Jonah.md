@@ -1,4 +1,4 @@
-# Jonah: Significant Textual Variants Across 27 Translations
+# Jonah: Textual and Translation Differences
 
 **Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 

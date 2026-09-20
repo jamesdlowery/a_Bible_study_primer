@@ -1,4 +1,4 @@
-# 1 Maccabees: RSV2CE Compared Against Other English Translations of the Apocrypha
+# 1 Maccabees: Textual and Translation Differences
 
 **Comparison translations:** RSV2CE, NABRE, Douay-Rheims, CPDV, NRSV.
 

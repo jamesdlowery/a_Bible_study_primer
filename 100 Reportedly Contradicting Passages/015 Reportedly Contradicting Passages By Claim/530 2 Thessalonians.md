@@ -44,6 +44,8 @@ primary texts and the cross-references directly.
 
 ### 1. The 'man of lawlessness' and 'the restrainer' -- one of the New Testament's great unresolved identification puzzles
 
+*Entry ID: 2THESS-001*
+
 **References:** 2 Thessalonians 2:1-12
 
 **The claim:** 2 Thessalonians 2:1-12 corrects an apparent misunderstanding among the Thessalonians (that 'the day of the Lord has come,' 2:2) by explaining that specific events must occur first: a 'rebellion,' and the revelation of 'the man of lawlessness... who opposes and exalts himself against every so-called god or object of worship, so that he takes his seat in the temple of God, proclaiming himself to be God' (2:3-4). Paul adds that this figure's full revelation is currently being held back by someone or something he calls 'the restrainer' -- 'you know what is restraining him now... only he who now restrains it will do so until he is out of the way' (2:6-7) -- without ever naming this restrainer directly, evidently because Paul's original audience already knew from his own earlier, in-person teaching (2:5, 'do you not remember that when I was still with you I told you these things?'), leaving later readers without that same shared context.
@@ -59,6 +61,8 @@ primary texts and the cross-references directly.
 ## Literary Composition
 
 ### 2. Paul explicitly warns of a forged letter -- and supplies his own verification method
+
+*Entry ID: 2THESS-002*
 
 **References:** 2 Thessalonians 2:2; 2 Thessalonians 3:17
 
@@ -76,6 +80,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'If anyone is not willing to work, let him not eat' -- conditional or unconditional charity?
 
+*Entry ID: 2THESS-003*
+
 **References:** 2 Thessalonians 3:6-12; Matthew 25:31-46; Acts 2:44-45
 
 **The claim:** 2 Thessalonians 3:10 states plainly, 'If anyone is not willing to work, let him not eat' -- part of an extended instruction (3:6-12) addressing certain believers who had apparently stopped working, evidently under the mistaken impression that Christ's imminent return made ordinary labor pointless, and had instead become idle busybodies dependent on others. This has sometimes been invoked in broader social and political discussions of welfare and charity, raising a question of how it relates to the New Testament's other, seemingly more unconditional calls to care for the poor and needy (Matthew 25:31-46's account of the sheep and goats judged by how they treated 'the least of these,' and Acts 2:44-45's account of the earliest Jerusalem church holding possessions in common and distributing 'to each as any had need').
@@ -89,6 +95,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. 'God sends them a strong delusion' -- vs. the broader biblical affirmation that God does not deceive
+
+*Entry ID: 2THESS-004*
 
 **References:** 2 Thessalonians 2:9-12; Numbers 23:19; Titus 1:2
 

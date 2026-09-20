@@ -17,15 +17,7 @@ translations, those entries are kept brief and cross-reference the fuller treatm
 published, rather than repeating it. The remaining entries are freshly researched
 genealogical and literary questions substantially unique to this book.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -51,6 +43,8 @@ cross-references directly.
 
 ### 1. Jesse's sons: eight, or seven?
 
+*Entry ID: 1CHR-001*
+
 **References:** 1 Samuel 17:12; 1 Chronicles 2:13-15
 
 **The claim:** 1 Samuel 17:12 states Jesse had eight sons; 1 Chronicles 2:13-15's genealogical list names only seven sons of Jesse, with David as the seventh (the youngest named).
@@ -64,6 +58,8 @@ cross-references directly.
 ---
 
 ### 2. Bathsheba's name and her father's name: two sets of variants in the same verse
+
+*Entry ID: 1CHR-002*
 
 **References:** 1 Chronicles 3:5; 2 Samuel 11:3; 2 Samuel 23:34
 
@@ -84,6 +80,8 @@ cross-references directly.
 
 ### 3. David's second son: Chileab, or Daniel?
 
+*Entry ID: 1CHR-003*
+
 **References:** 2 Samuel 3:2-3; 1 Chronicles 3:1
 
 **The claim:** 2 Samuel 3:3, listing David's sons born in Hebron, names his second son (by Abigail) as 'Chileab.' 1 Chronicles 3:1, listing the same sons, names David's second son (also by Abigail) as 'Daniel.'
@@ -97,6 +95,8 @@ cross-references directly.
 ---
 
 ### 4. Seven sons born in Jerusalem, or nine?
+
+*Entry ID: 1CHR-004*
 
 **References:** 2 Samuel 5:14-16; 1 Chronicles 3:5-8
 
@@ -112,6 +112,8 @@ cross-references directly.
 
 ### 5. Saul's genealogy, given twice within this book itself
 
+*Entry ID: 1CHR-005*
+
 **References:** 1 Chronicles 8:29-38; 1 Chronicles 9:35-44
 
 **The claim:** This book records Saul's family genealogy in full twice, within the span of its own first nine chapters -- once at 8:29-38 and again, in nearly identical form, at 9:35-44 -- with only minor variations in a few names between the two lists, raising the question of why the same information is repeated, and whether the two lists actually agree in every detail.
@@ -125,6 +127,8 @@ cross-references directly.
 ---
 
 ### 6. Was Timna a son of Eliphaz, or the mother of Amalek?
+
+*Entry ID: 1CHR-006*
 
 **References:** 1 Chronicles 1:36; Genesis 36:12
 
@@ -140,6 +144,8 @@ cross-references directly.
 
 ### 7. Does Matthew's genealogy skip generations that this book's fuller record of the kings from David to the exile includes?
 
+*Entry ID: 1CHR-007*
+
 **References:** 1 Chronicles 3:10-16; Matthew 1:8-11
 
 **The claim:** 1 Chronicles 3:10-16 gives an unbroken, generation-by-generation list of the kings of Judah descended from Solomon down to the Babylonian exile, including Ahaziah, Joash, and Amaziah in sequence between Joram and Uzziah (Azariah). Matthew 1:8, however, moves directly from 'Joram begat Ozias [Uzziah],' omitting Ahaziah, Joash, and Amaziah entirely from its genealogy of Christ.
@@ -153,6 +159,8 @@ cross-references directly.
 ---
 
 ### 8. Was Jeconiah the son of Josiah, or his grandson?
+
+*Entry ID: 1CHR-008*
 
 **References:** 1 Chronicles 3:15-16; Matthew 1:11
 
@@ -168,6 +176,8 @@ cross-references directly.
 
 ### 9. Was Zerubbabel's father Pedaiah, or Shealtiel?
 
+*Entry ID: 1CHR-009*
+
 **References:** 1 Chronicles 3:17-19; Ezra 3:2; Haggai 1:1; Matthew 1:12; Luke 3:27
 
 **The claim:** 1 Chronicles 3:19 states, 'the sons of Pedaiah; Zerubbabel, and Shimei' -- naming Pedaiah as Zerubbabel's father, with Shealtiel listed as Pedaiah's brother in the previous verse. Yet Ezra 3:2, Haggai 1:1, Matthew 1:12, and Luke 3:27 all consistently identify Zerubbabel as 'the son of Shealtiel' instead.
@@ -181,6 +191,8 @@ cross-references directly.
 ---
 
 ### 10. How many sons did Benjamin have -- three, five, or ten?
+
+*Entry ID: 1CHR-010*
 
 **References:** 1 Chronicles 7:6; 1 Chronicles 8:1-2; Genesis 46:21; Numbers 26:38-41
 
@@ -198,6 +210,8 @@ cross-references directly.
 
 ### 11. Levitical service age lowered to 20 -- does this conflict with Numbers, or does the text explain the change itself?
 
+*Entry ID: 1CHR-011*
+
 **References:** 1 Chronicles 23:24-27; Numbers 4:3; Numbers 8:24
 
 **The claim:** Numbers 4 sets the age for Levites beginning their tabernacle transport service at 30 (a figure addressed at greater length in the companion Numbers chapter, alongside Numbers 8:24's age 25 for a related aspect of service). This book instead states Levites were numbered 'from twenty years old' for service in David's reorganized system (23:24, 27) -- a third, lower figure.
@@ -214,6 +228,8 @@ cross-references directly.
 
 ### 12. David's song of thanksgiving in this book closely matches portions of three separate psalms
 
+*Entry ID: 1CHR-012*
+
 **References:** 1 Chronicles 16:8-36; Psalm 105:1-15; Psalm 96:1-13; Psalm 106:1, 47-48
 
 **The claim:** When the Ark is brought to Jerusalem, this book records David delivering a song of thanksgiving (16:8-36) that corresponds closely, in overlapping sections, to material also found independently as Psalm 105:1-15, Psalm 96 (nearly in its entirety), and the opening and closing verses of Psalm 106 -- raising a question about whether this represents one single, original composition later split and reused across three separate psalms, or evidence that the Chronicler assembled a composite from already-existing psalms rather than recording David's own words on this specific occasion.
@@ -227,6 +243,8 @@ cross-references directly.
 ---
 
 ### 13. Are all fourteen 'sons of Heman' actually personal names, or does part of the list form a Hebrew prayer?
+
+*Entry ID: 1CHR-013*
 
 **References:** 1 Chronicles 25:4-5
 
@@ -244,6 +262,8 @@ cross-references directly.
 
 ### 14. Who incited David to number Israel -- the LORD, or Satan?
 
+*Entry ID: 1CHR-014*
+
 **References:** 1 Chronicles 21:1; 2 Samuel 24:1
 
 **The claim:** This book states Satan incited David to take a census of Israel (21:1); 2 Samuel 24:1, describing the same event, states the LORD incited David to do it.
@@ -257,6 +277,8 @@ cross-references directly.
 ---
 
 ### 15. Who killed Goliath -- David, or Elhanan's brother-of-Goliath, correctly clarified in this book?
+
+*Entry ID: 1CHR-015*
 
 **References:** 1 Chronicles 20:5; 2 Samuel 21:19; 1 Samuel 17:49-51
 
@@ -274,6 +296,8 @@ cross-references directly.
 
 ### 16. Cost of the threshing floor: 600 shekels of gold, or 50 shekels of silver?
 
+*Entry ID: 1CHR-016*
+
 **References:** 1 Chronicles 21:25; 2 Samuel 24:24
 
 **The claim:** This book has David pay 600 shekels of gold for 'the place' where the Temple would be built (21:25); 2 Samuel 24:24 has him pay only 50 shekels of silver for the threshing floor and oxen.
@@ -288,6 +312,8 @@ cross-references directly.
 
 ### 17. Years of famine offered to David: three, or seven?
 
+*Entry ID: 1CHR-017*
+
 **References:** 1 Chronicles 21:11-12; 2 Samuel 24:13
 
 **The claim:** This book offers David three years of famine as one of three punishment options (21:11-12); 2 Samuel 24:13 (Masoretic Hebrew) offers seven years for the same event.
@@ -301,6 +327,8 @@ cross-references directly.
 ---
 
 ### 18. Do only four listed generations from Levi to Moses fit the scale of Israel's population growth in Egypt?
+
+*Entry ID: 1CHR-018*
 
 **References:** 1 Chronicles 23:6, 12-13; Exodus 6:16-20
 

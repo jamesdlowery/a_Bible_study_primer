@@ -46,6 +46,8 @@ primary texts directly.
 
 ### 1. A carefully ordered acrostic structure -- that breaks down entirely in the final chapter
 
+*Entry ID: LAM-001*
+
 **References:** Lamentations 1; Lamentations 2; Lamentations 3; Lamentations 4; Lamentations 5
 
 **The claim:** Lamentations 1, 2, and 4 are each 22-verse acrostic poems, with each verse beginning with a successive letter of the 22-letter Hebrew alphabet; chapter 3 extends this into a triple acrostic of 66 verses (three verses per letter), widely regarded as the book's structural and thematic high point. Chapter 5, the book's closing poem, also has exactly 22 verses -- but abandons the alphabetic pattern entirely, with no verse beginning with any particular Hebrew letter in sequence, raising a question about why the book's own carefully sustained literary structure collapses at precisely its final and most despairing chapter.
@@ -59,6 +61,8 @@ primary texts directly.
 ---
 
 ### 2. Traditional attribution to Jeremiah -- absent from the Hebrew text itself
+
+*Entry ID: LAM-002*
 
 **References:** Lamentations 1:1
 
@@ -76,6 +80,8 @@ primary texts directly.
 
 ### 3. 'The steadfast love of the LORD never ceases' -- a burst of hope in the middle of unrelenting despair
 
+*Entry ID: LAM-003*
+
 **References:** Lamentations 3:22-24; Lamentations 2:20; Lamentations 4:10; Lamentations 5:20-22
 
 **The claim:** Lamentations 3:22-24 contains one of the most beloved, hope-filled passages in the entire Bible -- 'The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness' -- appearing in the near-exact center of a book otherwise devoted almost entirely to unrelenting grief and horror over Jerusalem's destruction, including graphic descriptions of mothers driven to eating their own children during the siege (2:20, 4:10) and a closing chapter that ends not in resolution but in an anguished, unanswered question ('why do you forget us forever?... unless you have utterly rejected us,' 5:20, 22).
@@ -90,6 +96,8 @@ primary texts directly.
 
 ### 4. 'Is it not from the mouth of the Most High that good and bad come?'
 
+*Entry ID: LAM-004*
+
 **References:** Lamentations 3:37-38; James 1:13
 
 **The claim:** Lamentations 3:37-38 asks rhetorically, 'Who has spoken and it came to pass, unless the Lord has commanded it? Is it not from the mouth of the Most High that good and bad come?' -- language attributing both good and calamitous outcomes to God's own sovereign command, raising the same general question addressed elsewhere in this project regarding whether this is compatible with James 1:13's statement that God 'cannot be tempted with evil, neither tempteth he any man.'
@@ -103,6 +111,8 @@ primary texts directly.
 ---
 
 ### 5. 'Our fathers sinned... and we bear their iniquities' -- yet the same chapter also confesses, 'we have sinned'
+
+*Entry ID: LAM-005*
 
 **References:** Lamentations 5:7; Lamentations 5:16; Deuteronomy 24:16; Ezekiel 18:20
 
@@ -120,6 +130,8 @@ primary texts directly.
 
 ### 6. Mothers eating their own children during the siege -- a horrifying, specifically predicted covenant curse
 
+*Entry ID: LAM-006*
+
 **References:** Lamentations 2:20; Lamentations 4:10; Deuteronomy 28:53-57
 
 **The claim:** Lamentations twice describes, in the starkest possible terms, mothers driven by starvation during the Babylonian siege of Jerusalem to eat their own children ('should women eat the fruit of their womb, the children of their tender care?' 2:20; 'the hands of compassionate women have boiled their own children,' 4:10) -- among the most horrifying images in the entire Bible.
@@ -133,6 +145,8 @@ primary texts directly.
 ---
 
 ### 7. 'The LORD's anointed' -- applied to King Zedekiah, whose own unfaithfulness the book elsewhere condemns
+
+*Entry ID: LAM-007*
 
 **References:** Lamentations 4:20; 2 Kings 24:19-20; Jeremiah 52:1-3
 

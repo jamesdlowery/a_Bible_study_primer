@@ -1,4 +1,4 @@
-# Tobit: RSV2CE Compared Against Other English Translations of the Apocrypha
+# Tobit: Textual and Translation Differences
 
 **Comparison translations:** RSV2CE, NABRE (New American Bible, Revised Edition — the current US Catholic lectionary translation), Douay-Rheims (the historic Catholic translation, revised by Challoner), CPDV, and NRSV (widely used across denominations and in academic settings).
 

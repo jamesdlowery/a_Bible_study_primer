@@ -42,6 +42,8 @@ primary text and the cross-references directly.
 
 ### 1. 'Enoch... prophesied' -- Jude directly quotes the non-canonical book of 1 Enoch
 
+*Entry ID: JUDE-001*
+
 **References:** Jude 1:14-15
 
 **The claim:** Jude 14-15 states, 'It was also about these that Enoch, the seventh from Adam, prophesied, saying, "Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all..."' -- a direct quotation, introduced with the specific claim that Enoch himself 'prophesied' these words, matching 1 Enoch 1:9, part of a well-known Jewish pseudepigraphal work (the 'Book of Watchers') composed centuries after the biblical Enoch's own lifetime, and accepted as canonical Scripture only within the Ethiopian Orthodox and Eritrean Orthodox churches among all Christian traditions. This raises a genuinely significant question: does a canonical New Testament author's explicit claim that Enoch himself 'prophesied' these specific words imply an endorsement of 1 Enoch's own claimed authorship and prophetic authority, and if so, what does this mean for the doctrine of biblical inspiration and the boundaries of the canon?
@@ -56,6 +58,8 @@ primary text and the cross-references directly.
 
 ### 2. Michael's dispute with the devil over Moses' body -- another apparent citation of non-canonical material
 
+*Entry ID: JUDE-002*
+
 **References:** Jude 1:9; Deuteronomy 34:5-6
 
 **The claim:** Jude 1:9 references a specific episode not found anywhere in the canonical Old Testament: 'the archangel Michael, contending with the devil, disputed about the body of Moses.' Deuteronomy 34:5-6, the only canonical account of Moses' death, states simply that Moses died and that 'he buried him in a valley in the land of Moab... but no one knows the place of his burial to this day,' without any mention of a dispute between Michael and the devil over his body. This specific episode is widely believed by scholars to derive from another Jewish text outside the canon, commonly called the Testament of Moses or Assumption of Moses, of which only a fragmentary, incomplete copy survives (missing precisely the section that would have contained this specific episode, known instead through early patristic references to the lost portion).
@@ -69,6 +73,8 @@ primary text and the cross-references directly.
 ---
 
 ### 3. Jude's close literary relationship with 2 Peter -- addressed at length in the companion 2 Peter chapter
+
+*Entry ID: JUDE-003*
 
 **References:** Jude 1:4-19; 2 Peter 2:1-22
 

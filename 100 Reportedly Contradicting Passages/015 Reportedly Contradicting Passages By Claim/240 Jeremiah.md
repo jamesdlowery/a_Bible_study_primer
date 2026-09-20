@@ -15,15 +15,7 @@ standard English translation follows, and a shorter Greek Septuagint text-form i
 confirmed by Dead Sea Scroll fragments). This is a feature of the book's transmission history
 invisible to readers of any single English translation.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -47,6 +39,8 @@ primary texts and the cross-references directly.
 
 ### 1. Two significantly different textual forms of Jeremiah -- a longer Hebrew, and a notably shorter Greek
 
+*Entry ID: JER-001*
+
 **References:** Jeremiah (entire book)
 
 **The claim:** The book of Jeremiah exists in two substantially different ancient textual forms: the Masoretic Hebrew text (which every standard English translation, including all 27 surveyed in this project, follows as its base text) is roughly one-eighth longer than the ancient Greek Septuagint translation of Jeremiah, and the material is arranged in a notably different order -- most strikingly, the extended oracles against foreign nations (chapters 46-51 in the Masoretic Hebrew) appear in a completely different location, inserted in the middle of chapter 25, in the Septuagint's arrangement.
@@ -63,6 +57,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'I did not speak to them... concerning burnt offerings' -- denying the Sinai sacrificial legislation?
 
+*Entry ID: JER-002*
+
 **References:** Jeremiah 7:22-23; Exodus 20-Leviticus 27
 
 **The claim:** Jeremiah 7:22-23 has God declare, 'For in the day that I brought your fathers out of the land of Egypt, I did not speak to them or command them concerning burnt offerings and sacrifices. But this command I gave them: Obey my voice, and I will be your God, and you shall be my people' -- language that, read at face value, flatly denies that God gave any sacrificial commands at the time of the Exodus, apparently contradicting the Torah's own extensive, detailed sacrificial legislation given at Sinai (Exodus 20 onward, and throughout Leviticus).
@@ -76,6 +72,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 3. 'I will make a new covenant' -- renewal of the Mosaic covenant, or its supersession?
+
+*Entry ID: JER-003*
 
 **References:** Jeremiah 31:31-34; Exodus 24:3-8; Hebrews 8:6-13
 
@@ -91,6 +89,8 @@ primary texts and the cross-references directly.
 
 ### 4. David and the Levites will 'never lack a man' -- an unconditional promise, given as the monarchy and Temple were ending
 
+*Entry ID: JER-004*
+
 **References:** Jeremiah 33:17-18; Jeremiah 33:19-26
 
 **The claim:** Jeremiah 33:17-18 promises, 'David shall never lack a man to sit on the throne of the house of Israel, and the Levitical priests shall never lack a man in my presence to offer burnt offerings' -- an unconditional-sounding promise of perpetual dynastic and priestly continuity, delivered, notably, during the very period (Jeremiah's own ministry, during the Babylonian siege and destruction of Jerusalem) when both the Davidic monarchy and the Levitical sacrificial system were about to be, and shortly were, interrupted by the exile.
@@ -104,6 +104,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. The clearest statement in Scripture of God's conditional dealing with nations
+
+*Entry ID: JER-005*
 
 **References:** Jeremiah 18:7-10
 
@@ -119,6 +121,8 @@ primary texts and the cross-references directly.
 
 ### 6. Does God refuse to hear prayer and accept worship from a specific generation, given Scripture's promise that all who call on him will be delivered?
 
+*Entry ID: JER-006*
+
 **References:** Jeremiah 7:16; Jeremiah 14:12; Joel 2:32; Romans 10:13
 
 **The claim:** God twice tells Jeremiah not to intercede for the people, and declares he will not hear them: 'pray not thou for this people... for I will not hear thee' (7:16), and 'when they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them' (14:12). Elsewhere, Scripture promises without qualification that 'whosoever shall call on the name of the LORD shall be delivered' (Joel 2:32, quoted again in Romans 10:13).
@@ -132,6 +136,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. Should believers look for and heed signs in the heavens?
+
+*Entry ID: JER-007*
 
 **References:** Jeremiah 10:2; Matthew 2:1-2; Luke 21:25
 
@@ -149,6 +155,8 @@ primary texts and the cross-references directly.
 
 ### 8. Jehoiakim's prophesied burial 'like a donkey' -- vs. 2 Kings' more neutral report
 
+*Entry ID: JER-008*
+
 **References:** Jeremiah 22:18-19; Jeremiah 36:30; 2 Kings 24:6
 
 **The claim:** Jeremiah twice pronounces a harsh judgment on King Jehoiakim's death and burial: 'They shall not lament for him... with the burial of a donkey he shall be buried, dragged and dumped beyond the gates of Jerusalem' (22:18-19), and later, 'he shall have none to sit on the throne of David, and his dead body shall be cast out to the heat by day and the frost by night' (36:30) -- language describing a shameful, undignified death without proper burial. 2 Kings 24:6, by contrast, reports simply and neutrally that 'Jehoiakim slept with his fathers,' a standard formula elsewhere in Kings typically implying an ordinary, honorable royal burial and succession.
@@ -163,6 +171,8 @@ primary texts and the cross-references directly.
 
 ### 9. 'Write this man down as childless' (Jehoiachin) -- yet he had sons, and appears in Jesus' own genealogy
 
+*Entry ID: JER-009*
+
 **References:** Jeremiah 22:24-30; 1 Chronicles 3:17-18; Matthew 1:11-12
 
 **The claim:** Jeremiah pronounces a severe judgment on King Jehoiachin (also called Coniah): 'Write this man down as childless, a man who shall not succeed in his days, for none of his offspring shall succeed in sitting on the throne of David and ruling again in Judah' (22:30). Yet 1 Chronicles 3:17-18 explicitly lists several named sons of Jehoiachin (Shealtiel, Malchiram, Pedaiah, and others), directly contradicting a literal reading of 'childless.' Compounding this, Matthew 1:11-12 places Jehoiachin directly in Jesus' own legal genealogy through Joseph, a descendant of exactly the Davidic line Jeremiah's curse seems to permanently disqualify from the throne.
@@ -176,6 +186,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. 'You have deceived me, O LORD' -- a prophet's raw accusation against God
+
+*Entry ID: JER-010*
 
 **References:** Jeremiah 20:7; Numbers 23:19; Titus 1:2
 
@@ -202,6 +214,8 @@ primary texts and the cross-references directly.
 
 ### 11. Called and set apart before birth -- yet cursing the very day of his own birth
 
+*Entry ID: JER-011*
+
 **References:** Jeremiah 1:5; Jeremiah 20:14-18
 
 **The claim:** Jeremiah's call narrative opens with God's declaration, 'Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations' (1:5) -- a striking statement of purposeful, pre-natal calling and destiny. Yet later in the book, in the depths of persecution and despair, Jeremiah curses the very day of his own birth in some of the darkest language in the prophetic literature: 'Cursed be the day on which I was born... why did I come out from the womb to see toil and sorrow, and spend my days in shame?' (20:14-18).
@@ -217,6 +231,8 @@ primary texts and the cross-references directly.
 ## Chronology
 
 ### 12. Seventy years of Babylonian captivity
+
+*Entry ID: JER-012*
 
 **References:** Jeremiah 25:11-12; Jeremiah 29:10; 2 Chronicles 36:20-21; Daniel 9:2
 
@@ -234,6 +250,8 @@ primary texts and the cross-references directly.
 
 ### 13. Two versions of Jeremiah's Temple sermon
 
+*Entry ID: JER-013*
+
 **References:** Jeremiah 7:1-15; Jeremiah 26:1-24
 
 **The claim:** Jeremiah 7 and Jeremiah 26 both record Jeremiah delivering a sermon at the Temple gate condemning false confidence in the Temple's presence as a guarantee of safety despite the nation's moral and covenant unfaithfulness -- the same core message, in the same setting, but presented with different emphases: chapter 7 gives an extended, detailed account of the sermon's actual content, while chapter 26 gives a much briefer summary of the message but a considerably fuller narrative account of its aftermath (the priests' and prophets' demand for Jeremiah's death, his trial, and his defense and acquittal).
@@ -247,6 +265,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. Chapter 52: a later appendix, closely copied from 2 Kings and omitting Jeremiah's own name entirely
+
+*Entry ID: JER-014*
 
 **References:** Jeremiah 52:1-34; 2 Kings 24:18-25:30; Jeremiah 39:1-14; Jeremiah 40-44
 

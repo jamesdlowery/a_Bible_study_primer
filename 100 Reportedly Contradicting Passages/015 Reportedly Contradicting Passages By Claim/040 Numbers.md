@@ -8,15 +8,7 @@ notes how the tracked translations render the passages involved (only where the
 translation's own wording materially affects how sharp or resolvable the claim appears in
 English), and gives the standard scholarly reconciliation or harmonization.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -43,6 +35,8 @@ directly.
 
 ### 1. Did the sons of Korah die with him, or survive?
 
+*Entry ID: NUM-001*
+
 **References:** Numbers 16:31-33; Numbers 26:9-11
 
 **The claim:** Numbers 16 describes the earth swallowing Korah, his fellow rebels, and 'all that belonged to them,' including their households, in judgment. Numbers 26:11 explicitly states, 'the sons of Korah, however, did not die.'
@@ -56,6 +50,8 @@ directly.
 ---
 
 ### 2. God tells Balaam to go -- then is angry that he went?
+
+*Entry ID: NUM-002*
 
 **References:** Numbers 22:12; Numbers 22:20; Numbers 22:22
 
@@ -71,6 +67,8 @@ directly.
 
 ### 3. Did God command the spies to be sent into Canaan, or did the people request it?
 
+*Entry ID: NUM-003*
+
 **References:** Numbers 13:1-2; Deuteronomy 1:19-23
 
 **The claim:** Numbers 13:1-2 opens, 'The LORD said to Moses, Send men to spy out the land of Canaan.' Deuteronomy 1:22-23, Moses' own later retelling of the same episode, has Moses say, 'all of you came near me and said, Let us send men before us,' with the initiative credited to the people rather than to a divine command, and Moses states 'the thing seemed good to me' before acting on it.
@@ -84,6 +82,8 @@ directly.
 ---
 
 ### 4. Why, exactly, was Moses barred from entering the Promised Land?
+
+*Entry ID: NUM-004*
 
 **References:** Numbers 20:2-13; Numbers 20:24; Numbers 27:12-14; Deuteronomy 1:37; Deuteronomy 3:26; Deuteronomy 4:21; Psalm 106:32-33
 
@@ -99,6 +99,8 @@ directly.
 
 ### 5. The bronze serpent: a God-commanded means of healing, later destroyed as idolatry
 
+*Entry ID: NUM-005*
+
 **References:** Numbers 21:8-9; 2 Kings 18:4
 
 **The claim:** Numbers 21:8-9 has God directly command Moses to make a bronze serpent and mount it on a pole, so that anyone bitten by the fiery serpents sent as judgment could look at it and live -- an explicitly God-ordained, effective means of healing. Centuries later, 2 Kings 18:4 records that King Hezekiah, praised in the text for doing 'what was right in the eyes of the LORD,' 'broke in pieces the bronze serpent that Moses had made,' because by that time 'the people of Israel had made offerings to it' and it had become an object of idolatrous worship (given the name Nehushtan).
@@ -112,6 +114,8 @@ directly.
 ---
 
 ### 6. Were the Levites to be numbered, or specifically excluded from being numbered?
+
+*Entry ID: NUM-006*
 
 **References:** Numbers 1:47-49; Numbers 3:14-16
 
@@ -127,6 +131,8 @@ directly.
 
 ### 7. Was Moses genuinely meek, given his anger at the officers who spared the Midianite women?
 
+*Entry ID: NUM-007*
+
 **References:** Numbers 12:3; Numbers 31:14-18
 
 **The claim:** Numbers 12:3 describes Moses as 'very meek, above all the men which were upon the face of the earth.' Numbers 31:14 records Moses becoming angry ('wroth') with the military officers after the Midianite campaign, sharply rebuking them for sparing the women and commanding further, severe action against them.
@@ -141,6 +147,8 @@ directly.
 
 ### 8. Did Caleb alone argue for entering Canaan, or did Joshua join him from the start?
 
+*Entry ID: NUM-008*
+
 **References:** Numbers 13:30; Numbers 14:6-9
 
 **The claim:** Numbers 13:30 has Caleb alone speaking up to still the people's fear: 'Caleb stilled the people before Moses, and said, Let us go up at once, and possess it.' Only in the next chapter, Numbers 14:6-9, does the text have both 'Joshua the son of Nun, and Caleb the son of Jephunneh' together tearing their clothes and jointly urging the people not to rebel.
@@ -154,6 +162,8 @@ directly.
 ---
 
 ### 9. Did Israel kill every male in Midian, given that Midianites reappear generations later in Judges?
+
+*Entry ID: NUM-009*
 
 **References:** Numbers 31:7-11; Judges 6:1-6
 
@@ -171,6 +181,8 @@ directly.
 
 ### 10. How many died in the plague after the Baal of Peor incident: 24,000 or 23,000?
 
+*Entry ID: NUM-010*
+
 **References:** Numbers 25:9; 1 Corinthians 10:8
 
 **The claim:** Numbers 25:9 states 24,000 died in the plague; Paul, referencing the same event in 1 Corinthians 10:8, gives 23,000.
@@ -184,6 +196,8 @@ directly.
 ---
 
 ### 11. Do the Levite clan totals in Numbers 3 add up to the stated grand total?
+
+*Entry ID: NUM-011*
 
 **References:** Numbers 3:21-22; Numbers 3:27-28; Numbers 3:33-34; Numbers 3:39
 
@@ -199,6 +213,8 @@ directly.
 
 ### 12. At what age did Levites begin their tabernacle service -- 30, or 25?
 
+*Entry ID: NUM-012*
+
 **References:** Numbers 4:3; Numbers 4:23; Numbers 4:30; Numbers 8:24
 
 **The claim:** Numbers 4 (verses 3, 23, and 30) repeatedly specifies that Levites begin their assigned service at age 30 (through age 50). Numbers 8:24, addressing Levite service more generally, states the age of entry as 25.
@@ -212,6 +228,8 @@ directly.
 ---
 
 ### 13. Two censuses of fighting men -- do the totals make sense given the intervening losses?
+
+*Entry ID: NUM-013*
 
 **References:** Numbers 1:45-46; Numbers 26:51
 
@@ -227,6 +245,8 @@ directly.
 
 ### 14. Did only Caleb and Joshua survive of the whole first generation to see the promised land?
 
+*Entry ID: NUM-014*
+
 **References:** Numbers 14:29-30; Numbers 26:63-65; Deuteronomy 2:14-16
 
 **The claim:** Numbers 14:29-30 and 26:63-65 both state that of those numbered in the wilderness census, none would enter the promised land except Caleb and Joshua -- language some read as claiming every single adult of the first generation, without exception, died in the wilderness. Deuteronomy 2:14-16 similarly emphasizes that 'the men of war' were consumed from the camp before Israel could cross into the land.
@@ -240,6 +260,8 @@ directly.
 ---
 
 ### 15. Does the new moon offering's prescribed recipe in Numbers match its description in Ezekiel?
+
+*Entry ID: NUM-015*
 
 **References:** Numbers 28:11-15; Ezekiel 46:6-7
 
@@ -257,6 +279,8 @@ directly.
 
 ### 16. Where -- and when -- did Aaron die?
 
+*Entry ID: NUM-016*
+
 **References:** Numbers 20:22-29; Numbers 33:38-39; Deuteronomy 10:6
 
 **The claim:** Numbers 20:22-29 and Numbers 33:38-39 both state that Aaron died atop Mount Hor, in the fortieth year after the Exodus, at age 123. Deuteronomy 10:6, in a summary travel itinerary, states that Aaron died at Moserah (also spelled Moseroth) and was buried there.
@@ -272,6 +296,8 @@ directly.
 ## Names and Identity
 
 ### 17. Who was Moses' 'Cushite' wife?
+
+*Entry ID: NUM-017*
 
 **References:** Numbers 12:1; Exodus 2:16-21
 
@@ -293,6 +319,8 @@ directly.
 
 ### 18. Was Balaam a genuine mouthpiece of the LORD, or a condemned false prophet?
 
+*Entry ID: NUM-018*
+
 **References:** Numbers 22:9-20; Numbers 23:5-12; Numbers 24:2-9; 2 Peter 2:15-16; Jude 1:11; Revelation 2:14
 
 **The claim:** Numbers 22-24 repeatedly has the LORD speak directly to Balaam, put words in his mouth, and empower him to deliver genuine, accurate prophetic blessings over Israel that he explicitly says he cannot alter even for a large reward. Yet 2 Peter 2:15-16 and Jude 11 both condemn 'the way of Balaam' as a byword for a prophet motivated by love of money, and Revelation 2:14 associates Balaam with actively teaching Israel's enemies how to entrap Israel into sin -- casting him in a thoroughly negative light.
@@ -306,6 +334,8 @@ directly.
 ---
 
 ### 19. Is long hair on a man shameful, or a mark of consecration to God?
+
+*Entry ID: NUM-019*
 
 **References:** Numbers 6:5; 1 Corinthians 11:14
 
@@ -321,6 +351,8 @@ directly.
 
 ### 20. Should we follow our own hearts, or does the heart lead us astray?
 
+*Entry ID: NUM-020*
+
 **References:** Numbers 15:39; Ecclesiastes 11:9
 
 **The claim:** Numbers 15:38-39 institutes the fringes on garments specifically 'that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring' -- explicitly warning against following one's own heart. Ecclesiastes 11:9, by contrast, tells the young to 'rejoice... and walk in the ways of thine heart, and in the sight of thine eyes.'
@@ -335,6 +367,8 @@ directly.
 
 ### 21. Did Balaam actually curse Israel, or only bless them?
 
+*Entry ID: NUM-021*
+
 **References:** Numbers 23:7-12; Numbers 24:10; Deuteronomy 23:4-5; Nehemiah 13:2
 
 **The claim:** Numbers 23-24 records Balaam repeatedly blessing Israel and explicitly refusing to curse them, to Balak's mounting frustration -- the narrative never shows Balaam actually pronouncing a curse. Yet Deuteronomy 23:4-5 and Nehemiah 13:2, looking back on the same episode, both state that Balaam was hired 'to curse' Israel and that God 'turned the curse into a blessing,' language that could be read as implying a curse was actually spoken.
@@ -348,6 +382,8 @@ directly.
 ---
 
 ### 22. How long does God's anger last -- a moment, or forty years?
+
+*Entry ID: NUM-022*
 
 **References:** Numbers 32:13; Psalm 30:5; Psalm 103:9
 
@@ -364,6 +400,8 @@ directly.
 ## Authorship and Composition
 
 ### 23. Could Moses have written a verse calling himself 'very meek, above all the men which were upon the face of the earth'?
+
+*Entry ID: NUM-023*
 
 **References:** Numbers 12:3
 

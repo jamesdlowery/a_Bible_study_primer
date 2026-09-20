@@ -1,11 +1,8 @@
 # Reportedly Contradicting Passages in the Wisdom of Solomon
 
 **A note on this document's place in the series:** As with Tobit and Judith, the Wisdom of
-Solomon is a deuterocanonical book included in only five of the 27 tracked translations in this
-project -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE, all
-representing Catholic-tradition translations. The remaining 22 follow the Protestant, Jewish,
-or otherwise non-deuterocanonical-affirming canon, which excludes it. This document notes, for
-each entry, that the majority of tracked translations do not contain the book at all.
+Solomon is a deuterocanonical book -- see the note on canon status at the start of the
+Apocrypha block above for which five of the 27 tracked translations include it.
 
 This document catalogs 7 commonly cited alleged contradictions and notable theological
 and philosophical questions involving the Wisdom of Solomon, either entirely internal to the
@@ -47,6 +44,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 1. Attributed to Solomon in the first person -- yet almost universally recognized, including by Catholic scholarship, as a much later composition
 
+*Entry ID: WIS-001*
+
 **References:** Wisdom 7:1-14; Wisdom 8:17-21; Wisdom 9:7-8
 
 **The claim:** The Wisdom of Solomon is written throughout in the first-person voice of an unnamed king who describes his own request for wisdom (9:7-8, closely echoing 1 Kings 3's account of Solomon's request), his own royal upbringing (7:1-6), and his own decision to seek wisdom as a bride (8:17-21) -- a clear literary self-presentation as Solomon. Yet virtually all scholars, including the great majority of Catholic scholarship that affirms the book's canonical and inspired status, agree the book was actually composed many centuries after Solomon's own tenth-century-BC lifetime, most likely in the first century BC in the Greek-speaking Jewish community of Alexandria, Egypt -- a dating with a notably stronger and more nearly unanimous scholarly basis than the more genuinely disputed authorship questions surrounding Ecclesiastes and Song of Solomon addressed elsewhere in this project.
@@ -63,6 +62,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 2. 'Through the devil's envy death entered the world' -- a doctrinal development beyond Genesis's own explicit statement
 
+*Entry ID: WIS-002*
+
 **References:** Wisdom 2:23-24; Genesis 3:1-19; Romans 5:12
 
 **The claim:** Wisdom 2:23-24 states, 'God created man for incorruption, and made him in the image of his own eternity, but through the devil's envy death entered the world, and those who belong to his party experience it.' This is among the earliest and clearest texts in the biblical and deuterocanonical corpus to explicitly identify the serpent of Genesis 3 with 'the devil' by name, and to attribute human mortality specifically to the devil's own motivating 'envy' -- neither detail stated explicitly in Genesis 3 itself, which describes 'the serpent' without further identification and does not specify envy as its motive.
@@ -76,6 +77,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 ---
 
 ### 3. 'A good soul fell to my lot' -- does the book teach the soul's pre-existence, in tension with typical Hebrew anthropology?
+
+*Entry ID: WIS-003*
 
 **References:** Wisdom 8:19-20; Wisdom 9:15; Genesis 2:7
 
@@ -91,6 +94,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 4. Creation 'out of formless matter' -- creation from nothing, or from pre-existing material?
 
+*Entry ID: WIS-004*
+
 **References:** Wisdom 11:17; Genesis 1:1-2; 2 Maccabees 7:28
 
 **The claim:** Wisdom 11:17 describes God's 'all-powerful hand, which created the world out of formless matter' (Greek, ex amorphou hyles) -- a phrase some scholars read as adopting a specifically Platonic and Stoic philosophical formula describing a divine craftsman shaping already-existing, eternal raw material, rather than the doctrine of creation entirely 'out of nothing' (creatio ex nihilo) that later became standard Christian and Jewish theology, and which some read 2 Maccabees 7:28 ('God did not make them out of things that existed') as more directly and explicitly teaching.
@@ -104,6 +109,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 ---
 
 ### 5. Personified Wisdom as 'a reflection of eternal light' -- a precursor to New Testament Christology?
+
+*Entry ID: WIS-005*
 
 **References:** Wisdom 7:22-8:1; Wisdom 7:25-26; Proverbs 8:22-31; Hebrews 1:3; Colossians 1:15
 
@@ -119,6 +126,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 
 ### 6. God's patient, gradual judgment of the Canaanites -- a fuller theological rationale than Genesis itself gives
 
+*Entry ID: WIS-006*
+
 **References:** Wisdom 12:3-11; Genesis 15:16
 
 **The claim:** Wisdom 12:3-11 offers an extended theological reflection on why God did not destroy the wicked Canaanite nations all at once despite their sins, explaining that God judged them 'little by little' and 'gave them a chance to repent' (12:10) rather than destroying them all at once, despite having full power to do so -- a considerably more explicit and developed theological rationale than Genesis 15:16's own brief statement that Abraham's descendants would not yet possess Canaan 'for the iniquity of the Amorites is not yet complete.'
@@ -132,6 +141,8 @@ of the live discussion. Readers are encouraged to consult the primary text direc
 ---
 
 ### 7. An etiology of idolatry's origin -- grief for a dead child, or flattery of a distant ruler
+
+*Entry ID: WIS-007*
 
 **References:** Wisdom 14:12-21
 

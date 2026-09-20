@@ -44,6 +44,8 @@ primary texts and the cross-references directly.
 
 ### 1. A book of two halves: chapters 1-8 and 9-14, and the question of common authorship
 
+*Entry ID: ZECH-001*
+
 **References:** Zechariah 1:1-8:23; Zechariah 9:1-14:21
 
 **The claim:** Zechariah's first eight chapters are precisely dated (down to the day, similar to the companion book of Haggai), consist largely of a series of numbered night visions with an interpreting angel, and focus closely on the immediate concerns of the returned exilic community -- Zerubbabel, Joshua the high priest, and the Temple's reconstruction. Chapters 9-14 are markedly different: entirely undated, written in a different literary style (extended oracles rather than visions), never mentioning Zerubbabel, Joshua, or the Temple project by name, and addressing more distant, explicitly eschatological and messianic material -- differences substantial enough that a broad scholarly consensus, dating back centuries, proposes the two sections may derive from different authors and different historical periods, a question directly comparable to the Isaiah 1-39/40-66 authorship debate addressed in the companion Isaiah chapter.
@@ -59,6 +61,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 2. 'Mounted on a donkey, on a colt, the foal of a donkey' -- did Matthew depict Jesus riding two animals at once?
+
+*Entry ID: ZECH-002*
 
 **References:** Zechariah 9:9; Matthew 21:2-7; Mark 11:1-7; Luke 19:29-35; John 12:14-15
 
@@ -80,6 +84,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'Thirty pieces of silver... thrown to the potter' -- attributed to 'Jeremiah,' not Zechariah
 
+*Entry ID: ZECH-003*
+
 **References:** Zechariah 11:12-13; Matthew 27:9-10; Jeremiah 18:1-4; Jeremiah 19:1-13; Jeremiah 32:6-9
 
 **The claim:** Matthew 27:9-10 states, 'Then was fulfilled what was spoken by the prophet Jeremiah: They took the thirty pieces of silver... and gave them for the potter's field, as the Lord directed me' -- yet no passage in the book of Jeremiah contains this specific wording. The material corresponds much more closely to Zechariah 11:12-13, which has the prophet paid 'thirty pieces of silver' and told to 'throw it to the potter,' which he then throws 'to the potter in the house of the LORD.'
@@ -95,6 +101,8 @@ primary texts and the cross-references directly.
 ## Theological Interpretation
 
 ### 4. 'They will look on me, on him whom they have pierced' -- God's own first-person identification with a pierced figure
+
+*Entry ID: ZECH-004*
 
 **References:** Zechariah 12:10; John 19:37; Revelation 1:7
 
@@ -115,6 +123,8 @@ primary texts and the cross-references directly.
 
 ### 5. The LORD's feet standing on the Mount of Olives, splitting it in two -- the same location as Christ's ascension
 
+*Entry ID: ZECH-005*
+
 **References:** Zechariah 14:1-4; Acts 1:9-12
 
 **The claim:** Zechariah 14:4 describes a climactic future 'day of the LORD' in which God himself will stand 'on the Mount of Olives, which lies before Jerusalem on the east,' and the mountain 'shall be split in two, from east to west, by a very wide valley' -- a specific, striking geographic detail. Acts 1:9-12 records Jesus' own ascension into heaven occurring from this same Mount of Olives, with the accompanying angels promising 'this Jesus... will come in the same way as you saw him go into heaven' -- raising a question about whether these two texts describe or anticipate the same specific future event at the same specific location.
@@ -131,6 +141,8 @@ primary texts and the cross-references directly.
 
 ### 6. Joshua the high priest is crowned -- an act ordinarily reserved for kings
 
+*Entry ID: ZECH-006*
+
 **References:** Zechariah 6:9-15
 
 **The claim:** Zechariah 6:9-15 describes an unusual symbolic act: crowns are made from silver and gold and placed on the head of Joshua, the high priest -- crowning being ordinarily and exclusively an act performed for kings, not priests, throughout the rest of the Old Testament. The prophecy accompanying this act refers to a coming figure called 'the Branch' (a recognized messianic title elsewhere in Scripture, compare Jeremiah 23:5, 33:15) who will 'build the temple of the LORD' and 'sit and rule on his throne,' with 'a priest on his throne' and 'the counsel of peace' between the two offices -- combining royal and priestly roles in a single figure in a way that has led some scholars to propose the passage's original text named both Joshua and Zerubbabel (the actual Davidic-line governor) as recipients of two separate crowns, with the current text having lost or obscured a reference to Zerubbabel specifically.
@@ -144,6 +156,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. 'What are these wounds between your hands?' -- often popularly connected to Christ, but originally about disgraced false prophets
+
+*Entry ID: ZECH-007*
 
 **References:** Zechariah 13:2-6
 

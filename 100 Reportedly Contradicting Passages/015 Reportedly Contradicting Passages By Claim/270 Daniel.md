@@ -49,6 +49,8 @@ primary texts and the cross-references directly.
 
 ### 1. Daniel's authorship and dating: a sixth-century eyewitness account, or a second-century composition?
 
+*Entry ID: DAN-001*
+
 **References:** Daniel 1:1; Daniel 7-12; Daniel 11:2-35
 
 **The claim:** Daniel presents itself as the eyewitness account of a Jewish exile serving in the Babylonian and Persian courts during the sixth century BC (Daniel 1:1 dates the narrative's start to the reign of Nebuchadnezzar). Critical scholarship, however, has long argued for a much later date of composition, primarily in the second century BC during the Maccabean crisis, based on two main lines of evidence: the book's Hebrew and Aramaic contain a number of Persian and Greek loanwords some scholars judge inconsistent with a sixth-century Babylonian setting, and, most significantly, the extraordinarily precise correspondence between Daniel 11:2-35's detailed prophecies and the actual, verifiable history of the wars between the Ptolemaic and Seleucid kingdoms down to the reign of Antiochus IV Epiphanes (who desecrated the Jerusalem Temple in 167 BC) -- a level of specific historical accuracy some scholars find more naturally explained as history written after the fact (vaticinia ex eventu) than as centuries-advance prediction.
@@ -65,6 +67,8 @@ primary texts and the cross-references directly.
 
 ### 2. Belshazzar: called 'king' and 'son' of Nebuchadnezzar -- yet extra-biblical records identify him as Nabonidus's son and co-regent
 
+*Entry ID: DAN-002*
+
 **References:** Daniel 5:1-2, 11, 13, 18, 22
 
 **The claim:** Daniel 5 repeatedly calls Belshazzar 'king' of Babylon and states five times that Nebuchadnezzar was his 'father' (5:2, 11, 13, 18) and that he was Nebuchadnezzar's 'son' (5:22). Ancient historical sources (including the Greek historian Berossus) instead identify Nabonidus as Babylon's actual last king, with no relation to Nebuchadnezzar, leading many nineteenth-century critics to dismiss Belshazzar as a fictional character invented by the book's author.
@@ -79,6 +83,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'Darius the Mede' -- a ruler not clearly attested by that name in independent historical records
 
+*Entry ID: DAN-003*
+
 **References:** Daniel 5:31; Daniel 6:1; Daniel 9:1; Daniel 11:1
 
 **The claim:** Daniel 5:31 (in some versifications, 6:1) states that after Babylon's fall, 'Darius the Mede received the kingdom, being about sixty-two years old,' and this figure appears again at several later points in the book (6:1, 9:1, 11:1). No ruler named 'Darius the Mede' is clearly attested in independent historical records for this specific period -- standard secular history holds that Babylon fell to Cyrus the Great of Persia, with a Persian general (Gobryas/Ugbaru, per the Nabonidus Chronicle) leading the actual entry into the city, and the first Persian ruler named Darius (Darius I, 'the Great') reigned considerably later, beginning around 522 BC.
@@ -92,6 +98,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. Nebuchadnezzar's seven years of madness -- a historical episode without a clear independent record
+
+*Entry ID: DAN-004*
 
 **References:** Daniel 4:28-37
 
@@ -109,6 +117,8 @@ primary texts and the cross-references directly.
 
 ### 5. Nebuchadnezzar's first siege of Jerusalem: Jehoiakim's third year, or fourth?
 
+*Entry ID: DAN-005*
+
 **References:** Daniel 1:1; Jeremiah 25:1; Jeremiah 46:2
 
 **The claim:** Daniel 1:1 dates Nebuchadnezzar's first campaign against Jerusalem to 'the third year of the reign of Jehoiakim king of Judah.' Jeremiah 25:1 and 46:2, however, both date Nebuchadnezzar's decisive victory over Egypt at Carchemish (widely understood as marking the effective beginning of Babylonian dominance over the region, including Judah) to 'the fourth year of Jehoiakim' -- a one-year discrepancy in dating the same general period.
@@ -125,6 +135,8 @@ primary texts and the cross-references directly.
 
 ### 6. The four kingdoms of Daniel's visions: Babylon, Media, Persia, and Greece -- or Babylon, Medo-Persia, Greece, and Rome?
 
+*Entry ID: DAN-006*
+
 **References:** Daniel 2:31-45; Daniel 7:1-28
 
 **The claim:** Daniel 2's vision of a statue made of four metals (gold, silver, bronze, iron mixed with clay) and Daniel 7's vision of four beasts are both widely understood to represent a sequence of four successive world empires, but interpreters differ substantially on which four empires are meant: the traditional, historically dominant Christian reading identifies them as Babylon, Medo-Persia (treated as a single combined empire), Greece, and Rome, with the visions' final phase understood to extend into a future, still-unfulfilled culmination. Many critical scholars, connected to the authorship question addressed in entry 1, instead identify Media and Persia as two separate, successive kingdoms (rather than one combined empire), which would make the fourth kingdom Greece (specifically the Seleucid portion of Alexander's divided empire, culminating in Antiochus IV) rather than Rome -- a reading that fits a second-century-BC composition date, since the visions would then find their complete historical fulfillment within the author's own generation rather than requiring predictions of events centuries further in the future.
@@ -139,6 +151,8 @@ primary texts and the cross-references directly.
 
 ### 7. The seventy weeks (9:24-27) -- among the most intensely studied and disputed prophetic passages in the Bible
 
+*Entry ID: DAN-007*
+
 **References:** Daniel 9:24-27
 
 **The claim:** Daniel 9:24-27 delivers a detailed prophecy of 'seventy weeks' (traditionally understood as seventy sets of seven years, or 490 years total) determined for Jerusalem and Daniel's people, involving a decree to rebuild Jerusalem, the appearance of 'an anointed one,' his being 'cut off,' and a final period marked by covenant-breaking and 'abomination.' This passage has generated an extraordinary range of serious, mutually incompatible scholarly interpretations regarding its starting point, its internal chronology, the identity of the 'anointed one(s)' mentioned, and whether the final 'week' is fulfilled in the first century AD or remains future.
@@ -152,6 +166,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. The 'fourth man' in the fiery furnace -- an angel, a theophany, or something the translations themselves cannot fully agree how to render?
+
+*Entry ID: DAN-008*
 
 **References:** Daniel 3:24-25
 
@@ -172,6 +188,8 @@ primary texts and the cross-references directly.
 
 ### 9. 'One like a son of man' coming with the clouds of heaven -- a symbol for God's people, or an individual messianic figure?
 
+*Entry ID: DAN-009*
+
 **References:** Daniel 7:13-14; Daniel 7:18, 22, 27
 
 **The claim:** Daniel 7:13-14 describes a striking vision: 'behold, with the clouds of heaven there came one like a son of man... and to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him... his kingdom one that shall not be destroyed.' Jesus repeatedly applies this exact title, 'Son of Man,' to himself throughout the Gospels, more than any other self-designation, and directly invokes this specific vision at his own trial (Matthew 26:64). Yet the vision's own explicit interpretation, given later in the same chapter, identifies the recipients of this everlasting kingdom not with a single individual but with a collective group: 'the saints of the Most High shall receive the kingdom' (7:18), and 'the kingdom and the dominion... shall be given to the people of the saints of the Most High' (7:27) -- raising the same general question addressed in this project's companion Isaiah chapter regarding the Suffering Servant, about whether 'the son of man' figure is a collective symbol for God's people or an individual messianic figure.
@@ -185,6 +203,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. Michael and Gabriel: named angels, and a more developed angelology than earlier books
+
+*Entry ID: DAN-010*
 
 **References:** Daniel 8:16; Daniel 9:21; Daniel 10:13, 21; Daniel 12:1
 
@@ -202,6 +222,8 @@ primary texts and the cross-references directly.
 
 ### 11. 'The law of the Medes and Persians, which cannot be revoked' -- and the lions' den
 
+*Entry ID: DAN-011*
+
 **References:** Daniel 6:8, 12, 15; Esther 1:19; Esther 8:8
 
 **The claim:** Daniel 6 describes an irrevocable royal decree, procured by Daniel's political rivals specifically to trap him, that no one may petition any god or man except the king for thirty days, on penalty of being thrown to the lions -- with the text explicitly emphasizing, three times, that 'the law of the Medes and Persians' cannot be revoked or altered even by the king's own wish (6:8, 12, 15), once he realizes the trap and wishes to save Daniel. This is the same specific legal principle addressed in this project's companion Esther chapter (Esther 1:19, 8:8), where it drives that book's own plot in a similar way.
@@ -217,6 +239,8 @@ primary texts and the cross-references directly.
 ## Theological Tensions
 
 ### 12. 'Many of those who sleep in the dust... shall awake' -- one of the clearest Old Testament statements of resurrection
+
+*Entry ID: DAN-012*
 
 **References:** Daniel 12:1-2; Ecclesiastes 9:5; Job 14:7-12
 

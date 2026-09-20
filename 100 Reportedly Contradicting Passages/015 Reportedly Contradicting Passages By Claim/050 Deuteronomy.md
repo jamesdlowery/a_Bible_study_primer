@@ -7,15 +7,7 @@ Kings, Ruth, Ezekiel, Matthew). For each item, this document states the claim as
 typically raised, notes how the tracked translations render the passages involved (only where
 translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -40,6 +32,8 @@ primary texts and the cross-references directly.
 
 ### 1. Two different reasons given for the Sabbath commandment
 
+*Entry ID: DEUT-001*
+
 **References:** Exodus 20:8-11; Deuteronomy 5:12-15
 
 **The claim:** Exodus 20:11 grounds the Sabbath commandment in creation: 'in six days the LORD made heaven and earth... and rested the seventh day; therefore the LORD blessed the Sabbath day.' Deuteronomy 5:15, restating the same commandment, instead grounds it in the Exodus: 'you shall remember that you were a slave in the land of Egypt, and the LORD your God brought you out from there... therefore the LORD your God commanded you to keep the Sabbath day.'
@@ -54,6 +48,8 @@ primary texts and the cross-references directly.
 
 ### 2. Does the tenth commandment list the neighbor's house or wife first?
 
+*Entry ID: DEUT-002*
+
 **References:** Exodus 20:17; Deuteronomy 5:21
 
 **The claim:** Exodus 20:17 lists the objects of the coveting prohibition in this order: house, wife, servants, ox, donkey. Deuteronomy 5:21, restating the same commandment, lists wife first, then house: 'you shall not covet your neighbor's wife. And you shall not desire your neighbor's house...'
@@ -67,6 +63,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 3. Was the Passover lamb to be roasted, or boiled?
+
+*Entry ID: DEUT-003*
 
 **References:** Exodus 12:9; Deuteronomy 16:7
 
@@ -88,6 +86,8 @@ primary texts and the cross-references directly.
 
 ### 4. A single centralized place of worship, yet legitimate altars used elsewhere in Israel's later history
 
+*Entry ID: DEUT-004*
+
 **References:** Deuteronomy 12:5-14; Judges 6:24-26; 1 Samuel 7:9-10; 1 Kings 18:30-39
 
 **The claim:** Deuteronomy 12 repeatedly and emphatically restricts sacrificial worship to a single site, 'the place that the LORD your God will choose,' explicitly forbidding sacrifice 'at any place that you see' (12:13). Yet later narratives approvingly describe worship and sacrifice at other locations: Gideon builds an altar at Ophrah under direct divine instruction (Judges 6:24-26); Samuel offers sacrifice at Mizpah (1 Samuel 7:9-10); and Elijah, in one of the Old Testament's most celebrated scenes, rebuilds an altar and offers sacrifice on Mount Carmel, with fire from heaven confirming God's approval (1 Kings 18:30-39) -- all prior to, or entirely apart from, the single central sanctuary Deuteronomy 12 describes.
@@ -101,6 +101,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. The law for Israel's king (Deuteronomy 17:14-17) vs. Solomon's own practice
+
+*Entry ID: DEUT-005*
 
 **References:** Deuteronomy 17:14-17; 1 Kings 10:14-11:8
 
@@ -116,6 +118,8 @@ primary texts and the cross-references directly.
 
 ### 6. Ammonites and Moabites excluded from the assembly 'forever' -- yet Ruth the Moabite is welcomed in
 
+*Entry ID: DEUT-006*
+
 **References:** Deuteronomy 23:3-6; Ruth 1:16-17; Ruth 4:13-17; Matthew 1:5
 
 **The claim:** Deuteronomy 23:3 states that 'no Ammonite or Moabite may enter the assembly of the LORD... even to the tenth generation, forever,' citing their historical hostility toward Israel. Yet the book of Ruth presents a Moabite woman, Ruth, not only welcomed into the Israelite community after declaring loyalty to Naomi and to Naomi's God (1:16-17), but married to Boaz, an ancestor of King David (4:13-17), and later listed in Jesus' own genealogy (Matthew 1:5).
@@ -129,6 +133,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. Were fruit trees in besieged cities to be spared, given that Elisha later instructed Israel's own army to fell every tree in Moab?
+
+*Entry ID: DEUT-007*
 
 **References:** Deuteronomy 20:19-20; 2 Kings 3:19, 25
 
@@ -144,6 +150,8 @@ primary texts and the cross-references directly.
 
 ### 8. May a eunuch enter the congregation of the LORD?
 
+*Entry ID: DEUT-008*
+
 **References:** Deuteronomy 23:1
 
 **The claim:** Deuteronomy 23:1 excludes anyone 'wounded in the stones, or hath his privy member cut off' from entering 'the congregation of the LORD.'
@@ -158,6 +166,8 @@ primary texts and the cross-references directly.
 
 ### 9. For how many generations does the exclusion of an illegitimate child's descendants from the congregation of the LORD last?
 
+*Entry ID: DEUT-009*
+
 **References:** Deuteronomy 23:2
 
 **The claim:** Deuteronomy 23:2 states, 'A bastard shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD' -- raising a question, for some readers, of whether this describes a literal ten-generation countdown or something else, and how long such an exclusion was intended to last.
@@ -171,6 +181,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. How should Edomites be treated -- as brothers not to be abhorred, or as a nation marked for judgment?
+
+*Entry ID: DEUT-010*
 
 **References:** Deuteronomy 23:7; Obadiah 1:10-18; Psalm 137:7
 
@@ -188,6 +200,8 @@ primary texts and the cross-references directly.
 
 ### 11. Individual responsibility for sin (Deuteronomy 24:16) vs. generational punishment (Exodus 20:5)
 
+*Entry ID: DEUT-011*
+
 **References:** Deuteronomy 24:16; Exodus 20:5; Exodus 34:7; Ezekiel 18:1-4, 20
 
 **The claim:** Deuteronomy 24:16 states plainly, 'Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers. Each one shall be put to death for his own sin.' Exodus 20:5 and 34:7, however, describe God as 'visiting the iniquity of the fathers on the children to the third and the fourth generation.'
@@ -201,6 +215,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 12. Total destruction commanded for nearby nations, yet differentiated and sometimes peaceful treatment prescribed for others
+
+*Entry ID: DEUT-012*
 
 **References:** Deuteronomy 20:10-18; Deuteronomy 2:4-9; Deuteronomy 2:19
 
@@ -216,6 +232,8 @@ primary texts and the cross-references directly.
 
 ### 13. Interest may be charged to foreigners, but not to fellow Israelites -- a double standard, or a covenant-community ethic?
 
+*Entry ID: DEUT-013*
+
 **References:** Deuteronomy 23:19-20; Exodus 22:25; Leviticus 25:35-37
 
 **The claim:** Deuteronomy 23:19-20 (like Exodus 22:25 and Leviticus 25:35-37) prohibits Israelites from charging interest on loans to a fellow Israelite, while explicitly permitting interest to be charged to a foreigner -- raising the question of whether the law reflects an ethical double standard toward outsiders rather than a single, consistent principle.
@@ -229,6 +247,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. Divorce permitted by Moses, restricted by Jesus -- and differently, in each Gospel
+
+*Entry ID: DEUT-014*
 
 **References:** Deuteronomy 24:1-4; Matthew 5:31-32; Matthew 19:3-9; Mark 10:2-12; Luke 16:18
 
@@ -246,6 +266,8 @@ primary texts and the cross-references directly.
 
 ### 15. Moses' own death and burial, narrated in the book traditionally attributed to him
 
+*Entry ID: DEUT-015*
+
 **References:** Deuteronomy 34:1-8; Deuteronomy 34:10-12
 
 **The claim:** Deuteronomy 34 narrates Moses' death, God's own burial of him 'in the land of Moab... but no man knows the place of his burial to this day,' the thirty days of mourning that followed, and a concluding summary evaluation of Moses' unique prophetic standing -- all written in the third person, about events after Moses' own death, in a book traditionally held (and internally claiming, at several points, e.g., Deuteronomy 31:9, 31:24) to have been substantially written by Moses himself.
@@ -259,6 +281,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 16. Do this book's own parenthetical asides about the conquest's outcome fit Mosaic authorship before that conquest occurred?
+
+*Entry ID: DEUT-016*
 
 **References:** Deuteronomy 2:10-12, 20-23; Deuteronomy 2:37
 
@@ -276,6 +300,8 @@ primary texts and the cross-references directly.
 
 ### 17. Moses 'known face to face' (Deuteronomy 34:10) -- yet 'no one may see my face and live' (Exodus 33:20)
 
+*Entry ID: DEUT-017*
+
 **References:** Deuteronomy 34:10; Exodus 33:11; Exodus 33:20
 
 **The claim:** Deuteronomy's closing summary states, 'there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face' -- a striking claim of intimacy, given Exodus 33:20's statement that no one can see God's face and live.
@@ -289,6 +315,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 18. Did Israel see God directly at Horeb, or hear only a voice with no visible form?
+
+*Entry ID: DEUT-018*
 
 **References:** Deuteronomy 4:12, 15; Deuteronomy 5:4
 
@@ -306,6 +334,8 @@ primary texts and the cross-references directly.
 
 ### 19. Will the earth last forever, or will it pass away?
 
+*Entry ID: DEUT-019*
+
 **References:** Deuteronomy 4:40; 2 Peter 3:10; Revelation 21:1
 
 **The claim:** Deuteronomy 4:40 promises that obedience will bring blessing 'upon the earth, which the LORD thy God giveth thee, for ever.' 2 Peter 3:10 states that 'the heavens shall pass away with a great noise... the earth also and the works that are therein shall be burned up,' and Revelation 21:1 describes 'a new heaven and a new earth: for the first heaven and the first earth were passed away.'
@@ -319,6 +349,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 20. Does God keep covenant with his people 'to a thousand generations,' or has that covenant been set aside in Christ?
+
+*Entry ID: DEUT-020*
 
 **References:** Deuteronomy 7:9; Hebrews 8:13; Galatians 3:23-25
 
@@ -334,6 +366,8 @@ primary texts and the cross-references directly.
 
 ### 21. Did God need to test Israel in the wilderness in order to find out what was in their hearts?
 
+*Entry ID: DEUT-021*
+
 **References:** Deuteronomy 8:2; Psalm 139:1-4; Jeremiah 17:10
 
 **The claim:** Deuteronomy 8:2 states that God led Israel through the wilderness 'to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no' -- language read by some as implying God lacked prior knowledge of Israel's heart and needed the wilderness experience to discover it. Elsewhere, Scripture describes God's knowledge of the human heart as already total and complete, prior to any test (Psalm 139:1-4; Jeremiah 17:10, 'I the LORD search the heart... to give every man according to his ways').
@@ -347,6 +381,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 22. Are all people God's children, or only some?
+
+*Entry ID: DEUT-022*
 
 **References:** Deuteronomy 14:1; John 8:44; Ephesians 2:2-3; 1 John 3:10
 
@@ -362,6 +398,8 @@ primary texts and the cross-references directly.
 
 ### 23. Does Paul's citation of this verse mean obedience to the law brings a curse?
 
+*Entry ID: DEUT-023*
+
 **References:** Deuteronomy 27:26; Galatians 3:10-13
 
 **The claim:** Deuteronomy 27:26 pronounces, 'Cursed be he that confirmeth not all the words of this law to do them.' Paul cites this very verse in Galatians 3:10 to argue that 'as many as are of the works of the law are under the curse' -- an argument some read as claiming that obedience to God's own law somehow results in a curse, an apparently strange, self-undermining outcome for a law given by God himself.
@@ -376,6 +414,8 @@ primary texts and the cross-references directly.
 
 ### 24. Does God take pleasure in the death of the wicked, or does their destruction bring him no pleasure at all?
 
+*Entry ID: DEUT-024*
+
 **References:** Deuteronomy 28:63; Ezekiel 33:11
 
 **The claim:** Deuteronomy 28:63 warns that, in response to persistent covenant unfaithfulness, 'the LORD will rejoice over you to destroy you, and to bring you to nought.' Ezekiel 33:11 states directly, 'I have no pleasure in the death of the wicked; but that the wicked turn from his way and live... turn ye, turn ye from your evil ways; for why will ye die.'
@@ -389,6 +429,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 25. Do humans have genuine free will to choose their own destiny, or does God sovereignly determine it?
+
+*Entry ID: DEUT-025*
 
 **References:** Deuteronomy 30:19; John 6:44; Ephesians 1:4-5; Romans 9:16
 

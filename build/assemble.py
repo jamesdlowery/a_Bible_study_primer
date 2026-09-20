@@ -419,14 +419,14 @@ def build_targets():
 
     add("purpose_and_scope", get_heading_text("030 Introduction/020 Purpose and Scope.md"),
         lambda: render_with_book_stats("030 Introduction/020 Purpose and Scope.md"))
-    add("what_is_the_word_of_god", get_heading_text("030 Introduction/030 What Is Meant by the Word of God.md"),
-        lambda: read("030 Introduction/030 What Is Meant by the Word of God.md"))
-    add("what_is_an_inerrant_word_of_god", get_heading_text("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"),
-        lambda: read("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"))
     add("how_to_use_this_book", get_heading_text("030 Introduction/050 How to Use This Book.md"),
         lambda: render_with_book_stats("030 Introduction/050 How to Use This Book.md"))
     add("reading_paths", get_heading_text("030 Introduction/060 Reading Paths for Different Readers.md"),
         lambda: read("030 Introduction/060 Reading Paths for Different Readers.md"))
+    add("what_is_the_word_of_god", get_heading_text("030 Introduction/030 What Is Meant by the Word of God.md"),
+        lambda: read("030 Introduction/030 What Is Meant by the Word of God.md"))
+    add("what_is_an_inerrant_word_of_god", get_heading_text("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"),
+        lambda: read("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"))
     add("background_on_textual_transmission", get_heading_text("030 Introduction/070 Background on Textual Transmission.md"),
         lambda: read("030 Introduction/070 Background on Textual Transmission.md"))
     add("note_on_method_and_verification", get_heading_text("030 Introduction/080 A Note on Method and Verification.md"),
@@ -440,8 +440,8 @@ def build_targets():
     add("bible_translations_and_sources", "Bible Translations and Their Source Manuscripts",
         lambda: read("070 Bible Translations and Their Source Manuscripts/010 Bible Translations and Their Source Manuscripts.md"))
 
-    add("histories_title", "Histories of Various Bible Translations",
-        lambda: "# Histories of Various Bible Translations\n", is_divider=True)
+    add("histories_title", "Histories of English Bible Translations",
+        lambda: "# Histories of English Bible Translations\n", is_divider=True)
 
     def add_history_group(divider_id, divider_label, group):
         add(divider_id, divider_label, lambda: f"## {divider_label}\n", is_divider=True)
@@ -503,7 +503,18 @@ def build_targets():
     # per alleged contradiction, with translation differences noted inline
     # only where a genuine difference exists -- see 015 Reportedly
     # Contradicting Passages By Claim/) ----
-    add("rcp_title", "Reportedly Contradicting Passages", lambda: "# Reportedly Contradicting Passages\n", is_divider=True)
+    add("rcp_title", "Reportedly Contradicting Passages", lambda: (
+        "# Reportedly Contradicting Passages\n\n"
+        "**A reminder before this section begins:** the chapters that follow address a different question "
+        "from the one Manuscript and Translation Differences just finished answering. That section asked "
+        "\"does the text itself vary?\" -- a question about manuscripts and translation choices. This section "
+        "asks \"is this passage commonly cited as a contradiction, and how is it usually resolved?\" -- a "
+        "question about a specific, often popular claim, which frequently involves no textual variant at all "
+        "(the entire text is well-attested and the same across every translation; the dispute is about how to "
+        "read it, not what it says). Each book chapter below states the claim as it is typically raised and "
+        "gives the standard scholarly harmonization; inclusion of a claim is not a concession that Scripture "
+        "actually contradicts itself.\n"
+    ), is_divider=True)
 
     testament_labels = {"__OT__": "Old Testament", "__APOCRYPHA__": "Apocrypha", "__NT__": "New Testament"}
     RCP_BY_CLAIM_DIR = "100 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
@@ -517,8 +528,29 @@ def build_targets():
             # dividers behave. Folded onto the same page as the next
             # non-divider target, like that section's dividers are.
             label = testament_labels[group_label]
-            def render_testament_divider(label=label):
-                return f"## {label}\n"
+            def render_testament_divider(label=label, group_label=group_label):
+                heading = f"## {label}\n"
+                if group_label == "__APOCRYPHA__":
+                    heading += (
+                        "\n**A note on canon status, covering all seven books in this block:** "
+                        "the seven deuterocanonical (\"apocryphal\") books that follow -- Tobit, Judith, "
+                        "the Wisdom of Solomon, Sirach, Baruch, 1 Maccabees, and 2 Maccabees -- are each "
+                        "included in only five of the 27 tracked translations in this project: the "
+                        "Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE, all "
+                        "representing Catholic-tradition translations. The remaining 22 follow the "
+                        "Protestant, Jewish, or otherwise non-deuterocanonical-affirming canon, which "
+                        "excludes them. Each book chapter below notes this once at its own start rather "
+                        "than repeating the full explanation.\n\n"
+                        "**A note on scope:** this block covers the Catholic Deuterocanon specifically -- "
+                        "the seven books above, recognized as canonical by the Catholic Church and included "
+                        "in the Catholic-tradition translations this book tracks. It does not cover the "
+                        "additional books some Eastern Orthodox traditions recognize as canonical beyond "
+                        "this set (among them 1 Esdras, 3 Maccabees, Psalm 151, and the Prayer of Manasseh), "
+                        "since none of the 27 tracked translations includes that wider Orthodox canon. "
+                        "Eastern Orthodoxy itself is profiled as a denomination elsewhere in this book, but "
+                        "its own broader canon is out of scope for this catalog.\n"
+                    )
+                return heading
             add(f"rcp_{group_label}_divider", label, render_testament_divider, is_divider=True)
             continue
         book_name = rcp_book_display(fn)
@@ -726,18 +758,18 @@ def build_toc_md(anchors):
     lines = ["# Table of Contents", ""]
     lines.append(f"- {link('preface', 'Preface')}")
     lines.append(f"- {link('purpose_and_scope', 'Purpose & Scope')}")
-    lines.append(f"- {link('what_is_the_word_of_god', 'What Is Meant by the \"Word of God\"?')}")
-    lines.append(f"- {link('what_is_an_inerrant_word_of_god', 'What Is Meant by an \"Inerrant\" Word of God?')}")
     lines.append(f"- {link('how_to_use_this_book', 'How to Use This Book')}")
     lines.append(f"- {link('reading_paths', 'Reading Paths for Different Readers')}")
+    lines.append(f"- {link('what_is_the_word_of_god', 'What Is Meant by the \"Word of God\"?')}")
+    lines.append(f"- {link('what_is_an_inerrant_word_of_god', 'What Is Meant by an \"Inerrant\" Word of God?')}")
     lines.append(f"- {link('background_on_textual_transmission', 'Background on Textual Transmission')}")
     lines.append(f"- {link('note_on_method_and_verification', 'A Note on Method and Verification')}")
     lines.append(f"- {link('biblical_source_manuscripts', 'Biblical Source Manuscripts')}")
-    lines.append(f"- {link('character_of_each_tradition', 'Character of Each Manuscript Tradition, Relationships, and Principles of Weighing')}")
+    lines.append(f"- {link('character_of_each_tradition', 'Manuscript Traditions: Character, Relationships, and Weighing')}")
     lines.append(f"- {link('popular_bible_translations', 'Popular Bible Translations')}")
     lines.append(f"- {link('bible_translations_and_sources', 'Bible Translations and Their Source Manuscripts')}")
 
-    lines.append("- **Histories of Various Translations/Versions of the Bible:**")
+    lines.append("- **Histories of English Bible Translations:**")
     lines.append("  - Protestant Bibles")
     for fn, label, _n in PROTESTANT_HISTORIES:
         lines.append(f"    - {link(f'history_{fn}', label)}")
@@ -781,8 +813,8 @@ def build_toc_md(anchors):
         for fn in files:
             lines.append(f"        - {link(f'rcpbook_{fn}', rcp_book_display(fn))}")
 
-    lines.append(f"- {link('top_denominations', 'Top Christian Denominations')}")
-    lines.append(f"- {link('top_study_bibles', 'Top Study Bibles')}")
+    lines.append(f"- {link('top_denominations', 'Major U.S. Christian Denominations')}")
+    lines.append(f"- {link('top_study_bibles', 'Prominent English Study Bibles')}")
 
     lines.append(f"- {link('references', 'References for Further Reading')}")
     if FORMAT == "docx":

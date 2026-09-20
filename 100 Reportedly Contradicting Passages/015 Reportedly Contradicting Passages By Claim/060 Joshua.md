@@ -17,15 +17,7 @@ rather than given a manufactured harmonization, consistent with this project's p
 elsewhere (see the Levite-census entry in the companion Numbers chapter) of acknowledging
 where the evidence genuinely does not settle the matter.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -53,6 +45,8 @@ texts and the cross-references directly.
 
 ### 1. Was the conquest of Canaan totally complete, or was much land left unconquered?
 
+*Entry ID: JOSH-001*
+
 **References:** Joshua 11:23; Joshua 21:43-45; Joshua 13:1-6; Joshua 15:63; Joshua 16:10; Joshua 17:12-13; Judges 1:19-36
 
 **The claim:** Joshua 11:23 states plainly, 'So Joshua took the whole land, according to all that the LORD had spoken to Moses... and the land had rest from war.' Joshua 21:43-45 goes further: 'the LORD gave to Israel all the land... not one word of all the good promises... had failed.' Yet the same book explicitly states, near the end of Joshua's life, 'there remains yet very much land to possess' (13:1), and repeatedly notes specific peoples that were not driven out (the Jebusites from Jerusalem, 15:63; the Canaanites in Gezer, 16:10; the Canaanites in the Manasseh territory, 17:12-13). Judges 1 catalogs an extensive further list of unconquered towns and peoples across nearly every tribal territory.
@@ -66,6 +60,8 @@ texts and the cross-references directly.
 ---
 
 ### 2. Jerusalem: captured and burned, yet the Jebusites continued dwelling there unconquered
+
+*Entry ID: JOSH-002*
 
 **References:** Judges 1:8; Joshua 15:63; Judges 1:21; 2 Samuel 5:6-9
 
@@ -81,6 +77,8 @@ texts and the cross-references directly.
 
 ### 3. Ai left 'a heap of ruins to this day' -- yet later listed among inhabited towns
 
+*Entry ID: JOSH-003*
+
 **References:** Joshua 8:28; Ezra 2:28; Nehemiah 7:32; Isaiah 10:28
 
 **The claim:** Joshua 8:28 states that Joshua 'burned Ai and made it forever a heap of ruins, as it is to this day.' Yet centuries later, Ezra 2:28 and Nehemiah 7:32 both list 'Ai' (or 'Aija') among towns whose returning former residents are counted after the Babylonian exile, and Isaiah 10:28 mentions Ai as a town an invading army passes through on its way toward Jerusalem -- both apparently describing an inhabited, functioning settlement long after Joshua's destruction.
@@ -94,6 +92,8 @@ texts and the cross-references directly.
 ---
 
 ### 4. Were twelve memorial stones set up at Gilgal, or left standing in the middle of the Jordan riverbed?
+
+*Entry ID: JOSH-004*
 
 **References:** Joshua 4:1-9, 19-20
 
@@ -109,6 +109,8 @@ texts and the cross-references directly.
 
 ### 5. Who drove the descendants of Anak from Hebron -- Joshua, or Caleb?
 
+*Entry ID: JOSH-005*
+
 **References:** Joshua 11:21-22; Joshua 15:13-14; Judges 1:20
 
 **The claim:** Joshua 11:21-22 states that 'Joshua came at that time, and cut off the Anakims from the mountains, from Hebron... there was none of the Anakims left in the land of Israel.' Yet Joshua 15:13-14, in the account of the tribal land allotments, credits Caleb personally with driving out 'the three sons of Anak' from Hebron, and Judges 1:20 repeats this same attribution to Caleb.
@@ -122,6 +124,8 @@ texts and the cross-references directly.
 ---
 
 ### 6. Did Balak actually wage war against Israel, or only attempt to have them cursed?
+
+*Entry ID: JOSH-006*
 
 **References:** Joshua 24:9; Numbers 22:1-24:25
 
@@ -138,6 +142,8 @@ texts and the cross-references directly.
 ## Law and Ethics
 
 ### 7. Were Achan's children executed alongside him for his sin?
+
+*Entry ID: JOSH-007*
 
 **References:** Joshua 7:24-25; Joshua 22:20; Deuteronomy 24:16
 
@@ -157,6 +163,8 @@ texts and the cross-references directly.
 
 ### 8. Rahab and the Gibeonites spared -- consistent exceptions, or a broken total-destruction command?
 
+*Entry ID: JOSH-008*
+
 **References:** Joshua 2:1-21; Joshua 6:22-25; Joshua 9:1-27; Deuteronomy 20:16-18
 
 **The claim:** Deuteronomy 20:16-18 commands that nothing that breathes be left alive among the Canaanite nations within the land. Yet Joshua spares Rahab and her family because she hid the Israelite spies and professed faith in Israel's God (Joshua 2, 6:22-25), and later, after being deceived by the Gibeonites into a peace treaty, honors that covenant and spares the Gibeonite cities rather than destroying them (Joshua 9), despite Israel's leaders recognizing they had been tricked.
@@ -170,6 +178,8 @@ texts and the cross-references directly.
 ---
 
 ### 9. Rahab's deception of the king's men -- commended for her faith, but did she sin by lying?
+
+*Entry ID: JOSH-009*
 
 **References:** Joshua 2:1-7; Hebrews 11:31; James 2:25
 
@@ -187,6 +197,8 @@ texts and the cross-references directly.
 
 ### 10. Hebron given to Caleb -- yet also listed as a Levitical city and city of refuge
 
+*Entry ID: JOSH-010*
+
 **References:** Joshua 14:13-14; Joshua 21:11-13
 
 **The claim:** Joshua 14:13-14 records Hebron given to Caleb 'for an inheritance, because he wholly followed the LORD.' Joshua 21:11-13, in the later allotment of towns to the Levites, lists Hebron among the cities given to the priestly Levites (the sons of Aaron) as one of the cities of refuge.
@@ -200,6 +212,8 @@ texts and the cross-references directly.
 ---
 
 ### 11. Were Zorah and Eshtaol allotted to Dan, or to Judah?
+
+*Entry ID: JOSH-011*
 
 **References:** Joshua 15:20, 33; Joshua 19:40-41
 
@@ -215,6 +229,8 @@ texts and the cross-references directly.
 
 ### 12. Was Aijalon a town of Dan, or of Ephraim?
 
+*Entry ID: JOSH-012*
+
 **References:** Joshua 19:40-42; Joshua 21:23-24; 1 Chronicles 6:66, 69
 
 **The claim:** Joshua 19:40-42 lists Aijalon among the towns allotted to the tribe of Dan. Joshua 21:23-24 then lists Aijalon among the cities given to the Kohathite Levites out of Dan's territory, consistent with this. Yet 1 Chronicles 6:66, 69, giving a parallel list of Levitical cities, instead lists Aijalon among the cities given out of the territory of Ephraim.
@@ -228,6 +244,8 @@ texts and the cross-references directly.
 ---
 
 ### 13. Who purchased the burial plot at Shechem where Joseph was buried -- Jacob, or Abraham?
+
+*Entry ID: JOSH-013*
 
 **References:** Joshua 24:32; Genesis 33:18-19; Acts 7:15-16
 
@@ -245,6 +263,8 @@ texts and the cross-references directly.
 
 ### 14. The sun standing still over Gibeon -- a literal cosmic event, or a poetic citation from the Book of Jashar?
 
+*Entry ID: JOSH-014*
+
 **References:** Joshua 10:12-14
 
 **The claim:** Joshua 10:12-14 describes the sun and moon standing still at Joshua's command during the battle at Gibeon, 'about a whole day,' with the text explicitly noting this account is quoted 'in the Book of Jashar' (a now-lost source Joshua's author draws on elsewhere for poetic material, compare 2 Samuel 1:18). Some ask whether this is meant as a literal, unique astronomical event or as poetic/hyperbolic battle-victory language of a kind common in ancient Near Eastern military literature, and whether reading it literally creates tension with an ordinary understanding of physics and astronomy.
@@ -261,6 +281,8 @@ texts and the cross-references directly.
 
 ### 15. The reading of the Law at Mount Ebal -- commanded before entering the land, narrated only after several campaigns
 
+*Entry ID: JOSH-015*
+
 **References:** Deuteronomy 27:1-8; Deuteronomy 11:29-30; Joshua 8:30-35
 
 **The claim:** Deuteronomy 27 instructs that, on the very day Israel crosses the Jordan, an altar is to be built on Mount Ebal and the Law read aloud with the blessings and curses pronounced from Ebal and Gerizim. Joshua narrates this ceremony only in chapter 8, after the crossing of the Jordan, the fall of Jericho, and both the failed and successful campaigns against Ai -- apparently well after 'the very day' Deuteronomy's instruction specifies. Separately, this passage (Joshua 8:30-35) appears at a notably different point in the book's overall sequence in some ancient manuscript witnesses, including the Dead Sea Scrolls fragment 4QJoshua-a and, in a different but related way, the Old Greek (Septuagint) tradition, compared to its position in the Masoretic Hebrew text followed by all 27 translations in this survey.
@@ -274,6 +296,8 @@ texts and the cross-references directly.
 ---
 
 ### 16. Two covenant-renewal ceremonies -- Mount Ebal (Joshua 8) and Shechem (Joshua 24) -- the same event told twice, or two distinct occasions?
+
+*Entry ID: JOSH-016*
 
 **References:** Joshua 8:30-35; Joshua 24:1-28
 
@@ -291,6 +315,8 @@ texts and the cross-references directly.
 
 ### 17. Circumcision 'a second time' at Gilgal -- had the covenant sign of Genesis 17 truly lapsed for forty years?
 
+*Entry ID: JOSH-017*
+
 **References:** Joshua 5:2-9; Genesis 17:9-14; Deuteronomy 10:16
 
 **The claim:** Joshua 5:2 has the LORD tell Joshua to 'circumcise the sons of Israel a second time' at Gilgal, and the surrounding verses explain that the entire generation born during the forty years of wilderness wandering had not been circumcised. This raises a question about whether Israel had abandoned the sign of the Abrahamic covenant, described in Genesis 17:9-14 as a perpetual obligation for every male 'throughout your generations,' for an entire generation.
@@ -307,6 +333,8 @@ texts and the cross-references directly.
 
 ### 18. Caleb's stated age at 85 -- does the wilderness chronology actually hold together?
 
+*Entry ID: JOSH-018*
+
 **References:** Joshua 14:6-10; Numbers 13:1-2; Numbers 14:33-34; Deuteronomy 2:14
 
 **The claim:** In Joshua 14:6-10, Caleb states he was 40 years old when sent as one of the twelve spies (referencing Numbers 13), and that 45 years have passed since then (accounting for 38 additional years of wilderness wandering after the initial return from spying, plus roughly 7 years of the conquest itself), making him 85 at the time of speaking -- inviting a check of whether these figures are internally consistent with the separately stated 40-year wilderness period (Numbers 14:33-34) and 38-year span from Kadesh-barnea (Deuteronomy 2:14).
@@ -322,6 +350,8 @@ texts and the cross-references directly.
 ## Theological Tensions
 
 ### 19. Is death the final, common end for everyone, or is there life beyond it?
+
+*Entry ID: JOSH-019*
 
 **References:** Joshua 23:14; 1 Corinthians 15:20-22; John 11:25-26
 

@@ -46,6 +46,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'They shall beat their swords into plowshares' -- a shared oracle also found in Isaiah
 
+*Entry ID: MIC-001*
+
 **References:** Micah 4:1-3; Isaiah 2:2-4
 
 **The claim:** Micah 4:1-3 contains a vision of future universal peace nearly identical to Isaiah 2:2-4, addressed at length in this project's companion Isaiah chapter as an example of shared or borrowed prophetic material between contemporary prophets.
@@ -61,6 +63,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 2. 'Too little to be among the clans of Judah' -- yet Matthew quotes it as 'by no means least'
+
+*Entry ID: MIC-002*
 
 **References:** Micah 5:2; Matthew 2:6
 
@@ -78,6 +82,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'What does the LORD require of you?' -- the classic ethical summary, and the ritual-vs-ethics theme
 
+*Entry ID: MIC-003*
+
 **References:** Micah 6:6-8
 
 **The claim:** Micah 6:6-8 delivers one of the most famous ethical summaries in the Bible: 'with what shall I come before the LORD... shall I come before him with burnt offerings...? He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?' -- connecting to the same general tension addressed at several points elsewhere in this project (Isaiah 1:11-17, Hosea 6:6, Amos 5:21-24, 1 Samuel 15:22, Jeremiah 7:22-23) regarding whether such prophetic language is compatible with the Torah's own sacrificial legislation.
@@ -93,6 +99,8 @@ primary texts and the cross-references directly.
 ## Theological Interpretation
 
 ### 4. 'Whose coming forth is from of old, from ancient days' -- eternal pre-existence, or an ancient royal lineage?
+
+*Entry ID: MIC-004*
 
 **References:** Micah 5:2
 
@@ -120,6 +128,8 @@ primary texts and the cross-references directly.
 
 ### 5. 'A man's enemies are the men of his own house' -- quoted by Jesus regarding the division his own coming brings
 
+*Entry ID: MIC-005*
+
 **References:** Micah 7:5-6; Matthew 10:34-36
 
 **The claim:** Micah 7:5-6 laments the social and familial breakdown of Micah's own corrupt generation: 'put no trust in a neighbor... for the son treats the father with contempt, the daughter rises up against her mother... a man's enemies are the men of his own house.' Jesus quotes this same language directly in Matthew 10:35-36, applying it not to describe social corruption to be lamented, but to describe the division his own coming and message will provoke: 'I have come to set a man against his father, and a daughter against her mother... and a person's enemies will be those of his own household.'
@@ -133,6 +143,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. A book of judgment closing with an extended hymn to mercy
+
+*Entry ID: MIC-006*
 
 **References:** Micah 7:18-20; Micah 1:2-7; Micah 3:1-12
 
@@ -149,6 +161,8 @@ primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 7. Universal peace among the nations (4:1-5) alongside continued military conflict with Assyria (5:5-9) -- within the same book
+
+*Entry ID: MIC-007*
 
 **References:** Micah 4:1-5; Micah 5:5-9
 

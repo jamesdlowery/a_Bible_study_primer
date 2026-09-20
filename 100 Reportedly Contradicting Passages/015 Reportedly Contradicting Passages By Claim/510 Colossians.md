@@ -18,15 +18,7 @@ itself no longer generally advocates.
 **A note on candor:** Entries 1, 2, and 4 are presented with genuine theological and
 denominational diversity of opinion rather than a single forced resolution.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -50,6 +42,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. 'The firstborn of all creation' -- the central proof-text in a real, ongoing modern denominational dispute
 
+*Entry ID: COL-001*
+
 **References:** Colossians 1:15-17
 
 **The claim:** Colossians 1:15 describes Christ as 'the image of the invisible God, the firstborn of all creation' (Greek prototokos pases ktiseos). This is the single most frequently cited proof-text used by Jehovah's Witnesses (and, in different specific forms, by other non-Trinitarian and Arian-type theological positions) to argue that Christ was himself the first being God created, rather than eternally existing, uncreated God -- a live, actively pressed theological argument in real, ongoing denominational disagreement, rather than a purely historical or academic dispute.
@@ -64,6 +58,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 2. 'Filling up what is lacking in Christ's afflictions' -- does this suggest Christ's atonement was insufficient?
 
+*Entry ID: COL-002*
+
 **References:** Colossians 1:24
 
 **The claim:** Colossians 1:24 has Paul state, 'Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body, that is, the church' -- a startling phrase that, read at face value, seems to suggest something was genuinely 'lacking' or deficient in Christ's own sufferings, requiring Paul's own additional suffering to supplement or complete it, raising a serious question about the sufficiency of Christ's atoning work, which this same letter elsewhere describes in the most complete and triumphant terms (2:13-15, Christ having 'canceled the record of debt... nailing it to the cross').
@@ -77,6 +73,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 3. 'Worship of angels' -- a puzzling, brief reference to a specific false teaching
+
+*Entry ID: COL-003*
 
 **References:** Colossians 2:18
 
@@ -94,6 +92,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 4. 'A shadow of things to come' -- the continuing validity of Sabbath and food laws
 
+*Entry ID: COL-004*
+
 **References:** Colossians 2:16-17; Leviticus 23:1-44
 
 **The claim:** Colossians 2:16-17 instructs, 'let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ' -- language many read as declaring the Old Testament's ceremonial food laws, festival calendar, and Sabbath observance no longer binding on believers, raising a question about how this relates to the perpetual, ongoing significance the Sabbath and other ceremonial observances are given within the Torah itself (addressed at several points elsewhere in this project regarding the Sabbath commandment and 'perpetual statutes' in the companion Exodus and Leviticus chapters), and connecting to genuine, ongoing denominational differences (most notably with Seventh-day Adventist and other Sabbatarian traditions) regarding the continuing obligation of Sabbath observance specifically.
@@ -110,6 +110,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 5. The household code -- addressed at length in the companion Ephesians chapter
 
+*Entry ID: COL-005*
+
 **References:** Colossians 3:18-4:1; Ephesians 5:21-33
 
 **The claim:** Colossians 3:18-4:1 contains a household code closely paralleling Ephesians 5:21-6:9 (addressed at length in the companion Ephesians chapter), instructing wives to submit to husbands, husbands to love their wives, children to obey parents, and slaves to obey masters.
@@ -125,6 +127,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Ethical Tensions
 
 ### 6. Should believers engage in conversation with non-believers, or keep separate from them?
+
+*Entry ID: COL-006*
 
 **References:** Colossians 4:5-6; 1 Corinthians 5:9-11; 2 Corinthians 6:14
 

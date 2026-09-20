@@ -22,15 +22,7 @@ Supper's relationship to Passover.
 **A note on candor:** Entries 1, 2, 3, 4, and 7 are all presented with genuine scholarly
 diversity of opinion rather than a single forced resolution.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -57,6 +49,8 @@ primary texts and the cross-references directly.
 
 ### 1. The woman caught in adultery (7:53-8:11) -- the second most significant textual-critical question in the New Testament
 
+*Entry ID: JOHN-001*
+
 **References:** John 7:53-8:11
 
 **The claim:** The familiar story of Jesus and the woman caught in adultery ('let him who is without sin among you be the first to throw a stone at her') is absent from the earliest and best manuscripts of John's Gospel, and where it does appear in later manuscripts, it appears in strikingly different locations across the manuscript tradition. The full manuscript evidence, and how each of the 27 tracked translations presents the passage, is addressed at length in the Manuscript and Translation Differences chapter (see its entry on John).
@@ -72,6 +66,8 @@ primary texts and the cross-references directly.
 ## Chronology
 
 ### 2. Was the Last Supper a Passover meal, or did it occur the evening before Passover began?
+
+*Entry ID: JOHN-002*
 
 **References:** John 13:1-2; John 18:28; John 19:14, 31; Mark 14:12; Matthew 26:17; Luke 22:7-8
 
@@ -89,6 +85,8 @@ primary texts and the cross-references directly.
 
 ### 3. The crucifixion's timing: John's 'about the sixth hour' -- addressed here from John's own specific vantage point
 
+*Entry ID: JOHN-003*
+
 **References:** John 19:14; Mark 15:25
 
 **The claim:** John 19:14 states Pilate presented Jesus for judgment 'about the sixth hour' -- meaning the crucifixion itself, following this scene, could not have begun before roughly this time. Mark 15:25, addressed from Mark's own vantage point in the companion Mark chapter, states plainly that 'it was the third hour when they crucified him,' several hours earlier by a same-system reading.
@@ -102,6 +100,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. The Temple cleansing: at the beginning of Jesus' ministry, or its very end?
+
+*Entry ID: JOHN-004*
 
 **References:** John 2:13-22; Matthew 21:12-13; Mark 11:15-17; Luke 19:45-46
 
@@ -117,6 +117,8 @@ primary texts and the cross-references directly.
 
 ### 5. John the Baptist's own denial of being Elijah -- the primary source for the tension addressed in the companion Malachi chapter
 
+*Entry ID: JOHN-005*
+
 **References:** John 1:19-23; Malachi 4:5; Matthew 11:14; Matthew 17:10-13
 
 **The claim:** John 1:21 records the direct, unqualified denial at the heart of the question addressed at length in this project's companion Malachi chapter: when religious authorities ask John the Baptist, 'Are you Elijah?' his own recorded answer is 'I am not' -- standing in apparent tension with Jesus' own later, explicit identification of John with the promised return of Elijah (Matthew 11:14, 17:10-13).
@@ -130,6 +132,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. The raising of Lazarus -- a major, dramatic miracle unique to John, absent from all three Synoptic Gospels
+
+*Entry ID: JOHN-006*
 
 **References:** John 11:1-46
 
@@ -145,6 +149,8 @@ primary texts and the cross-references directly.
 
 ### 7. Is Jesus's testimony about himself true, or not?
 
+*Entry ID: JOHN-007*
+
 **References:** John 5:31; John 8:14, 18
 
 **The claim:** John 5:31 has Jesus say, 'If I bear witness of myself, my witness is not true.' Yet John 8:14 has Jesus say the apparent opposite: 'Though I bear record of myself, yet my record is true.'
@@ -159,6 +165,8 @@ primary texts and the cross-references directly.
 
 ### 8. Did any of the disciples ask Jesus where he was going, given that two of them are recorded doing exactly that?
 
+*Entry ID: JOHN-008*
+
 **References:** John 16:5; John 13:36; John 14:5
 
 **The claim:** John 16:5 has Jesus say, 'none of you asketh me, Whither goest thou?' Yet earlier in the very same extended conversation, Peter asks, 'Lord, whither goest thou?' (13:36), and Thomas says, 'we know not whither thou goest' (14:5).
@@ -172,6 +180,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. Did Jesus tell his disciples everything, or did he withhold some things from them?
+
+*Entry ID: JOHN-009*
 
 **References:** John 16:12; John 15:15
 
@@ -189,6 +199,8 @@ primary texts and the cross-references directly.
 
 ### 10. Chapter 21: a likely appended epilogue, following what reads as the Gospel's own natural conclusion
 
+*Entry ID: JOHN-010*
+
 **References:** John 20:30-31; John 21:1-25; John 21:24-25
 
 **The claim:** John 20:30-31 reads as a deliberate, formal conclusion to the entire Gospel: 'Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.' Yet the Gospel continues for an entire further chapter (21), narrating an additional resurrection appearance and the restoration of Peter, before arriving at a second, somewhat different concluding statement (21:24-25) -- including a curious shift to a plural, seemingly external voice: 'This is the disciple who is testifying to these things, and who has written these things, and we know that his testimony is true' -- raising a question of whether chapter 21 was part of the Gospel's original composition or a later addition.
@@ -205,6 +217,8 @@ primary texts and the cross-references directly.
 
 ### 11. 'The Word was God' -- a significant translation question given real doctrinal weight, though not reflected among the tracked translations
 
+*Entry ID: JOHN-011*
+
 **References:** John 1:1
 
 **The claim:** John 1:1 concludes, in every translation surveyed in this project, with some form of 'the Word was God.' The underlying Greek (theos en ho logos) places the predicate noun 'God' (theos) before the verb and without the definite article that accompanies 'God' earlier in the same verse ('the Word was with God' uses ho theos, with the article) -- a grammatical construction that has occasionally been rendered by translations outside the scope of this survey (most notably the New World Translation produced by and for Jehovah's Witnesses, who hold a distinctive, non-Trinitarian theology regarding Christ's nature) as 'the Word was a god,' treating the absence of the article as indicating a qualitatively lesser or indefinite sense.
@@ -220,6 +234,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 12. The pool of Bethesda and the angel who stirred the water -- another disputed textual passage
+
+*Entry ID: JOHN-012*
 
 **References:** John 5:1-9
 
@@ -240,6 +256,8 @@ primary texts and the cross-references directly.
 
 ### 13. Did Jesus explicitly claim to be God, and is this consistent across the Gospels?
 
+*Entry ID: JOHN-013*
+
 **References:** John 8:58; John 10:30; John 14:28; Mark 10:18
 
 **The claim:** John's Gospel records Jesus making statements many read as direct claims to deity: 'before Abraham was, I am' (John 8:58, echoing God's self-designation to Moses in Exodus 3:14, and provoking an attempt to stone him for blasphemy), and 'I and the Father are one' (John 10:30, which his hearers immediately understood as a claim to divinity, John 10:33). Yet elsewhere Jesus says 'the Father is greater than I' (John 14:28), and in the Synoptics, when addressed as 'Good Teacher,' responds, 'Why do you call me good? No one is good except God alone' (Mark 10:18) -- language some read as Jesus distancing himself from a claim to deity.
@@ -253,6 +271,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. Was Jesus' public ministry one year, or three?
+
+*Entry ID: JOHN-014*
 
 **References:** John 2:13; John 6:4; John 11:55; Matthew 26:2; Mark 14:1; Luke 22:1
 
@@ -268,6 +288,8 @@ primary texts and the cross-references directly.
 
 ### 15. Did Jesus identify himself to the arresting soldiers, or was he identified by Judas's kiss?
 
+*Entry ID: JOHN-015*
+
 **References:** John 18:2-8; Matthew 26:47-50; Mark 14:43-46; Luke 22:47-48
 
 **The claim:** Matthew, Mark, and Luke all describe Judas identifying Jesus to the arresting party by a prearranged kiss ('The one I will kiss is the man; seize him,' Matthew 26:48). John's account instead emphasizes Jesus stepping forward and identifying himself directly: when the crowd says they are seeking 'Jesus of Nazareth,' Jesus responds 'I am he,' at which the arresting party 'drew back and fell to the ground' (John 18:4-6) -- with no narrated kiss.
@@ -281,6 +303,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 16. Was John the Baptist's recognition of Jesus consistent with his earlier attempt to stop Jesus' baptism?
+
+*Entry ID: JOHN-016*
 
 **References:** Matthew 3:13-14; John 1:29-33
 
@@ -298,6 +322,8 @@ primary texts and the cross-references directly.
 
 ### 17. Does Jesus judge people, or has he come not to judge?
 
+*Entry ID: JOHN-017*
+
 **References:** John 5:22, 27; John 3:17; John 8:15; John 9:39
 
 **The claim:** John 5:22 states, 'the Father judgeth no man, but hath committed all judgment unto the Son.' Elsewhere, Jesus says, 'God sent not his Son into the world to condemn the world' (3:17), and 'I judge no man' (8:15) -- seemingly denying that he judges at all.
@@ -311,6 +337,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 18. Who is responsible for congenital blindness, and why did Jesus use an unusual method to heal it?
+
+*Entry ID: JOHN-018*
 
 **References:** John 9:1-7; Exodus 4:11; 2 Corinthians 4:4
 
@@ -326,6 +354,8 @@ primary texts and the cross-references directly.
 
 ### 19. Is it possible to fall from grace, given Jesus's promise that his sheep will never perish?
 
+*Entry ID: JOHN-019*
+
 **References:** John 10:27-29; Hebrews 6:4-6; Galatians 5:4
 
 **The claim:** John 10:28-29 has Jesus promise, 'I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand... my Father... is greater than all; and no man is able to pluck them out of my Father's hand' -- a strong statement of security some read as guaranteeing that a genuine believer can never subsequently be lost. Other texts, however, warn of the real possibility of falling away (Hebrews 6:4-6's description of those 'once enlightened' who nonetheless 'fall away'; Galatians 5:4's 'ye are fallen from grace').
@@ -340,6 +370,8 @@ primary texts and the cross-references directly.
 
 ### 20. Who sends the Holy Spirit -- the Father, or the Son?
 
+*Entry ID: JOHN-020*
+
 **References:** John 15:26; John 14:26
 
 **The claim:** John 15:26 has Jesus describe the Spirit as one 'whom I will send unto you from the Father.' John 14:26, shortly before, instead has Jesus say, 'the Father will send [the Comforter] in my name.'
@@ -353,6 +385,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 21. Should we believe in things we have not seen, given the importance placed elsewhere on eyewitness testimony?
+
+*Entry ID: JOHN-021*
 
 **References:** John 20:24-29; 1 John 1:1
 

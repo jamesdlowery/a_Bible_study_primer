@@ -12,15 +12,7 @@ resolving the discomfort many readers feel -- several mitigating considerations 
 but this entry does not claim they fully settle the matter, consistent with this project's
 practice of not manufacturing false certainty where the evidence does not clearly support it.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -45,6 +37,8 @@ primary texts and the cross-references directly.
 
 ### 1. Elijah calls down fire on Ahaziah's captains -- yet Jesus rebukes James and John for wanting the same
 
+*Entry ID: 2KGS-001*
+
 **References:** 2 Kings 1:9-12; Luke 9:51-56
 
 **The claim:** When King Ahaziah sends a captain and fifty men to summon Elijah, Elijah calls down fire from heaven that consumes them -- and does so again to a second company of fifty (1:9-12). Centuries later, when a Samaritan village refuses to welcome Jesus, James and John ask, 'Lord, do you want us to tell fire to come down from heaven and consume them, just as Elijah did?' -- and Jesus 'turned and rebuked them' (Luke 9:54-55, in manuscripts that include this reading), apparently condemning the very action Elijah is remembered for and, in 2 Kings, not condemned for.
@@ -58,6 +52,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Forty-two youths mauled by bears for mocking Elisha -- proportionate judgment, or excessive?
+
+*Entry ID: 2KGS-002*
 
 **References:** 2 Kings 2:23-24
 
@@ -82,6 +78,8 @@ primary texts and the cross-references directly.
 
 ### 3. Elijah taken up into heaven -- yet 'no one has ascended into heaven'
 
+*Entry ID: 2KGS-003*
+
 **References:** 2 Kings 2:11; John 3:13
 
 **The claim:** 2 Kings 2:11 narrates Elijah being taken up 'by a whirlwind into heaven' in a chariot and horses of fire, witnessed by Elisha. Jesus later states, 'no one has ascended into heaven except he who descended from heaven, the Son of Man' (John 3:13) -- apparently denying that anyone, including Elijah, had ever previously ascended there.
@@ -95,6 +93,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. Jehu commended for destroying Ahab's house -- yet later condemned for the same bloodshed
+
+*Entry ID: 2KGS-004*
 
 **References:** 2 Kings 9:1-10:31; 2 Kings 10:30; Hosea 1:4
 
@@ -112,6 +112,8 @@ primary texts and the cross-references directly.
 
 ### 5. Hezekiah and Josiah: both described as unmatched among all the kings of Judah
 
+*Entry ID: 2KGS-005*
+
 **References:** 2 Kings 18:5; 2 Kings 23:25
 
 **The claim:** 2 Kings 18:5 states of Hezekiah, 'after him was none like him among all the kings of Judah, nor any that were before him.' 2 Kings 23:25 states of Josiah, 'before him there was no king like him... nor did any like him arise after him' -- both kings receiving what reads as an identical, mutually exclusive claim to be uniquely unmatched among all the kings of Judah.
@@ -126,6 +128,8 @@ primary texts and the cross-references directly.
 
 ### 6. Was the LORD's promised victory over Moab actually fulfilled?
 
+*Entry ID: 2KGS-006*
+
 **References:** 2 Kings 3:16-19; 2 Kings 3:24-27
 
 **The claim:** Before the joint Israelite-Judean-Edomite campaign against rebelling Moab, Elisha relays the LORD's promise: 'he will also give the Moabites into your hand, and you shall attack every fortified city... and ruin every good piece of land' (3:18-19). The campaign proceeds successfully at first (3:24-25), but ends abruptly when the king of Moab, in a desperate last act, sacrifices his own son on the city wall, and 'there came great wrath against Israel,' causing the Israelite-led coalition to withdraw without completing the conquest (3:26-27) -- raising the question of whether the LORD's promised victory was actually delivered.
@@ -139,6 +143,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. Why was Huldah the prophetess consulted about the newly found Book of the Law?
+
+*Entry ID: 2KGS-007*
 
 **References:** 2 Kings 22:11-20
 
@@ -156,6 +162,8 @@ primary texts and the cross-references directly.
 
 ### 8. Manasseh's evil reign in Kings -- and his captivity and repentance, absent from Kings but present in Chronicles
 
+*Entry ID: 2KGS-008*
+
 **References:** 2 Kings 21:1-18; 2 Chronicles 33:10-13
 
 **The claim:** 2 Kings 21 narrates Manasseh's exceptionally wicked, 55-year reign at length -- idolatry, child sacrifice, filling Jerusalem with innocent blood -- concluding simply that he 'slept with his fathers' (21:18), with no mention of any repentance or change of heart. 2 Chronicles 33:10-13, covering the same reign, adds an account entirely absent from Kings: Manasseh being taken captive to Babylon in bonds, humbling himself and praying to the LORD there, being restored to his throne, and undertaking reforms afterward (33:15-16).
@@ -169,6 +177,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. Josiah's death: a brief note in Kings, a fuller and differently detailed account in Chronicles
+
+*Entry ID: 2KGS-009*
 
 **References:** 2 Kings 23:29-30; 2 Chronicles 35:20-24
 
@@ -186,6 +196,8 @@ primary texts and the cross-references directly.
 
 ### 10. Hezekiah's illness and the Babylonian envoys: before, or after, Sennacherib's invasion?
 
+*Entry ID: 2KGS-010*
+
 **References:** 2 Kings 20:1-19; 2 Kings 18:13-19:37; Isaiah 38-39
 
 **The claim:** 2 Kings narrates Hezekiah's illness, miraculous recovery, and the visit of Babylonian envoys in chapter 20 -- after the account of Sennacherib's invasion and the Assyrian army's destruction in chapters 18-19. Several details, however (including Hezekiah being told he would live '15 more years,' 20:6, and Sennacherib's invasion being dated to Hezekiah's 14th year, 18:13, which would place his death well within that added 15-year span rather than after it), have led many scholars to conclude the events of chapter 20 chronologically preceded, rather than followed, the Assyrian invasion narrated in chapters 18-19, with the book's structure grouping the material topically (a pattern also addressed regarding the Gospels and other historical books elsewhere in this project) rather than in strict chronological sequence.
@@ -199,6 +211,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 11. Hezekiah's added fifteen years and Manasseh's birth -- does the arithmetic actually hold together?
+
+*Entry ID: 2KGS-011*
 
 **References:** 2 Kings 18:2; 2 Kings 20:6; 2 Kings 21:1
 
@@ -216,6 +230,8 @@ primary texts and the cross-references directly.
 
 ### 12. Regnal ages disputed between Kings and Chronicles: Jehoiachin and Ahaziah
 
+*Entry ID: 2KGS-012*
+
 **References:** 2 Kings 24:8; 2 Chronicles 36:9; 2 Kings 8:26; 2 Chronicles 22:2
 
 **The claim:** 2 Kings 24:8 states Jehoiachin was 18 when he began to reign; the parallel at 2 Chronicles 36:9 (Masoretic Hebrew) states 8. Separately, 2 Kings 8:26 states Ahaziah was 22 when he began to reign; the parallel at 2 Chronicles 22:2 (Masoretic Hebrew) states 42 -- which would make him older than his own father.
@@ -229,6 +245,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 13. Elijah and Elisha's parallel miracles -- coincidence, or a deliberate 'double portion' pattern?
+
+*Entry ID: 2KGS-013*
 
 **References:** 1 Kings 17:8-24; 2 Kings 2:8-14; 2 Kings 4:1-37, 42-44
 

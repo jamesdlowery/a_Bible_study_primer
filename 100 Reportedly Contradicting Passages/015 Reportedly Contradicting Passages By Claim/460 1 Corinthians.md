@@ -21,15 +21,7 @@ diversity of opinion, including on entry 5's underlying doctrinal question, whic
 project does not adjudicate consistent with its treatment of the same question in the
 companion 2 Maccabees chapter.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -55,6 +47,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'Women should keep silent in the churches' -- vs. this letter's own earlier assumption that women pray and prophesy publicly
 
+*Entry ID: 1COR-001*
+
 **References:** 1 Corinthians 14:34-35; 1 Corinthians 11:2-16
 
 **The claim:** 1 Corinthians 14:34-35 instructs, 'the women should keep silent in the churches. For they are not permitted to speak, but should be in submission... it is shameful for a woman to speak in church.' Yet the same letter, only three chapters earlier, explicitly addresses how women should conduct themselves while praying and prophesying in the gathered assembly (11:5, 'every wife who prays or prophesies with her head uncovered dishonors her head') -- an activity chapter 11 regulates rather than forbids, apparently in direct tension with chapter 14's own, considerably more absolute-sounding prohibition on women speaking at all. This is one of the most substantively debated internal tensions in the entire Pauline corpus, with significant, ongoing implications for church practice.
@@ -69,6 +63,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'Hand this man over to Satan' -- and his apparent later restoration in 2 Corinthians
 
+*Entry ID: 1COR-002*
+
 **References:** 1 Corinthians 5:1-5; 2 Corinthians 2:5-11
 
 **The claim:** 1 Corinthians 5:1-5 addresses a specific case of serious sexual immorality within the Corinthian church (a man in a relationship with his father's wife), instructing the church to 'deliver this man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord' -- a severe act of church discipline involving formal exclusion from the community. 2 Corinthians 2:5-11, written to the same church some time later, appears to reference a disciplined offender (possibly, though not certainly, the same individual) whose punishment 'by the majority is enough,' and instructs the church to 'forgive and comfort him, or he may be overwhelmed by excessive sorrow,' urging the church to 'reaffirm your love for him.'
@@ -82,6 +78,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 3. Did Paul actually see the risen Jesus, given the differences between his Damascus road encounter and the earlier resurrection appearances?
+
+*Entry ID: 1COR-003*
 
 **References:** 1 Corinthians 15:3-8; Acts 9:3-9; 1 Corinthians 9:1
 
@@ -99,6 +97,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'Baptized on behalf of the dead' -- one of the most genuinely mysterious verses in the New Testament
 
+*Entry ID: 1COR-004*
+
 **References:** 1 Corinthians 15:29
 
 **The claim:** In the midst of his extended defense of the bodily resurrection, Paul asks, seemingly in passing and without further explanation, 'Otherwise, what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?' (15:29) -- a fleeting, unexplained reference to an apparent practice of proxy baptism performed on behalf of deceased individuals, mentioned nowhere else in the entire New Testament, and offered without any accompanying instruction, endorsement, or condemnation. This verse has generated an unusually large number of scholarly interpretations (commonly estimated at around forty distinct proposals) and, notably, forms the primary scriptural basis cited by the Church of Jesus Christ of Latter-day Saints (Mormons) for its own practice of proxy baptism for deceased ancestors.
@@ -115,6 +115,8 @@ primary texts and the cross-references directly.
 
 ### 5. 'A symbol of authority on her head, because of the angels' -- a notoriously difficult phrase
 
+*Entry ID: 1COR-005*
+
 **References:** 1 Corinthians 11:2-16; 1 Corinthians 11:10
 
 **The claim:** 1 Corinthians 11:10, within Paul's extended discussion of head coverings and gender distinctions in corporate worship, gives a specific, otherwise unexplained reason for a woman to have 'a symbol of authority on her head': 'because of the angels' -- a brief, cryptic phrase Paul does not further elaborate, and which has generated substantial scholarly disagreement about its intended meaning.
@@ -129,6 +131,8 @@ primary texts and the cross-references directly.
 
 ### 6. 'He himself will be saved, but only as through fire' -- a further connection to the purgatory discussion
 
+*Entry ID: 1COR-006*
+
 **References:** 1 Corinthians 3:10-15
 
 **The claim:** 1 Corinthians 3:10-15 describes a future judgment in which each believer's own works (built upon the foundation of Christ) will be tested 'by fire,' with some works surviving and being rewarded, and others being 'burned up,' resulting in loss for that person -- yet Paul adds, 'he himself will be saved, but only as through fire' (3:15), language some readers connect to the broader question of purgatorial purification after death, addressed at greater length in this project's companion 2 Maccabees chapter regarding that book's own prayers and sacrifice offered for the dead.
@@ -142,6 +146,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. What is the foundation of the church -- Christ alone, or the apostles as well?
+
+*Entry ID: 1COR-007*
 
 **References:** 1 Corinthians 3:10-11; Ephesians 2:20; Matthew 16:18
 
@@ -159,6 +165,8 @@ primary texts and the cross-references directly.
 
 ### 8. Food offered to idols -- addressed at length in the companion Acts chapter
 
+*Entry ID: 1COR-008*
+
 **References:** 1 Corinthians 8:1-13; 1 Corinthians 10:14-33; Acts 15:19-20, 28-29
 
 **The claim:** 1 Corinthians 8 and 10:14-33 contain Paul's own fullest treatment of the question addressed at length in the companion Acts chapter -- how believers should regard meat that had been offered to idols before reaching the marketplace, and whether the Jerusalem Council's decree on this subject (Acts 15:29) is compatible with Paul's own more nuanced guidance.
@@ -172,6 +180,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. Is God the author of confusion, given the several instances of God bringing confusion upon his enemies?
+
+*Entry ID: 1COR-009*
 
 **References:** 1 Corinthians 14:33; Judges 7:22; 1 Samuel 14:20; Genesis 11:7-9
 
@@ -189,6 +199,8 @@ primary texts and the cross-references directly.
 
 ### 10. 'Not I, but the Lord' vs. 'I, not the Lord' -- Paul's own explicit distinction between dominical and apostolic instruction
 
+*Entry ID: 1COR-010*
+
 **References:** 1 Corinthians 7:10-12
 
 **The claim:** 1 Corinthians 7:10-12 contains a striking, self-aware distinction Paul draws within his own teaching on marriage: regarding a believing couple's obligation not to divorce, he states, 'I give this charge, not I, but the Lord' (7:10, explicitly invoking Jesus' own recorded teaching on divorce), but regarding believers married to unbelieving spouses, a situation Jesus' own recorded teaching did not directly address, Paul states, 'I say, not the Lord' (7:12) -- explicitly distinguishing his own apostolic judgment on a new question from a direct citation of Jesus' own words.
@@ -204,6 +216,8 @@ primary texts and the cross-references directly.
 ## Ethical Tensions
 
 ### 11. Should believers speak in tongues, or does Paul restrict the practice?
+
+*Entry ID: 1COR-011*
 
 **References:** 1 Corinthians 14:39; 1 Corinthians 14:19, 27-28
 

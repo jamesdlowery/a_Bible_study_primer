@@ -3,20 +3,20 @@
 - Introduction
  - [Preface](../030%20Introduction/010%20Preface.md)
  - [Purpose & Scope](../030%20Introduction/020%20Purpose%20and%20Scope.md)
- - [What Is Meant by the "Word of God"?](../030%20Introduction/030%20What%20Is%20Meant%20by%20the%20Word%20of%20God.md)
- - [What Is Meant by an "Inerrant" Word of God?](../030%20Introduction/040%20What%20Is%20Meant%20by%20an%20Inerrant%20Word%20of%20God.md)
  - [How to Use This Book](../030%20Introduction/050%20How%20to%20Use%20This%20Book.md)
  - [Reading Paths for Different Readers](../030%20Introduction/060%20Reading%20Paths%20for%20Different%20Readers.md)
+ - [What Is Meant by the "Word of God"?](../030%20Introduction/030%20What%20Is%20Meant%20by%20the%20Word%20of%20God.md)
+ - [What Is Meant by an "Inerrant" Word of God?](../030%20Introduction/040%20What%20Is%20Meant%20by%20an%20Inerrant%20Word%20of%20God.md)
  - [Background on Textual Transmission](../030%20Introduction/070%20Background%20on%20Textual%20Transmission.md)
  - [A Note on Method and Verification](../030%20Introduction/080%20A%20Note%20on%20Method%20and%20Verification.md)
 - [Biblical Source Manuscripts](../040%20Biblical%20Source%20Manuscripts/010%20Biblical%20Source%20Manuscripts.md)
-- [Character of Each Manuscript Tradition, Relationships, and Principles of Weighing](../050%20Character%20Of%20Each%20Source%20Manuscript%20Tradition/010%20Character%20of%20Each%20Tradition.md)
+- [Manuscript Traditions: Character, Relationships, and Weighing](../050%20Character%20Of%20Each%20Source%20Manuscript%20Tradition/010%20Character%20of%20Each%20Tradition.md)
 - [Popular Bible Translations](../060%20Popular%20Bible%20Translations/010%20Popular%20Bible%20Translations.md)
 - [Bible Translations and Their Source Manuscripts](../070%20Bible%20Translations%20and%20Their%20Source%20Manuscripts/010%20Bible%20Translations%20and%20Their%20Source%20Manuscripts.md)
-- **Histories of Various Translations/Versions of the Bible:**
+- **Histories of English Bible Translations:**
  - Protestant Bibles
    - [King James Tradition (KJV, NKJV, AKJV, Webster's Bible)](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/010%20History%20of%20the%20King%20James%20Tradition.md)
-   - [American Standard Version and Its Descendants (ASV, NASB, LSB, WEB)](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/020%20History%20of%20the%20American%20Standard%20Version%20and%20Its%20Descendants.md)
+   - [ASV and Its Descendants (ASV, NASB, LSB, WEB)](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/020%20History%20of%20the%20American%20Standard%20Version%20and%20Its%20Descendants.md)
    - [RSV-ESV Tradition (RSV, ESV)](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/030%20History%20of%20the%20RSV-ESV%20Tradition.md)
    - [19th-Century Literalist Translations (Darby, Young's, Smith's)](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/040%20History%20of%20the%2019th-Century%20Literalist%20Translations.md)
    - [Amplified Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/050%20History%20of%20the%20Amplified%20Bible.md)
@@ -206,6 +206,6 @@
       - [Jude](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/650%20Jude.md)
     - Apocalyptic
       - [Revelation](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/660%20Revelation.md)
-- [Top Christian Denominations](../110%20Top%20Christian%20Denominations/010%20Top%20Christian%20Denominations.md)
-- [Top Study Bibles](../120%20Top%20Study%20Bibles/010%20Top%20Study%20Bibles.md)
+- [Major U.S. Christian Denominations](../110%20Top%20Christian%20Denominations/010%20Top%20Christian%20Denominations.md)
+- [Prominent English Study Bibles](../120%20Top%20Study%20Bibles/010%20Top%20Study%20Bibles.md)
 - [References for Further Reading](../130%20References%20for%20Further%20Reading/010%20References%20for%20Further%20Reading.md)

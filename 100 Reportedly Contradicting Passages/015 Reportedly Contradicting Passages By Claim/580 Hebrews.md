@@ -44,6 +44,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. Hebrews' own author -- a genuine mystery acknowledged since antiquity
 
+*Entry ID: HEB-001*
+
 **References:** Hebrews 1:1; Hebrews 13:22-25
 
 **The claim:** Unlike every one of Paul's thirteen letters, each of which explicitly names Paul as author, Hebrews never identifies its own author anywhere in the text, despite the writer clearly being known personally to the letter's original recipients (13:19, 22-23 reflect a close, direct personal relationship, including a reference to 'our brother Timothy'). This anonymity was already a recognized puzzle in the earliest centuries of the church, not merely a modern critical discovery.
@@ -60,6 +62,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 2. 'It is impossible... to restore them again to repentance' -- one of the most severely worded apostasy warnings in the New Testament
 
+*Entry ID: HEB-002*
+
 **References:** Hebrews 6:4-6; Hebrews 10:26-31; Hebrews 12:16-17
 
 **The claim:** Hebrews 6:4-6 delivers an unusually severe warning: 'it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit... and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm.' Similarly severe warnings recur later in the letter (10:26-31's warning that 'there no longer remains a sacrifice for sins' for those who 'go on sinning deliberately,' and 12:16-17's account of Esau finding 'no chance to repent' despite seeking it 'with tears'). These passages, taken at face value, appear to describe genuine believers permanently and irrecoverably losing their salvation, connecting to and considerably intensifying the question addressed in the companion 2 Timothy chapter regarding 2 Timothy 2:11-13's more measured language.
@@ -74,6 +78,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 3. Melchizedek -- 'without father or mother' -- a supernatural being, or an argument from scriptural silence?
 
+*Entry ID: HEB-003*
+
 **References:** Hebrews 7:1-3; Genesis 14:18-20; Psalm 110:4
 
 **The claim:** Hebrews 7:1-3 describes Melchizedek, the mysterious priest-king who blessed Abraham in Genesis 14, as being 'without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever' -- language some read as describing an actual supernatural, superhuman, or even divine being (proposals have included an angel, a pre-incarnate appearance of Christ himself, or a heavenly, eschatological figure), while others read it as a rhetorical argument drawn from the striking absence of any recorded genealogy, birth, or death for Melchizedek within the Genesis narrative itself, rather than a claim about his actual nature.
@@ -87,6 +93,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 4. Christ's superiority to angels (1:4-14) -- and the developing New Testament portrait of angelic beings
+
+*Entry ID: HEB-004*
 
 **References:** Hebrews 1:4-14; Hebrews 2:2-3
 
@@ -103,6 +111,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Theological Tensions
 
 ### 5. 'It is appointed for man to die once' -- compatible with biblical accounts of resuscitation?
+
+*Entry ID: HEB-005*
 
 **References:** Hebrews 9:27; 2 Kings 13:20-21; John 11:1-44
 

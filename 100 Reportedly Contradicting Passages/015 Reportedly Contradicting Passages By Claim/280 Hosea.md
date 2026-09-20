@@ -12,15 +12,7 @@ relationship with Israel generates several of this document's entries (1, 2, and
 document does not force a single resolution on the literal-versus-visionary question
 surrounding Hosea's own marriage (entry 1).
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -45,6 +37,8 @@ primary texts and the cross-references directly.
 
 ### 1. God commands the prophet to marry a promiscuous woman -- literal command, vision, or allegory?
 
+*Entry ID: HOS-001*
+
 **References:** Hosea 1:2-3
 
 **The claim:** Hosea 1:2 opens the book with God's startling instruction: 'Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the LORD.' Read as a literal historical command, this raises the question of whether God directly instructed a prophet to marry an already, or soon-to-be, unfaithful woman -- and whether this is compatible with the sexual and marital ethics affirmed elsewhere in Scripture.
@@ -58,6 +52,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Hosea 1 and Hosea 3: the same troubled marriage, or two different women?
+
+*Entry ID: HOS-002*
 
 **References:** Hosea 1:2-9; Hosea 3:1-3
 
@@ -75,6 +71,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'I desire steadfast love and not sacrifice' -- the source text Jesus twice quotes
 
+*Entry ID: HOS-003*
+
 **References:** Hosea 6:6; Matthew 9:13; Matthew 12:7; Leviticus 1-7
 
 **The claim:** Hosea 6:6 has God declare, 'For I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings' -- language that, like several similar prophetic statements addressed elsewhere in this project (Isaiah 1:11-17, 1 Samuel 15:22, Jeremiah 7:22-23), appears to flatly reject the sacrificial system in favor of covenant loyalty, and which Jesus himself quotes twice in the Gospels (Matthew 9:13, 12:7) to justify his own practice of associating with sinners and his disciples' Sabbath conduct -- raising the same general question about whether this is compatible with the Torah's own extensive sacrificial legislation.
@@ -89,6 +87,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'Out of Egypt I called my son' -- a historical statement about Israel, applied messianically to Jesus
 
+*Entry ID: HOS-004*
+
 **References:** Hosea 11:1; Matthew 2:14-15; Exodus 4:22-23
 
 **The claim:** Hosea 11:1 states, 'When Israel was a child, I loved him, and out of Egypt I called my son' -- a clear, backward-looking reference to the historical Exodus, describing the nation of Israel collectively as God's 'son' brought out of Egyptian slavery (echoing Exodus 4:22-23's similar language). Matthew 2:14-15 quotes this verse and applies it directly to the infant Jesus' own return from Egypt after Herod's death, stating this 'fulfilled' Hosea's words -- yet Hosea's own original statement is not phrased as a future prediction at all, but as a description of a past historical event concerning the entire nation, raising a sharper version of the question this project has addressed elsewhere (regarding Isaiah 7:14) about how New Testament 'fulfillment' language relates to an Old Testament passage's original context and grammatical form.
@@ -102,6 +102,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. 'They made kings, but not through me' -- vs. the New Testament's affirmation that all authority is established by God
+
+*Entry ID: HOS-005*
 
 **References:** Hosea 8:4; Romans 13:1
 
@@ -118,6 +120,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 6. 'Shall I ransom them from Sheol?' -- rhetorical questions ending in judgment, or a triumphant declaration of victory over death?
+
+*Entry ID: HOS-006*
 
 **References:** Hosea 13:14; 1 Corinthians 15:54-55
 
@@ -141,6 +145,8 @@ primary texts and the cross-references directly.
 
 ### 7. Jehu's dynasty condemned for the very bloodshed once commended
 
+*Entry ID: HOS-007*
+
 **References:** Hosea 1:4; 2 Kings 10:30
 
 **The claim:** Hosea 1:4 has God declare he will 'punish the house of Jehu for the blood of Jezreel' -- the very bloodshed 2 Kings 10:30 explicitly commends Jehu for carrying out at God's own command.
@@ -154,6 +160,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. 'There I began to hate them' -- amid a book otherwise devoted to God's persistent, pursuing love
+
+*Entry ID: HOS-008*
 
 **References:** Hosea 9:15; Hosea 2:19; Hosea 11:8-9; Hosea 14:4
 
@@ -169,6 +177,8 @@ primary texts and the cross-references directly.
 
 ### 9. 'I gave you a king in my anger' -- and the question of the monarchy's legitimacy
 
+*Entry ID: HOS-009*
+
 **References:** Hosea 13:10-11; 1 Samuel 8:4-9; 1 Samuel 12:16-19
 
 **The claim:** Hosea 13:10-11 has God ask rhetorically, 'Where now is your king, to save you...? I gave you a king in my anger, and I took him away in my wrath' -- language describing the establishment of Israel's monarchy itself as an act of divine anger rather than blessing, connecting to the same question addressed at greater length in this project's companion 1 Samuel chapter regarding whether Israel's original request for a king (1 Samuel 8) was itself sinful.
@@ -182,6 +192,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. Will Ephraim return to Egypt, or not?
+
+*Entry ID: HOS-010*
 
 **References:** Hosea 8:13; Hosea 9:3; Hosea 11:5
 
@@ -198,6 +210,8 @@ primary texts and the cross-references directly.
 ## Theological Interpretation
 
 ### 11. Judgment-names for Hosea's children, reversed as a promise -- and Paul's application of the reversal to Gentile inclusion
+
+*Entry ID: HOS-011*
 
 **References:** Hosea 1:6, 9; Hosea 2:1, 23; Romans 9:24-26; 1 Peter 2:10
 

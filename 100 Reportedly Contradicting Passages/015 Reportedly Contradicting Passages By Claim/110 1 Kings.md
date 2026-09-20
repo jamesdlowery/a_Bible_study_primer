@@ -14,15 +14,7 @@ each face real objections and no one solution commands full scholarly consensus 
 with this project's practice of flagging genuine open questions rather than manufacturing
 false certainty.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -49,6 +41,8 @@ texts and the cross-references directly.
 
 ### 1. Solomon's stalls for horses: 40,000, or 4,000?
 
+*Entry ID: 1KGS-001*
+
 **References:** 1 Kings 4:26; 2 Chronicles 9:25
 
 **The claim:** 1 Kings 4:26 (Masoretic Hebrew) states Solomon had 40,000 stalls of horses for his chariots; 2 Chronicles 9:25 gives 4,000.
@@ -66,6 +60,8 @@ texts and the cross-references directly.
 
 ### 2. Did the House of the Forest of Lebanon have four rows of pillars, or three?
 
+*Entry ID: 1KGS-002*
+
 **References:** 1 Kings 7:2-3
 
 **The claim:** 1 Kings 7:2 states Solomon's House of the Forest of Lebanon was built 'upon four rows of cedar pillars.' The very next verse, 7:3, describes the cedar covering resting 'on forty five pillars, fifteen in a row' -- and forty-five divided by fifteen yields three rows, not four, an apparent internal inconsistency within the same two-verse description.
@@ -79,6 +75,8 @@ texts and the cross-references directly.
 ---
 
 ### 3. How tall were the temple's two bronze pillars, Jachin and Boaz -- eighteen cubits each, or thirty-five cubits combined?
+
+*Entry ID: 1KGS-003*
 
 **References:** 1 Kings 7:15; 2 Chronicles 3:15
 
@@ -94,6 +92,8 @@ texts and the cross-references directly.
 
 ### 4. What was the molten sea's stated capacity -- two thousand baths, or three thousand?
 
+*Entry ID: 1KGS-004*
+
 **References:** 1 Kings 7:26; 2 Chronicles 4:5
 
 **The claim:** 1 Kings 7:26 states the great bronze 'sea' in Solomon's Temple 'contained two thousand baths.' 2 Chronicles 4:5, describing the identical object, instead states 'it received and held three thousand baths.'
@@ -108,6 +108,8 @@ texts and the cross-references directly.
 
 ### 5. How many chief officers oversaw Solomon's building projects -- 550, or 250?
 
+*Entry ID: 1KGS-005*
+
 **References:** 1 Kings 9:23; 2 Chronicles 8:10
 
 **The claim:** 1 Kings 9:23 states that Solomon had '550' chief officers who ruled over the people engaged in his building work. 2 Chronicles 8:10, describing what appears to be the same body of officers, instead gives '250.'
@@ -121,6 +123,8 @@ texts and the cross-references directly.
 ---
 
 ### 6. How many talents of gold did Hiram send Solomon from Ophir -- 420, or 450?
+
+*Entry ID: 1KGS-006*
 
 **References:** 1 Kings 9:28; 2 Chronicles 8:18
 
@@ -138,6 +142,8 @@ texts and the cross-references directly.
 
 ### 7. 'Solomon made no slaves of the people of Israel' -- yet Israel later complains of Solomon's 'heavy yoke'
 
+*Entry ID: 1KGS-007*
+
 **References:** 1 Kings 9:20-22; 1 Kings 5:13-18; 1 Kings 12:4
 
 **The claim:** 1 Kings 9:20-22 states that Solomon conscripted forced labor from the remaining Canaanite peoples, but explicitly adds, 'of the people of Israel, Solomon made no slaves.' Yet 1 Kings 5:13-18 describes Solomon raising a labor force 'out of all Israel' of 30,000 men for the Lebanon timber-cutting rotation, and after Solomon's death, the assembled tribes complain to his son Rehoboam about 'the heavy yoke that your father put on us' (12:4), asking for relief -- language that sounds very much like the burden of Israelite forced labor, not merely conscripted foreign labor.
@@ -151,6 +157,8 @@ texts and the cross-references directly.
 ---
 
 ### 8. Cities exchanged between Solomon and Hiram: did Solomon give cities to Hiram, or Hiram to Solomon?
+
+*Entry ID: 1KGS-008*
 
 **References:** 1 Kings 9:10-14; 2 Chronicles 8:1-2
 
@@ -166,6 +174,8 @@ texts and the cross-references directly.
 
 ### 9. Jericho 'rebuilt' under a curse -- yet referenced as an inhabited place centuries earlier
 
+*Entry ID: 1KGS-009*
+
 **References:** 1 Kings 16:34; Joshua 6:26; Judges 3:12-13; 2 Samuel 10:5
 
 **The claim:** 1 Kings 16:34 records that in Ahab's day, 'Hiel of Bethel built Jericho,' losing his firstborn and youngest sons in the process 'according to the word of the LORD, which he spoke by Joshua' -- fulfilling Joshua's curse (Joshua 6:26) on whoever would rebuild the city after its destruction. Yet Jericho appears as a functioning, named location in the centuries between Joshua's curse and Hiel's 'rebuilding': Judges 3:12-13 describes the Moabite king Eglon capturing 'the city of palms' (a standard designation for Jericho) as a base of operations, and 2 Samuel 10:5 has David instruct his humiliated servants to 'remain at Jericho' until their beards grow back -- both apparently describing an inhabited town, well before Hiel's supposedly first 'rebuilding.'
@@ -179,6 +189,8 @@ texts and the cross-references directly.
 ---
 
 ### 10. Was Solomon alone at Gibeon when he offered a thousand burnt offerings, or accompanied by the assembled leaders of Israel?
+
+*Entry ID: 1KGS-010*
 
 **References:** 1 Kings 3:4; 2 Chronicles 1:2-6
 
@@ -194,6 +206,8 @@ texts and the cross-references directly.
 
 ### 11. What was Solomon's gift to Hiram of Tyre -- annual provisions of food, or twenty cities?
 
+*Entry ID: 1KGS-011*
+
 **References:** 1 Kings 5:10-11; 1 Kings 9:10-14
 
 **The claim:** 1 Kings 5:10-11 describes Solomon supplying Hiram with wheat and pure oil annually, in exchange for the cedar and cypress timber Hiram provided for the Temple's construction. Later, 1 Kings 9:10-14 describes an entirely different compensation -- twenty cities in Galilee -- given to Hiram at the end of the twenty-year building project.
@@ -207,6 +221,8 @@ texts and the cross-references directly.
 ---
 
 ### 12. How did Jeroboam die -- naturally, or struck down by the LORD?
+
+*Entry ID: 1KGS-012*
 
 **References:** 1 Kings 14:20; 2 Chronicles 13:20
 
@@ -222,6 +238,8 @@ texts and the cross-references directly.
 
 ### 13. Did Elisha receive Elijah's mantle at his initial calling, or only after Elijah was taken up into heaven?
 
+*Entry ID: 1KGS-013*
+
 **References:** 1 Kings 19:19-21; 2 Kings 2:9-14
 
 **The claim:** 1 Kings 19:19-21 has Elijah cast his mantle upon Elisha at the time of Elisha's initial calling, long before Elijah's departure, and Elisha leaves his oxen to follow Elijah as his attendant. Yet 2 Kings 2:9-14 has Elisha receive Elijah's mantle again -- this time the mantle that 'fell from him' as Elijah was taken up into heaven -- which Elisha then uses to part the Jordan, marking his succession to Elijah's prophetic ministry.
@@ -235,6 +253,8 @@ texts and the cross-references directly.
 ---
 
 ### 14. Did King Jehoshaphat remove the high places, or leave them standing?
+
+*Entry ID: 1KGS-014*
 
 **References:** 1 Kings 22:43; 2 Chronicles 17:6
 
@@ -252,6 +272,8 @@ texts and the cross-references directly.
 
 ### 15. When did Baasha attack Judah -- before, or after, his own recorded death?
 
+*Entry ID: 1KGS-015*
+
 **References:** 1 Kings 15:33; 1 Kings 16:6-8; 2 Chronicles 16:1
 
 **The claim:** 1 Kings 15:33 and 16:8 together establish that Baasha began to reign in Asa's third year and reigned 24 years, meaning his death (and his son Elah's accession, explicitly dated to 'the twenty-sixth year of Asa,' 16:8) fell in Asa's 26th year. Yet 2 Chronicles 16:1, describing a still-later event, states, 'In the thirty-sixth year of the reign of Asa, Baasha king of Israel came up against Judah' -- ten years after 1 Kings' own numbers place Baasha's death.
@@ -265,6 +287,8 @@ texts and the cross-references directly.
 ---
 
 ### 16. 480 years from the Exodus to Solomon's Temple -- does the math add up?
+
+*Entry ID: 1KGS-016*
 
 **References:** 1 Kings 6:1; Judges (cumulative totals); Acts 13:19-22
 
@@ -282,6 +306,8 @@ texts and the cross-references directly.
 
 ### 17. Elijah says 'I, even I only, am left' -- yet God says 7,000 have not bowed to Baal
 
+*Entry ID: 1KGS-017*
+
 **References:** 1 Kings 19:9-10; 1 Kings 19:14; 1 Kings 19:18; Romans 11:2-4
 
 **The claim:** Fleeing Jezebel's threat and in deep despair at Mount Horeb, Elijah twice tells the LORD, 'I, even I only, am left' among the prophets of the LORD, and the people seek to kill him too (19:10, 14). God's response, however, reveals, 'Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal' (19:18) -- directly contradicting, in a literal sense, Elijah's repeated claim to be entirely alone.
@@ -295,6 +321,8 @@ texts and the cross-references directly.
 ---
 
 ### 18. Unconditional dynasty, or conditional -- both promised to Solomon in the same speech
+
+*Entry ID: 1KGS-018*
 
 **References:** 1 Kings 9:3-5; 1 Kings 9:6-9; 2 Samuel 7:12-16
 
@@ -310,6 +338,8 @@ texts and the cross-references directly.
 
 ### 19. Micaiah's vision: did the LORD send a 'lying spirit' to deceive Ahab's prophets?
 
+*Entry ID: 1KGS-019*
+
 **References:** 1 Kings 22:19-23; Numbers 23:19; Titus 1:2; Hebrews 6:18
 
 **The claim:** The prophet Micaiah describes a vision of the LORD's heavenly council in which the LORD asks for a volunteer to 'entice Ahab' to his death at Ramoth-gilead; a spirit volunteers, saying, 'I will go out and be a lying spirit in the mouth of all his prophets,' and the LORD approves the plan (22:19-23) -- language that appears to have God directly authorizing and commissioning deception, in apparent tension with statements elsewhere that God 'never lies' (Titus 1:2, Hebrews 6:18) and 'is not a man, that he should lie' (Numbers 23:19).
@@ -323,6 +353,8 @@ texts and the cross-references directly.
 ---
 
 ### 20. Was Solomon the wisest who would ever live, or is 'a greater than Solomon' present in Christ?
+
+*Entry ID: 1KGS-020*
 
 **References:** 1 Kings 3:12; Matthew 12:42
 
@@ -338,6 +370,8 @@ texts and the cross-references directly.
 
 ### 21. Does God dwell in thick darkness, or in unapproachable light?
 
+*Entry ID: 1KGS-021*
+
 **References:** 1 Kings 8:12; 1 Timothy 6:16
 
 **The claim:** At the Temple's dedication, Solomon declares that the LORD 'said that he would dwell in the thick darkness' (1 Kings 8:12). Paul later describes God as 'dwelling in the light which no man can approach unto' (1 Timothy 6:16).
@@ -351,6 +385,8 @@ texts and the cross-references directly.
 ---
 
 ### 22. Does God actually dwell in temples built by human hands?
+
+*Entry ID: 1KGS-022*
 
 **References:** 1 Kings 8:13, 27; Acts 7:48
 
@@ -366,6 +402,8 @@ texts and the cross-references directly.
 
 ### 23. Is there anyone who does not sin?
 
+*Entry ID: 1KGS-023*
+
 **References:** 1 Kings 8:46; 1 John 3:9
 
 **The claim:** Solomon's dedicatory prayer states plainly, 'there is no man that sinneth not' (1 Kings 8:46), affirming universal human sinfulness. 1 John 3:9 states, 'Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God' -- language some read as claiming believers achieve sinless perfection.
@@ -380,6 +418,8 @@ texts and the cross-references directly.
 
 ### 24. Is God the one who creates and brings evil, or does evil have no place in him at all?
 
+*Entry ID: 1KGS-024*
+
 **References:** 1 Kings 14:10; Isaiah 45:7; James 1:13; 1 John 1:5
 
 **The claim:** 1 Kings 14:10 has God declare, through the prophet Ahijah, 'I will bring evil upon the house of Jeroboam.' Isaiah 45:7 similarly has God say, 'I make peace, and create evil.' Yet James 1:13 states God 'tempteth no man' toward evil, and 1 John 1:5 declares 'God is light, and in him is no darkness at all.'
@@ -393,6 +433,8 @@ texts and the cross-references directly.
 ---
 
 ### 25. Did God bring evil upon Ahab as a specific, deserved judgment?
+
+*Entry ID: 1KGS-025*
 
 **References:** 1 Kings 20:42
 
@@ -410,6 +452,8 @@ texts and the cross-references directly.
 
 ### 26. What was inside the Ark of the Covenant at the Temple's dedication?
 
+*Entry ID: 1KGS-026*
+
 **References:** 1 Kings 8:9; Hebrews 9:4
 
 **The claim:** 1 Kings 8:9 states that at the time the Temple was dedicated, the Ark contained only the two stone tablets. Hebrews 9:4 states the Ark contained the tablets, a golden urn of manna, and Aaron's rod that budded.
@@ -423,6 +467,8 @@ texts and the cross-references directly.
 ---
 
 ### 27. The bronze 'sea' and the value of pi
+
+*Entry ID: 1KGS-027*
 
 **References:** 1 Kings 7:23; 2 Chronicles 4:2
 
@@ -440,6 +486,8 @@ texts and the cross-references directly.
 
 ### 28. The law for Israel's king (Deuteronomy 17:14-17) vs. Solomon's actual practice
 
+*Entry ID: 1KGS-028*
+
 **References:** Deuteronomy 17:14-17; 1 Kings 10:14-29; 1 Kings 11:1-8
 
 **The claim:** Deuteronomy's law governing a future Israelite king explicitly prohibits the king from acquiring many horses, many wives ('lest his heart turn away'), or excessive silver and gold. This book describes Solomon doing all three at an extraordinary scale -- vast horse-trading operations (10:26-29), 700 wives and 300 concubines explicitly said to have turned his heart away after his foreign wives led him into idolatry (11:1-8), and enormous quantities of gold (10:14-25) -- largely without an immediate prophetic rebuke recorded at the moment each accumulation is first described, though the text does record God's displeasure and its consequences shortly afterward, in 11:9-13.
@@ -453,6 +501,8 @@ texts and the cross-references directly.
 ---
 
 ### 29. Divided-kingdom regnal chronology: do the years of Israel and Judah's kings add up consistently?
+
+*Entry ID: 1KGS-029*
 
 **References:** 1 Kings 15-16; 2 Kings 1-18; 2 Chronicles 16-32
 
@@ -470,6 +520,8 @@ texts and the cross-references directly.
 
 ### 30. Who was Heman's father -- Mahol, or Zerah?
 
+*Entry ID: 1KGS-030*
+
 **References:** 1 Kings 4:31; 1 Chronicles 2:6
 
 **The claim:** 1 Kings 4:31 lists Heman, along with Chalcol and Darda, as 'the sons of Mahol,' wise men to whom Solomon's own wisdom is favorably compared. 1 Chronicles 2:6 lists Heman, Chalcol, and Darda (spelled Dara) again together, but as sons of Zerah, of the tribe of Judah -- a different father's name entirely.
@@ -484,6 +536,8 @@ texts and the cross-references directly.
 
 ### 31. Was Hiram the craftsman's mother from the tribe of Naphtali, or Dan?
 
+*Entry ID: 1KGS-031*
+
 **References:** 1 Kings 7:13-14; 2 Chronicles 2:14
 
 **The claim:** 1 Kings 7:14 identifies the skilled bronze craftsman Hiram (distinct from King Hiram of Tyre) as the son of 'a widow woman of the tribe of Naphtali,' with a father who was a man of Tyre. 2 Chronicles 2:14, describing the same craftsman, instead calls his mother 'a woman of the daughters of Dan.'
@@ -497,6 +551,8 @@ texts and the cross-references directly.
 ---
 
 ### 32. Was Jehu the son of Nimshi, or his grandson?
+
+*Entry ID: 1KGS-032*
 
 **References:** 1 Kings 19:16; 2 Kings 9:2, 14
 

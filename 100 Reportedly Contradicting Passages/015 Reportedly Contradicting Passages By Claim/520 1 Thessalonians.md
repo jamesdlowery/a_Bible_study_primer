@@ -20,15 +20,7 @@ diversity of opinion rather than a single forced resolution, consistent with thi
 treatment of comparably contested eschatological and denominational questions elsewhere in
 this series.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -52,6 +44,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. 'Caught up together... in the clouds' -- the timing of the 'rapture' relative to a future tribulation
 
+*Entry ID: 1THESS-001*
+
 **References:** 1 Thessalonians 4:13-18
 
 **The claim:** 1 Thessalonians 4:16-17 describes a future event in which 'the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air' -- the primary New Testament text underlying what is popularly called 'the rapture.' The precise timing of this event relative to a future period of intense tribulation described elsewhere in Scripture (addressed at length in this project's companion Daniel chapter regarding the seventy weeks, and connected to material in Revelation this project has not yet addressed) is one of the most actively debated questions in contemporary evangelical eschatology.
@@ -67,6 +61,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 2. 'Like a thief in the night' -- yet believers are not to be surprised
+
+*Entry ID: 1THESS-002*
 
 **References:** 1 Thessalonians 5:1-4; Matthew 24:36
 
@@ -84,6 +80,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 3. 'Wrath has come upon them at last' -- a historically fraught passage, and a genuine scholarly question about its authenticity
 
+*Entry ID: 1THESS-003*
+
 **References:** 1 Thessalonians 2:14-16
 
 **The claim:** 1 Thessalonians 2:14-16 states that the Judean churches suffered 'from the Jews, who killed both the Lord Jesus and the prophets and drove us out, and displease God and oppose all mankind by hindering us from speaking to the Gentiles that they might be saved... But wrath has come upon them at last.' This is among the most historically fraught passages in the New Testament, having been invoked at various points in later Christian history to justify antisemitic sentiment and action -- a use its own most careful, contextually-grounded interpreters uniformly reject as a serious misreading. The passage's own final clause ('wrath has come upon them at last') has additionally prompted a genuine, decades-long scholarly debate over whether this specific passage was part of Paul's original letter at all, or was inserted by a later editor after the fact.
@@ -100,6 +98,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 4. 'Do not despise prophecies' -- the continuation or cessation of spiritual gifts
 
+*Entry ID: 1THESS-004*
+
 **References:** 1 Thessalonians 5:19-21
 
 **The claim:** 1 Thessalonians 5:19-21 instructs, 'Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good' -- treating prophecy as an ongoing, expected feature of the Thessalonian church's own communal life, connecting to a broader, actively debated question in contemporary Christian theology regarding whether New Testament-era spiritual gifts such as prophecy and tongues continue in the church today (a 'continuationist' position) or ceased with the apostolic age and the completion of the New Testament canon (a 'cessationist' position).
@@ -113,6 +113,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 5. Is the day of the Lord imminent, or must other events happen first?
+
+*Entry ID: 1THESS-005*
 
 **References:** 1 Thessalonians 5:1-4; 2 Thessalonians 2:1-3
 

@@ -42,6 +42,8 @@ consult the primary texts and the cross-references directly.
 
 ### 1. 'Justified by works and not by faith alone' -- addressed at length in the companion Romans chapter
 
+*Entry ID: JAS-001*
+
 **References:** James 2:14-26; Romans 3:28; Romans 4:1-5
 
 **The claim:** James 2:24 states, 'you see that a person is justified by works and not by faith alone' -- the primary source text for the classic tension with Paul's own statements in Romans (addressed at length in the companion Romans chapter), central to the doctrinal disputes of the Protestant Reformation.
@@ -58,6 +60,8 @@ consult the primary texts and the cross-references directly.
 
 ### 2. Anointing the sick with oil -- does this promise guaranteed healing, and what is the oil's own significance?
 
+*Entry ID: JAS-002*
+
 **References:** James 5:14-15
 
 **The claim:** James 5:14-15 instructs, 'Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the one who is sick, and the Lord will raise him up.' Read as an unconditional promise, this appears to guarantee healing for anyone who receives this specific ritual -- a promise that does not match common experience, since not everyone prayed for and anointed in this way recovers from illness, and connecting to a genuine, actively practiced denominational difference regarding the significance of the oil itself and the ritual's own sacramental status.
@@ -73,6 +77,8 @@ consult the primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 3. 'God tempts no one' -- vs. the Lord's Prayer's petition, 'lead us not into temptation'
+
+*Entry ID: JAS-003*
 
 **References:** James 1:2-3, 12-14; Matthew 6:13
 

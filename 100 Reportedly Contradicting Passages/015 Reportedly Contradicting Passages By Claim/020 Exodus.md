@@ -8,17 +8,7 @@ passages involved (only where the translation's own wording materially affects h
 resolvable the claim appears in English), and gives the standard scholarly reconciliation or
 harmonization.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim (for example, Deuteronomy 16:8's "six days" against Exodus 12:15's "seven days," and
-1 Kings 8:9's description of the ark's contents). Where no such check turned up a meaningful
-difference, the entry states that all tracked translations render the passage similarly --
-reflecting the fact that most of these claims turn on a disagreement between two biblical
-passages rather than on how any single verse happens to be translated, not an unchecked
-assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -44,6 +34,8 @@ primary texts and the cross-references directly.
 
 ### 1. Moses' father-in-law: Reuel, Jethro, or Hobab?
 
+*Entry ID: EXOD-001*
+
 **References:** Exodus 2:18; Exodus 3:1; Exodus 18:1, 5; Numbers 10:29; Judges 4:11
 
 **The claim:** Exodus 2:18 names the Midianite priest whose daughters Moses helps as 'Reuel.' Exodus 3:1 and 18:1 call Moses' father-in-law 'Jethro.' Numbers 10:29 and Judges 4:11 refer to 'Hobab,' described there as either Moses' father-in-law or (in some readings) his brother-in-law -- raising the question of whether these are one man given three names, or the text has confused generations.
@@ -57,6 +49,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Was the divine name YHWH known before Moses?
+
+*Entry ID: EXOD-002*
 
 **References:** Exodus 6:2-3; Genesis 4:26; Genesis 12:8; Genesis 22:14; Genesis 15:2; Genesis 28:13
 
@@ -72,6 +66,8 @@ primary texts and the cross-references directly.
 
 ### 3. Did Moses fear Pharaoh, or did he leave Egypt without fear?
 
+*Entry ID: EXOD-003*
+
 **References:** Exodus 2:14-15; Hebrews 11:27
 
 **The claim:** Exodus 2:14-15 has Moses afraid after his killing of an Egyptian becomes known, fleeing Pharaoh's reach to Midian. Hebrews 11:27 states that Moses 'forsook Egypt, not fearing the wrath of the king.'
@@ -85,6 +81,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. Who appeared to Moses at the burning bush -- the angel of the LORD, or God himself?
+
+*Entry ID: EXOD-004*
 
 **References:** Exodus 3:2, 4, 6
 
@@ -100,6 +98,8 @@ primary texts and the cross-references directly.
 
 ### 5. What is God's name -- 'I AM THAT I AM,' or the LORD (YHWH)?
 
+*Entry ID: EXOD-005*
+
 **References:** Exodus 3:13-15
 
 **The claim:** When Moses asks what he should say if the Israelites ask God's name, God first answers 'I AM THAT I AM' (3:14) and then, in the very next verse, gives a different-sounding answer: 'the LORD God of your fathers... this is my name for ever' (3:15) -- using the personal name YHWH instead.
@@ -113,6 +113,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. Was Moses a poor public speaker, or was he 'mighty in words and deeds'?
+
+*Entry ID: EXOD-006*
 
 **References:** Exodus 4:10; Acts 7:22
 
@@ -130,6 +132,8 @@ primary texts and the cross-references directly.
 
 ### 7. If all Egyptian livestock died in the plague of pestilence, what livestock died in the later plagues?
 
+*Entry ID: EXOD-007*
+
 **References:** Exodus 9:1-7; Exodus 9:9-11; Exodus 9:19-25; Exodus 12:29
 
 **The claim:** Exodus 9:6 states that in the fifth plague (pestilence on livestock), 'all the livestock of the Egyptians died,' and verse 7 confirms 'not one of the livestock of the Israelites was dead' by contrast, implying total loss of Egyptian animals. Yet the seventh plague (hail, 9:19-25) explicitly addresses livestock left in the field as still-vulnerable, and the tenth plague (12:29) kills the firstborn of Egyptian livestock -- animals that, on a strict reading of 9:6, should no longer have existed.
@@ -143,6 +147,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. Can God be seen face to face, or not -- even within Exodus itself?
+
+*Entry ID: EXOD-008*
 
 **References:** Exodus 33:11; Exodus 33:20; Exodus 24:9-11; Exodus 33:23
 
@@ -158,6 +164,8 @@ primary texts and the cross-references directly.
 
 ### 9. Was there already a functioning 'Tent of Meeting' before the Tabernacle was built?
 
+*Entry ID: EXOD-009*
+
 **References:** Exodus 33:7-11; Exodus 35:1-40:38
 
 **The claim:** Exodus 33:7-11 describes Moses regularly pitching 'the tent of meeting... outside the camp,' where 'the LORD used to speak with Moses' and where 'the pillar of cloud' would descend -- described in ordinary, already-functioning terms. Yet the elaborate Tabernacle, also called 'the tent of meeting' throughout Exodus 35-40, is not constructed and consecrated until several chapters later, at the very end of the book.
@@ -171,6 +179,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. Did God harden Pharaoh's heart, or did Pharaoh harden his own heart?
+
+*Entry ID: EXOD-010*
 
 **References:** Exodus 4:21; Exodus 7:3; Exodus 9:12; Exodus 8:15; Exodus 8:32; Exodus 9:34
 
@@ -186,6 +196,8 @@ primary texts and the cross-references directly.
 
 ### 11. Miriam's dance before the LORD, and the dancing around the golden calf -- is dancing approved, or condemned?
 
+*Entry ID: EXOD-011*
+
 **References:** Exodus 15:20; Exodus 32:19
 
 **The claim:** Exodus 15:20 has Miriam leading the women in celebratory dance after the Red Sea deliverance, presented entirely approvingly. Exodus 32:19, later in the very same book, has Moses discover the Israelites dancing around the golden calf, a scene of condemned idolatry that provokes his anger and God's judgment.
@@ -199,6 +211,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 12. What was inside the Ark of the Covenant?
+
+*Entry ID: EXOD-012*
 
 **References:** Exodus 16:32-34; Numbers 17:10; Deuteronomy 10:5; 1 Kings 8:9; Hebrews 9:4
 
@@ -214,6 +228,8 @@ primary texts and the cross-references directly.
 
 ### 13. Was the water-from-the-rock incident one event, or two -- and was Moses told to strike the rock, or speak to it?
 
+*Entry ID: EXOD-013*
+
 **References:** Exodus 17:1-7; Numbers 20:1-13
 
 **The claim:** Exodus 17:1-7, early in the wilderness wandering, has God instructing Moses to strike a rock at Horeb with his rod to bring forth water, which Moses does. Numbers 20:1-13, decades later near the end of the wilderness period, records a strikingly similar episode -- a thirsty people, a rock, water miraculously provided -- but this time God instructs Moses only to 'speak' to the rock (20:8), and Moses instead strikes it (twice, in apparent anger, 20:11), an act of disobedience for which Moses is barred from entering the promised land (20:12).
@@ -227,6 +243,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. Did God himself destroy and drive out the Canaanite nations, an angel, or Israel's own army?
+
+*Entry ID: EXOD-014*
 
 **References:** Exodus 33:2-3; Exodus 23:27-30; Joshua 24:8, 11-12
 
@@ -244,6 +262,8 @@ primary texts and the cross-references directly.
 
 ### 15. Is God a warlike God, or a God of peace?
 
+*Entry ID: EXOD-015*
+
 **References:** Exodus 15:3; Romans 15:33; 1 Corinthians 14:33
 
 **The claim:** Exodus 15:3, in the Song of Moses after the Red Sea crossing, declares 'the LORD is a man of war: the LORD is his name.' Paul, by contrast, repeatedly calls God 'the God of peace' (Romans 15:33; 1 Corinthians 14:33), and Isaiah 9:6 anticipates a coming ruler titled 'the Prince of Peace.'
@@ -257,6 +277,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 16. Can God be tempted?
+
+*Entry ID: EXOD-016*
 
 **References:** Exodus 17:2, 7; James 1:13
 
@@ -272,6 +294,8 @@ primary texts and the cross-references directly.
 
 ### 17. Is only God holy, or are ordinary people called holy too?
 
+*Entry ID: EXOD-017*
+
 **References:** Exodus 22:31; 1 Samuel 2:2; Revelation 15:4
 
 **The claim:** Exodus 22:31 has God telling Israel, 'ye shall be holy men unto me,' applying the term 'holy' directly to the people. 1 Samuel 2:2 and Revelation 15:4 both declare that 'there is none holy as the LORD' and that God 'only' is holy, in language some read as reserving the term exclusively for God.
@@ -285,6 +309,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 18. Does God ever grow weary, or tire?
+
+*Entry ID: EXOD-018*
 
 **References:** Exodus 31:17; Isaiah 40:28
 
@@ -302,6 +328,8 @@ primary texts and the cross-references directly.
 
 ### 19. Only a few generations from Jacob's family entering Egypt to an exodus of 600,000 men -- does the math work?
 
+*Entry ID: EXOD-019*
+
 **References:** Genesis 46:8-27; Exodus 1:5; Exodus 6:16-20; Exodus 12:37; Exodus 12:40-41
 
 **The claim:** The genealogy in Exodus 6:16-20 lists only four generations from Levi (who entered Egypt as an adult, per Genesis 46) to Moses: Levi, Kohath, Amram, Moses. Exodus 12:40-41 places the sojourn at 430 years, and Exodus 12:37 states about 600,000 men (plus women and children) left Egypt -- a population explosion some readers find hard to reconcile with so few generations and the 70 persons who originally went down (Genesis 46:27).
@@ -315,6 +343,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 20. Is taking a census sinful, given the atonement-money requirement here and David's later, judged census?
+
+*Entry ID: EXOD-020*
 
 **References:** Exodus 30:11-16; 2 Samuel 24:1-15; 1 Chronicles 21:1-14
 
@@ -332,6 +362,8 @@ primary texts and the cross-references directly.
 
 ### 21. Amram's marriage to his aunt Jochebed, given the incest laws later in the Torah
 
+*Entry ID: EXOD-021*
+
 **References:** Exodus 6:20; Leviticus 18:12
 
 **The claim:** Exodus 6:20 states that Amram, Moses' father, married Jochebed, described there as 'his father's sister' (his own paternal aunt). Leviticus 18:12, part of the Law given later at Sinai, explicitly prohibits exactly this relationship: 'You shall not uncover the nakedness of your father's sister; she is your father's relative.'
@@ -345,6 +377,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 22. 'You shall not kill/murder' (Exodus 20:13) vs. the Levites killing 3,000 at Moses' command
+
+*Entry ID: EXOD-022*
 
 **References:** Exodus 20:13; Exodus 32:25-28
 
@@ -363,6 +397,8 @@ primary texts and the cross-references directly.
 
 ### 23. How should 'strangers' living among Israel be treated, compared to the nations Israel was commanded to dispossess?
 
+*Entry ID: EXOD-023*
+
 **References:** Exodus 22:21; Exodus 23:9; Exodus 23:23, 28; Deuteronomy 7:1-2
 
 **The claim:** Exodus 22:21 and 23:9 command, 'thou shalt neither vex a stranger, nor oppress him... for ye know the heart of a stranger,' extending clear protection and compassion to foreigners living among Israel. Exodus 23:23, 28 and the parallel conquest commands elsewhere (Deuteronomy 7:1-2) instead direct Israel to drive out and, in some cases, destroy the Canaanite nations occupying the promised land -- a sharply different posture toward a different set of non-Israelites.
@@ -376,6 +412,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 24. Did God command burnt offerings and sacrifices, or did he never command them?
+
+*Entry ID: EXOD-024*
 
 **References:** Exodus 29:16, 18; Jeremiah 7:22-23
 
@@ -391,6 +429,8 @@ primary texts and the cross-references directly.
 
 ### 25. Do the instructions for the tabernacle's daily offering match the later description of the same offering in Ezekiel?
 
+*Entry ID: EXOD-025*
+
 **References:** Exodus 29:38-42; Numbers 28:1-8; Ezekiel 46:13-15
 
 **The claim:** Exodus 29:38-42 and Numbers 28:1-8 both specify a daily burnt offering of two lambs (one morning, one evening), each with a specified measure of flour and oil. Ezekiel's temple vision, centuries later, describes a similar daily offering but specifies it as a single lamb each morning only (46:13), with somewhat different accompanying measures of flour and oil (46:14-15) than either Exodus or Numbers gives.
@@ -405,6 +445,8 @@ primary texts and the cross-references directly.
 
 ### 26. Is it acceptable to drink alcohol, given that wine was part of the tabernacle's prescribed drink offerings?
 
+*Entry ID: EXOD-026*
+
 **References:** Exodus 29:40; Leviticus 10:9; Proverbs 20:1; Proverbs 23:31
 
 **The claim:** Exodus 29:40 prescribes a 'drink offering' of a quarter hin of wine as a regular part of the tabernacle's daily sacrificial service, given by direct divine command. Elsewhere, Scripture repeatedly warns against alcohol's dangers (Proverbs 20:1; 23:31) and specifically forbids priests from drinking wine or strong drink before entering the tabernacle (Leviticus 10:9).
@@ -418,6 +460,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 27. Is it acceptable to make and use perfume, given the restrictions on the tabernacle's sacred anointing oil and incense?
+
+*Entry ID: EXOD-027*
 
 **References:** Exodus 30:22-38; Song of Solomon 1:3, 13; Esther 2:12
 
@@ -435,6 +479,8 @@ primary texts and the cross-references directly.
 
 ### 28. Two 'sets' of the Ten Commandments?
 
+*Entry ID: EXOD-028*
+
 **References:** Exodus 20:1-17; Exodus 34:11-26
 
 **The claim:** Exodus 20 gives the commandments most familiar today; Exodus 34, following the golden-calf incident and the breaking of the first tablets, records a different list of stipulations (concerning festivals and ritual practice) that the text also associates with tablets God commands Moses to cut.
@@ -448,6 +494,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 29. Was the Passover lamb to be roasted, or boiled?
+
+*Entry ID: EXOD-029*
 
 **References:** Exodus 12:9; Deuteronomy 16:7
 
@@ -467,6 +515,8 @@ primary texts and the cross-references directly.
 
 ### 30. Seven days of unleavened bread, or six?
 
+*Entry ID: EXOD-030*
+
 **References:** Exodus 12:15, 19; Exodus 13:6-7; Deuteronomy 16:8
 
 **The claim:** Exodus 12:15, 12:19, and 13:6-7 all specify seven days of eating unleavened bread during the Passover/Feast of Unleavened Bread. Deuteronomy 16:8, recounting the same festival, instead specifies 'six days thou shalt eat unleavened bread,' with the seventh day set aside as 'a solemn assembly' rather than counted among the unleavened-bread days.
@@ -481,6 +531,8 @@ primary texts and the cross-references directly.
 
 ### 31. Who gave the law to Moses -- God directly, or angels acting as intermediaries?
 
+*Entry ID: EXOD-031*
+
 **References:** Exodus 20:22; Galatians 3:19; Acts 7:53; Hebrews 2:2
 
 **The claim:** Exodus 20:22 has God telling Moses, 'Ye have seen that I have talked with you from heaven,' describing a direct communication. Galatians 3:19 states the law 'was ordained by angels in the hand of a mediator,' Acts 7:53 has Stephen telling the Sanhedrin they 'received the law by the disposition of angels,' and Hebrews 2:2 refers to 'the word spoken by angels' -- all three New Testament texts crediting angels with a role in the law's giving that Exodus 20:22 does not mention.
@@ -494,6 +546,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 32. Who wrote the words on the second set of stone tablets -- God, or Moses?
+
+*Entry ID: EXOD-032*
 
 **References:** Exodus 34:1, 27-28; Deuteronomy 10:1-4
 
@@ -511,6 +565,8 @@ primary texts and the cross-references directly.
 
 ### 33. 400 years, or 430 years, of sojourning?
 
+*Entry ID: EXOD-033*
+
 **References:** Genesis 15:13; Exodus 12:40-41; Galatians 3:17; Acts 7:6
 
 **The claim:** Genesis 15:13 and Acts 7:6 give 400 years; Exodus 12:40 and Galatians 3:17 give 430 years for the time in Egypt (or from the promise to the Law, in Galatians).
@@ -525,6 +581,8 @@ primary texts and the cross-references directly.
 
 ### 34. Can God be seen by human beings, or not?
 
+*Entry ID: EXOD-034*
+
 **References:** Exodus 33:11, 20; Exodus 24:9-11; Genesis 32:30; John 1:18; 1 Timothy 6:16
 
 **The claim:** Exodus 33:20 states plainly, 'you cannot see my face, for man shall not see me and live' -- yet only a few verses earlier, in the same chapter, 'the LORD used to speak to Moses face to face, as a man speaks to his friend' (33:11), and shortly afterward, Exodus 24:9-11 narrates that Moses, Aaron, Nadab, Abihu, and seventy elders of Israel 'saw the God of Israel' and even 'ate and drank' in his presence without dying. Genesis 32:30 has Jacob declare, after wrestling with a divine figure, 'I have seen God face to face, and yet my life is preserved.' John 1:18 and 1 Timothy 6:16 add a New Testament layer to the same question, stating flatly that 'no one has ever seen God' and that God 'dwells in unapproachable light, whom no one has ever seen or can see.'
@@ -538,6 +596,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 35. Sinai, or Horeb -- one mountain, or two?
+
+*Entry ID: EXOD-035*
 
 **References:** Exodus 3:1; Exodus 19:1-2; Exodus 31:18; Deuteronomy 4:10; Deuteronomy 5:2; 1 Kings 19:8
 

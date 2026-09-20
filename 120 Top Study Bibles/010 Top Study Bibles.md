@@ -1,14 +1,14 @@
-# Top Study Bibles
+# Prominent English Study Bibles
 
-This section profiles 27 of the most prominent study Bibles available in English, chosen for a combination of sales prominence, denominational/traditional breadth (so the list is not accidentally dominated by one publisher or tradition), and representation of the 27 Bible translations tracked throughout this book (see "Popular Bible Translations" and "Histories of Various Bible Translations"). Entries are presented in an estimated order of overall popularity and market prominence -- combining known sales figures where available, general cultural and denominational reach, and the underlying translation's own popularity as a secondary factor. This ordering is necessarily an estimate rather than a precise, uniformly sourced ranking: a handful of entries near the top (the NIV Study Bible, the NIV Life Application Study Bible, the ESV Study Bible, the Scofield Reference Bible) have real, checkable sales figures or well-documented historical influence behind their position, while entries further down the list, especially the last several, are ordered by genuinely weaker and more inferential evidence, and this section says so directly rather than presenting false precision.
+This section profiles 27 of the most prominent study Bibles available in English, chosen for a combination of sales prominence, denominational/traditional breadth (so the list is not accidentally dominated by one publisher or tradition), and representation of the 27 Bible translations tracked throughout this book (see "Popular Bible Translations" and "Histories of English Bible Translations"). Entries are presented in an estimated order of overall popularity and market prominence -- combining known sales figures where available, general cultural and denominational reach, and the underlying translation's own popularity as a secondary factor. This ordering is necessarily an estimate rather than a precise, uniformly sourced ranking: a handful of entries near the top (the NIV Study Bible, the NIV Life Application Study Bible, the ESV Study Bible, the Scofield Reference Bible) have real, checkable sales figures or well-documented historical influence behind their position, while entries further down the list, especially the last several, are ordered by genuinely weaker and more inferential evidence, and this section says so directly rather than presenting false precision.
 
-A number of the 27 tracked translations (WEB, Darby, Young's Literal Translation, Smith's Literal Translation, Webster's Bible, the American King James Version, the Easy-to-Read Version, the CPDV, The Readable Bible, and, so far as this research could confirm, the NRSV-CE and the Berean Standard Bible specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist. The American Standard Version is the one apparent exception among the otherwise-unrepresented older translations: a dedicated ASV-based study Bible was published in 1972, described below, though it was never followed by a second edition and today survives mainly as a historical curiosity.
+A number of the 27 tracked translations (WEB, Darby, YLT, Smith's Literal Translation, Webster's Bible, the AKJV, the ERV, the CPDV, TRB, and, so far as this research could confirm, the NRSV-CE and the BSB specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist. The ASV is the one apparent exception among the otherwise-unrepresented older translations: a dedicated ASV-based study Bible was published in 1972, described below, though it was never followed by a second edition and today survives mainly as a historical curiosity.
 
-For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Top Christian Denominations" where a direct parallel exists; and, specifically, what is actually known about the volume's own commentary on abortion, homosexuality, and alcohol -- distinguished carefully from the editor's personal published views elsewhere, which are related but not the same kind of evidence.
+For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Major U.S. Christian Denominations" where a direct parallel exists; and, specifically, what is actually known about the volume's own commentary on abortion, homosexuality, and alcohol -- distinguished carefully from the editor's personal published views elsewhere, which are related but not the same kind of evidence.
 
 **A note on confidence:** for several widely used, doctrinally explicit study Bibles (the Ignatius Catholic Study Bible, the Orthodox Study Bible, the Catholic Study Bible/NABRE, the Complete Jewish Study Bible), the volume's own stated method ties it directly to its tradition's official teaching, so its ethical positions can be stated with real confidence. For others (several entries in the second half of this list, and to some degree the ESV Study Bible and MacArthur Study Bible specifically), this section distinguishes the editor's own well-documented personal position from independently confirmed content of the volume's own verse notes, and says plainly where only the former, not the latter, has been verified. A few entries (the Cultural Backgrounds Study Bible) are academic or historical-critical in orientation and generally do not offer direct ethical application to contemporary questions at all -- this is stated as such rather than papered over.
 
-**A note on alcohol specifically:** as in "Top Christian Denominations," entries distinguish moderate use (variously permitted or discouraged depending on tradition) from drunkenness/overuse, which is treated as sinful essentially universally.
+**A note on alcohol specifically:** as in "Major U.S. Christian Denominations," entries distinguish moderate use (variously permitted or discouraged depending on tradition) from drunkenness/overuse, which is treated as sinful essentially universally.
 
 Several entries in this list (particularly the Life Application Study Bible, the NIV Study Bible, the Open Bible, and the Baker CSB Illustrated Study Bible) are institutional, multi-scholar projects credited to a publisher's editorial team rather than one or two named individuals; this section says so plainly rather than force a "biography" onto a work that does not have one identifiable author.
 
@@ -36,7 +36,7 @@ Broadly evangelical, cross-denominational, in the same general category as the E
 
 ## 2. NIV Life Application Study Bible
 
-**Translation used:** New International Version (also available in KJV, NKJV, NLT, NASB, CSB, and other translations)
+**Translation used:** NIV (also available in KJV, NKJV, NLT, NASB, CSB, and other translations)
 **Publisher:** Tyndale House Publishers, first published 1986; the best-selling study Bible in the U.S. for over three decades, with roughly 10,000 application-focused notes.
 
 ### Editorial credit
@@ -48,7 +48,7 @@ Broadly evangelical, cross-denominational; deliberately designed to be usable ac
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Top Christian Denominations" for the closest parallel); specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Major U.S. Christian Denominations" for the closest parallel); specific verse-note wording not independently confirmed in this research pass. |
 | Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
 | Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
 
@@ -64,7 +64,7 @@ Broadly evangelical, cross-denominational; deliberately designed to be usable ac
 **Wayne A. Grudem** (b. 1948) — B.A., Harvard University; M.Div., Westminster Theological Seminary (also awarded a D.D.); Ph.D., University of Cambridge (dissertation: *The Gift of Prophecy in 1 Corinthians*, under C.F.D. Moule). Distinguished Research Professor of Theology and Biblical Studies at Phoenix Seminary (previously 20 years at Trinity Evangelical Divinity School). A former president of the Evangelical Theological Society and a member of the ESV's own Translation Oversight Committee. Best known for his widely used *Systematic Theology* (1994) and as co-founder of the Council on Biblical Manhood and Womanhood, the leading organization advocating complementarian (as opposed to egalitarian) gender roles in the home and church. Ordained in the Baptist General Conference.
 
 ### Denominational leaning
-Broadly evangelical and Reformed-leaning, though the volume draws contributors from multiple evangelical traditions rather than representing one denomination exclusively. Closest in orientation to the Southern Baptist Convention and other confessionally evangelical bodies profiled in "Top Christian Denominations," though not formally affiliated with any single one.
+Broadly evangelical and Reformed-leaning, though the volume draws contributors from multiple evangelical traditions rather than representing one denomination exclusively. Closest in orientation to the Southern Baptist Convention and other confessionally evangelical bodies profiled in "Major U.S. Christian Denominations," though not formally affiliated with any single one.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -156,7 +156,7 @@ Broadly evangelical, cross-denominational; the NASB itself is widely regarded as
 **Publisher:** Holman Bible Publishers (Lifeway/B&H), tied closely to the Southern Baptist Convention's own publishing arm.
 
 ### Denominational leaning
-Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Top Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
+Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Major U.S. Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -257,7 +257,7 @@ Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie S
 **Co-editor: Curtis J. Mitch**, M.A. — a former student of Hahn's, principal annotator and co-editor of the series; research fellow at the St. Paul Center for Biblical Theology.
 
 ### Denominational leaning
-Explicitly and exclusively Catholic — the volume states its notes follow "the Church's guidelines for biblical interpretation" and draw on the Church Fathers, Doctors, and Magisterial teaching throughout. See the Catholic Church entry in "Top Christian Denominations" for the fuller doctrinal and ethical framework this volume operates within; this study Bible does not depart from official Magisterial teaching on any of the categories below.
+Explicitly and exclusively Catholic — the volume states its notes follow "the Church's guidelines for biblical interpretation" and draw on the Church Fathers, Doctors, and Magisterial teaching throughout. See the Catholic Church entry in "Major U.S. Christian Denominations" for the fuller doctrinal and ethical framework this volume operates within; this study Bible does not depart from official Magisterial teaching on any of the categories below.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -280,10 +280,10 @@ Explicitly and exclusively Catholic — the volume states its notes follow "the 
 **Mary Ann Getty** contributed as a further general editor on more recent editions.
 
 ### Denominational leaning
-Explicitly and exclusively Catholic, given its direct use of the NABRE (the official translation for Mass and the Liturgy of the Hours throughout the United States, discussed at length in the companion "Popular Bible Translations" section) and its lectionary-aligned Reading Guide; see the Catholic Church entry in "Top Christian Denominations" for the fuller shared doctrinal framework, alongside the Ignatius Catholic Study Bible entry above for the closest direct parallel already profiled in this section.
+Explicitly and exclusively Catholic, given its direct use of the NABRE (the official translation for Mass and the Liturgy of the Hours throughout the United States, discussed at length in the companion "Popular Bible Translations" section) and its lectionary-aligned Reading Guide; see the Catholic Church entry in "Major U.S. Christian Denominations" for the fuller shared doctrinal framework, alongside the Ignatius Catholic Study Bible entry above for the closest direct parallel already profiled in this section.
 
 ### Ethical and lifestyle commentary
-Consistent with official Catholic teaching as described in the Catholic Church entry in "Top Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed in this research pass.
+Consistent with official Catholic teaching as described in the Catholic Church entry in "Major U.S. Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed in this research pass.
 
 ---
 
@@ -313,7 +313,7 @@ Not independently confirmed in this research pass on any of the three categories
 **Donald Stamps** (1938–1995), an Assemblies of God missionary and theologian; the project was completed and revised after his death by a continuing editorial team.
 
 ### Denominational leaning
-Pentecostal/Assemblies of God — see the Assemblies of God entry in "Top Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin, and a significant global seller within Pentecostal and charismatic circles worldwide (the "Fire Bible" name specifically) even where it is less prominent in general evangelical retail channels.
+Pentecostal/Assemblies of God — see the Assemblies of God entry in "Major U.S. Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin, and a significant global seller within Pentecostal and charismatic circles worldwide (the "Fire Bible" name specifically) even where it is less prominent in general evangelical retail channels.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -367,7 +367,7 @@ Given this volume's emphasis on topical cross-referencing, doctrinal overview ar
 **Fr. Peter E. Gillquist** (1938–2012) served as Project Director. A former staff leader with Campus Crusade for Christ (now Cru), Gillquist was among a group of American evangelical Protestant clergy who, after some two decades of independent study into the early church, formally entered the Eastern Orthodox Church in 1987 — an unusually well-documented modern convert story he recounted in his own books, including *Becoming Orthodox* and *Coming Home: Why Protestant Clergy Are Becoming Orthodox*. Alan Wallerstedt served as Managing Editor. The project's Special Consultant was **Fr. Thomas Hopko**, a leading 20th-century American Orthodox theologian and longtime dean of St. Vladimir's Orthodox Theological Seminary. Contributing editors included Joseph Allen (Th.D.), Michael Najim (Ph.D.), Fr. Jack N. Sparks, and Fr. Theodore Stylianopoulos (Th.D.), with the completed project reviewed by Orthodox bishops representing jurisdictions across North America, and by **Metropolitan Kallistos (Ware)** of Diokleia, one of the most widely respected Orthodox theologians and authors writing in English in the modern era.
 
 ### Denominational leaning
-Eastern Orthodox — see the Eastern Orthodox Church entry in "Top Christian Denominations" for the fuller shared doctrinal framework across U.S. Orthodox jurisdictions this volume represents.
+Eastern Orthodox — see the Eastern Orthodox Church entry in "Major U.S. Christian Denominations" for the fuller shared doctrinal framework across U.S. Orthodox jurisdictions this volume represents.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -405,10 +405,10 @@ Given this edition's specific focus on textual and translation transparency rath
 **Rabbi Barry Rubin**, General Editor — M.A. in Communications, Ohio University; rabbi of Emmanuel Messianic Jewish Congregation in Clarksville, Maryland (founded 1915, the oldest continuously operating Messianic congregation in the world); since 1988, director of Messianic Jewish Publishers and Resources (formerly The Lederer Foundation), a Baltimore-area organization with roots stretching back to the 1970s.
 **Dr. John Fischer** served as Theological Editor, with additional notes and articles contributed by a team including Rabbi Dr. Glenn Blank.
 
-The underlying CJB translation itself was produced by **Dr. David H. Stern** (1935–2022), a physicist-turned-theologian (Ph.D. in economics, Princeton University) who, after immigrating to Israel in 1979, produced both the Jewish New Testament (1989) and a Tanakh rendering drawing on the 1917 Jewish Publication Society version, combining both into the Complete Jewish Bible in 1998.
+The underlying CJB translation itself was produced by **Dr. David H. Stern** (1935–2022), a physicist-turned-theologian (Ph.D. in economics, Princeton University) who, after immigrating to Israel in 1979, produced both the Jewish New Testament (1989) and a Tanakh rendering drawing on the 1917 Jewish Publication Society version, combining both into the CJB in 1998.
 
 ### Denominational leaning
-Messianic Judaism — a movement combining Jewish religious practice and identity with faith in Yeshua (Jesus) as the promised Messiah, distinct from both mainstream Judaism (which does not recognize Yeshua's messianic claims) and most mainstream Christian denominations (which typically do not retain the same degree of ongoing Torah observance and Jewish liturgical practice). This book's "Top Christian Denominations" section does not currently include Messianic Judaism as a separate entry, so no direct cross-reference exists elsewhere in this book for this movement's fuller doctrinal profile.
+Messianic Judaism — a movement combining Jewish religious practice and identity with faith in Yeshua (Jesus) as the promised Messiah, distinct from both mainstream Judaism (which does not recognize Yeshua's messianic claims) and most mainstream Christian denominations (which typically do not retain the same degree of ongoing Torah observance and Jewish liturgical practice). This book's "Major U.S. Christian Denominations" section does not currently include Messianic Judaism as a separate entry, so no direct cross-reference exists elsewhere in this book for this movement's fuller doctrinal profile.
 
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
@@ -488,10 +488,10 @@ Given this volume's specific devotional and historical-theological orientation a
 **Rev. George Leo Haydock** (1774–1849) — an English Catholic priest from an old Recusant family (a family that maintained Catholic practice through the era of English anti-Catholic Penal Laws), himself a descendant of the martyred 16th-century "seminary priest" Blessed George Haydock. Compiled the commentary that bears his name, drawing on patristic and later Catholic scholarship, for publication by his brother Thomas Haydock.
 
 ### Denominational leaning
-Explicitly and traditionally Catholic — see the Catholic Church entry in "Top Christian Denominations" for the shared doctrinal framework, alongside the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries elsewhere in this section for two more recent alternatives; this volume is distinguished from those by its use of the historic Douay-Rheims translation and its origin in 19th-century, rather than contemporary, Catholic scholarship, giving it particular ongoing appeal among traditionalist Catholics.
+Explicitly and traditionally Catholic — see the Catholic Church entry in "Major U.S. Christian Denominations" for the shared doctrinal framework, alongside the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries elsewhere in this section for two more recent alternatives; this volume is distinguished from those by its use of the historic Douay-Rheims translation and its origin in 19th-century, rather than contemporary, Catholic scholarship, giving it particular ongoing appeal among traditionalist Catholics.
 
 ### Ethical and lifestyle commentary
-Reflecting its early-19th-century original composition, Haydock's commentary does not address these specific contemporary questions the way modern study Bibles do; its underlying doctrinal framework is nonetheless consistent with the historic Catholic teaching described in the Catholic Church entry in "Top Christian Denominations," from which the Church's own modern-era statements on these specific questions (cited in the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries above) themselves develop.
+Reflecting its early-19th-century original composition, Haydock's commentary does not address these specific contemporary questions the way modern study Bibles do; its underlying doctrinal framework is nonetheless consistent with the historic Catholic teaching described in the Catholic Church entry in "Major U.S. Christian Denominations," from which the Church's own modern-era statements on these specific questions (cited in the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries above) themselves develop.
 
 ---
 

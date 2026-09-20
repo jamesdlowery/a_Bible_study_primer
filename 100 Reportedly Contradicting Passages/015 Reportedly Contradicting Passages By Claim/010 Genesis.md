@@ -6,17 +6,7 @@ passage elsewhere (Luke, Acts). For each item, this document states the claim as
 typically raised, notes how the tracked translations render the passages involved (only where
 translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim (for example, Genesis 25:1's "wife," Genesis 6:2's "sons of God," and the two distinct
-Hebrew terms behind Genesis 8:13-14's "dried up" and "dry"). Where no such check turned up a
-meaningful difference, the entry states that all tracked translations render the passage similarly
--- reflecting the fact that most of these claims turn on a disagreement between two biblical
-books or passages rather than on how any single verse happens to be translated, not an
-unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -42,6 +32,8 @@ primary texts and the cross-references directly.
 
 ### 1. Order of creation: plants before or after humans?
 
+*Entry ID: GEN-001*
+
 **References:** Genesis 1:11-12, 26-27; Genesis 2:4-7
 
 **The claim:** Genesis 1 has vegetation created on day three, before humans on day six. Genesis 2:5-7 reads, in a woodenly literal sequence, as though no plant of the field had yet sprung up when man was formed.
@@ -55,6 +47,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Order of creation: animals before or after man?
+
+*Entry ID: GEN-002*
 
 **References:** Genesis 1:24-27; Genesis 2:7, 18-19
 
@@ -75,6 +69,8 @@ primary texts and the cross-references directly.
 
 ### 3. How long did creation take, given that Genesis 2:4 speaks of 'the day' the LORD God made the earth and the heavens?
 
+*Entry ID: GEN-003*
+
 **References:** Genesis 1:1-2:3; Genesis 2:4
 
 **The claim:** Genesis 1 describes creation unfolding across six distinct days, each closed with the formula 'the evening and the morning were the [nth] day.' Genesis 2:4 then refers to 'the day that the LORD God made the earth and the heavens' -- using the singular 'day' (Hebrew yom) for the entire creative work just described across six days, which some read as evidence the author did not intend yom to mean a strict 24-hour period, or alternatively as an inconsistency in the number of days involved.
@@ -88,6 +84,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. When did God divide light from darkness -- on day one, before the sun, moon, and stars existed on day four?
+
+*Entry ID: GEN-004*
 
 **References:** Genesis 1:3-5; Genesis 1:14-19
 
@@ -103,6 +101,8 @@ primary texts and the cross-references directly.
 
 ### 5. From what material were birds and land animals created -- water and ground in Genesis 1, or the ground alone in Genesis 2?
 
+*Entry ID: GEN-005*
+
 **References:** Genesis 1:20, 24; Genesis 2:19
 
 **The claim:** Genesis 1:20 has birds and sea creatures brought forth from the waters, and 1:24 has land animals brought forth from the earth. Genesis 2:19 states that the LORD God formed 'every beast of the field, and every fowl of the air' out of the ground -- seemingly including birds among the ground-formed creatures, rather than water-formed.
@@ -116,6 +116,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. Does Genesis 2:19-20's naming-of-the-animals scene place Eve's creation at a different point than Genesis 1's sequence implies?
+
+*Entry ID: GEN-006*
 
 **References:** Genesis 1:26-27; Genesis 2:18-23
 
@@ -131,6 +133,8 @@ primary texts and the cross-references directly.
 
 ### 7. Does 'every tree' in Genesis 1:29 conflict with the single forbidden tree of Genesis 2:16-17?
 
+*Entry ID: GEN-007*
+
 **References:** Genesis 1:29; Genesis 2:16-17
 
 **The claim:** Genesis 1:29 has God giving Adam and Eve 'every plant' and 'every tree' that bears fruit for food, with no exception stated. Genesis 2:16-17 then explicitly forbids eating from one specific tree, the tree of the knowledge of good and evil.
@@ -144,6 +148,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. Were humans originally created to eat only plants, with meat permitted only after the Flood?
+
+*Entry ID: GEN-008*
 
 **References:** Genesis 1:29-30; Genesis 9:3
 
@@ -161,6 +167,8 @@ primary texts and the cross-references directly.
 
 ### 9. Where did Cain get his wife?
 
+*Entry ID: GEN-009*
+
 **References:** Genesis 4:16-17
 
 **The claim:** Cain is exiled after killing Abel, and the text immediately mentions his wife, with no account of her origin, raising the question of who she was.
@@ -174,6 +182,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. If everyone alive descends from Adam and Eve, who was Cain afraid would kill him, and whose city did he build?
+
+*Entry ID: GEN-010*
 
 **References:** Genesis 3:20; Genesis 4:14-17
 
@@ -189,6 +199,8 @@ primary texts and the cross-references directly.
 
 ### 11. Did God respect Abel's offering because it was an animal sacrifice, and does this mean God favors some worshippers over others?
 
+*Entry ID: GEN-011*
+
 **References:** Genesis 4:3-5
 
 **The claim:** Genesis 4:4-5 has the LORD having 'respect' for Abel's offering of the firstlings of his flock, but not for Cain's offering of the fruit of the ground -- raising the question, for some readers, of favoritism given no stated reason for the difference in the text of Genesis itself.
@@ -202,6 +214,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 12. Does God desire animal sacrifice, given his acceptance of Abel's offering here alongside later texts that seem to downplay sacrifice's value?
+
+*Entry ID: GEN-012*
 
 **References:** Genesis 4:4; Psalms 51:16-17; Hosea 6:6
 
@@ -217,6 +231,8 @@ primary texts and the cross-references directly.
 
 ### 13. What became of Cain -- did he die by violence as he feared, or as the mark implies he would not?
 
+*Entry ID: GEN-013*
+
 **References:** Genesis 4:11-16
 
 **The claim:** Cain fears being killed by anyone who finds him (4:14), and God places a mark on him and declares sevenfold vengeance on anyone who kills him (4:15) -- yet Genesis never records how or when Cain himself eventually died, leaving some readers to ask whether the text's own internal logic (a protective mark, paired with an unresolved fear of violent death) is ever actually resolved.
@@ -230,6 +246,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. Is polygamy morally acceptable, given that Genesis records Lamech taking two wives without explicit comment?
+
+*Entry ID: GEN-014*
 
 **References:** Genesis 4:19-24
 
@@ -246,6 +264,8 @@ primary texts and the cross-references directly.
 ## The Flood
 
 ### 15. How many of each animal did Noah take onto the ark?
+
+*Entry ID: GEN-015*
 
 **References:** Genesis 6:19-20; Genesis 7:2-3, 15-16
 
@@ -264,6 +284,8 @@ primary texts and the cross-references directly.
 
 ### 16. How long did the flood waters prevail?
 
+*Entry ID: GEN-016*
+
 **References:** Genesis 7:17; Genesis 7:24; Genesis 8:3-4
 
 **The claim:** Genesis 7:17 says the flood was on the earth 40 days; 7:24 and 8:3 say the waters prevailed 150 days before beginning to recede, and the ark rested on Ararat in the seventh month.
@@ -277,6 +299,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 17. Will God never curse the earth again, given his statement in Genesis 8:21 alongside the earlier curse of Genesis 3:17 and later judgments?
+
+*Entry ID: GEN-017*
 
 **References:** Genesis 3:17; Genesis 8:21
 
@@ -292,6 +316,8 @@ primary texts and the cross-references directly.
 
 ### 18. Does 'sons of God' in Genesis 6:2 mean angels can have sex with humans, or is a supernatural reading of the phrase mistaken?
 
+*Entry ID: GEN-018*
+
 **References:** Genesis 6:1-4; Job 1:6; Job 38:7
 
 **The claim:** Genesis 6:2 has 'the sons of God' seeing that the 'daughters of men' were fair and taking wives from among them, producing the Nephilim. Elsewhere, 'sons of God' (Job 1:6, 38:7) refers to angelic beings, raising the question of whether this passage depicts angels having sexual relations with human women, and if angels are understood as non-corporeal spirits (Matthew 22:30; Luke 20:35-36 -- 'neither marry, nor are given in marriage'), whether that is even coherent.
@@ -305,6 +331,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 19. Does the commandment against killing conflict with God's own destruction of nearly all life in the Flood?
+
+*Entry ID: GEN-019*
 
 **References:** Genesis 6:7, 13, 17; Genesis 9:5-6; Exodus 20:13
 
@@ -320,6 +348,8 @@ primary texts and the cross-references directly.
 
 ### 20. Was there ever a truly just or righteous person before Noah, and is Noah's own righteousness absolute or relative?
 
+*Entry ID: GEN-020*
+
 **References:** Genesis 6:9; Genesis 7:1
 
 **The claim:** Genesis 6:9 calls Noah 'a just man and perfect in his generations,' and 7:1 has God telling Noah 'thee have I seen righteous before me in this generation' -- language some read as claiming Noah was without sin, in tension with passages elsewhere stating no one is righteous (e.g., Ecclesiastes 7:20; Romans 3:10).
@@ -333,6 +363,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 21. Is it accurate to call Noah a 'preacher of righteousness,' when Genesis never records him preaching?
+
+*Entry ID: GEN-021*
 
 **References:** Genesis 6:13-22; 2 Peter 2:5
 
@@ -348,6 +380,8 @@ primary texts and the cross-references directly.
 
 ### 22. Does the seven-day warning before the Flood (Genesis 7:4) fit with the flood beginning on the very day Noah entered the ark (Genesis 7:11-13)?
 
+*Entry ID: GEN-022*
+
 **References:** Genesis 7:1-4; Genesis 7:10-13
 
 **The claim:** Genesis 7:4 has God telling Noah seven days in advance that the flood would come. Genesis 7:10-13 then describes Noah, his family, and the animals entering the ark on 'the selfsame day' the flood began, which some read as an inconsistency between an advance warning and same-day entry.
@@ -361,6 +395,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 23. Did every land creature outside the ark die in the Flood, and how does this square with post-Flood accounts of giants and large populations?
+
+*Entry ID: GEN-023*
 
 **References:** Genesis 7:21-23; Numbers 13:33
 
@@ -376,6 +412,8 @@ primary texts and the cross-references directly.
 
 ### 24. Had the earth fully dried after the Flood by the date given in Genesis 8:13, or only later, per 8:14?
 
+*Entry ID: GEN-024*
+
 **References:** Genesis 8:13-14
 
 **The claim:** Genesis 8:13 states that by the first day of the first month of Noah's 601st year, 'the waters were dried up from off the earth,' and Noah saw that 'the face of the ground was dry.' Genesis 8:14 then states that the earth was not fully dry until the twenty-seventh day of the second month, nearly two months later -- seemingly two different dates for the same event.
@@ -389,6 +427,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 25. Is it acceptable to eat blood, given the explicit prohibition in Genesis 9:4?
+
+*Entry ID: GEN-025*
 
 **References:** Genesis 9:3-4; Leviticus 17:10-14; Acts 15:20, 29
 
@@ -404,6 +444,8 @@ primary texts and the cross-references directly.
 
 ### 26. Did God promise never to destroy the earth by flood again, and how does this relate to 2 Peter 3's description of a future destruction by fire?
 
+*Entry ID: GEN-026*
+
 **References:** Genesis 9:11-15; 2 Peter 3:6-7
 
 **The claim:** Genesis 9:11 has God promising 'neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.' 2 Peter 3:6-7 speaks of the pre-Flood world being 'destroyed' by water, and describes a future judgment of the heavens and earth reserved for destruction by fire -- raising a question of whether a future 'destruction' of the earth is consistent with the Genesis 9 promise.
@@ -417,6 +459,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 27. Does God's curse of Canaan for Ham's sin (and its application to Ham's descendants) mean people are punished for others' sins?
+
+*Entry ID: GEN-027*
 
 **References:** Genesis 9:20-27
 
@@ -434,6 +478,8 @@ primary texts and the cross-references directly.
 
 ### 28. The 'second Cainan' in Luke's genealogy
 
+*Entry ID: GEN-028*
+
 **References:** Luke 3:36; Genesis 11:12-13; 1 Chronicles 1:24
 
 **The claim:** Luke's genealogy includes a 'Cainan' between Arphaxad and Shelah who does not appear in the Hebrew Masoretic Text of Genesis 11 or 1 Chronicles 1, raising a question about an extra generation.
@@ -447,6 +493,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 29. How old was Terah when Abram left Haran?
+
+*Entry ID: GEN-029*
 
 **References:** Genesis 11:26, 32; Acts 7:4
 
@@ -462,6 +510,8 @@ primary texts and the cross-references directly.
 
 ### 30. Was Abram called by God while still in Ur, or only after settling in Haran?
 
+*Entry ID: GEN-030*
+
 **References:** Genesis 11:31; Genesis 12:1-4; Acts 7:2-4
 
 **The claim:** Genesis's narrative sequence has Terah's family leave Ur and settle in Haran (11:31), with God's call to Abram to leave his country appearing afterward, in Haran (12:1). Stephen's speech in Acts 7:2-4 states God appeared to Abraham and called him 'before he lived in Haran,' while he was still in Mesopotamia (Ur).
@@ -476,6 +526,8 @@ primary texts and the cross-references directly.
 
 ### 31. Do the parallel genealogical lists for the sons of Noah and the descendants of Esau (Edom) agree with themselves and with 1 Chronicles?
 
+*Entry ID: GEN-031*
+
 **References:** Genesis 10:7, 23; Genesis 36:2, 10, 14, 20, 25, 40; 1 Chronicles 1:9, 17, 35-42, 51
 
 **The claim:** Several individually minor genealogical details differ or appear ambiguous across parallel Table-of-Nations and Edomite king-list passages: the father of Sheba and Dedan is given as Raamah (10:7) in one Hamite line while a separate Sheba and Dedan appear descended from Abraham through Keturah (25:3); the father of Uz, Hul, and Gether is Aram in 10:23 but the names Uz and Hul also appear as sons of Nahor (22:21) and Shobal (36:23); Bashemath is called both a daughter of Ishmael and (in a differently-spelled instance, Basemath/Adah) a daughter of Elon the Hittite as one of Esau's wives (26:34; 28:9; 36:2-3); Anah appears as both 'son' and, in the same chapter, effectively identified among 'daughters,' and as both Zibeon's son and Seir's son (36:2, 20, 24-25); Korah is listed as both a son of Esau by Adah and, a few verses later, a chief descended from Eliphaz (36:14, 16); and Dishon appears as both a son of Seir and (spelled Dishan) a separate descendant in the same list (36:21, 25-26, 28); the place-name Timnah similarly appears both as a concubine of Eliphaz (36:12) and, feminine and identically spelled, as a Horite/Edomite chief's name (36:40).
@@ -489,6 +541,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 32. Was it Abraham or Jacob who purchased the burial plot at Shechem, and where exactly was each patriarch buried?
+
+*Entry ID: GEN-032*
 
 **References:** Genesis 23:16-20; Genesis 33:18-19; Genesis 50:12-13; Joshua 24:32; Acts 7:15-16
 
@@ -506,6 +560,8 @@ primary texts and the cross-references directly.
 
 ### 33. The 'wife-sister' episodes: one incident retold, or three separate incidents?
 
+*Entry ID: GEN-033*
+
 **References:** Genesis 12:10-20; Genesis 20:1-18; Genesis 26:1-11
 
 **The claim:** Genesis records three closely similar episodes in which a patriarch (Abraham twice, then Isaac) claims his wife is his sister out of fear for his life before a foreign ruler, and the ruler discovers the deception -- leading some to argue these are actually one event told three different ways by different sources, rather than three distinct historical incidents.
@@ -519,6 +575,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 34. Was Jacob renamed Israel once, or twice?
+
+*Entry ID: GEN-034*
 
 **References:** Genesis 32:28; Genesis 35:10
 
@@ -534,6 +592,8 @@ primary texts and the cross-references directly.
 
 ### 35. What is the human life span, given God's statement that it would be limited to 120 years, set against the much longer ages recorded afterward?
 
+*Entry ID: GEN-035*
+
 **References:** Genesis 6:3; Genesis 25:7; Genesis 35:28; Genesis 47:28
 
 **The claim:** Genesis 6:3 has God declaring, before the Flood, that human days would be limited to 120 years. Yet Genesis itself subsequently records Abraham living to 175 (25:7), Isaac to 180 (35:28), and Jacob to 147 (47:28) -- all well beyond the stated 120-year limit, and all after the pronouncement in Genesis 6:3.
@@ -547,6 +607,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 36. Was Abraham ever seen making theophanic appearances of the LORD the same way later Israel was told no one could see God and live?
+
+*Entry ID: GEN-036*
 
 **References:** Genesis 12:7; Genesis 18:1-2; Exodus 33:20
 
@@ -562,6 +624,8 @@ primary texts and the cross-references directly.
 
 ### 37. Was the city of Dan already named 'Dan' in Abram's day, centuries before the tribe of Dan conquered and renamed it in Judges?
 
+*Entry ID: GEN-037*
+
 **References:** Genesis 14:14; Judges 18:27-29
 
 **The claim:** Genesis 14:14 has Abram pursuing his enemies 'unto Dan,' using a place name that, according to Judges 18:27-29, was only given to that city (formerly called Laish) after the tribe of Dan conquered it -- centuries after Abram's lifetime.
@@ -575,6 +639,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 38. Did Israel ever actually possess the full extent of the land God promised to Abram, 'from the river of Egypt unto the great river, the river Euphrates'?
+
+*Entry ID: GEN-038*
 
 **References:** Genesis 15:18; 1 Kings 4:21; 1 Kings 4:24
 
@@ -590,6 +656,8 @@ primary texts and the cross-references directly.
 
 ### 39. Is incest forbidden, given that Sarah was Abraham's half-sister?
 
+*Entry ID: GEN-039*
+
 **References:** Genesis 17:15-16; Genesis 20:12; Leviticus 18:9, 11
 
 **The claim:** Genesis 20:12 has Abraham explaining that Sarah is 'the daughter of my father, but not the daughter of my mother' -- his half-sister -- yet the Mosaic law later explicitly forbids marriage to a sister, including a half-sister sharing one parent (Leviticus 18:9, 11).
@@ -603,6 +671,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 40. Did Sarah have faith that she would conceive in her old age, given her laughter of disbelief in Genesis, set against Hebrews 11:11's praise of her faith?
+
+*Entry ID: GEN-040*
 
 **References:** Genesis 18:10-15; Hebrews 11:11
 
@@ -621,6 +691,8 @@ primary texts and the cross-references directly.
 
 ### 41. Can God do anything, given the rhetorical question 'Is any thing too hard for the LORD?' set against passages describing things God cannot do?
 
+*Entry ID: GEN-041*
+
 **References:** Genesis 18:14; Titus 1:2; Hebrews 6:18; 2 Timothy 2:13
 
 **The claim:** Genesis 18:14 poses the rhetorical question 'Is any thing too hard for the LORD?', implying God's power is unlimited. Elsewhere, Scripture states God 'cannot lie' (Titus 1:2; Hebrews 6:18) and cannot deny himself (2 Timothy 2:13), which some read as items God is unable to do, in seeming tension with Genesis 18:14's implication of unlimited power.
@@ -634,6 +706,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 42. Who destroyed Sodom and Gomorrah, and what does 'the LORD rained... from the LORD' imply about the nature of God?
+
+*Entry ID: GEN-042*
 
 **References:** Genesis 19:24
 
@@ -649,6 +723,8 @@ primary texts and the cross-references directly.
 
 ### 43. Is it acceptable to swear oaths, given Abraham's oath in Genesis 21:23-24 set against Jesus's instruction to 'swear not at all'?
 
+*Entry ID: GEN-043*
+
 **References:** Genesis 21:22-24; Matthew 5:34-37
 
 **The claim:** Genesis 21:23-24 records Abraham willingly swearing an oath to Abimelech, apparently without any moral objection in the text. Jesus, in the Sermon on the Mount (Matthew 5:34-37), instructs his followers to 'swear not at all,' and instead let their 'yes' be 'yes' and their 'no,' 'no.'
@@ -662,6 +738,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 44. Who named the well of Beersheba -- Abraham, or his son Isaac's servants, a generation later?
+
+*Entry ID: GEN-044*
 
 **References:** Genesis 21:31; Genesis 26:32-33
 
@@ -677,6 +755,8 @@ primary texts and the cross-references directly.
 
 ### 45. Was Laban the son of Nahor, or of Nahor's son Bethuel?
 
+*Entry ID: GEN-045*
+
 **References:** Genesis 22:20-23; Genesis 24:15, 29; Genesis 28:5; Genesis 29:5
 
 **The claim:** Genesis 24:15 and 24:29 identify Bethuel as the son of Nahor and Rebekah's father, and Laban as Rebekah's brother (making Laban Bethuel's son and Nahor's grandson). Genesis 29:5, however, has Jacob's response identifying Laban as 'the son of Nahor' directly -- seemingly skipping a generation.
@@ -690,6 +770,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 46. Was Keturah Abraham's wife, or his concubine?
+
+*Entry ID: GEN-046*
 
 **References:** Genesis 25:1, 6; 1 Chronicles 1:32
 
@@ -705,6 +787,8 @@ primary texts and the cross-references directly.
 
 ### 47. Was Luz renamed Bethel by Jacob once, at his first vision, or again decades later on his return?
 
+*Entry ID: GEN-047*
+
 **References:** Genesis 28:16-19; Genesis 35:1, 6-7, 15
 
 **The claim:** Genesis 28:19 has Jacob naming the place Bethel ('house of God') immediately after his dream of the ladder, on his way to Haran. Genesis 35:6-7 and 35:15, decades later, on Jacob's return from Haran, again describe him arriving at 'Luz, that is, Bethel' and again naming the place (or an altar there) in connection with God's appearance to him.
@@ -718,6 +802,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 48. Is it acceptable to marry your wife's sister while she is still alive, given Jacob's simultaneous marriage to Leah and Rachel?
+
+*Entry ID: GEN-048*
 
 **References:** Genesis 29:21-30; Leviticus 18:18
 
@@ -733,6 +819,8 @@ primary texts and the cross-references directly.
 
 ### 49. Is it always wrong to steal, given that Rachel's theft of her father's household idols goes unpunished and unremarked in the narrative?
 
+*Entry ID: GEN-049*
+
 **References:** Genesis 31:19, 30-35
 
 **The claim:** Genesis 31:19 records Rachel stealing her father Laban's household idols (teraphim) as the family flees, and the ensuing narrative (31:30-35) has her successfully concealing the theft from her father's search, with no explicit condemnation of the act stated by the narrator.
@@ -746,6 +834,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 50. Who did Jacob wrestle with at Peniel -- 'a man,' an angel, or God himself?
+
+*Entry ID: GEN-050*
 
 **References:** Genesis 32:24-30; Hosea 12:3-4
 
@@ -763,6 +853,8 @@ primary texts and the cross-references directly.
 
 ### 51. Was circumcision required of Gentile believers, or not?
 
+*Entry ID: GEN-051*
+
 **References:** Genesis 17:7-14; Acts 15:1-29; Galatians 5:2-6
 
 **The claim:** The Abrahamic covenant explicitly requires circumcision as an everlasting sign, binding on Abraham's household and descendants. The Jerusalem Council in Acts 15 explicitly rules that Gentile believers are not required to be circumcised, and Paul in Galatians states that if Gentile believers accept circumcision as necessary for standing before God, Christ will be of no advantage to them.
@@ -779,6 +871,8 @@ primary texts and the cross-references directly.
 
 ### 52. How many years did the famine in Joseph's account last, and does the timeline of Jacob's family's move to Egypt fit?
 
+*Entry ID: GEN-052*
+
 **References:** Genesis 41:47-49; Genesis 45:6; Genesis 47:9
 
 **The claim:** Some readers raise a timeline question over the seven years of plenty, the onset of famine, when Jacob's household relocated relative to those years, and Jacob's stated age (130) at the time he met Pharaoh, asking whether the years add up consistently across the narrative.
@@ -792,6 +886,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 53. How many of Jacob's family went down to Egypt -- 70, or 75?
+
+*Entry ID: GEN-053*
 
 **References:** Genesis 46:27; Exodus 1:5; Genesis 47:27; Acts 7:14
 
@@ -807,6 +903,8 @@ primary texts and the cross-references directly.
 
 ### 54. Who sold Joseph into Egypt, and who bought him there -- Midianites, or Ishmaelites?
 
+*Entry ID: GEN-054*
+
 **References:** Genesis 37:25-28, 36; Genesis 39:1
 
 **The claim:** Genesis 37:25-28 has Joseph's brothers selling him to a caravan of Ishmaelites, but the same short passage also mentions Midianite merchantmen drawing Joseph up out of the pit, and 37:36 states 'the Midianites sold him into Egypt'; Genesis 39:1 then says Potiphar bought him 'of the hands of the Ishmeelites.'
@@ -820,6 +918,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 55. Where did Joseph's brothers find the money returned in their sacks -- at the lodging place on the journey home, or later when they arrived home and opened the sacks?
+
+*Entry ID: GEN-055*
 
 **References:** Genesis 42:27-28, 35; Genesis 43:21
 
@@ -835,6 +935,8 @@ primary texts and the cross-references directly.
 
 ### 56. How old was Benjamin when Jacob's family relocated to Egypt, given that he is called 'a lad' shortly before the move yet already has ten grown sons by the time the family arrives?
 
+*Entry ID: GEN-056*
+
 **References:** Genesis 44:20; Genesis 46:21
 
 **The claim:** Genesis 44:20 has Judah describing Benjamin to Joseph as 'a little one' and 'a lad' shortly before the family's relocation to Egypt. Genesis 46:21, in the list of those who came to Egypt, lists ten named sons already born to Benjamin.
@@ -848,6 +950,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 57. Do the different tribal lists in Genesis 49, Numbers, Deuteronomy 33, and Revelation 7 give the same twelve tribes of Israel?
+
+*Entry ID: GEN-057*
 
 **References:** Genesis 49:1-28; Numbers 1:5-15; Deuteronomy 33:1-29; Revelation 7:4-8
 

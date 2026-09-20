@@ -1,13 +1,10 @@
 # Reportedly Contradicting Passages in 2 Maccabees
 
 **A note on this document's place in the series:** As with the six prior deuterocanonical
-books addressed in this series, 2 Maccabees is included in only five of the 27 tracked
-translations surveyed -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE,
-all representing Catholic-tradition translations. The remaining 22 follow the Protestant,
-Jewish, or otherwise non-deuterocanonical-affirming canon, which excludes it. This document
-notes, for each entry, that the majority of tracked translations do not contain the book at
-all. **This document completes this project's coverage of the standard Catholic
-deuterocanonical corpus** (Tobit, Judith, the Wisdom of Solomon, Sirach, Baruch, 1 Maccabees,
+books addressed in this series, 2 Maccabees is a deuterocanonical book -- see the note on
+canon status at the start of the Apocrypha block above for which five of the 27 tracked
+translations include it. **This document completes this project's coverage of the standard
+Catholic deuterocanonical corpus** (Tobit, Judith, the Wisdom of Solomon, Sirach, Baruch, 1 Maccabees,
 and 2 Maccabees).
 
 This document catalogs 6 commonly cited alleged contradictions and notable historical,
@@ -54,6 +51,8 @@ encouraged to consult the primary text directly.
 
 ### 1. An explicitly self-described abridgment of a longer, five-volume work by Jason of Cyrene
 
+*Entry ID: 2MACC-001*
+
 **References:** 2 Maccabees 2:19-32; 2 Maccabees 15:37-39
 
 **The claim:** 2 Maccabees openly and explicitly describes its own compositional process in unusual detail: the author states that the events he narrates were originally recorded at much greater length by 'Jason of Cyrene' in 'five volumes,' and that his own task has been to 'epitomize' (abridge and condense) that larger work 'into a single composition' (2:19-23) -- even candidly acknowledging the difficulty of the task and asking the reader's indulgence for any shortcomings in the result (2:24-32), with a similar closing acknowledgment at the book's very end (15:38-39, 'if it is poorly done and mediocre, that was the best I could do').
@@ -67,6 +66,8 @@ encouraged to consult the primary text directly.
 ---
 
 ### 2. An extra-canonical tradition of Jeremiah hiding the Ark of the Covenant, found nowhere in the canonical book of Jeremiah
+
+*Entry ID: 2MACC-002*
 
 **References:** 2 Maccabees 2:1-8; Jeremiah (entire book)
 
@@ -84,6 +85,8 @@ encouraged to consult the primary text directly.
 
 ### 3. Antiochus IV's death: two markedly different accounts, addressed here in full following the preview in the companion 1 Maccabees chapter
 
+*Entry ID: 2MACC-003*
+
 **References:** 2 Maccabees 9:1-29; 1 Maccabees 6:1-16
 
 **The claim:** This book's account of the persecutor Antiochus IV Epiphanes' death (9:1-29) differs substantially from the version in 1 Maccabees 6:1-16 (addressed briefly in the companion 1 Maccabees chapter). 1 Maccabees describes a comparatively restrained, almost sympathetic death from grief and psychological anguish following news of his military failures, including a deathbed speech of regret. This book instead describes God directly and dramatically striking Antiochus with 'an incurable and invisible blow' -- his bowels afflicted with agonizing pain, his body 'swarming with worms' while still alive, his flesh visibly rotting away, and a stench so overwhelming his own army could not bear to carry him (9:5-10) -- a considerably more supernatural, graphic, and theologically emphatic account of direct, immediate divine retribution.
@@ -99,6 +102,8 @@ encouraged to consult the primary text directly.
 ## Theological Interpretation
 
 ### 4. 'God did not make them out of things that existed' -- the key prooftext for creation ex nihilo
+
+*Entry ID: 2MACC-004*
 
 **References:** 2 Maccabees 7:28; Wisdom of Solomon 11:17; Genesis 1:1-2
 
@@ -116,6 +121,8 @@ encouraged to consult the primary text directly.
 
 ### 5. Prayers and a sin offering for the dead -- one of the most doctrinally significant and contested passages in the deuterocanonical corpus
 
+*Entry ID: 2MACC-005*
+
 **References:** 2 Maccabees 12:38-46
 
 **The claim:** 2 Maccabees 12:38-46 records that after a battle, Judas Maccabeus's soldiers discover that some of their own fallen comrades had secretly worn forbidden pagan amulets -- a violation of the Law -- and, recognizing this as the reason for their deaths in battle, Judas takes up a collection and sends money to Jerusalem 'to provide for a sin offering' on their behalf, with the text explicitly commending this action as 'holy and pious,' reasoning that it would be 'superfluous and foolish to pray for the dead' if there were no hope of resurrection, and concluding that it is 'a holy and wholesome thought to pray for the dead, that they may be loosed from their sins' (12:46, in some translations' numbering). This passage has been cited since antiquity, and explicitly at the Council of Trent, as a key scriptural basis for the Catholic doctrine of purgatory and the practice of praying for the dead -- a doctrine Protestant tradition rejects, a disagreement that was itself a significant factor in the Protestant exclusion of the deuterocanonical books from the canon during the Reformation.
@@ -131,6 +138,8 @@ encouraged to consult the primary text directly.
 ## Ethical Tensions
 
 ### 6. Razis's suicide -- narrated with apparent approval, in some tension with the sanctity of life
+
+*Entry ID: 2MACC-006*
 
 **References:** 2 Maccabees 14:37-46
 

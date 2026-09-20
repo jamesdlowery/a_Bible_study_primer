@@ -44,6 +44,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'The righteous shall live by his faith' -- three different New Testament applications of one verse
 
+*Entry ID: HAB-001*
+
 **References:** Habakkuk 2:4; Romans 1:17; Galatians 3:11; Hebrews 10:38-39
 
 **The claim:** Habakkuk 2:4 -- 'the righteous shall live by his faith' -- is quoted directly in three separate New Testament books, each applying it to a somewhat different theological argument: Romans 1:17 uses it to establish justification by faith rather than works as the very theme of the letter; Galatians 3:11 uses it in a more specifically polemical argument that righteousness cannot come through observing the Mosaic Law; Hebrews 10:38-39 uses it in a context emphasizing faithful endurance and perseverance under persecution rather than the initial moment of justifying belief. In Habakkuk's own original context, the verse contrasts the arrogant, self-sufficient Babylonian invader with the righteous person's steady, trusting faithfulness that will sustain them through the coming Babylonian judgment -- a statement about persevering trust amid national crisis, not a formal doctrine of justification as such.
@@ -62,6 +64,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'Though the fig tree should not blossom' -- affirmed joy amid total agricultural and economic collapse
 
+*Entry ID: HAB-002*
+
 **References:** Habakkuk 3:17-19
 
 **The claim:** Habakkuk's closing verses affirm confident joy in God even while explicitly describing total agricultural and economic devastation: 'Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls, yet I will rejoice in the LORD; I will take joy in the God of my salvation' (3:17-18) -- an affirmation of joy that some readers find in tension with the totality of loss being described.
@@ -78,6 +82,8 @@ primary texts and the cross-references directly.
 
 ### 3. Using a more wicked nation to judge a less wicked one -- the book's central crisis
 
+*Entry ID: HAB-003*
+
 **References:** Habakkuk 1:2-4; Habakkuk 1:5-11; Habakkuk 1:12-2:1
 
 **The claim:** Habakkuk opens with the prophet's complaint that God is not acting against the injustice and violence within Judah itself (1:2-4). God's answer (1:5-11) is to announce that he is raising up the Babylonians (Chaldeans) -- described as 'that bitter and hasty nation,' guilty of their own extensive violence and self-deifying pride ('their justice and dignity go forth from themselves,' 1:7) -- as the very instrument of judgment against Judah. Habakkuk's second complaint (1:12-2:1) presses exactly this difficulty: how can God, who is 'of purer eyes than to see evil' (1:13), justify using a nation more violent and wicked than Judah itself as the means of Judah's punishment?
@@ -91,6 +97,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. 'Of purer eyes than to see evil' -- moral purity, or a claim about perceptual limitation?
+
+*Entry ID: HAB-004*
 
 **References:** Habakkuk 1:13
 
@@ -108,6 +116,8 @@ primary texts and the cross-references directly.
 
 ### 5. 'We shall not die' -- a much-discussed ancient scribal tradition, though not reflected in any of these translations
 
+*Entry ID: HAB-005*
+
 **References:** Habakkuk 1:12
 
 **The claim:** Habakkuk 1:12 reads, in every translation surveyed in this project, 'Are you not from everlasting, O LORD my God, my Holy One? We shall not die.' Ancient rabbinic tradition, however, includes this verse among a small, specifically identified list of eighteen so-called tiqqune sopherim ('corrections of the scribes') -- passages Jewish tradition itself holds were deliberately altered by ancient scribes from an original wording considered too theologically uncomfortable to transmit unaltered. The tradition holds the original reading here was 'You [God] shall not die' (a natural continuation of the preceding question about God's own eternal nature), which scribes are said to have changed to 'we shall not die' (shifting the referent from God to Israel) specifically to avoid even a rhetorical question implying the possibility of God's own death.
@@ -123,6 +133,8 @@ primary texts and the cross-references directly.
 ## Literary Composition
 
 ### 6. A closing psalm in a different genre, complete with musical notations
+
+*Entry ID: HAB-006*
 
 **References:** Habakkuk 3:1-19
 

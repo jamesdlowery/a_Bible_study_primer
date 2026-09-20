@@ -18,15 +18,7 @@ substance.
 skeptical body) and entry 9 (Solomonic authorship) are both presented with genuine scholarly
 uncertainty rather than a single forced resolution.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -49,6 +41,8 @@ to consult the primary texts directly.
 
 ### 1. 'There is nothing new under the sun' -- vs. God doing 'a new thing'
 
+*Entry ID: ECCL-001*
+
 **References:** Ecclesiastes 1:9-10; Isaiah 43:19; Revelation 21:5
 
 **The claim:** Ecclesiastes 1:9-10 states flatly, 'What has been is what will be, and what has been done is what will be done, and there is nothing new under the sun... there is no remembrance of former things.' This appears to be in direct tension with later scriptural affirmations that God does bring about genuinely new things: 'Behold, I am doing a new thing' (Isaiah 43:19), and 'Behold, I am making all things new' (Revelation 21:5).
@@ -62,6 +56,8 @@ to consult the primary texts directly.
 ---
 
 ### 2. 'Man has no advantage over the beasts' -- vs. human distinctiveness and resurrection hope elsewhere
+
+*Entry ID: ECCL-002*
 
 **References:** Ecclesiastes 3:19-21; Genesis 1:26-27; 1 Corinthians 15:12-22
 
@@ -77,6 +73,8 @@ to consult the primary texts directly.
 
 ### 3. 'The dead know nothing' -- vs. conscious existence after death elsewhere in Scripture
 
+*Entry ID: ECCL-003*
+
 **References:** Ecclesiastes 9:5, 10; Luke 16:19-31; Revelation 6:9-10; 2 Corinthians 5:8
 
 **The claim:** Ecclesiastes 9:5 states, 'the dead know nothing, and they have no more reward, for the memory of them is forgotten,' and 9:10 adds, 'there is no work or thought or knowledge or wisdom in Sheol, to which you are going' -- language read by some as denying any conscious existence after death. This stands in apparent tension with Jesus' account of the rich man and Lazarus, both fully conscious and aware after death (Luke 16:19-31), the martyrs depicted as consciously crying out from under the heavenly altar (Revelation 6:9-10), and Paul's own stated preference to be 'away from the body and at home with the Lord' (2 Corinthians 5:8), implying continued conscious existence.
@@ -90,6 +88,8 @@ to consult the primary texts directly.
 ---
 
 ### 4. 'Be not overly righteous... do not make yourself too wise' -- vs. the call to complete devotion
+
+*Entry ID: ECCL-004*
 
 **References:** Ecclesiastes 7:16-18; Matthew 5:48
 
@@ -105,6 +105,8 @@ to consult the primary texts directly.
 
 ### 5. 'Time and chance happen to them all' -- vs. Proverbs' confident providential ordering
 
+*Entry ID: ECCL-005*
+
 **References:** Ecclesiastes 9:11; Proverbs 16:33; Proverbs 10:27
 
 **The claim:** Ecclesiastes 9:11 observes, 'the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to the men of skill; but time and chance happen to them all' -- an observation emphasizing the apparent randomness and unpredictability of outcomes in life, standing in some tension with Proverbs' confident, providence-affirming claims that even seemingly random events (such as the casting of lots) are entirely governed by God ('the lot is cast into the lap, but its every decision is from the LORD,' Proverbs 16:33), and that wisdom and righteousness reliably produce favorable outcomes (Proverbs 10:27, addressed at greater length in the companion Proverbs chapter).
@@ -118,6 +120,8 @@ to consult the primary texts directly.
 ---
 
 ### 6. Is money good or bad, given that this book calls it the 'answer' to everything?
+
+*Entry ID: ECCL-006*
 
 **References:** Ecclesiastes 10:19; Ecclesiastes 5:10; 1 Timothy 6:10
 
@@ -135,6 +139,8 @@ to consult the primary texts directly.
 
 ### 7. Retribution affirmed -- then immediately observed to fail, within the same passage
 
+*Entry ID: ECCL-007*
+
 **References:** Ecclesiastes 8:12-13; Ecclesiastes 8:14
 
 **The claim:** Ecclesiastes 8:12-13 states a confident, traditional retribution principle: 'though a sinner does evil a hundred times and prolongs his life, yet I know that it will be well with those who fear God... but it will not be well with the wicked.' The very next verse, without any transition or qualification, states the opposite as an observed reality: 'there is a vanity that takes place on earth, that there are righteous people to whom it happens according to the deeds of the wicked, and there are wicked people to whom it happens according to the deeds of the righteous' (8:14).
@@ -148,6 +154,8 @@ to consult the primary texts directly.
 ---
 
 ### 8. 'Better than both is he who has not yet been' -- documented lament, or the author's settled theology?
+
+*Entry ID: ECCL-008*
 
 **References:** Ecclesiastes 4:2-3; Ecclesiastes 6:3-5; Genesis 1:28
 
@@ -165,6 +173,8 @@ to consult the primary texts directly.
 
 ### 9. The epilogue's confident 'fear God and keep his commandments' -- vs. the skeptical tone of the book's body
 
+*Entry ID: ECCL-009*
+
 **References:** Ecclesiastes 12:9-14; Ecclesiastes 1:2; Ecclesiastes 2:17
 
 **The claim:** The great majority of Ecclesiastes maintains a skeptical, world-weary, and at points seemingly despairing tone -- 'vanity of vanities, all is vanity' (1:2), 'I hated life' (2:17), and repeated observations of life's apparent meaninglessness and injustice. Yet the book's closing verses shift decisively to a confident, traditional, and theologically resolved conclusion: 'Fear God and keep his commandments, for this is the whole duty of man. For God will bring every deed into judgment' (12:13-14) -- a tone and content some readers find difficult to reconcile smoothly with the preceding eleven-plus chapters.
@@ -179,6 +189,8 @@ to consult the primary texts directly.
 
 ### 10. Solomonic authorship claimed -- yet strained by an odd detail and much later linguistic evidence
 
+*Entry ID: ECCL-010*
+
 **References:** Ecclesiastes 1:1, 12, 16; Ecclesiastes 2:7, 9
 
 **The claim:** Ecclesiastes 1:1 identifies its speaker as 'the Preacher, the son of David, king in Jerusalem,' traditionally understood as Solomon, the only son of David to reign as king over a united Israel from Jerusalem. Yet 1:16 has the speaker claim, 'I have acquired great wisdom, surpassing all who were over Jerusalem before me' -- a curious statement if the speaker were Solomon, since only one king (David, his own father) had reigned in Jerusalem before him, making 'all who were over Jerusalem before me' an odd plural for a single predecessor. Separately, the book's Hebrew contains a number of late linguistic features (including apparent Aramaic and Persian loanwords) that many scholars -- both critical and a number of conservative -- read as indicating a substantially later date of composition than Solomon's tenth-century-BC reign.
@@ -192,6 +204,8 @@ to consult the primary texts directly.
 ---
 
 ### 11. 'Eat, drink, and find enjoyment' -- a recurring counter-refrain to the dominant 'vanity' theme
+
+*Entry ID: ECCL-011*
 
 **References:** Ecclesiastes 2:24; Ecclesiastes 3:12-13; Ecclesiastes 5:18-19; Ecclesiastes 8:15; Ecclesiastes 1:2
 

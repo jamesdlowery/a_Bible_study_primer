@@ -47,6 +47,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'The soul who sins shall die' -- the Bible's most extensive statement of individual responsibility
 
+*Entry ID: EZEK-001*
+
 **References:** Ezekiel 18:1-32; Exodus 20:5; Deuteronomy 24:16
 
 **The claim:** Ezekiel 18 opens by explicitly quoting and directly rejecting a popular proverb of its day -- 'The fathers have eaten sour grapes, and the children's teeth are set on edge' -- stating flatly, 'the soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son' (18:20), and developing this principle at great length across the entire chapter with detailed case studies of a righteous father, a wicked son, and a righteous grandson, each judged strictly on their own conduct. This raises, in its most extensive canonical form, the tension addressed at several points elsewhere in this project regarding Exodus 20:5's language of God 'visiting the iniquity of the fathers on the children.'
@@ -60,6 +62,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. 'I gave them statutes that were not good' -- one of the most startling verses in the Old Testament
+
+*Entry ID: EZEK-002*
 
 **References:** Ezekiel 20:25-26; Psalm 19:7; Deuteronomy 30:15-16
 
@@ -75,6 +79,8 @@ primary texts and the cross-references directly.
 
 ### 3. Four-faced living creatures, six-winged seraphim, and Revelation's differently-described four living creatures
 
+*Entry ID: EZEK-003*
+
 **References:** Ezekiel 1:5-14; Ezekiel 10:1-22; Isaiah 6:1-3; Revelation 4:6-8
 
 **The claim:** Ezekiel's inaugural vision (chapter 1, revisited in chapter 10) describes four living creatures (later identified as cherubim, 10:20), each possessing four faces (of a man, a lion, an ox, and an eagle) and four wings. Isaiah's throne vision (6:1-3) instead describes seraphim, each with six wings, calling out 'holy, holy, holy.' Revelation 4:6-8 describes four living creatures around God's throne, but assigns each creature only one of the four faces individually (one like a lion, one like an ox, one with a human face, one like an eagle in flight) rather than each creature having all four faces as in Ezekiel, and gives them six wings each, matching Isaiah's seraphim rather than Ezekiel's four-winged cherubim.
@@ -89,6 +95,8 @@ primary texts and the cross-references directly.
 
 ### 4. The lament over the king of Tyre -- a human ruler, or Satan's own primordial fall?
 
+*Entry ID: EZEK-004*
+
 **References:** Ezekiel 28:11-19; Isaiah 14:12-15; Genesis 3:1-15
 
 **The claim:** Ezekiel 28:11-19, explicitly framed as 'a lamentation for the king of Tyre' (28:12), describes its subject in language that goes well beyond typical royal hyperbole: 'You were in Eden, the garden of God... you were an anointed guard cherub... blameless in your ways from the day you were created, till unrighteousness was found in you.' This raises the same general question addressed in this project's companion Isaiah chapter regarding Isaiah 14's 'Lucifer' oracle against the king of Babylon -- is this describing a human king using cosmic imagery, or Satan's own primordial fall, and does the Eden/cherub language here make the case for a supernatural referent stronger than in the Isaiah passage?
@@ -102,6 +110,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. 'I have no pleasure in the death of the wicked' -- amid a book largely devoted to extensive judgment oracles
+
+*Entry ID: EZEK-005*
 
 **References:** Ezekiel 33:11; Ezekiel 18:23, 32; Ezekiel 6:1-14; Ezekiel 25:1-32:32
 
@@ -119,6 +129,8 @@ primary texts and the cross-references directly.
 
 ### 6. The prophecy against Tyre -- and its own later, honest acknowledgment of partial non-fulfillment
 
+*Entry ID: EZEK-006*
+
 **References:** Ezekiel 26:7-14; Ezekiel 29:17-20
 
 **The claim:** Ezekiel 26:7-14 pronounces an extensive, detailed prophecy that Nebuchadnezzar would utterly destroy Tyre, break down its walls, plunder its wealth, and scrape it 'like the top of a rock' so that it would 'never be rebuilt.' Historically, Nebuchadnezzar's actual 13-year siege of Tyre (approximately 585-572 BC) appears to have ended in a negotiated settlement rather than the city's total destruction and permanent desolation the oracle describes -- mainland Tyre continued to exist, and the more famous, harder-to-conquer island portion of the city was not taken by Nebuchadnezzar at all (it would only fall centuries later, to Alexander the Great, using very different methods).
@@ -134,6 +146,8 @@ primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 7. 390 days representing years of iniquity -- a number that puzzled ancient interpreters as much as modern ones
+
+*Entry ID: EZEK-007*
 
 **References:** Ezekiel 4:4-6
 
@@ -151,6 +165,8 @@ primary texts and the cross-references directly.
 
 ### 8. Zedekiah 'shall not see' Babylon -- yet he 'shall die there'
 
+*Entry ID: EZEK-008*
+
 **References:** Ezekiel 12:13; 2 Kings 25:6-7
 
 **The claim:** Ezekiel 12:13 prophesies concerning King Zedekiah, 'I will bring him to Babylon, the land of the Chaldeans, yet he shall not see it, though he shall die there' -- a statement that reads, on its face, as internally puzzling: how can someone be brought to a specific place, and die there, without ever 'seeing' it?
@@ -167,6 +183,8 @@ primary texts and the cross-references directly.
 
 ### 9. The valley of dry bones: individual bodily resurrection, or corporate national restoration?
 
+*Entry ID: EZEK-009*
+
 **References:** Ezekiel 37:1-14
 
 **The claim:** Ezekiel's vision of a valley full of dry bones being reassembled, covered with flesh, and brought to life by God's breath (37:1-10) is one of the most vivid resurrection images in the Old Testament, and has been read by later Jewish and Christian tradition as bearing on the doctrine of individual bodily resurrection at the end of the age -- raising a question about whether this is the vision's own intended meaning, since the passage itself supplies an explicit interpretation identifying the bones with the corporate nation: 'these bones are the whole house of Israel... I will open your graves and raise you from your graves, O my people, and bring you into the land of Israel' (37:11-12).
@@ -180,6 +198,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. Gog and Magog: a specific historical invasion of Israel, or the final rebellion at history's end?
+
+*Entry ID: EZEK-010*
 
 **References:** Ezekiel 38:1-39:29; Revelation 20:7-10
 
@@ -197,6 +217,8 @@ primary texts and the cross-references directly.
 
 ### 11. Priesthood restricted to 'the sons of Zadok' in Ezekiel's future Temple vision
 
+*Entry ID: EZEK-011*
+
 **References:** Ezekiel 44:15-31; Numbers 3:5-10; 1 Kings 2:26-27
 
 **The claim:** Ezekiel's extended vision of a future, idealized Temple (chapters 40-48) restricts full priestly service specifically to 'the Levitical priests, the sons of Zadok' (44:15), demoting other Levites who had strayed into idolatry to a lesser support role (44:10-14) -- a narrower restriction than the general Levitical priesthood (all descendants of Aaron) established in the Torah (Numbers 3:5-10), raising a question about how this future vision's more restrictive priestly arrangement relates to the Torah's own earlier, broader provisions.
@@ -212,6 +234,8 @@ primary texts and the cross-references directly.
 ## Names and Identity
 
 ### 12. 'Noah, Daniel, and Job' -- the biblical Daniel, or an ancient legendary figure of the same name?
+
+*Entry ID: EZEK-012*
 
 **References:** Ezekiel 14:14, 20; Ezekiel 28:3
 

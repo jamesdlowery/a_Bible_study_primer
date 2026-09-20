@@ -1,12 +1,8 @@
 # Reportedly Contradicting Passages in Judith
 
 **A note on this document's place in the series:** As with Tobit, Judith is a deuterocanonical
-book included in only five of the 27 tracked translations in this project -- the Douay-Rheims
-Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE, all representing Catholic-tradition
-translations. The remaining 22 follow the Protestant, Jewish, or otherwise
-non-deuterocanonical-affirming canon, which excludes Judith as non-canonical. This document
-notes, for each entry, that the majority of tracked translations do not contain the book at
-all.
+book -- see the note on canon status at the start of the Apocrypha block above for which five
+of the 27 tracked translations include it.
 
 This document catalogs 5 commonly cited alleged contradictions and notable historical,
 literary, and theological questions involving the book of Judith, either entirely internal to
@@ -45,6 +41,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 
 ### 1. 'Nebuchadnezzar, who reigned over the Assyrians in the great city of Nineveh' -- the book's own opening, striking historical anomaly
 
+*Entry ID: JDT-001*
+
 **References:** Judith 1:1
 
 **The claim:** Judith opens: 'It was the twelfth year of the reign of Nebuchadnezzar, who reigned over the Assyrians in the great city of Nineveh' -- yet Nebuchadnezzar was the historically well-attested king of Babylon (605-562 BC), not of Assyria, and Nineveh, Assyria's capital, had already been destroyed in 612 BC, before Nebuchadnezzar's own reign even began. This is widely regarded as the single most immediately striking historical difficulty in the entire deuterocanonical corpus -- considerably more pronounced than the chronological difficulties addressed in the companion Tobit chapter, since it involves confusing two entirely different empires and their most famous respective rulers.
@@ -60,6 +58,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 ## Literary Composition
 
 ### 2. A book widely read, including by the Catholic magisterium itself, as parable rather than strict history
+
+*Entry ID: JDT-002*
 
 **References:** Judith 1:1; Judith 2:1-13; Judith 4:3
 
@@ -77,6 +77,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 
 ### 3. Judith's premeditated deception and killing of Holofernes -- deception for a righteous cause
 
+*Entry ID: JDT-003*
+
 **References:** Judith 10:1-4; Judith 11:5-19; Judith 13:1-10; Joshua 2:1-7; Judges 4:17-21; Exodus 1:15-20
 
 **The claim:** Judith's central narrative involves an extensive, deliberate campaign of deception: she adorns herself beautifully specifically to seduce and disarm the Assyrian general Holofernes (10:1-4), tells him a series of calculated falsehoods about her own people's supposed vulnerability and about revealing God's plans to him (11:5-19), and ultimately beheads him with his own sword while he lies in a drunken stupor in his private tent (13:1-10) -- an extended, premeditated pattern of deception in the service of achieving her people's deliverance, raising the same general question this project has addressed at several points regarding other biblical figures who employ deception for a purportedly righteous end (Rahab's deception of the spies in Joshua 2, the Hebrew midwives' deception of Pharaoh in Exodus 1, and Jael's deception and killing of Sisera in Judges 4).
@@ -93,6 +95,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 
 ### 4. Judith invokes Simeon's violence at Shechem as an approved precedent -- though Genesis itself has Jacob condemn that same violence
 
+*Entry ID: JDT-004*
+
 **References:** Judith 9:2-4; Genesis 34:25-31; Genesis 49:5-7
 
 **The claim:** In her extended prayer before confronting Holofernes, Judith explicitly invokes her ancestor Simeon's violent revenge on the city of Shechem (following the rape of Dinah, Genesis 34:25-31) as a positive precedent and model for God's own righteous vindication of the wronged: 'you gave into the hands of Simeon, one of my ancestors, a sword to take revenge on those aliens who had loosed the girdle of a virgin to defile her... and you gave their wives for a prey, and their daughters to captivity' (9:2-4). Yet Genesis itself, in Jacob's own deathbed pronouncement over his sons, sharply condemns this very same act rather than approving it: 'Simeon and Levi are brothers; weapons of violence are their swords... Cursed be their anger, for it is fierce, and their wrath, for it is cruel' (Genesis 49:5-7).
@@ -108,6 +112,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 ## Law and Practice
 
 ### 5. Achior the Ammonite's conversion -- an apparent resolution of Deuteronomy's exclusion of Ammonites, paralleling Ruth
+
+*Entry ID: JDT-005*
 
 **References:** Judith 14:5-10; Deuteronomy 23:3-6
 

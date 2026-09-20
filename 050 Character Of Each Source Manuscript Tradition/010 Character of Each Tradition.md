@@ -1,4 +1,4 @@
-# Character of Each Tradition
+# Manuscript Traditions: Character, Relationships, and Weighing
 
 ## Old Testament / Hebrew Bible and related witnesses
 
@@ -78,3 +78,20 @@ Additional NT-specific considerations
 - Minority approaches (e.g., Majority-Text or Byzantine-priority theories) invert the usual preference and argue that the reading found in the largest number of manuscripts, especially when supported by continuous ecclesiastical use, should be preferred unless clear evidence of corruption exists.
 
 In short: the MT and the Alexandrian witnesses are often starting points because of their relative antiquity and quality, but every significant difference is weighed by the combined external and internal criteria above. The DSS in particular revolutionized OT textual criticism by proving that the traditional MT, while excellent, is only one ancient stream among several.
+
+### A worked example: weighing the evidence for Mark's ending (Mark 16:9-20)
+
+The principles above are abstract until applied to an actual case. Mark 16:9-20 -- the "Longer Ending," addressed at length in Manuscript and Translation Differences -- is a useful example because both external and internal evidence come into play, and they point in the same direction.
+
+**External evidence against the Longer Ending's originality:**
+- Age and quality of witness: the two oldest complete Greek manuscripts of Mark, Codex Vaticanus and Codex Sinaiticus (both 4th century), end at 16:8.
+- Geographical and patristic distribution: early church historians Eusebius and Jerome (4th-5th century) both stated that the Longer Ending was absent from "almost all" the Greek manuscripts known to them -- independent testimony spanning different regions, not a single localized gap.
+- A specific manuscript feature: Codex Vaticanus leaves a blank column immediately after 16:8, unusual for that manuscript, which some read as evidence its scribe knew of a longer ending but lacked it in his own source.
+
+**External evidence for the Longer Ending's originality:**
+- Sheer manuscript count: the Longer Ending appears in the vast majority (an estimated 99%) of the roughly 1,700 surviving Greek manuscripts of Mark.
+- An early citation: the church father Irenaeus quotes Mark 16:19 by name around 180 AD, earlier than either Vaticanus or Sinaiticus were copied.
+
+**Internal evidence:** the Longer Ending's Greek shows a noticeable shift in vocabulary and style from the rest of Mark -- the kind of stylistic discontinuity transcriptional and intrinsic probability both treat as a signal of a different hand, though stylistic arguments are inherently softer than manuscript evidence.
+
+**How these weigh against each other:** applying the principles above -- age and quality of witness favor omission (the earliest, most carefully copied manuscripts lack it); geographical/patristic distribution favors omission (the gap is attested across regions and centuries, not local); sheer manuscript count favors inclusion (the numerical majority of later copies have it) but carries less weight under reasoned eclecticism, which does not simply count manuscripts; and internal stylistic evidence leans toward omission. This is why the majority of contemporary textual critics conclude the Longer Ending was not part of Mark's original composition, while a substantial minority of scholars and textual critics continue to defend its authenticity on the strength of its early attestation (Irenaeus) and its overwhelming numerical support in the later manuscript tradition. Manuscript and Translation Differences presents this specific case in full, including how each of the 27 tracked translations flags it.

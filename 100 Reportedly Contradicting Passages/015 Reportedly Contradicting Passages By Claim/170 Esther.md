@@ -49,6 +49,8 @@ primary texts directly.
 
 ### 1. Most of the 27 tracked translations never mention God -- five do, extensively
 
+*Entry ID: ESTH-001*
+
 **References:** Esther (entire book); the Additions to Esther
 
 **The claim:** The Hebrew book of Esther, translated in the great majority of the 27 versions surveyed in this project, is famous for never once mentioning God, prayer, or any explicitly religious act -- providence is implied throughout (most famously in Mordecai's words at 4:14) but never named. The Catholic-tradition translations among the 27, however, include the 'Additions to Esther' -- six substantial passages found in the ancient Greek (Septuagint) text of Esther but absent from the Hebrew text underlying the Protestant and Jewish-tradition translations -- which add dozens of explicit references to God, including extended prayers by both Mordecai and Esther, not found anywhere in the other translations of this book.
@@ -66,6 +68,8 @@ primary texts directly.
 ## Chronology
 
 ### 2. Was Mordecai himself exiled in 597 BC -- which would make him well over a century old?
+
+*Entry ID: ESTH-002*
 
 **References:** Esther 2:5-6
 
@@ -85,6 +89,8 @@ primary texts directly.
 
 ### 3. Esther's three-day fast, and approaching the king 'on the third day'
 
+*Entry ID: ESTH-003*
+
 **References:** Esther 4:16; Esther 5:1
 
 **The claim:** Esther instructs Mordecai to have the Jewish community in Susa fast on her behalf 'for three days, night or day' before she will risk approaching the king uninvited (4:16). The very next verse of the narrative states, 'on the third day Esther put on her royal robes and went' to the king (5:1) -- read as a strict count, this would mean Esther approached the king before the three full days of fasting were actually completed.
@@ -100,6 +106,8 @@ primary texts directly.
 ## Numbers and Text
 
 ### 4. 127 provinces, or 120 satraps -- does Esther's empire match Daniel's?
+
+*Entry ID: ESTH-004*
 
 **References:** Esther 1:1; Daniel 6:1
 
@@ -117,6 +125,8 @@ primary texts directly.
 
 ### 5. 'The law of the Medes and Persians, which cannot be revoked' -- a shared legal principle across two books
 
+*Entry ID: ESTH-005*
+
 **References:** Esther 1:19; Esther 8:8; Daniel 6:8, 12, 15
 
 **The claim:** Esther twice invokes a specific legal principle: that a decree issued under the king's seal, once given, cannot be revoked or altered, even by the king himself (1:19, 8:8). Daniel 6:8, 12, and 15 invoke the identical principle in a different narrative context (the plot against Daniel), describing it explicitly as 'the law of the Medes and Persians, which cannot be revoked.' Since both books describe the same specific, seemingly unusual legal doctrine, some ask whether this reflects a genuine, externally attested feature of Persian law, or a shared literary convention between the two books.
@@ -133,6 +143,8 @@ primary texts directly.
 
 ### 6. Identifying Ahasuerus, and the multi-year gap between chapters 1 and 2
 
+*Entry ID: ESTH-006*
+
 **References:** Esther 1:3; Esther 2:16; Esther 3:7
 
 **The claim:** Esther 1:3 dates the king's great feast to 'the third year of his reign.' Esther 2:16 dates Esther's own elevation to queen to 'the seventh year' of the same king's reign -- a gap of roughly four years, during which the narrative records only the search for Vashti's replacement. Ahasuerus is generally identified by scholars with the historically attested Persian king Xerxes I (486-465 BC), whose own extensively documented, and ultimately disastrous, military campaign against Greece occupied much of this same multi-year window -- raising a question, discussed by historians rather than by the biblical text itself, of how the narrative's timeline relates to this independently attested historical gap.
@@ -148,6 +160,8 @@ primary texts directly.
 ## Theological Tensions
 
 ### 7. A book that never names God -- an anomaly among the historical books?
+
+*Entry ID: ESTH-007*
 
 **References:** Esther (entire Hebrew text)
 

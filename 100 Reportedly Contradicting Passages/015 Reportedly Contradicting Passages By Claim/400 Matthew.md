@@ -25,15 +25,7 @@ without asserting a single certain answer. Entries 1, 5, and 12 are presented wi
 scholarly diversity of opinion, including on questions (entry 12 especially) that remain bound
 up with sincerely contested denominational differences this project does not adjudicate.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -60,6 +52,8 @@ primary texts and the cross-references directly.
 
 ### 1. Matthew's genealogy of Jesus vs. Luke's -- the most famous harmonization case in the New Testament
 
+*Entry ID: MATT-001*
+
 **References:** Matthew 1:1-17; Luke 3:23-38
 
 **The claim:** Matthew and Luke both trace Jesus' genealogy back through David, but the two lists diverge substantially: Matthew traces the line forward from Abraham through David's son Solomon, while Luke traces it from Jesus backward through David's son Nathan -- an entirely different son of David, and a largely different set of names for the many generations between David and Joseph. Even Joseph's own father is named differently: Matthew names him 'Jacob' (1:16), while Luke names him 'Heli' (3:23).
@@ -73,6 +67,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Two distinct, largely non-overlapping birth narratives
+
+*Entry ID: MATT-002*
 
 **References:** Matthew 1:18-2:23; Luke 1:5-2:40
 
@@ -88,6 +84,8 @@ primary texts and the cross-references directly.
 
 ### 3. Judas's death: hanged himself -- or fell headlong and burst open?
 
+*Entry ID: MATT-003*
+
 **References:** Matthew 27:3-10; Acts 1:15-19
 
 **The claim:** Matthew 27:5 states that Judas, overcome with remorse after betraying Jesus, 'went and hanged himself.' Acts 1:18, in Peter's own later speech to the assembled disciples, describes Judas's death differently: 'falling headlong, he burst open in the middle and all his bowels gushed out' -- a classic and frequently cited apparent contradiction regarding the specific manner of Judas's death.
@@ -101,6 +99,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. The resurrection morning: differing details across all four Gospels
+
+*Entry ID: MATT-004*
 
 **References:** Matthew 28:1-10; Mark 16:1-8; Luke 24:1-12; John 20:1-18
 
@@ -116,6 +116,8 @@ primary texts and the cross-references directly.
 
 ### 5. The Sermon on the Mount -- and Luke's differently located, differently worded 'Sermon on the Plain'
 
+*Entry ID: MATT-005*
+
 **References:** Matthew 5:1-7:29; Luke 6:17-49
 
 **The claim:** Matthew presents an extended block of Jesus' ethical teaching, delivered from a mountainside (5:1), including the Beatitudes in a form beginning 'Blessed are the poor in spirit' (5:3). Luke records a substantially similar, but not identical, block of teaching delivered 'on a level place' (6:17) rather than a mountain, with a shorter and differently worded set of Beatitudes ('Blessed are you who are poor,' 6:20, without 'in spirit,' and including several 'woes' addressed to the rich and comfortable, 6:24-26, absent from Matthew's version) -- raising a question of whether these are two reports of a single occasion, or two distinct sermons delivered on different occasions.
@@ -129,6 +131,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. The centurion's servant: direct approach, or through intermediaries?
+
+*Entry ID: MATT-006*
 
 **References:** Matthew 8:5-13; Luke 7:1-10
 
@@ -144,6 +148,8 @@ primary texts and the cross-references directly.
 
 ### 7. Where did John the Baptist baptize?
 
+*Entry ID: MATT-007*
+
 **References:** Matthew 3:1-6; John 1:28; John 3:23
 
 **The claim:** Matthew 3:1-6 places John's baptizing ministry in 'the wilderness of Judaea' and the Jordan region. John 1:28 locates it at 'Bethabara beyond Jordan,' and John 3:23 later locates it at 'Aenon near to Salim,' 'because there was much water there' -- three different place-names associated with John's baptizing activity.
@@ -157,6 +163,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. Were the Pharisees baptized by John?
+
+*Entry ID: MATT-008*
 
 **References:** Matthew 3:7; Luke 7:29-30
 
@@ -172,6 +180,8 @@ primary texts and the cross-references directly.
 
 ### 9. Did Jesus personally baptize anyone?
 
+*Entry ID: MATT-009*
+
 **References:** Matthew 3:11; John 4:1-2
 
 **The claim:** Matthew 3:11 has John describe the coming Jesus as one who 'shall baptize you with the Holy Ghost, and with fire,' language some read alongside other Gospel references to Jesus baptizing. John 4:1-2 states directly that 'Jesus himself baptized not, but his disciples.'
@@ -185,6 +195,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. How did God address Jesus at his baptism -- in the third person, or the second?
+
+*Entry ID: MATT-010*
 
 **References:** Matthew 3:17; Mark 1:11; Luke 3:22
 
@@ -200,6 +212,8 @@ primary texts and the cross-references directly.
 
 ### 11. How exactly did Peter, Andrew, James, and John become Jesus's disciples, and when?
 
+*Entry ID: MATT-011*
+
 **References:** Matthew 4:12-22; Mark 1:16-20; John 1:35-42
 
 **The claim:** Matthew 4:18-22 (paralleled in Mark 1:16-20) describes Jesus calling Peter and Andrew, then James and John, abruptly while they are casting or mending fishing nets, with the brothers immediately leaving everything to follow him -- narrated as an apparently first encounter. John 1:35-42, however, describes Andrew (and likely another disciple) first meeting Jesus much earlier, as a follower of John the Baptist who is directed to Jesus by the Baptist's own testimony ('Behold the Lamb of God!'), with Andrew then bringing his brother Simon to Jesus -- an earlier, calmer, Judean introduction predating the Galilean fishing-net episode. Separately, Matthew places this calling (4:12-22) after John the Baptist's imprisonment, while also, in the same general narrative span, describing Jesus healing Peter's mother-in-law (8:14-15) at a point that could be read as either before or after the formal 'leaving their nets' call.
@@ -213,6 +227,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 12. Was Jesus homeless?
+
+*Entry ID: MATT-012*
 
 **References:** Matthew 8:20; Mark 2:1; Mark 1:29
 
@@ -228,6 +244,8 @@ primary texts and the cross-references directly.
 
 ### 13. Was Jairus's daughter already dead, or merely dying, when Jesus was approached -- and when exactly was the woman with the hemorrhage healed?
 
+*Entry ID: MATT-013*
+
 **References:** Matthew 9:18-26; Mark 5:21-43; Luke 8:40-56
 
 **The claim:** Matthew 9:18 has Jairus tell Jesus at the outset, 'my daughter is even now dead,' before Jesus ever sets out. Mark 5:23 and Luke 8:42 both instead have Jairus report his daughter as merely dying or at the point of death, with the news of her actual death arriving only later, via messengers, while Jesus is en route (delayed by the intervening healing of the woman with a chronic hemorrhage).
@@ -241,6 +259,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 14. Did John the Baptist recognize Jesus as the Son of God?
+
+*Entry ID: MATT-014*
 
 **References:** Matthew 11:2-3; John 1:29-34
 
@@ -256,6 +276,8 @@ primary texts and the cross-references directly.
 
 ### 15. Who is for or against Jesus?
 
+*Entry ID: MATT-015*
+
 **References:** Matthew 12:30; Mark 9:38-40; Luke 9:49-50
 
 **The claim:** Matthew 12:30 has Jesus state, 'He that is not with me is against me.' Mark 9:40 and Luke 9:50, in a different episode, have Jesus instead say the opposite-sounding formula: 'he that is not against us is on our part' (or 'for us').
@@ -269,6 +291,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 16. Did Jesus always speak in parables?
+
+*Entry ID: MATT-016*
 
 **References:** Matthew 13:34; Matthew 5:1-7:29
 
@@ -284,6 +308,8 @@ primary texts and the cross-references directly.
 
 ### 17. Did Herod think Jesus was John the Baptist raised from the dead?
 
+*Entry ID: MATT-017*
+
 **References:** Matthew 14:1-2; Luke 9:7-9
 
 **The claim:** Matthew 14:1-2 has Herod state directly to his servants, 'This is John the Baptist; he is risen from the dead.' Luke 9:7-9 instead describes Herod as perplexed, hearing several competing theories about Jesus' identity (John raised, Elijah, an old prophet risen again), and has Herod himself ask uncertainly, 'John have I beheaded: but who is this, of whom I hear such things?'
@@ -297,6 +323,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 18. Did the disciples understand Jesus' predictions of his coming death, given that they reacted with sorrow, yet elsewhere are said not to have understood at all?
+
+*Entry ID: MATT-018*
 
 **References:** Matthew 16:21-23; Matthew 17:22-23; Luke 9:44-45; Luke 18:31-34
 
@@ -312,6 +340,8 @@ primary texts and the cross-references directly.
 
 ### 19. Did James and John themselves ask for the best seats in the kingdom, or did their mother ask on their behalf?
 
+*Entry ID: MATT-019*
+
 **References:** Matthew 20:20-21; Mark 10:35-37
 
 **The claim:** Matthew 20:20-21 has the mother of James and John approach Jesus and make the request for her sons to sit at his right and left hand in his kingdom. Mark 10:35-37, recording the same episode, instead has James and John themselves make the request directly.
@@ -325,6 +355,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 20. Did the fig tree wither immediately, or was its withering only noticed the next day?
+
+*Entry ID: MATT-020*
 
 **References:** Matthew 21:18-20; Mark 11:12-14, 20-21
 
@@ -340,6 +372,8 @@ primary texts and the cross-references directly.
 
 ### 21. Was Jesus taken to Caiaphas directly, or to Annas first?
 
+*Entry ID: MATT-021*
+
 **References:** Matthew 26:57; John 18:12-14, 19-24
 
 **The claim:** Matthew 26:57 (paralleled in Mark 14:53) has Jesus led directly to Caiaphas the high priest. John 18:12-14 instead has Jesus first led to Annas, Caiaphas's father-in-law and a former high priest, with John 18:19-24 describing a preliminary interrogation there before Jesus is sent on to Caiaphas.
@@ -353,6 +387,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 22. Did the false witnesses at Jesus' trial accuse him of saying something he never actually said?
+
+*Entry ID: MATT-022*
 
 **References:** Matthew 26:59-61; John 2:19-21
 
@@ -368,6 +404,8 @@ primary texts and the cross-references directly.
 
 ### 23. Did Jesus answer the high priest with a direct 'I am,' or with the more indirect 'Thou hast said'?
 
+*Entry ID: MATT-023*
+
 **References:** Matthew 26:63-64; Mark 14:61-62
 
 **The claim:** When the high priest demands to know if he is the Christ, the Son of God, Matthew 26:64 has Jesus respond, 'Thou hast said' -- a somewhat indirect-sounding formula. Mark 14:62, recording the same exchange, has Jesus answer simply and directly, 'I am.'
@@ -381,6 +419,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 24. Was Jesus silent before Pilate, given that he also answered one of Pilate's direct questions?
+
+*Entry ID: MATT-024*
 
 **References:** Matthew 27:11-14
 
@@ -396,6 +436,8 @@ primary texts and the cross-references directly.
 
 ### 25. Who put the robe on Jesus, and was it a single mocking incident or two separate ones?
 
+*Entry ID: MATT-025*
+
 **References:** Matthew 27:27-31; Luke 23:6-12; John 19:1-3
 
 **The claim:** Matthew 27:27-31 (paralleled in Mark and John) describes Pilate's own soldiers robing and mocking Jesus. Luke 23:6-12 uniquely records an earlier, separate episode in which Pilate first sends Jesus to Herod Antipas, whose own soldiers ('men of war') also mock and arrayed Jesus 'in a gorgeous robe' before sending him back to Pilate.
@@ -409,6 +451,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 26. What color was the robe placed on Jesus -- scarlet, or purple?
+
+*Entry ID: MATT-026*
 
 **References:** Matthew 27:28; Mark 15:17; John 19:2
 
@@ -424,6 +468,8 @@ primary texts and the cross-references directly.
 
 ### 27. Who carried Jesus' cross -- Simon of Cyrene, or Jesus himself?
 
+*Entry ID: MATT-027*
+
 **References:** Matthew 27:32; John 19:17
 
 **The claim:** Matthew 27:32 (paralleled in Mark and Luke) has the soldiers compel Simon of Cyrene to carry Jesus' cross. John 19:17 instead states, 'he bearing his cross went forth' -- Jesus carrying it himself.
@@ -437,6 +483,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 28. What did the soldiers offer Jesus to drink -- vinegar mingled with gall, or wine mingled with myrrh?
+
+*Entry ID: MATT-028*
 
 **References:** Matthew 27:34; Mark 15:23
 
@@ -452,6 +500,8 @@ primary texts and the cross-references directly.
 
 ### 29. What did the sign above Jesus' head actually say?
 
+*Entry ID: MATT-029*
+
 **References:** Matthew 27:37; Mark 15:26; Luke 23:38; John 19:19-20
 
 **The claim:** The four Gospels give four different wordings for the sign placed above Jesus on the cross: 'THIS IS JESUS THE KING OF THE JEWS' (Matthew), 'THE KING OF THE JEWS' (Mark), 'THIS IS THE KING OF THE JEWS' (Luke), and 'JESUS OF NAZARETH THE KING OF THE JEWS' (John).
@@ -465,6 +515,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 30. Did both criminals crucified with Jesus revile him, or only one?
+
+*Entry ID: MATT-030*
 
 **References:** Matthew 27:44; Mark 15:32; Luke 23:39-43
 
@@ -480,6 +532,8 @@ primary texts and the cross-references directly.
 
 ### 31. What did the centurion say when Jesus died?
 
+*Entry ID: MATT-031*
+
 **References:** Matthew 27:54; Luke 23:47
 
 **The claim:** Matthew 27:54 has the centurion (and those with him) say, 'Truly this was the Son of God.' Luke 23:47, describing the same moment, instead has him say, 'Certainly this was a righteous man.'
@@ -493,6 +547,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 32. Where did the women who witnessed the crucifixion stand -- far off, or close by the cross?
+
+*Entry ID: MATT-032*
 
 **References:** Matthew 27:55-56; John 19:25-27
 
@@ -508,6 +564,8 @@ primary texts and the cross-references directly.
 
 ### 33. Who buried Jesus -- Joseph of Arimathea alone, or Joseph together with Nicodemus?
 
+*Entry ID: MATT-033*
+
 **References:** Matthew 27:57-60; John 19:38-42
 
 **The claim:** Matthew 27:57-60 (paralleled in Mark and Luke) describes Joseph of Arimathea alone requesting and burying Jesus' body. John 19:38-42 adds that Nicodemus also assisted, bringing a substantial quantity of burial spices.
@@ -521,6 +579,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 34. To whom did Jesus make his first post-resurrection appearance?
+
+*Entry ID: MATT-034*
 
 **References:** Matthew 28:8-10; Mark 16:9; John 20:14-18; Luke 24:34; 1 Corinthians 15:5
 
@@ -538,6 +598,8 @@ primary texts and the cross-references directly.
 
 ### 35. 'Fourteen generations' three times -- yet the third set contains only thirteen names
 
+*Entry ID: MATT-035*
+
 **References:** Matthew 1:17
 
 **The claim:** Matthew 1:17 explicitly states his genealogy divides into three sets of fourteen generations each: Abraham to David, David to the Babylonian deportation, and the deportation to Christ. Yet counting the actual names listed in the third set (1:12-16) yields only thirteen, not fourteen -- a genuine, checkable internal arithmetic discrepancy within the space of a few verses.
@@ -551,6 +613,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 36. 'Thirty pieces of silver... thrown to the potter' -- attributed to 'Jeremiah,' addressed at length in the companion Zechariah chapter
+
+*Entry ID: MATT-036*
 
 **References:** Matthew 27:9-10; Zechariah 11:12-13
 
@@ -566,6 +630,8 @@ primary texts and the cross-references directly.
 
 ### 37. Two demon-possessed men at Gadara -- or one, according to Mark and Luke?
 
+*Entry ID: MATT-037*
+
 **References:** Matthew 8:28-34; Mark 5:1-20; Luke 8:26-39
 
 **The claim:** Matthew's account of Jesus casting demons into a herd of pigs near Gadara describes two demon-possessed men coming out to meet Jesus (8:28). Mark 5:1-20 and Luke 8:26-39, describing what is evidently the same event (matching setting, demons requesting entry into the pigs, and the resulting stampede), each describe only one demon-possessed man.
@@ -579,6 +645,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 38. Two blind men healed at Jericho -- or one, named Bartimaeus, according to Mark?
+
+*Entry ID: MATT-038*
 
 **References:** Matthew 20:29-34; Mark 10:46-52; Luke 18:35-43
 
@@ -594,6 +662,8 @@ primary texts and the cross-references directly.
 
 ### 39. The Triumphal Entry: one donkey, or two? Addressed at length in the companion Zechariah chapter
 
+*Entry ID: MATT-039*
+
 **References:** Matthew 21:1-7; Zechariah 9:9
 
 **The claim:** Matthew's account of the Triumphal Entry describes both a donkey and its colt being brought to Jesus (21:2, 7), a detail some read as depicting Jesus riding two animals simultaneously, in a manner some scholars connect to Matthew's own handling of Zechariah 9:9's Hebrew poetic parallelism -- addressed at length in this project's companion Zechariah chapter, which treats this as one of its own central entries.
@@ -608,6 +678,8 @@ primary texts and the cross-references directly.
 
 ### 40. Did the Transfiguration occur six days after Peter's confession, or about eight?
 
+*Entry ID: MATT-040*
+
 **References:** Matthew 17:1; Luke 9:28
 
 **The claim:** Matthew 17:1 (paralleled in Mark 9:2) states the Transfiguration occurred 'after six days.' Luke 9:28 instead states it was 'about an eight days after.'
@@ -621,6 +693,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 41. Does the order in which Jesus lists the commandments indicate a different sixth commandment?
+
+*Entry ID: MATT-041*
 
 **References:** Matthew 19:18-19; Mark 10:19; Luke 18:20
 
@@ -638,6 +712,8 @@ primary texts and the cross-references directly.
 
 ### 42. 'On this rock I will build my church' -- material unique to Matthew, with major doctrinal significance
 
+*Entry ID: MATT-042*
+
 **References:** Matthew 16:13-20; Mark 8:27-30; Luke 9:18-21
 
 **The claim:** Matthew's account of Peter's confession at Caesarea Philippi includes an extended response from Jesus not found in either Mark's or Luke's parallel accounts of the same episode: 'you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it. I will give you the keys of the kingdom of heaven' (16:18-19) -- language of major and lasting doctrinal significance (forming a central scriptural basis for later Catholic teaching on papal primacy and apostolic succession) that Mark and Luke's parallel accounts of the same conversation simply do not include, raising a question of whether this represents an authentic saying the other two Synoptic authors chose to omit, or a later addition reflecting Matthew's own particular theological interests.
@@ -651,6 +727,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 43. Does Jesus bring peace, or a sword?
+
+*Entry ID: MATT-043*
 
 **References:** Matthew 10:34-36; Luke 2:14; Luke 12:51; John 14:27
 
@@ -666,6 +744,8 @@ primary texts and the cross-references directly.
 
 ### 44. Is the Old Testament Law abolished, or upheld by Jesus?
 
+*Entry ID: MATT-044*
+
 **References:** Matthew 5:17-18; Romans 10:4; Ephesians 2:15; Hebrews 7:18
 
 **The claim:** Matthew 5:17-18 has Jesus declare, 'Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them... until heaven and earth pass away, not an iota, not a dot, will pass from the Law.' Yet Paul writes that 'Christ is the end of the law for righteousness to everyone who believes' (Romans 10:4), that Christ has 'abolish[ed] the law of commandments expressed in ordinances' (Ephesians 2:15), and Hebrews describes 'a former commandment... set aside' (Hebrews 7:18) -- language that, on its face, sounds like abolition rather than fulfillment.
@@ -679,6 +759,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 45. 'Eye for eye' vs. 'turn the other cheek'
+
+*Entry ID: MATT-045*
 
 **References:** Exodus 21:24; Leviticus 24:20; Matthew 5:38-39
 
@@ -694,6 +776,8 @@ primary texts and the cross-references directly.
 
 ### 46. Is every sin forgivable, or is one sin unforgivable?
 
+*Entry ID: MATT-046*
+
 **References:** Matthew 12:31-32; Mark 3:28-29; Luke 12:10; 1 John 1:9
 
 **The claim:** Jesus states, 'every sin and blasphemy will be forgiven people, but the blasphemy against the Spirit will not be forgiven... whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come' (Matthew 12:31-32; paralleled in Mark 3:28-29 and Luke 12:10). Yet 1 John 1:9 states without qualification, 'If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness' -- seemingly without exception.
@@ -707,6 +791,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 47. Two versions of the Lord's Prayer
+
+*Entry ID: MATT-047*
 
 **References:** Matthew 6:9-13; Luke 11:2-4
 
@@ -722,6 +808,8 @@ primary texts and the cross-references directly.
 
 ### 48. Who bought the Field of Blood, and why is it so named?
 
+*Entry ID: MATT-048*
+
 **References:** Matthew 27:6-10; Acts 1:18-19
 
 **The claim:** Matthew 27:6-8 states that the chief priests, unwilling to put Judas's returned blood-money into the temple treasury, used it themselves to buy 'the potter's field' as a burial ground for foreigners, 'therefore that field has been called the Field of Blood to this day.' Acts 1:18-19, in Peter's speech, instead states that Judas himself, 'with the reward of his wickedness, bought a field,' and that the field was called 'Field of Blood' (Akeldama) because of the manner of his own death there.
@@ -735,6 +823,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 49. Was the tomb's stone already rolled away, or rolled away in the women's presence?
+
+*Entry ID: MATT-049*
 
 **References:** Matthew 28:1-6; Mark 16:4; Luke 24:2; John 20:1
 
@@ -750,6 +840,8 @@ primary texts and the cross-references directly.
 
 ### 50. The Great Commission: given in Galilee, or in Jerusalem?
 
+*Entry ID: MATT-050*
+
 **References:** Matthew 28:16-20; Luke 24:44-49; Acts 1:4-9
 
 **The claim:** Matthew 28:16-20 narrates Jesus's commissioning of the disciples ('Go therefore and make disciples of all nations...') on 'the mountain to which Jesus had directed them' in Galilee. Luke 24:44-49 and Acts 1:4-9, by contrast, narrate Jesus's final instructions to the disciples -- including a command to remain in Jerusalem until empowered by the Spirit -- in and around Jerusalem, immediately before the ascension.
@@ -763,6 +855,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 51. The twelve apostles: Thaddaeus, or Judas son of James?
+
+*Entry ID: MATT-051*
 
 **References:** Matthew 10:2-4; Mark 3:16-19; Luke 6:14-16; Acts 1:13
 
@@ -778,6 +872,8 @@ primary texts and the cross-references directly.
 
 ### 52. The order of Jesus' wilderness temptations differs between Matthew and Luke
 
+*Entry ID: MATT-052*
+
 **References:** Matthew 4:1-11; Luke 4:1-13
 
 **The claim:** Matthew and Luke both record three temptations Jesus faced in the wilderness -- turning stones to bread, a display at the temple's pinnacle, and an offer of 'all the kingdoms of the world' -- but they narrate the second and third temptations in reverse order relative to each other: Matthew has bread-temple-kingdoms, while Luke has bread-kingdoms-temple.
@@ -791,6 +887,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 53. Was John the Baptist Elijah?
+
+*Entry ID: MATT-053*
 
 **References:** Matthew 11:7-14
 
@@ -808,6 +906,8 @@ primary texts and the cross-references directly.
 
 ### 54. How should enemies be treated?
 
+*Entry ID: MATT-054*
+
 **References:** Matthew 5:43-44; Psalm 137:8-9; Deuteronomy 7:1-2
 
 **The claim:** Matthew 5:43-44 has Jesus command, 'Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you.' This is set by some against Old Testament texts describing hostility toward enemies, including the imprecatory psalms (addressed at length in the companion Psalms chapter) and the commanded conquest of the Canaanite nations (addressed in the companion Deuteronomy and Joshua chapters).
@@ -821,6 +921,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 55. How should publicans (tax collectors) be treated?
+
+*Entry ID: MATT-055*
 
 **References:** Matthew 9:10-11; Matthew 18:17
 
@@ -836,6 +938,8 @@ primary texts and the cross-references directly.
 
 ### 56. Does Jesus' citation of the death penalty for cursing one's parents mean the Bible approves of capital punishment today?
 
+*Entry ID: MATT-056*
+
 **References:** Matthew 15:3-4
 
 **The claim:** Matthew 15:3-4 has Jesus cite the Mosaic law's death penalty for cursing one's father or mother (Exodus 21:17) in the course of rebuking the Pharisees' traditions.
@@ -849,6 +953,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 57. Should believers do what the Pharisees teach, given Jesus' other direct corrections of Pharisaic teaching?
+
+*Entry ID: MATT-057*
 
 **References:** Matthew 23:1-3
 
@@ -866,6 +972,8 @@ primary texts and the cross-references directly.
 
 ### 58. Should the gospel be preached to everyone, or only to Israel?
 
+*Entry ID: MATT-058*
+
 **References:** Matthew 10:5-6; Matthew 28:19-20
 
 **The claim:** Matthew 10:5-6 has Jesus instruct the twelve apostles, on this specific early mission, 'Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not: but go rather to the lost sheep of the house of Israel.' Later, the Great Commission instructs the same apostles to 'teach all nations' (28:19-20).
@@ -879,6 +987,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 59. Did Jesus have secret teachings, given his own statement that he taught nothing in secret?
+
+*Entry ID: MATT-059*
 
 **References:** Matthew 13:10-11; John 18:20
 
@@ -894,6 +1004,8 @@ primary texts and the cross-references directly.
 
 ### 60. Is childlikeness a good thing to have, or a sign of immaturity to outgrow?
 
+*Entry ID: MATT-060*
+
 **References:** Matthew 18:3; 1 Corinthians 13:11; 1 Corinthians 14:20
 
 **The claim:** Matthew 18:3 has Jesus say, 'Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.' Paul, however, writes, 'when I became a man, I put away childish things' (1 Corinthians 13:11), and instructs, 'be not children in understanding... but in understanding be men' (1 Corinthians 14:20).
@@ -907,6 +1019,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 61. Is Jesus good, given his own question, 'Why callest thou me good?'
+
+*Entry ID: MATT-061*
 
 **References:** Matthew 19:16-17
 
@@ -922,6 +1036,8 @@ primary texts and the cross-references directly.
 
 ### 62. How much power did Jesus have, given his statement that certain rewards were 'not mine to give'?
 
+*Entry ID: MATT-062*
+
 **References:** Matthew 20:23; Matthew 28:18
 
 **The claim:** Matthew 20:23 has Jesus tell James and John that sitting at his right and left hand 'is not mine to give, but it shall be given to them for whom it is prepared of my Father.' Later, the risen Jesus declares, 'All power is given unto me in heaven and in earth' (28:18).
@@ -935,6 +1051,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 63. Was Jesus a ransom for many, or for all?
+
+*Entry ID: MATT-063*
 
 **References:** Matthew 20:28; 1 Timothy 2:6
 
@@ -950,6 +1068,8 @@ primary texts and the cross-references directly.
 
 ### 64. When will the end come, and within what timeframe did Jesus say he would return?
 
+*Entry ID: MATT-064*
+
 **References:** Matthew 24:14, 34-36
 
 **The claim:** Matthew 24:14 states the gospel must first be preached 'in all the world, for a witness unto all nations; and then shall the end come' -- seemingly describing an extended future timeline. Yet the same discourse states, 'this generation shall not pass, till all these things be fulfilled' (24:34), seemingly describing a near-term timeline within the lifetime of Jesus' own contemporaries, while also stating that 'of that day and hour knoweth no man' (24:36), affirming the timing is ultimately unknowable.
@@ -964,6 +1084,8 @@ primary texts and the cross-references directly.
 
 ### 65. Will Christ's second coming be visible to everyone, given that its exact timing is also said to be unknown and sudden?
 
+*Entry ID: MATT-065*
+
 **References:** Matthew 24:27, 30, 36-44
 
 **The claim:** Matthew 24:30 describes 'the Son of man coming in the clouds of heaven with power and great glory,' an event 24:27 compares to lightning flashing across the whole sky -- a vivid, universally visible occurrence. Yet the same discourse describes the timing as unknown and sudden, coming 'as a thief in the night' (compare 24:36-44).
@@ -977,6 +1099,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 66. Did Jesus ask God to save him from crucifixion, or did he willingly embrace it from the start?
+
+*Entry ID: MATT-066*
 
 **References:** Matthew 26:36-39; Matthew 16:21; John 10:17-18
 
@@ -994,6 +1118,8 @@ primary texts and the cross-references directly.
 
 ### 67. Was the tax collector Jesus called Matthew, or Levi?
 
+*Entry ID: MATT-067*
+
 **References:** Matthew 9:9; Mark 2:14; Luke 5:27
 
 **The claim:** Matthew 9:9 names the tax collector called by Jesus 'Matthew.' Mark 2:14 and Luke 5:27, describing what is clearly the same event (the same location, the same subsequent meal with 'publicans and sinners'), instead name him 'Levi.'
@@ -1010,6 +1136,8 @@ primary texts and the cross-references directly.
 
 ### 68. When was Jesus rejected by the people of his hometown, Nazareth?
 
+*Entry ID: MATT-068*
+
 **References:** Matthew 13:53-58; Luke 4:16-30
 
 **The claim:** Matthew 13:53-58 (paralleled in Mark 6:1-6) places Jesus' rejection at Nazareth relatively late, well into his Galilean ministry, after extensive teaching and healing elsewhere. Luke 4:16-30 places an apparently similar rejection scene at Nazareth at the very outset of Jesus' public ministry, immediately following his wilderness temptation.
@@ -1023,6 +1151,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 69. Was Jesus crucified at the third hour, or the sixth?
+
+*Entry ID: MATT-069*
 
 **References:** Matthew 27:45-46; Mark 15:25; John 19:14
 

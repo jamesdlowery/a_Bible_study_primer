@@ -49,6 +49,8 @@ primary texts and the cross-references directly.
 
 ### 1. A substantially overlapping oracle against Edom, also found in Jeremiah 49
 
+*Entry ID: OBAD-001*
+
 **References:** Obadiah 1:1-9; Jeremiah 49:7-22
 
 **The claim:** Obadiah 1:1-9, roughly the first half of this book's single chapter, closely parallels Jeremiah 49:7-22's own oracle against Edom -- in places sharing nearly identical wording and imagery (compare Obadiah's opening summons to the nations to rise against Edom with Jeremiah 49:14, and Obadiah's mockery of Edom's proverbial wisdom with Jeremiah 49:7) -- raising the same question addressed elsewhere in this project regarding shared prophetic material (the Isaiah 2/Micah 4 'swords into plowshares' oracle, and the Psalm 14/53 doublet): which prophet originated the material, and did one directly borrow from the other?
@@ -64,6 +66,8 @@ primary texts and the cross-references directly.
 ## Chronology and Historicity
 
 ### 2. Obadiah's setting: the Babylonian destruction of Jerusalem, or an earlier ninth-century conflict?
+
+*Entry ID: OBAD-002*
 
 **References:** Obadiah 1:10-14; 2 Kings 8:20-22; 2 Chronicles 21:8-17; Psalm 137:7; Lamentations 4:21-22; Ezekiel 25:12-14
 
@@ -81,6 +85,8 @@ primary texts and the cross-references directly.
 
 ### 3. Which Obadiah? A common name shared by at least a dozen other biblical figures
 
+*Entry ID: OBAD-003*
+
 **References:** Obadiah 1:1; 1 Kings 18:3-16
 
 **The claim:** Obadiah 1:1 identifies this book's author simply as 'the vision of Obadiah,' with no father's name, hometown, or reference to any specific king's reign -- unusually sparse even by the standards of the Minor Prophets. 'Obadiah' (meaning 'servant of Yahweh') was itself a common Israelite name, shared by at least twelve other individuals named in the Old Testament, including most notably the righteous royal official who hid a hundred prophets from Queen Jezebel's persecution during Elijah's own ministry (1 Kings 18:3-16) -- raising a question about whether this book's Obadiah is the same person as any of these other figures.
@@ -96,6 +102,8 @@ primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 4. Obadiah's specific charges against Edom, corroborated across several independent prophetic witnesses
+
+*Entry ID: OBAD-004*
 
 **References:** Obadiah 1:10-14; Psalm 137:7; Lamentations 4:21-22; Ezekiel 25:12-14; Ezekiel 35:1-15
 

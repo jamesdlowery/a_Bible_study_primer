@@ -15,15 +15,7 @@ single forced resolution -- the nature of divine election in Romans 9, the ident
 "wretched man" in Romans 7, and the scope of "all Israel" in Romans 11 are each questions
 this project does not adjudicate.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -46,6 +38,8 @@ the primary texts and the cross-references directly.
 
 ### 1. 'Justified by faith apart from works of the law' -- vs. James's 'justified by works and not by faith alone'
 
+*Entry ID: ROM-001*
+
 **References:** Romans 3:28; Romans 4:1-5; James 2:14-26
 
 **The claim:** Romans 3:28 states plainly, 'we hold that one is justified by faith apart from works of the law,' a statement Paul develops at length using Abraham as his central example (4:1-5, 'to the one who does not work but believes... his faith is counted as righteousness'). James 2:24, however, states just as plainly, 'you see that a person is justified by works and not by faith alone' -- using the same example, Abraham, and even citing the identical Old Testament proof-text (Genesis 15:6) that Paul cites, yet apparently reaching the opposite conclusion. This is among the most historically significant and consequential apparent contradictions in the entire New Testament, central to the doctrinal disputes of the Protestant Reformation.
@@ -59,6 +53,8 @@ the primary texts and the cross-references directly.
 ---
 
 ### 2. Romans 9's election language -- Jacob and Esau, Pharaoh's hardened heart, and the potter and the clay
+
+*Entry ID: ROM-002*
 
 **References:** Romans 9:10-24; Malachi 1:2-3; Exodus 9:12
 
@@ -74,6 +70,8 @@ the primary texts and the cross-references directly.
 
 ### 3. Universal condemnation ('all have sinned') -- and the specific, biblical descriptions of certain figures as 'blameless'
 
+*Entry ID: ROM-003*
+
 **References:** Romans 3:23; Job 1:1; Luke 1:6
 
 **The claim:** Romans 3:23 states, 'all have sinned and fall short of the glory of God' -- an apparently universal, exceptionless claim. Yet Scripture elsewhere describes specific individuals in terms that read as claiming a kind of blamelessness: Job is introduced as 'blameless and upright' (Job 1:1, addressed at length in the companion Job chapter), and Zechariah and Elizabeth, John the Baptist's parents, are described as 'righteous before God, walking blamelessly in all the commandments and statutes of the Lord' (Luke 1:6).
@@ -87,6 +85,8 @@ the primary texts and the cross-references directly.
 ---
 
 ### 4. Who is God's firstborn son -- Israel, or Christ?
+
+*Entry ID: ROM-004*
 
 **References:** Romans 8:29; Exodus 4:22; Colossians 1:15
 
@@ -104,6 +104,8 @@ the primary texts and the cross-references directly.
 
 ### 5. The 'wretched man' of Romans 7 -- Paul's present Christian struggle, or his pre-conversion experience under the law?
 
+*Entry ID: ROM-005*
+
 **References:** Romans 7:14-25; Romans 6:1-14; Romans 8:1-17
 
 **The claim:** Romans 7:14-25 describes an intense, first-person struggle with sin: 'I do not do what I want, but I do the very thing I hate... Wretched man that I am! Who will deliver me from this body of death?' This passage's precise referent -- whether Paul describes his own present, ongoing experience as a mature Christian, his own experience before conversion, or uses 'I' as a rhetorical device describing the general human condition under the law apart from Christ -- has been debated since at least Augustine (who himself changed his own view on the question over his career) and remains genuinely unresolved among serious biblical scholars, with real pastoral stakes for how contemporary Christians understand their own ongoing struggle with sin.
@@ -118,6 +120,8 @@ the primary texts and the cross-references directly.
 
 ### 6. 'As one trespass led to condemnation for all men, so one act of righteousness leads to justification... for all men' -- does this teach universal salvation?
 
+*Entry ID: ROM-006*
+
 **References:** Romans 5:12-19
 
 **The claim:** Romans 5:18 states, 'as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men' -- a parallel construction some read as implying that if Adam's sin resulted in condemnation for literally every human being without exception, Christ's righteous act must, by the same symmetrical logic, result in justification for literally every human being without exception, apparently teaching universal salvation regardless of individual faith, in tension with the rest of the New Testament's consistent emphasis on the necessity of personal faith for salvation (including elsewhere within Romans itself, e.g., 10:9-13).
@@ -131,6 +135,8 @@ the primary texts and the cross-references directly.
 ---
 
 ### 7. 'And in this way all Israel will be saved' -- a significant, actively debated eschatological statement
+
+*Entry ID: ROM-007*
 
 **References:** Romans 11:25-27
 
@@ -148,6 +154,8 @@ the primary texts and the cross-references directly.
 
 ### 8. 'Let every person be subject to the governing authorities' -- vs. examples of righteous civil disobedience
 
+*Entry ID: ROM-008*
+
 **References:** Romans 13:1-7; Acts 5:27-29; Exodus 1:15-21; Daniel 3:1-18
 
 **The claim:** Romans 13:1-2 instructs, 'Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed' -- language read by some as an unqualified, absolute command of political submission. This raises a question in light of several biblical examples of deliberate civil disobedience treated approvingly elsewhere (the Hebrew midwives defying Pharaoh's order to kill Israelite infants, Exodus 1:15-21, addressed at length in this project's companion Exodus chapter; Shadrach, Meshach, and Abednego refusing to worship Nebuchadnezzar's image, Daniel 3:1-18; and the apostles themselves, when ordered by the Jewish council to stop preaching, replying, 'We must obey God rather than men,' Acts 5:29).
@@ -161,6 +169,8 @@ the primary texts and the cross-references directly.
 ---
 
 ### 9. Should we try to please others, or does seeking to please others disqualify someone as Christ's servant?
+
+*Entry ID: ROM-009*
 
 **References:** Romans 15:1-2; Galatians 1:10
 

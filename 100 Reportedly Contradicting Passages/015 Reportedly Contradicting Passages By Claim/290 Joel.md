@@ -46,6 +46,8 @@ primary texts and the cross-references directly.
 
 ### 1. The locust plague: a literal insect infestation, a symbolic military invasion, or both?
 
+*Entry ID: JOEL-001*
+
 **References:** Joel 1:2-2:11
 
 **The claim:** Joel opens with an extended, vivid description of a devastating locust plague (1:2-20), described in agricultural and ecological terms that read as a literal natural disaster. Chapter 2, however, describes what appears to be the same or a related event in unmistakably military language: an invading force 'like a mighty army... they run like mighty men; they climb the wall like soldiers... like war horses they run... with the rumbling of chariots' (2:2-9), raising a question about whether Joel is describing a literal locust plague, a literal military invasion described through locust imagery, or a literal locust plague functioning as a springboard for prophesying a future, greater military 'day of the LORD.'
@@ -62,6 +64,8 @@ primary texts and the cross-references directly.
 
 ### 2. 'I will pour out my Spirit on all flesh' -- and Peter's citation at Pentecost
 
+*Entry ID: JOEL-002*
+
 **References:** Joel 2:28-32; Acts 2:16-21
 
 **The claim:** Joel 2:28-32 promises a future outpouring of God's Spirit 'on all flesh,' accompanied by prophecy, dreams, and visions, alongside cosmic signs -- 'blood and fire and columns of smoke... the sun shall be turned to darkness, and the moon to blood.' Peter, in his Pentecost sermon (Acts 2:16-21), quotes this passage at length and declares, 'this is what was uttered through the prophet Joel,' applying it directly to the events of Pentecost -- yet the specific cosmic signs Joel describes (the sun darkened, the moon turned to blood) were not literally, visibly manifest at Pentecost itself, raising a question about the nature and completeness of Peter's claimed fulfillment.
@@ -76,6 +80,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'Everyone who calls on the name of the LORD shall be saved' -- YHWH's name applied to Jesus
 
+*Entry ID: JOEL-003*
+
 **References:** Joel 2:32; Romans 10:9-13
 
 **The claim:** Joel 2:32 promises, 'everyone who calls on the name of the LORD [YHWH] shall be saved.' Paul quotes this verse directly in Romans 10:13, applying it in a context explicitly about confessing 'Jesus is Lord' and believing in his resurrection for salvation (10:9) -- directly identifying Jesus with the object of the Old Testament's own exclusive covenant name for God, a significant Christological application of an Old Testament text originally addressed to calling on YHWH specifically.
@@ -89,6 +95,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. The Valley of Jehoshaphat -- a literal geographic location, or a symbolic name for judgment?
+
+*Entry ID: JOEL-004*
 
 **References:** Joel 3:2, 12, 14
 
@@ -106,6 +114,8 @@ primary texts and the cross-references directly.
 
 ### 5. 'Beat your plowshares into swords' -- the direct inversion of Isaiah's and Micah's famous vision
 
+*Entry ID: JOEL-005*
+
 **References:** Joel 3:9-10; Isaiah 2:2-4; Micah 4:1-3
 
 **The claim:** Isaiah 2:4 and Micah 4:3 (addressed together in the companion Isaiah chapter as a shared oracle appearing in both books) famously envision a future era of universal peace in which the nations 'shall beat their swords into plowshares, and their spears into pruning hooks.' Joel 3:9-10 issues the precisely opposite instruction: 'Beat your plowshares into swords, and your pruning hooks into spears' -- an apparently direct, deliberate inversion of the more famous vision, raising a question about whether the prophets are offering contradictory visions of the future.
@@ -121,6 +131,8 @@ primary texts and the cross-references directly.
 ## Literary Composition
 
 ### 6. Joel's dating: one of the widest, most genuinely uncertain ranges of any book in the Old Testament
+
+*Entry ID: JOEL-006*
 
 **References:** Joel 1:1
 

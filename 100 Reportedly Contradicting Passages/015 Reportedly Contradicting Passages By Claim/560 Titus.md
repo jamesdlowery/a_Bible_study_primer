@@ -46,6 +46,8 @@ primary texts and the cross-references directly.
 
 ### 1. 'Cretans are always liars' -- Paul quotes a sweeping ethnic generalization from a pagan poet and calls it 'true'
 
+*Entry ID: TITUS-001*
+
 **References:** Titus 1:12-13
 
 **The claim:** Titus 1:12-13 records Paul quoting, and directly endorsing, a sweeping negative characterization of an entire people: 'One of the Cretans, a prophet of their own, said, "Cretans are always liars, evil beasts, lazy gluttons." This testimony is true.' The quotation is traditionally attributed to the sixth-century-BC Cretan poet-philosopher Epimenides, and Paul's own explicit endorsement ('this testimony is true') raises both an ethical question (is Paul, and by extension Scripture, endorsing a blanket negative ethnic or national stereotype?) and a well-known logical puzzle (since the statement 'Cretans are always liars' was itself made by a Cretan, generating the classical 'liar's paradox' associated with Epimenides' name in the history of philosophy and logic).
@@ -61,6 +63,8 @@ primary texts and the cross-references directly.
 ## Literary Composition
 
 ### 2. The authorship question -- addressed at length in the companion 1 Timothy chapter
+
+*Entry ID: TITUS-002*
 
 **References:** Titus 1:1
 
@@ -78,6 +82,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'The washing of regeneration' -- a genuine, actively contested basis for the baptismal regeneration debate
 
+*Entry ID: TITUS-003*
+
 **References:** Titus 3:5; John 3:5; Ephesians 5:26
 
 **The claim:** Titus 3:5 states, 'he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit' -- language directly connected to a genuine, actively contested denominational debate regarding baptismal regeneration: whether water baptism itself is the specific means or instrument through which God regenerates a believer (a position historically associated with Catholic, Orthodox, Lutheran, and some other traditions), or whether the 'washing' language here is instead a symbolic or metaphorical description of the inward, spiritual regeneration accomplished by the Holy Spirit through faith, of which physical baptism serves only as an outward sign or testimony (a position historically associated with Baptist and many broader evangelical traditions).
@@ -91,6 +97,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. 'Grace... bringing salvation for all people' -- addressed at length in the companion Romans chapter
+
+*Entry ID: TITUS-004*
 
 **References:** Titus 2:11; Romans 5:12-19
 

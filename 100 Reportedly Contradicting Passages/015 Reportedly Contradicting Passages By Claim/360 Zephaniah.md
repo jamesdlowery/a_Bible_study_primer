@@ -44,6 +44,8 @@ primary texts and the cross-references directly.
 
 ### 1. An unusually long genealogy -- was Zephaniah a great-great-grandson of King Hezekiah?
 
+*Entry ID: ZEPH-001*
+
 **References:** Zephaniah 1:1
 
 **The claim:** Zephaniah 1:1 traces the prophet's ancestry back four full generations -- 'Zephaniah, son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah' -- a considerably longer genealogy than any other prophetic book supplies (most name only a father, if that). Some scholars identify this 'Hezekiah' with the famous King Hezekiah of Judah (reigned roughly 715-686 BC), which would make Zephaniah a great-great-grandson of the king and a distant cousin of the reigning King Josiah, under whom the book itself says he prophesied -- raising both an identity question and an ironic implication, since a prophet of royal descent delivers an uncompromising message of judgment specifically targeting Judah's own royal officials and 'the king's sons' (1:8).
@@ -59,6 +61,8 @@ primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 2. 'I will utterly sweep away everything' -- total, creation-reversing judgment, alongside a promised surviving remnant
+
+*Entry ID: ZEPH-002*
 
 **References:** Zephaniah 1:2-3; Zephaniah 3:9-20
 
@@ -76,6 +80,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'Perhaps you may be hidden' -- a notably tentative assurance
 
+*Entry ID: ZEPH-003*
+
 **References:** Zephaniah 2:3; Jeremiah 18:7-10
 
 **The claim:** Zephaniah 2:3 urges, 'Seek the LORD, all you humble of the land, who do his just commands; seek righteousness; seek humility; perhaps you may be hidden on the day of the anger of the LORD' -- the word 'perhaps' introducing a genuine note of uncertainty into what might otherwise be expected to be an unconditional assurance that genuine repentance guarantees deliverance, a pattern this project has addressed at length regarding Jeremiah 18:7-10's explicit statement of conditional prophecy.
@@ -90,6 +96,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'I will change the speech of the peoples to a pure speech' -- a reversal of Babel?
 
+*Entry ID: ZEPH-004*
+
 **References:** Zephaniah 3:9; Genesis 11:1-9
 
 **The claim:** Zephaniah 3:9 promises, 'For at that time I will change the speech of the peoples to a pure speech, that all of them may call upon the name of the LORD and serve him with one accord' -- language some readers connect directly to Genesis 11:1-9's account of God confusing humanity's single original language at Babel specifically to disperse and disunite a prideful, rebellious humanity, raising a question about whether Zephaniah anticipates a literal linguistic reversal of Babel's judgment, or a symbolic unity of worship and purpose that does not require every people to literally speak one common tongue again.
@@ -103,6 +111,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. 'He will rejoice over you with gladness... he will exult over you with loud singing' -- amid a book largely devoted to judgment
+
+*Entry ID: ZEPH-005*
 
 **References:** Zephaniah 3:17; Zephaniah 1:2-18; Zephaniah 3:8
 
@@ -119,6 +129,8 @@ primary texts and the cross-references directly.
 ## Chronology
 
 ### 6. Zephaniah's dating within Josiah's reign: before or after the major reforms?
+
+*Entry ID: ZEPH-006*
 
 **References:** Zephaniah 1:1; Zephaniah 1:4-6; 2 Kings 22-23
 

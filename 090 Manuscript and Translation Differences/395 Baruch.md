@@ -1,4 +1,4 @@
-# Baruch (including the Letter of Jeremiah): RSV2CE Compared Against Other English Translations of the Apocrypha
+# Baruch (including the Letter of Jeremiah): Textual and Translation Differences
 
 **Comparison translations:** RSV2CE, NABRE, Douay-Rheims, CPDV, NRSV.
 

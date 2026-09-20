@@ -43,6 +43,8 @@ primary texts and the cross-references directly.
 
 ### 1. Nineveh spared through repentance in Jonah -- yet condemned to total destruction in Nahum
 
+*Entry ID: NAH-001*
+
 **References:** Nahum 1:1-3:19; Jonah 3:1-10
 
 **The claim:** The book of Jonah records the entire city of Nineveh repenting at the prophet's brief warning, resulting in God relenting from the judgment he had threatened (Jonah 3:5-10). Nahum, addressed entirely to the same city, announces its total, final, unmitigated destruction, with no invitation to repent anywhere in the book's three chapters -- raising a question about whether these two books present a genuine contradiction (the same city spared in one book, destroyed in another) or a coherent historical sequence.
@@ -58,6 +60,8 @@ primary texts and the cross-references directly.
 ## Theological Tensions
 
 ### 2. The same classic formula of God's character -- quoted by Jonah as grounds for mercy, and by Nahum as grounds for total judgment
+
+*Entry ID: NAH-002*
 
 **References:** Nahum 1:2-3; Jonah 4:2; Exodus 34:6-7
 
@@ -75,6 +79,8 @@ primary texts and the cross-references directly.
 
 ### 3. A judgment oracle with no invitation to repent -- unlike most other prophetic books
 
+*Entry ID: NAH-003*
+
 **References:** Nahum 1:1-3:19
 
 **The claim:** Almost every other prophetic book in the Old Testament, even amid its harshest judgment oracles, includes some explicit call to repentance or conditional language holding out the possibility of averting the announced judgment (compare Jeremiah 18:7-10, addressed at length in the companion Jeremiah chapter, as the Bible's clearest statement of this general conditional principle). Nahum is a notable exception: its entire three chapters address Nineveh's coming destruction without a single explicit invitation to repent or any stated condition under which the judgment might be averted.
@@ -91,6 +97,8 @@ primary texts and the cross-references directly.
 
 ### 4. Nahum's dating: unusually well-constrained by internal evidence, in contrast to several other Minor Prophets
 
+*Entry ID: NAH-004*
+
 **References:** Nahum 3:8-11; Nahum 1:1
 
 **The claim:** Unlike Joel and Obadiah (addressed in their own companion chapters as among the most genuinely uncertain dating questions in the Old Testament), Nahum's own text supplies two firm internal chronological anchors: 3:8-10 describes the Assyrian destruction of the Egyptian city of Thebes (called 'No-amon' in the Hebrew) as an already-completed past event -- an event independently, precisely datable from Assyrian and Egyptian records to 663 BC -- while the entire book's central subject is Nineveh's own still-future destruction, which occurred in 612 BC. This places the book's composition somewhere within this roughly fifty-year window, a considerably narrower range than Joel's or Obadiah's genuine uncertainty.
@@ -106,6 +114,8 @@ primary texts and the cross-references directly.
 ## Ethical Tensions
 
 ### 5. An oracle of unrelieved satisfaction at a brutal empire's downfall -- and its ethical reception by later readers
+
+*Entry ID: NAH-005*
 
 **References:** Nahum 3:1-19
 

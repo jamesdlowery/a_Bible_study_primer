@@ -12,11 +12,11 @@ Go to **Reportedly Contradicting Passages** and find the relevant book. Each ent
 
 ## "I'm trying to decide which translation to use."
 
-Start with **Popular Bible Translations** for a general orientation to translation philosophy (formal vs. dynamic equivalence, and everything between), then **Bible Translations and Their Source Manuscripts** to see which manuscript tradition each one follows, then look up your candidates individually in **Histories of Various Bible Translations** for their origin and purpose.
+Start with **Popular Bible Translations** for a general orientation to translation philosophy (formal vs. dynamic equivalence, and everything between), then **Bible Translations and Their Source Manuscripts** to see which manuscript tradition each one follows, then look up your candidates individually in **Histories of English Bible Translations** for their origin and purpose.
 
 ## "I want to understand why Bibles differ at all, from the ground up."
 
-Start with **Background on Textual Transmission** for a plain-language orientation, then move to **Biblical Source Manuscripts** and **Character of Each Source Manuscript Tradition** for the fuller picture of the manuscript families themselves and how they're weighed against one another.
+Start with **Background on Textual Transmission** for a plain-language orientation, then move to **Biblical Source Manuscripts** and **Manuscript Traditions: Character, Relationships, and Weighing** for the fuller picture of the manuscript families themselves and how they're weighed against one another.
 
 ## "I want the highlights, not the whole book, or I'm comparing a specific verse across translations right now, Bible in hand."
 
@@ -24,7 +24,7 @@ Go straight to **Manuscript and Translation Differences**, find the book, and lo
 
 ## "I want to know what a specific denomination or study Bible actually teaches."
 
-Go to **Top Christian Denominations** for a specific denomination's core doctrine and its positions on abortion, homosexuality, and alcohol, sourced and distinguished from mere cultural practice. Go to **Top Study Bibles** if you're specifically evaluating a study Bible edition — it covers the same ethical/lifestyle questions where the volume's own commentary addresses them, the general editor's background, and cross-references back to the closest matching entry in Top Christian Denominations.
+Go to **Major U.S. Christian Denominations** for a specific denomination's core doctrine and its positions on abortion, homosexuality, and alcohol, sourced and distinguished from mere cultural practice. Go to **Prominent English Study Bibles** if you're specifically evaluating a study Bible edition — it covers the same ethical/lifestyle questions where the volume's own commentary addresses them, the general editor's background, and cross-references back to the closest matching entry in Major U.S. Christian Denominations.
 
 ## "I want to read this book start to finish."
 

@@ -49,6 +49,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. 'I do not permit a woman to teach or to exercise authority over a man' -- the central proof-text for a major, ongoing denominational debate
 
+*Entry ID: 1TIM-001*
+
 **References:** 1 Timothy 2:11-15
 
 **The claim:** 1 Timothy 2:11-12 states, 'Let a woman learn quietly with all submissiveness. I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet,' grounding this instruction in the order of creation ('for Adam was formed first, then Eve,' 2:13) and Eve's own deception (2:14) -- widely regarded as the single most significant New Testament text specifically restricting women's teaching authority within the church, connecting to and intensifying the broader egalitarian/complementarian debate addressed in the companion Galatians, Ephesians, and 1 Corinthians documents regarding gender roles more generally.
@@ -65,6 +67,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 2. 'She will be saved through childbearing' -- one of the most genuinely perplexing individual verses in the New Testament
 
+*Entry ID: 1TIM-002*
+
 **References:** 1 Timothy 2:15
 
 **The claim:** 1 Timothy 2:15 immediately follows the passage addressed in entry 1 above with a notoriously difficult statement: 'Yet she will be saved through childbearing -- if they continue in faith and love and holiness, with self-control.' Read at face value, this appears to condition women's salvation specifically on childbearing, in obvious tension with the New Testament's consistent, repeated affirmation that salvation comes by grace through faith alone, not through any specific work or biological role (Ephesians 2:8-9), and raising an obvious practical difficulty for women who cannot or do not bear children.
@@ -78,6 +82,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 3. 'The love of money is a root of all kinds of evils' -- a frequently misquoted verse
+
+*Entry ID: 1TIM-003*
 
 **References:** 1 Timothy 6:10
 
@@ -101,6 +107,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 4. The authorship of the Pastoral Epistles -- a major, actively debated critical question
 
+*Entry ID: 1TIM-004*
+
 **References:** 1 Timothy 1:1
 
 **The claim:** 1 Timothy identifies its own author as 'Paul, an apostle of Christ Jesus' (1:1), a claim unanimously accepted throughout the early church (the second-century bishop Polycarp already alludes to this letter as authoritative). Since the nineteenth century, however, a substantial body of critical scholarship has questioned Pauline authorship of 1 Timothy, 2 Timothy, and Titus as a group (commonly called the 'Pastoral Epistles'), based on differences in vocabulary, literary style, church organizational structure, and theological emphasis from Paul's other, less disputed letters.
@@ -116,6 +124,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 5. 'Forbidding marriage and requiring abstinence from foods' as a mark of departure from the faith -- vs. Paul's own qualified endorsement of celibacy elsewhere
+
+*Entry ID: 1TIM-005*
 
 **References:** 1 Timothy 4:1-5; 1 Corinthians 7:1, 7-9
 

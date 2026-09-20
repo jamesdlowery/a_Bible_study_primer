@@ -1,4 +1,4 @@
-# Top Christian Denominations in the United States
+# Major U.S. Christian Denominations
 
 This section profiles the 25 most prominent Christian denominations and denominational families in the United States, ranked primarily by adherents per the 2020 U.S. Religion Census -- the most comprehensive, methodologically consistent source available for this kind of comparison -- supplemented in a small number of cases where that source is known to under-report a body's actual size (noted individually where this applies). Recently-split bodies (e.g., the United Methodist Church and the Global Methodist Church) are listed as separate entries with their own distinct positions, rather than blended into one profile that would erase a real, current disagreement.
 
@@ -7,6 +7,8 @@ For each denomination, this section documents core doctrinal positions (view of 
 **A note on alcohol specifically:** nearly every tradition profiled in this section distinguishes moderate use (which most, though not all, permit) from drunkenness/overuse, which is treated as sinful essentially universally, including by traditions that otherwise permit or even use alcohol sacramentally. Entries note this distinction explicitly rather than let a single word ("permitted" or "prohibited") obscure it.
 
 **A note on posture:** this section describes what each denomination officially teaches or has documented, not a judgment about which position is correct. Where official teaching and the private views or practice of a denomination's own members diverge -- as polling shows is often the case, particularly on abortion -- this section notes that candidly rather than treating official statements as a complete description of what everyone in a tradition actually believes.
+
+**A note on Messianic Judaism:** this movement, combining Jewish religious practice and identity with faith in Yeshua (Jesus) as the promised Messiah, is not profiled as a separate entry in this section, unlike its coverage under Prominent English Study Bibles (in connection with the Complete Jewish Bible). Readers looking for its fuller doctrinal profile should consult that section instead.
 
 ---
 

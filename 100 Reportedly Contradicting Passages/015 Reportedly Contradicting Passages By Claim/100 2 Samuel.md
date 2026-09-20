@@ -15,15 +15,7 @@ alternate-witness numeral and name disputes already documented for 1-2 Kings els
 project. Because the specific disputed verse in each of these cases sits in 2 Samuel itself
 (not in Chronicles), they are given full, properly-sourced treatment here.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -47,6 +39,8 @@ primary texts and the cross-references directly.
 
 ### 1. Who incited David to take the census -- the LORD, or Satan?
 
+*Entry ID: 2SAM-001*
+
 **References:** 2 Samuel 24:1; 1 Chronicles 21:1
 
 **The claim:** 2 Samuel 24:1 states the LORD incited David to number Israel; 1 Chronicles 21:1, describing the same event, states Satan incited David to do it.
@@ -60,6 +54,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Who killed Goliath -- David, or Elhanan?
+
+*Entry ID: 2SAM-002*
 
 **References:** 2 Samuel 21:19; 1 Samuel 17:49-51; 1 Chronicles 20:5
 
@@ -75,6 +71,8 @@ primary texts and the cross-references directly.
 
 ### 3. How did Saul actually die -- and does the Amalekite's story to David change the account?
 
+*Entry ID: 2SAM-003*
+
 **References:** 2 Samuel 1:1-16; 1 Samuel 31:1-6; 1 Chronicles 10:1-6
 
 **The claim:** 1 Samuel 31 narrates Saul falling on his own sword after his armor-bearer refuses to kill him. In this book, an Amalekite comes to David claiming he personally finished off the wounded Saul at Saul's own request (2 Samuel 1:6-10) -- an account that, if accepted at face value, would conflict with 1 Samuel's own narration.
@@ -88,6 +86,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. Did Saul's entire family die with him at Gilboa, given that a son of his is made king only verses later?
+
+*Entry ID: 2SAM-004*
 
 **References:** 2 Samuel 2:8-10
 
@@ -103,6 +103,8 @@ primary texts and the cross-references directly.
 
 ### 5. Did Absalom have sons, or was he without an heir?
 
+*Entry ID: 2SAM-005*
+
 **References:** 2 Samuel 14:27; 2 Samuel 18:18
 
 **The claim:** 2 Samuel 14:27 states plainly that 'unto Absalom there were born three sons, and one daughter.' Yet 2 Samuel 18:18, describing Absalom setting up a memorial pillar for himself, has Absalom explain, 'I have no son to keep my name in remembrance,' and the text notes the pillar 'is called unto this day, Absalom's place.'
@@ -116,6 +118,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. What were David's actual last words -- the oracle of 2 Samuel 23, or his later deathbed charge to Solomon?
+
+*Entry ID: 2SAM-006*
 
 **References:** 2 Samuel 23:1-7; 1 Kings 2:1-9
 
@@ -133,6 +137,8 @@ primary texts and the cross-references directly.
 
 ### 7. How many fighting men were counted in David's census?
 
+*Entry ID: 2SAM-007*
+
 **References:** 2 Samuel 24:9; 1 Chronicles 21:5
 
 **The claim:** 2 Samuel 24:9 gives 800,000 for Israel and 500,000 for Judah; 1 Chronicles 21:5 gives 1,100,000 for Israel and 470,000 for Judah.
@@ -147,6 +153,8 @@ primary texts and the cross-references directly.
 
 ### 8. Cost of the threshing floor: 50 shekels of silver, or 600 shekels of gold?
 
+*Entry ID: 2SAM-008*
+
 **References:** 2 Samuel 24:24; 1 Chronicles 21:25
 
 **The claim:** 2 Samuel 24:24 has David pay 50 shekels of silver for the threshing floor and oxen; 1 Chronicles 21:25 has him pay 600 shekels of gold for 'the place.'
@@ -160,6 +168,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. Years of famine offered to David: seven, or three?
+
+*Entry ID: 2SAM-009*
 
 **References:** 2 Samuel 24:13; 1 Chronicles 21:11-12; 2 Samuel 21:1
 
@@ -178,6 +188,8 @@ primary texts and the cross-references directly.
 
 ### 10. How many did David's champion kill in one encounter -- 800, or 300?
 
+*Entry ID: 2SAM-010*
+
 **References:** 2 Samuel 23:8; 1 Chronicles 11:11
 
 **The claim:** 2 Samuel 23:8 (Masoretic Hebrew) credits Jashobeam/Josheb-basshebeth with killing 800 men in one encounter, in the very verse where the figure originates; the parallel list at 1 Chronicles 11:11 gives 300.
@@ -191,6 +203,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 11. How many horsemen did David capture from Hadadezer -- 1,700, or 7,000?
+
+*Entry ID: 2SAM-011*
 
 **References:** 2 Samuel 8:4; 1 Chronicles 18:4
 
@@ -206,6 +220,8 @@ primary texts and the cross-references directly.
 
 ### 12. How many Syrian soldiers did David kill in the battle described in this book -- 700, or 7,000?
 
+*Entry ID: 2SAM-012*
+
 **References:** 2 Samuel 10:18; 1 Chronicles 19:18
 
 **The claim:** 2 Samuel 10:18 states that David 'slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen' in this battle. 1 Chronicles 19:18, describing the same engagement, instead states David killed 'seven thousand men which fought in chariots, and forty thousand footmen' -- the chariot-associated figure differs by a factor of ten, and the second figure's category (horsemen versus footmen) also differs between the two accounts.
@@ -219,6 +235,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 13. Did Absalom's rebellion begin forty years into David's reign, or four?
+
+*Entry ID: 2SAM-013*
 
 **References:** 2 Samuel 15:7
 
@@ -235,6 +253,8 @@ primary texts and the cross-references directly.
 ## Names and Identity
 
 ### 14. Whose sons were handed over to the Gibeonites -- Michal's or Merab's?
+
+*Entry ID: 2SAM-014*
 
 **References:** 2 Samuel 21:8; 1 Samuel 18:19; 1 Samuel 25:44
 
@@ -254,6 +274,8 @@ primary texts and the cross-references directly.
 
 ### 15. Was Ahimelech the son of Abiathar, or Abiathar the son of Ahimelech?
 
+*Entry ID: 2SAM-015*
+
 **References:** 2 Samuel 8:17; 1 Samuel 22:20
 
 **The claim:** 1 Samuel 22:20 clearly identifies Abiathar as the son of Ahimelech. 2 Samuel 8:17 (in the Masoretic Hebrew, reflected in some translations) names 'Ahimelech the son of Abiathar' among David's officials -- reversing the relationship, in the very verse where the reversal originates.
@@ -267,6 +289,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 16. Was David's second son named Chileab, or Daniel?
+
+*Entry ID: 2SAM-016*
 
 **References:** 2 Samuel 3:2-5; 1 Chronicles 3:1-4
 
@@ -282,6 +306,8 @@ primary texts and the cross-references directly.
 
 ### 17. Was Amasa's father Ithra the Israelite, or Jether the Ishmaelite?
 
+*Entry ID: 2SAM-017*
+
 **References:** 2 Samuel 17:25; 1 Chronicles 2:17
 
 **The claim:** 2 Samuel 17:25, in the Masoretic Hebrew text, names Amasa's father as 'Ithra an Israelite.' 1 Chronicles 2:17, giving the same genealogical information, instead names him 'Jether the Ishmeelite.'
@@ -295,6 +321,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 18. Who did Elhanan kill -- Goliath, or one of Goliath's relatives?
+
+*Entry ID: 2SAM-018*
 
 **References:** 2 Samuel 21:19-20; 1 Chronicles 20:5
 
@@ -312,6 +340,8 @@ primary texts and the cross-references directly.
 
 ### 19. 'A man after God's own heart' -- alongside adultery, deception, and murder
 
+*Entry ID: 2SAM-019*
+
 **References:** 2 Samuel 11:1-27; 2 Samuel 12:1-15; 1 Samuel 13:14; Acts 13:22
 
 **The claim:** David is described, before he even becomes king, as 'a man after [God's] own heart' (1 Samuel 13:14, echoed in Acts 13:22). Yet 2 Samuel 11 narrates David committing adultery with Bathsheba, then arranging the death of her husband Uriah in battle to conceal it -- a sustained, deliberate course of sin involving deception and what amounts to murder, seemingly in tension with the earlier commendation.
@@ -325,6 +355,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 20. Did David sin, given his own song's claim to righteousness and blamelessness?
+
+*Entry ID: 2SAM-020*
 
 **References:** 2 Samuel 22:21-25
 
@@ -342,6 +374,8 @@ primary texts and the cross-references directly.
 
 ### 21. The death of David and Bathsheba's child (2 Samuel 12) -- a child punished for the father's sin?
 
+*Entry ID: 2SAM-021*
+
 **References:** 2 Samuel 12:13-18; Deuteronomy 24:16; Ezekiel 18:20
 
 **The claim:** Nathan tells David that although the LORD has 'put away' his sin and he will not die for it, 'the child who is born to you shall die' (12:14) -- and the child does die seven days later (12:18), despite David's fasting and pleading. This appears to place the direct consequence of David's own sin onto an entirely innocent infant, in apparent tension with Deuteronomy 24:16's principle that children shall not be put to death for a parent's sin, and Ezekiel 18:20's explicit statement that 'the son shall not suffer for the iniquity of the father.'
@@ -356,6 +390,8 @@ primary texts and the cross-references directly.
 
 ### 22. Uzzah struck dead for touching the Ark -- disproportionate judgment, or a specific, known violation?
 
+*Entry ID: 2SAM-022*
+
 **References:** 2 Samuel 6:1-7; Numbers 4:15; Numbers 7:9; 1 Chronicles 15:13-15
 
 **The claim:** As the Ark of the Covenant is being transported to Jerusalem on a new cart, the oxen stumble and Uzzah reaches out to steady the Ark -- an act that, on its face, looks like a reasonable, even pious, attempt to prevent the Ark from falling. God's anger 'broke out against Uzzah,' and he dies on the spot (6:6-7) -- a judgment some read as excessively severe for what appears to be a well-intentioned act.
@@ -369,6 +405,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 23. How many fighting men were counted in David's census -- 800,000/500,000, or 1,100,000/470,000?
+
+*Entry ID: 2SAM-023*
 
 **References:** 2 Samuel 24:9; 1 Chronicles 21:5-6; 1 Chronicles 27:1-15; 2 Chronicles 1:14
 

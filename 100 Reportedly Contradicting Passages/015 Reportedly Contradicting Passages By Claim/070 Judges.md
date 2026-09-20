@@ -17,15 +17,7 @@ elsewhere of acknowledging where the evidence genuinely does not settle the matt
 (the Sisera death accounts) is, by contrast, included specifically to show that not every
 claimed discrepancy survives a close reading -- the prose and poetic accounts agree.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -51,6 +43,8 @@ texts and the cross-references directly.
 
 ### 1. Jerusalem captured and burned -- yet the Jebusites were not driven out
 
+*Entry ID: JUDG-001*
+
 **References:** Judges 1:8; Judges 1:21
 
 **The claim:** Judges 1:8 states that the men of Judah 'fought against Jerusalem and captured it and struck it with the edge of the sword and set the city on fire.' Thirteen verses later, Judges 1:21 states that the tribe of Benjamin 'did not drive out the Jebusites who lived in Jerusalem,' who 'have lived with the people of Benjamin in Jerusalem to this day.'
@@ -64,6 +58,8 @@ texts and the cross-references directly.
 ---
 
 ### 2. 'The LORD was with Judah' -- yet Judah 'could not' drive out the inhabitants who had iron chariots
+
+*Entry ID: JUDG-002*
 
 **References:** Judges 1:19
 
@@ -79,6 +75,8 @@ texts and the cross-references directly.
 
 ### 3. Divine direction to attack Benjamin, yet Israel suffers two initial defeats
 
+*Entry ID: JUDG-003*
+
 **References:** Judges 20:18; Judges 20:21; Judges 20:23; Judges 20:25; Judges 20:26-28; Judges 20:35
 
 **The claim:** Before the civil war against the tribe of Benjamin (in response to the Gibeah atrocity of chapter 19), Israel inquires of God, who tells them Judah should attack first (20:18). Israel is nonetheless routed twice in succession, losing 22,000 men on the first day (20:21) and 18,000 more on the second (20:25), despite inquiring of and weeping before the LORD again between each defeat (20:23) -- before finally receiving an explicit promise of victory (20:28) and prevailing on the third attempt (20:35).
@@ -93,6 +91,8 @@ texts and the cross-references directly.
 
 ### 4. Samson's death: a commended act of self-sacrifice, or a prohibited act of self-destruction?
 
+*Entry ID: JUDG-004*
+
 **References:** Judges 16:28-30; Hebrews 11:32
 
 **The claim:** Samson, blinded and bound between the pillars of the Philistine temple, prays for strength one final time and then pulls the pillars down, killing himself along with thousands of Philistines gathered there (16:28-30) -- an act some read as morally equivalent to suicide, raising the question of whether Scripture is commending an act of self-destruction, particularly given his inclusion among the commended in Hebrews 11:32.
@@ -106,6 +106,8 @@ texts and the cross-references directly.
 ---
 
 ### 5. Can iron chariots stop God's deliverance, given Judah's earlier defeat by them?
+
+*Entry ID: JUDG-005*
 
 **References:** Judges 1:19; Judges 4:3, 13-16
 
@@ -122,6 +124,8 @@ texts and the cross-references directly.
 ## Law and Ethics
 
 ### 6. Jephthah's vow and his daughter: did he actually offer a human sacrifice?
+
+*Entry ID: JUDG-006*
 
 **References:** Judges 11:30-31; Judges 11:34-40; Leviticus 18:21; Deuteronomy 12:31; Deuteronomy 18:10
 
@@ -141,6 +145,8 @@ texts and the cross-references directly.
 
 ### 7. Gideon's ephod: idolatry from a judge commended for faith
 
+*Entry ID: JUDG-007*
+
 **References:** Judges 8:22-27; Judges 6:25-27; Hebrews 11:32
 
 **The claim:** Gideon, having just torn down his own father's altar to Baal at God's command (6:25-27) and led Israel to a great deliverance, later collects gold from the plunder and makes it into an ephod, which he sets up in his hometown of Ophrah -- and 'all Israel whored after it there, and it became a snare to Gideon and to his family' (8:27). Gideon is nonetheless listed by name among the commended 'heroes of faith' in Hebrews 11:32.
@@ -155,6 +161,8 @@ texts and the cross-references directly.
 
 ### 8. Deborah's public leadership and judgeship (Judges 4-5) and later New Testament restrictions on women's public teaching authority
 
+*Entry ID: JUDG-008*
+
 **References:** Judges 4:4-5; Judges 4:14; 1 Corinthians 14:34-35; 1 Timothy 2:11-12
 
 **The claim:** Deborah is introduced as 'a prophetess... judging Israel at that time' (4:4), issues military direction to Barak on God's explicit authority (4:6-7, 14), and is celebrated in the victory song of chapter 5 without any narrative qualification or criticism of her public, authoritative role. Paul's later instructions restrict women from certain forms of public teaching and authoritative speech in the gathered church (1 Corinthians 14:34-35, 1 Timothy 2:11-12), which some read as in tension with Deborah's approved example.
@@ -168,6 +176,8 @@ texts and the cross-references directly.
 ---
 
 ### 9. Is it acceptable to test God, given Gideon's fleece?
+
+*Entry ID: JUDG-009*
 
 **References:** Judges 6:36-40; Deuteronomy 6:16; Matthew 4:7
 
@@ -185,6 +195,8 @@ texts and the cross-references directly.
 
 ### 10. Samson's lifelong Nazirite vow, and his repeated contact with the dead
 
+*Entry ID: JUDG-010*
+
 **References:** Judges 13:5, 7; Judges 14:8-9; Judges 14:19; Judges 15:15; Numbers 6:6-8
 
 **The claim:** Samson is set apart 'a Nazirite to God from the womb' (13:5, 7), a lifelong vow. Numbers 6:6-8 requires a Nazirite to avoid all contact with a dead body, even a close relative's, for the duration of the vow. Yet Samson repeatedly comes into contact with the dead: he scoops honey out of a lion's carcass and eats it (14:8-9), kills thirty men at Ashkelon (14:19), and later kills a thousand Philistines with the fresh jawbone of a dead donkey (15:15) -- picking up and wielding a dead animal's bone as a weapon.
@@ -201,6 +213,8 @@ texts and the cross-references directly.
 
 ### 11. Do the judges' individually stated years add up consistently with other biblical chronological markers?
 
+*Entry ID: JUDG-011*
+
 **References:** Judges 3:11, 30; Judges 4:3; Judges 5:31; Judges 8:28; Judges 9:22; Judges 10:2-3, 8; Judges 12:7, 9, 11, 14; Judges 13:1; Judges 16:31; 1 Kings 6:1
 
 **The claim:** Judges gives specific figures for periods of oppression and 'rest' under each judge (for example: 8 years of oppression, 40 years of rest under Othniel; 18 years of oppression, 80 years of rest under Ehud; 20 years of oppression, 40 years of rest under Deborah/Barak; and so on through the book). Simply adding these figures together (without allowing for any overlap between judges whose activity may have been regional rather than nationwide) produces a total exceeding 300 years for the judges period alone -- which, combined with the 40 years of wilderness wandering, roughly 7 years of conquest under Joshua, and 40-year reigns each for Saul, David, and part of Solomon's reign before the Temple, would substantially exceed the 480-year figure 1 Kings 6:1 gives from the Exodus to the start of Temple construction in Solomon's fourth year.
@@ -214,6 +228,8 @@ texts and the cross-references directly.
 ---
 
 ### 12. Were all seventy of Gideon's sons killed by Abimelech, or did one survive?
+
+*Entry ID: JUDG-012*
 
 **References:** Judges 8:30-31; Judges 9:5
 
@@ -231,6 +247,8 @@ texts and the cross-references directly.
 
 ### 13. The Gibeah atrocity and the Sodom narrative: two accounts of one story, or two tragically similar events?
 
+*Entry ID: JUDG-013*
+
 **References:** Judges 19:1-30; Genesis 19:1-11
 
 **The claim:** Judges 19's account of the Levite and his concubine at Gibeah closely parallels Genesis 19's account of the two angels at Sodom in structure and specific detail: a traveler is taken in by a host in a city square; the men of the city surround the house demanding to 'know' the male guest; the host offers his own daughter (and, in Judges, also the concubine) to the mob instead; the guest(s) narrowly escape the immediate threat. The close correspondence raises the question of whether one narrative has been modeled on, or duplicated from, the other, rather than describing two independent historical episodes.
@@ -244,6 +262,8 @@ texts and the cross-references directly.
 ---
 
 ### 14. 'Everyone did what was right in his own eyes' -- a critique of the whole era, or specifically of its final chapters?
+
+*Entry ID: JUDG-014*
 
 **References:** Judges 17:6; Judges 21:25; Judges 2:11-19
 
@@ -260,6 +280,8 @@ texts and the cross-references directly.
 ## Miracles and Literary Genre
 
 ### 15. Do the prose and poetic accounts of Sisera's death actually conflict?
+
+*Entry ID: JUDG-015*
 
 **References:** Judges 4:17-22; Judges 5:24-27
 

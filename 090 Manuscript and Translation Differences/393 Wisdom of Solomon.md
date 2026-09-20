@@ -1,4 +1,4 @@
-# Wisdom (of Solomon): RSV2CE Compared Against Other English Translations of the Apocrypha
+# Wisdom (of Solomon): Textual and Translation Differences
 
 **Comparison translations:** RSV2CE, NABRE, Douay-Rheims, CPDV, NRSV.
 

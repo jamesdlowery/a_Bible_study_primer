@@ -21,15 +21,7 @@ opinion rather than a single forced resolution. Entry 5 addresses a real interna
 (the sword instruction and its subsequent rejection) with the standard symbolic reading rather
 than treating the tension as illusory.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -55,6 +47,8 @@ primary texts and the cross-references directly.
 
 ### 1. The census under Quirinius -- the most significant historical-chronological question in Luke
 
+*Entry ID: LUKE-001*
+
 **References:** Luke 2:1-5
 
 **The claim:** Luke 2:1-2 dates Jesus' birth to a census 'while Quirinius was governor of Syria,' and the surrounding narrative places this same birth during the reign of Herod the Great (Luke 1:5, and Matthew's parallel account, Matthew 2:1). The Jewish historian Josephus, however, independently and explicitly dates Quirinius's governorship of Syria and his own well-documented census to AD 6 -- roughly ten years after Herod the Great's death in 4 BC, since Herod's death predates Quirinius's attested governorship by a full decade. This is widely regarded as one of the most significant historical-chronological difficulties in the entire New Testament.
@@ -68,6 +62,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. A remarkably precise, multi-anchor historical dating for John the Baptist's ministry
+
+*Entry ID: LUKE-002*
 
 **References:** Luke 3:1-2
 
@@ -85,6 +81,8 @@ primary texts and the cross-references directly.
 
 ### 3. Luke's own resurrection-to-ascension timeframe: a single day in the Gospel, forty days in Acts -- by the same author
 
+*Entry ID: LUKE-003*
+
 **References:** Luke 24:1-53; Acts 1:1-11
 
 **The claim:** Luke's Gospel narrates the resurrection, the Emmaus road appearance, Jesus' appearance to the assembled disciples, and his ascension all within what reads as a single continuous day (24:1-53, with 24:13 explicitly stating the Emmaus encounter occurred 'that very day,' and no time indicator anywhere in the chapter suggesting more than one day elapses before the ascension at Bethany in 24:50-51). Acts 1:3, however -- written by the same author, and explicitly presented as a continuation of the same 'first book' addressed to the same recipient, Theophilus (Acts 1:1) -- states that Jesus 'presented himself alive... appearing to them during forty days, and speaking about the kingdom of God' before his ascension, a considerably longer timeframe than Luke 24's own narrative appears to describe.
@@ -98,6 +96,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. Luke's own genealogy of Jesus -- addressed at length in the companion Matthew chapter
+
+*Entry ID: LUKE-004*
 
 **References:** Luke 3:23-38; Matthew 1:1-17
 
@@ -113,6 +113,8 @@ primary texts and the cross-references directly.
 
 ### 5. 'Let him who has no sword sell his cloak and buy one' -- followed shortly by a rebuke for using one
 
+*Entry ID: LUKE-005*
+
 **References:** Luke 22:35-38; Luke 22:49-51; Matthew 26:52
 
 **The claim:** At the Last Supper, Jesus instructs his disciples, 'let the one who has no sword sell his cloak and buy one' (22:36), and when the disciples report having two swords already, Jesus responds, 'it is enough' (22:38) -- language read by some as a direct instruction to arm themselves. Only hours later, in Gethsemane, when a disciple (identified in John 18:10 as Peter) uses a sword to strike the high priest's servant, Jesus immediately rebukes the action, saying, according to Matthew's parallel account, 'put your sword back into its place, for all who take the sword will perish by the sword' (Matthew 26:52), and, per Luke's own account, heals the wounded servant (22:51) -- raising a question about whether Jesus' own earlier instruction to acquire swords is compatible with his subsequent, sharp rejection of their actual use.
@@ -126,6 +128,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 6. The Sermon on the Plain -- addressed at length in the companion Matthew chapter
+
+*Entry ID: LUKE-006*
 
 **References:** Luke 6:17-49; Matthew 5:1-7:29
 
@@ -141,6 +145,8 @@ primary texts and the cross-references directly.
 
 ### 7. Luke's own resurrection account -- addressed at length in the companion Matthew chapter
 
+*Entry ID: LUKE-007*
+
 **References:** Luke 24:1-12; Matthew 28:1-10; Mark 16:1-8; John 20:1-18
 
 **The claim:** Luke's resurrection account describes an unspecified larger group of women finding the tomb empty and encountering 'two men... in dazzling apparel' (24:4), without the direct encounter with the risen Jesus at the tomb itself that Matthew's account includes -- one of several specific points of difference among the four Gospels' resurrection narratives addressed at length in the companion Matthew chapter.
@@ -154,6 +160,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 8. Who washed Jesus's feet with her tears and dried them with her hair -- and is this the same woman and event described in the other Gospels?
+
+*Entry ID: LUKE-008*
 
 **References:** Luke 7:36-50; Matthew 26:6-13; Mark 14:3-9; John 12:1-8
 
@@ -169,6 +177,8 @@ primary texts and the cross-references directly.
 
 ### 9. When did Satan enter Judas -- before the Last Supper, or during it?
 
+*Entry ID: LUKE-009*
+
 **References:** Luke 22:3-6; John 13:27
 
 **The claim:** Luke 22:3 states, 'Then entered Satan into Judas,' immediately before Judas goes to negotiate his betrayal with the chief priests -- placed before the Last Supper in Luke's narrative sequence. John 13:27, however, places a description of Satan entering Judas at the Last Supper itself, immediately 'after the sop' Jesus gives him.
@@ -182,6 +192,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 10. Did Jesus drink the vinegar offered to him on the cross, or refuse it?
+
+*Entry ID: LUKE-010*
 
 **References:** Luke 23:36; Matthew 27:34, 48; John 19:28-30
 
@@ -199,6 +211,8 @@ primary texts and the cross-references directly.
 
 ### 11. 'Today you will be with me in paradise' -- a comma-dependent translation question, and its relationship to John's post-resurrection statement
 
+*Entry ID: LUKE-011*
+
 **References:** Luke 23:43; John 20:17
 
 **The claim:** Luke 23:43 records Jesus' words to the repentant thief crucified beside him: 'Truly, I say to you, today you will be with me in paradise' -- understood by most Christian traditions as promising the thief's soul would be with Jesus in paradise that very day, following their deaths. Ancient Greek manuscripts contain no punctuation, however, meaning the placement of the comma is entirely an editorial and translational decision rather than something the original text itself specifies -- some minority translations (most notably those produced by or associated with Jehovah's Witnesses, who hold a distinctive theology regarding the nature and timing of the afterlife) instead punctuate the sentence 'Truly I say to you today, you will be with me in paradise,' shifting 'today' to modify the act of speaking rather than the timing of the promised presence in paradise, thereby removing any claim about exactly when the thief would join Jesus there. Separately, John 20:17 has the resurrected Jesus tell Mary Magdalene, 'I have not yet ascended to the Father' -- raising a question of whether this is compatible with Jesus and the thief both being 'in paradise' together on the very day of the crucifixion, days before this later statement to Mary.
@@ -215,6 +229,8 @@ primary texts and the cross-references directly.
 
 ### 12. Luke's own explicit statement of his historiographical method -- a unique feature among the four Gospels
 
+*Entry ID: LUKE-012*
+
 **References:** Luke 1:1-4
 
 **The claim:** Luke opens his Gospel with an explicit, first-person statement of his own compositional method and purpose, unique among the four canonical Gospels: 'Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us, just as those who from the beginning were eyewitnesses... it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus, that you may have certainty concerning the things you have been taught' (1:1-4).
@@ -228,6 +244,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 13. Did Judas remain among the twelve through the Last Supper, and did he receive communion?
+
+*Entry ID: LUKE-013*
 
 **References:** Luke 22:19-23; Matthew 26:20-29; Mark 14:17-25; John 13:21-30
 
@@ -245,6 +263,8 @@ primary texts and the cross-references directly.
 
 ### 14. Was Joseph's father Heli, or Jacob?
 
+*Entry ID: LUKE-014*
+
 **References:** Luke 3:23; Matthew 1:16
 
 **The claim:** Luke 3:23 names Joseph's father as 'Heli.' Matthew 1:16 instead names Joseph's father as 'Jacob.'
@@ -261,6 +281,8 @@ primary texts and the cross-references directly.
 
 ### 15. Was Mary blessed, given that Jesus redirects a woman's praise of her away from mere motherhood?
 
+*Entry ID: LUKE-015*
+
 **References:** Luke 11:27-28; Luke 1:42, 48
 
 **The claim:** When a woman in the crowd calls out, 'Blessed is the womb that bare thee, and the paps which thou hast sucked,' Jesus responds, 'Yea rather, blessed are they that hear the word of God, and keep it' (11:27-28) -- language some read as Jesus deflecting or even denying his mother's blessedness. Yet Luke's own Gospel elsewhere has Elizabeth declare Mary 'blessed... among women' (1:42) and has Mary herself prophesy that 'all generations shall call me blessed' (1:48).
@@ -275,6 +297,8 @@ primary texts and the cross-references directly.
 
 ### 16. Who are wiser -- the children of this world, or the children of light?
 
+*Entry ID: LUKE-016*
+
 **References:** Luke 16:8; 1 Corinthians 1:20; 1 Corinthians 3:19
 
 **The claim:** Luke 16:8, concluding the parable of the shrewd (or 'unjust') steward, has Jesus observe that 'the children of this world are in their generation wiser than the children of light' -- seemingly commending worldly wisdom. Paul, however, states that 'the wisdom of this world is foolishness with God' (1 Corinthians 3:19) and asks, 'hath not God made foolish the wisdom of this world?' (1 Corinthians 1:20).
@@ -288,6 +312,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 17. Can a thief go to heaven, given Paul's statement that thieves will not inherit the kingdom of God?
+
+*Entry ID: LUKE-017*
 
 **References:** Luke 23:39-43; 1 Corinthians 6:9-11
 

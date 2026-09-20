@@ -50,6 +50,8 @@ directly.
 
 ### 1. Ruth the Moabite welcomed into Israel's covenant community and genealogy
 
+*Entry ID: RUTH-001*
+
 **References:** Ruth 1:16-17; Ruth 4:13-17; Ruth 4:18-22; Deuteronomy 23:3-6; Matthew 1:5
 
 **The claim:** Deuteronomy 23:3 excludes Ammonites and Moabites from the assembly of the LORD 'even to the tenth generation, forever.' Yet Ruth, a Moabite, is welcomed into Israel after declaring loyalty to Naomi and her God (1:16-17), marries an Israelite of standing (Boaz), becomes an ancestor of King David (4:13-17, 21-22), and is later listed in Jesus' own genealogy (Matthew 1:5).
@@ -66,6 +68,8 @@ directly.
 
 ### 2. The sandal-removal ceremony in Ruth 4 -- the same levirate law as Deuteronomy 25, or a related but distinct custom?
 
+*Entry ID: RUTH-002*
+
 **References:** Ruth 4:7-8; Deuteronomy 25:5-10
 
 **The claim:** Ruth 4:7-8 describes a legal custom in which the nearer kinsman, declining to redeem Naomi's land and marry Ruth, removes his own sandal and hands it to Boaz to formalize the transfer -- a straightforward, mutually agreeable legal transaction. Deuteronomy 25:5-10 describes a related but noticeably different levirate-marriage custom: if a man refuses to marry his deceased brother's childless widow, the widow herself (not the man) removes his sandal, spits in his face, and pronounces a formal public shaming ('so shall it be done to the man who does not build up his brother's house'), and the resulting stigma attaches permanently to his family name.
@@ -79,6 +83,8 @@ directly.
 ---
 
 ### 3. Redeeming land (Leviticus 25) and redeeming a widow through marriage (Deuteronomy 25) -- combined into a single Ruth 4 transaction the Law does not explicitly merge
+
+*Entry ID: RUTH-003*
 
 **References:** Ruth 4:3-6; Leviticus 25:25; Deuteronomy 25:5-10
 
@@ -96,6 +102,8 @@ directly.
 
 ### 4. Only a few generations link Boaz to David -- does this bridge the centuries-long era of the judges?
 
+*Entry ID: RUTH-004*
+
 **References:** Ruth 4:18-22; Ruth 1:1; Matthew 1:5
 
 **The claim:** Ruth is set 'in the days when the judges ruled' (1:1), a period most chronologies place at somewhere between roughly 300 and 400 years. Yet the genealogy at the end of the book (4:18-22, repeated in Matthew 1:5) lists only Salmon, Boaz, Obed, and Jesse between the earlier patriarchal-era figure Perez (son of Judah, born generations before the Egyptian sojourn) and David -- a genealogy that, if read as a complete, gap-free list of every generation, would be difficult to stretch across the full judges period, and becomes especially difficult if Salmon's wife (named in Matthew 1:5 as Rahab) is identified with Rahab of Jericho from the conquest generation centuries before David.
@@ -112,6 +120,8 @@ directly.
 
 ### 5. Naomi says 'the LORD has testified against me, and the Almighty has afflicted me' -- is God the direct author of her suffering?
 
+*Entry ID: RUTH-005*
+
 **References:** Ruth 1:20-21; James 1:13
 
 **The claim:** Returning to Bethlehem after the deaths of her husband and both sons, Naomi tells the townswomen, 'Call me Mara [bitter]... the Almighty has dealt very bitterly with me... the LORD has testified against me and the Almighty has afflicted me' (1:20-21) -- language some read as attributing her family's deaths directly to God's punishing action, raising a question addressed more generally elsewhere in this project about whether Scripture is consistent in describing God as the source of calamity or affliction (compare Isaiah 45:7, and James 1:13's statement that God 'cannot be tempted with evil' and 'tempts no one').
@@ -125,6 +135,8 @@ directly.
 ---
 
 ### 6. Ruth's declaration of loyalty (1:16-17): a genuine religious conversion, or primarily personal devotion to Naomi?
+
+*Entry ID: RUTH-006*
 
 **References:** Ruth 1:14-18
 
@@ -142,6 +154,8 @@ directly.
 
 ### 7. The threshing-floor scene: euphemism, impropriety, or neither?
 
+*Entry ID: RUTH-007*
+
 **References:** Ruth 3:3-4; Ruth 3:7-9; Ruth 3:14
 
 **The claim:** Naomi instructs Ruth to wash, perfume herself, and go alone at night to the threshing floor where Boaz is sleeping after eating and drinking, to 'uncover his feet' and lie down, waiting for him to tell her what to do (3:3-4); Ruth does so, and the two remain together at the threshing floor until 'before one could recognize another,' with Boaz then sending her away before dawn 'so that it not be known that the woman came to the threshing floor' (3:14) -- details some read as implying a sexual encounter took place, which would sit uneasily with the book's overall portrayal of Ruth and Boaz as models of covenant faithfulness and sexual propriety, and with Boaz's own praise of Ruth for not having 'gone after young men, whether poor or rich' (3:10).
@@ -157,6 +171,8 @@ directly.
 ## Chronology and Setting
 
 ### 8. 'In the days when the judges ruled' -- can Ruth's setting be dated, and does it affect the genealogy question?
+
+*Entry ID: RUTH-008*
 
 **References:** Ruth 1:1
 

@@ -1,14 +1,8 @@
 # Reportedly Contradicting Passages in Tobit
 
 **A note on this document's place in the series:** Tobit is the first deuterocanonical
-("apocryphal") book addressed in this series. Unlike documents covering books in the shared
-Protestant/Jewish/Catholic/Orthodox canon, which compare how all 27 tracked translations render
-the same underlying text, Tobit itself is included in only five of the 27 tracked translations
-in this project -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE, all
-representing Catholic-tradition translations. The remaining 22 follow the Protestant, Jewish, or
-otherwise non-deuterocanonical-affirming canon, which excludes Tobit as non-canonical. This
-document therefore notes, for each entry, that the majority of tracked translations do not
-contain the book at all, rather than comparing differing wording of a shared text.
+("apocryphal") book addressed in this series -- see the note on canon status at the start of
+the Apocrypha block above for which five of the 27 tracked translations include it.
 
 This document catalogs 7 commonly cited alleged contradictions and notable historical
 and theological questions involving the book of Tobit, either entirely internal to the book or
@@ -44,6 +38,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 
 ### 1. A book included in five of the 27 tracked translations, and absent from the other twenty-two
 
+*Entry ID: TOB-001*
+
 **References:** Tobit (entire book)
 
 **The claim:** Tobit is not merely rendered differently across the 27 tracked translations surveyed in this project -- it is entirely absent from 22 of them. Only the five Catholic-tradition translations (the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE) include the book at all, since it belongs to the collection of deuterocanonical books the Catholic Church (and, in a related but not always identical form, Eastern Orthodox tradition) recognizes as canonical Scripture, while the Protestant and Jewish canons both exclude it as non-canonical.
@@ -59,6 +55,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 ## Chronology and Historicity
 
 ### 2. A chronology that does not match the known historical sequence of Assyrian and Babylonian kings
+
+*Entry ID: TOB-002*
 
 **References:** Tobit 1:1-2, 15; Tobit 1:3-5; Tobit 14:11; Tobit 14:15
 
@@ -76,6 +74,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 
 ### 3. 'What you hate, do not do to anyone' -- the negative Golden Rule, compared with Jesus' positive formulation
 
+*Entry ID: TOB-003*
+
 **References:** Tobit 4:15; Matthew 7:12; Luke 6:31
 
 **The claim:** Tobit 4:15, part of Tobit's extended deathbed ethical instruction to his son, states the principle later known as the Golden Rule in negative form: 'what you hate, do not do to anyone' (a formulation with parallels elsewhere in ancient Near Eastern and rabbinic ethical teaching, including the saying later attributed to the first-century rabbi Hillel). Jesus states the same general principle in explicitly positive form: 'whatever you wish that others would do to you, do also to them' (Matthew 7:12; similarly Luke 6:31) -- raising a question of whether this represents a meaningful ethical difference or simply two equivalent statements of the same underlying principle.
@@ -89,6 +89,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 ---
 
 ### 4. Raphael, 'one of the seven holy angels' -- an expanded angelology beyond Michael and Gabriel
+
+*Entry ID: TOB-004*
 
 **References:** Tobit 12:15; Daniel 8:16; Daniel 10:13, 21; Daniel 12:1
 
@@ -104,6 +106,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 
 ### 5. Fish organs used to repel a demon and cure blindness -- occult remedy, or divinely sanctioned instruction?
 
+*Entry ID: TOB-005*
+
 **References:** Tobit 8:1-3; Tobit 11:7-13; Deuteronomy 18:10-11
 
 **The claim:** At the angel Raphael's specific instruction, Tobias catches a large fish and preserves its heart, liver, and gall for later use (6:1-8) -- the heart and liver are later burned to produce a smoke that drives away the demon Asmodeus on Tobias's wedding night (8:1-3), and the gall is applied to cure Tobit's blindness (11:7-13). This raises a question about whether these specific remedies -- involving burning animal organs to affect a supernatural being, and applying a substance to cure an ailment understood as demonically caused -- constitute the kind of occult or magical practice the Torah explicitly prohibits (Deuteronomy 18:10-11, condemning divination, sorcery, and various occult practices).
@@ -117,6 +121,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 ---
 
 ### 6. Burying the dead in defiance of a royal decree, despite the Torah's own purity restrictions on corpse contact
+
+*Entry ID: TOB-006*
 
 **References:** Tobit 1:17-20; Tobit 2:3-8; Numbers 19:11-13; Leviticus 21:1-4
 
@@ -133,6 +139,8 @@ by relevant scholarship. Readers are encouraged to consult the primary text dire
 ## Internal Narrative Tensions
 
 ### 7. An angel's sustained disguise and false name throughout most of the narrative
+
+*Entry ID: TOB-007*
 
 **References:** Tobit 5:4-5, 12; Tobit 12:6-15; Numbers 23:19; Titus 1:2
 

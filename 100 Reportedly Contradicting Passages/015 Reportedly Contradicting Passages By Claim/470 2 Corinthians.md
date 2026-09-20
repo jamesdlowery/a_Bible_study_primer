@@ -17,15 +17,7 @@ Sea Scrolls) rather than manuscript variation.
 **A note on candor:** Entries 1 and 5 are presented with genuine scholarly diversity of opinion
 rather than a single forced resolution.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -50,6 +42,8 @@ primary texts and the cross-references directly.
 
 ### 1. Paul's 'thorn in the flesh' -- one of the most famous unresolved ambiguities in Paul's letters
 
+*Entry ID: 2COR-001*
+
 **References:** 2 Corinthians 12:7-10
 
 **The claim:** 2 Corinthians 12:7 describes 'a thorn... in the flesh, a messenger of Satan to harass me' given to Paul specifically to keep him from becoming conceited after his extraordinary spiritual experience (addressed in entry 3 below). Paul never identifies what this 'thorn' actually was, and the resulting ambiguity has generated centuries of scholarly speculation without any single proposal commanding consensus.
@@ -63,6 +57,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. 'Forty lashes less one' -- a documented safety margin below, not a departure from, the Torah's stated maximum
+
+*Entry ID: 2COR-002*
 
 **References:** 2 Corinthians 11:24; Deuteronomy 25:1-3
 
@@ -80,6 +76,8 @@ primary texts and the cross-references directly.
 
 ### 3. 'A man in Christ... caught up to the third heaven' -- Paul's own mysterious, third-person account of his ecstatic experience
 
+*Entry ID: 2COR-003*
+
 **References:** 2 Corinthians 12:1-6
 
 **The claim:** 2 Corinthians 12:2-4 describes a remarkable experience -- being 'caught up to the third heaven,' into 'paradise,' hearing 'things that cannot be told, which man may not utter' -- in a deliberately distanced, third-person voice ('I know a man in Christ who fourteen years ago was caught up...'), before Paul's own surrounding argument makes clear this experience was in fact his own (12:7 immediately connects the 'thorn in the flesh,' addressed in entry 1 above, to 'the surpassing greatness of the revelations' just described). This raises questions about both Paul's unusual rhetorical choice to describe his own experience in the third person, and the passage's apparent assumption of a multi-layered cosmology ('the third heaven') without further explanation.
@@ -93,6 +91,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 4. Paul's stated aversion to self-commendation -- alongside his own extensive self-defense
+
+*Entry ID: 2COR-004*
 
 **References:** 2 Corinthians 3:1; 2 Corinthians 10:1-13:10
 
@@ -110,6 +110,8 @@ primary texts and the cross-references directly.
 
 ### 5. 'Do not be unequally yoked with unbelievers' -- a passage some scholars regard as a non-Pauline interpolation
 
+*Entry ID: 2COR-005*
+
 **References:** 2 Corinthians 6:14-7:1
 
 **The claim:** 2 Corinthians 6:14-7:1 ('Do not be unequally yoked with unbelievers... Come out from among them, and be separate, says the Lord... let us cleanse ourselves from every defilement of body and spirit') has been the subject of over a century of scholarly controversy regarding whether Paul actually wrote it, comparable in kind (though with a different specific textual basis) to the questions addressed regarding 1 Corinthians 14:34-35 in the companion 1 Corinthians chapter.
@@ -126,6 +128,8 @@ primary texts and the cross-references directly.
 
 ### 6. 'Away from the body and at home with the Lord' -- Paul's own teaching on the intermediate state
 
+*Entry ID: 2COR-006*
+
 **References:** 2 Corinthians 5:1-10
 
 **The claim:** 2 Corinthians 5:1-10 offers one of Paul's clearest statements on what happens between a believer's death and final bodily resurrection, describing a preference to be 'away from the body and at home with the Lord' (5:8) -- connecting to the broader question of the intermediate state addressed at several points elsewhere in this project, including regarding Luke 23:43's 'today you will be with me in paradise' and its relationship to John 20:17.
@@ -141,6 +145,8 @@ primary texts and the cross-references directly.
 ## Theological Tensions
 
 ### 7. Who blinds unbelievers' minds -- Satan, or God himself?
+
+*Entry ID: 2COR-007*
 
 **References:** 2 Corinthians 4:3-4; Romans 11:7-8; Isaiah 6:9-10
 

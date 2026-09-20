@@ -46,6 +46,8 @@ to consult the primary text and the cross-references directly.
 
 ### 1. Paul sends a slave back to his master -- the letter's historically consequential and actively contested stance on slavery
 
+*Entry ID: PHLM-001*
+
 **References:** Philemon 1:1-25
 
 **The claim:** Paul's letter to Philemon concerns Onesimus, a slave belonging to Philemon (a wealthy member of the Colossian church, addressed in the companion Colossians chapter) who had apparently fled and come into contact with Paul, who was then imprisoned. Rather than helping Onesimus escape permanently, hiding him, or declaring the institution of slavery itself unjust, Paul sends Onesimus back to Philemon, accompanied by this letter -- a fact this letter itself has been cited, at direct cross purposes, on both sides of one of history's most consequential moral debates: this letter was extensively and explicitly invoked by pro-slavery advocates in the nineteenth-century American South (one slaveholding writer calling its supposed endorsement of slavery 'clear and conclusive'), while abolitionists pointed to the same letter's own specific language -- Paul's appeal that Philemon receive Onesimus 'no longer as a slave but more than a slave, as a beloved brother' (v.16), and Paul's explicit preference to act 'not by compulsion but of your own accord' (v.14) -- as evidence the letter's actual thrust undermines rather than endorses slavery as an institution.
@@ -62,6 +64,8 @@ to consult the primary text and the cross-references directly.
 
 ### 2. 'Charge that to my account' -- a personal financial guarantee, often read as a picture of substitutionary atonement
 
+*Entry ID: PHLM-002*
+
 **References:** Philemon 1:17-19
 
 **The claim:** Philemon 17-19 has Paul personally guarantee any debt Onesimus owed Philemon: 'If you consider me your partner, receive him as you would receive me. If he has wronged you at all, or owes you anything, charge that to my account. I, Paul, write this with my own hand: I will repay it.' This specific, personal offer to absorb another's debt has been widely used by later theologians and preachers as an illustrative picture of Christ's own substitutionary atonement -- taking on a debt that was not his own so that the one who owed it could be received without penalty.
@@ -77,6 +81,8 @@ to consult the primary text and the cross-references directly.
 ## Literary Composition
 
 ### 3. Philemon's own place within the Colossians correspondence
+
+*Entry ID: PHLM-003*
 
 **References:** Philemon 1:1-2; Colossians 4:9, 17
 

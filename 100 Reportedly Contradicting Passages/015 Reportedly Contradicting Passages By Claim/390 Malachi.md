@@ -20,15 +20,7 @@ shifts in how translation families have rendered it over time (RSV to ESV; NIV 1
 substantively debated questions in the history of Christian theology and is presented without
 taking a side between major theological traditions.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -52,6 +44,8 @@ the primary texts and the cross-references directly.
 
 ### 1. 'Jacob I loved, but Esau I hated' -- individual predestination, or national destiny?
 
+*Entry ID: MAL-001*
+
 **References:** Malachi 1:2-3; Romans 9:10-13; Genesis 25:23
 
 **The claim:** Malachi 1:2-3 opens with God's declaration, 'I have loved you... Yet I have loved Jacob but Esau I have hated. I have laid waste his hill country.' Paul quotes this directly in Romans 9:13, in the midst of an extended argument about divine election explicitly framed around the two individual patriarchs 'before they were born, and had done nothing either good or bad' (9:11) -- raising a major theological question about whether this describes God's sovereign choice regarding the two individual men's own eternal destinies, or the national destinies of the two peoples descended from them (Israel and Edom), given that Malachi's own immediate context (1:3-4, explicitly describing Edom's 'hill country' laid waste and its cities as ruins the Edomites will try, but fail, to rebuild) addresses the two nations' historical fates rather than the individual patriarchs' personal standing before God.
@@ -65,6 +59,8 @@ the primary texts and the cross-references directly.
 ---
 
 ### 2. 'I the LORD do not change' -- the Old Testament's clearest statement of divine immutability
+
+*Entry ID: MAL-002*
 
 **References:** Malachi 3:6; Genesis 6:6; Exodus 32:14; 1 Samuel 15:29; Jonah 3:10
 
@@ -80,6 +76,8 @@ the primary texts and the cross-references directly.
 
 ### 3. 'Bring the full tithe... and see if I will not open the windows of heaven' -- a specific prosperity promise
 
+*Entry ID: MAL-003*
+
 **References:** Malachi 3:8-10; Proverbs 3:9-10; Job 1:1-3, 13-19
 
 **The claim:** Malachi 3:8-10 issues a direct challenge: 'Bring the full tithe into the storehouse... and thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need' -- a specific, testable promise of material blessing tied to faithful tithing, connecting to the same general question addressed at greater length elsewhere in this project (regarding Proverbs 3:9-10's similar promise and Job's own experience of severe loss despite exemplary piety).
@@ -93,6 +91,8 @@ the primary texts and the cross-references directly.
 ---
 
 ### 4. Can God be tempted, and do those who tempt him actually get away with it?
+
+*Entry ID: MAL-004*
 
 **References:** Malachi 3:13-15; Exodus 17:2; James 1:13
 
@@ -109,6 +109,8 @@ the primary texts and the cross-references directly.
 ## Numbers and Text
 
 ### 5. 'I hate divorce' -- one of the most genuinely difficult and consequential translation cruxes in the Old Testament
+
+*Entry ID: MAL-005*
 
 **References:** Malachi 2:16
 
@@ -139,6 +141,8 @@ the primary texts and the cross-references directly.
 
 ### 6. 'Behold, I send my messenger' -- one figure, or two, preparing the way before the Lord's own coming
 
+*Entry ID: MAL-006*
+
 **References:** Malachi 3:1; Matthew 11:10; Mark 1:2; Luke 7:27
 
 **The claim:** Malachi 3:1 states, 'Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming' -- a verse that mentions what could be read as either two distinct figures (a preparatory 'messenger' distinct from 'the Lord' who then comes) or, given the further mention of 'the messenger of the covenant,' potentially three. All three Synoptic Gospels quote the verse's opening clause and apply it to John the Baptist as the forerunner who prepares the way specifically for Jesus (Matthew 11:10, Mark 1:2, Luke 7:27).
@@ -154,6 +158,8 @@ the primary texts and the cross-references directly.
 ## Internal Narrative Tensions
 
 ### 7. 'I will send you Elijah the prophet' -- Jesus identifies John the Baptist as this Elijah, yet John himself denies it
+
+*Entry ID: MAL-007*
 
 **References:** Malachi 4:5-6; Matthew 11:13-14; Matthew 17:10-13; John 1:19-21; Luke 1:15-17
 

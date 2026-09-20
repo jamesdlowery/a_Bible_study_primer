@@ -8,15 +8,7 @@ tracked translations render the passages involved (only where the translation's 
 wording materially affects how sharp or resolvable the claim appears in English), and gives
 the standard scholarly reconciliation or harmonization.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -39,6 +31,8 @@ primary texts and the cross-references directly.
 
 ### 1. Is the bat classified as a bird?
 
+*Entry ID: LEV-001*
+
 **References:** Leviticus 11:13-19
 
 **The claim:** The dietary law lists the bat alongside various birds in a section headed (in some translations) by the word 'fowls' or 'birds,' which modern zoological classification would not do, since bats are mammals.
@@ -52,6 +46,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. 'Four-footed' flying insects?
+
+*Entry ID: LEV-002*
 
 **References:** Leviticus 11:20-23
 
@@ -70,6 +66,8 @@ primary texts and the cross-references directly.
 
 ### 3. Do rabbits and rock badgers actually 'chew the cud'?
 
+*Entry ID: LEV-003*
+
 **References:** Leviticus 11:5-6
 
 **The claim:** Leviticus 11:5-6 lists the 'coney'/'rock badger'/'hyrax' and the 'hare'/'rabbit' among animals that 'chew the cud' but do not have a divided hoof, and are therefore unclean. Neither animal is a true ruminant in the modern zoological sense (ruminants have multi-chambered stomachs and regurgitate a genuine cud), which some read as a scientific error in the text.
@@ -86,6 +84,8 @@ primary texts and the cross-references directly.
 
 ### 4. 'Eye for eye, tooth for tooth' -- literal retaliation, or a legal principle of proportional compensation?
 
+*Entry ID: LEV-004*
+
 **References:** Leviticus 24:19-20; Exodus 21:23-25; Matthew 5:38-39
 
 **The claim:** Leviticus 24:19-20 (echoing Exodus 21:23-25) prescribes 'fracture for fracture, eye for eye, tooth for tooth' -- read by some as mandating literal physical mutilation as punishment. Jesus in Matthew 5:38-39 tells his followers not to resist an evildoer, but to turn the other cheek, seemingly overturning this principle.
@@ -99,6 +99,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 5. Levitical death penalties for many offenses vs. Jesus and the woman caught in adultery
+
+*Entry ID: LEV-005*
 
 **References:** Leviticus 20:10, 13, 18; Leviticus 24:16; John 8:1-11
 
@@ -114,6 +116,8 @@ primary texts and the cross-references directly.
 
 ### 6. Close-relative marriage prohibited by the Law -- yet practiced by the patriarchs before it
 
+*Entry ID: LEV-006*
+
 **References:** Leviticus 18:9; Leviticus 18:12; Genesis 20:12; Exodus 6:20
 
 **The claim:** Leviticus 18:9 prohibits marrying a sister or half-sister; Leviticus 18:12 prohibits marrying a father's sister (a paternal aunt). Yet Abraham states his wife Sarah is 'the daughter of my father, though not the daughter of my mother' -- his half-sister (Genesis 20:12) -- and Moses' father Amram married his own paternal aunt, Jochebed (Exodus 6:20), both without any narrative censure.
@@ -127,6 +131,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 7. Different purification periods prescribed for a mother after the birth of a son versus a daughter
+
+*Entry ID: LEV-007*
 
 **References:** Leviticus 12:2-5
 
@@ -142,6 +148,8 @@ primary texts and the cross-references directly.
 
 ### 8. 'Love your neighbor as yourself' (Leviticus 19:18) -- originally scoped to fellow Israelites, or universal?
 
+*Entry ID: LEV-008*
+
 **References:** Leviticus 19:18; Leviticus 19:33-34; Matthew 22:39; Luke 10:25-37
 
 **The claim:** Leviticus 19:18 commands, 'you shall love your neighbor as yourself,' but its immediate context restricts the preceding prohibitions (against vengeance and grudge-bearing) to 'the sons of your own people' -- suggesting the command's original scope may have been limited to fellow Israelites. Jesus cites this verse as the second-greatest commandment (Matthew 22:39) and, when asked directly 'who is my neighbor?', answers with the parable of the Good Samaritan (Luke 10:25-37), which extends the category to include even a member of a group (Samaritans) that many of Jesus' Jewish contemporaries did not consider covenant kin -- seemingly broadening the command's scope well beyond its original context.
@@ -155,6 +163,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. Slavery regulated by the Law -- including provisions specific to Leviticus -- vs. 'neither slave nor free' in Christ
+
+*Entry ID: LEV-009*
 
 **References:** Leviticus 25:39-46; Exodus 21:2-11; Galatians 3:28
 
@@ -170,6 +180,8 @@ primary texts and the cross-references directly.
 
 ### 10. Are people commanded to judge righteously, or told not to judge at all?
 
+*Entry ID: LEV-010*
+
 **References:** Leviticus 19:15; Matthew 7:1-5; John 7:24
 
 **The claim:** Leviticus 19:15 commands, 'in righteousness shalt thou judge thy neighbour,' explicitly requiring impartial judgment rather than prohibiting judgment as such. Jesus, in the Sermon on the Mount, says, 'Judge not, that ye be not judged' (Matthew 7:1) -- language some read as a flat prohibition on judging others at all, in apparent tension with the Old Testament's repeated commands to render righteous judgment.
@@ -183,6 +195,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 11. Should we love our brother, or are there brothers and enemies Scripture commands us to hate?
+
+*Entry ID: LEV-011*
 
 **References:** Leviticus 19:17-18; Psalm 139:21-22; Luke 14:26; Matthew 5:43-44
 
@@ -198,6 +212,8 @@ primary texts and the cross-references directly.
 
 ### 12. Does God love everyone, given his stated abhorrence of certain nations and practices?
 
+*Entry ID: LEV-012*
+
 **References:** Leviticus 20:22-23; John 3:16; 1 John 4:8
 
 **The claim:** Leviticus 20:22-23 has God telling Israel that the nations he is casting out are abhorred specifically 'because they committed all these things,' and warns Israel against following the same practices. John 3:16 states 'God so loved the world,' and 1 John 4:8 declares simply, 'God is love' -- language some read as describing an unconditional divine love in tension with the abhorrence expressed in Leviticus.
@@ -211,6 +227,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 13. Should believers fear God, or has perfect love cast out fear?
+
+*Entry ID: LEV-013*
 
 **References:** Leviticus 25:17; 1 John 4:18; Romans 8:15
 
@@ -227,6 +245,8 @@ primary texts and the cross-references directly.
 ## Law and Covenant Structure
 
 ### 14. 'Perpetual'/'everlasting' priesthood and sacrifices vs. their obsolescence in Hebrews
+
+*Entry ID: LEV-014*
 
 **References:** Leviticus 6:18; Leviticus 7:34-36; Leviticus 16:29-34; Leviticus 24:8; Hebrews 7:11-19; Hebrews 8:13; Hebrews 10:1-14
 
@@ -247,6 +267,8 @@ primary texts and the cross-references directly.
 
 ### 15. Dietary laws (Leviticus 11) vs. the New Testament declaring all foods clean
 
+*Entry ID: LEV-015*
+
 **References:** Leviticus 11:1-47; Mark 7:18-19; Acts 10:9-16; 1 Timothy 4:3-5
 
 **The claim:** Leviticus 11 lays out an extensive, binding list of clean and unclean animals for food. Mark's Gospel states that Jesus, in his teaching on what defiles a person, 'declared all foods clean' (Mark 7:19). Peter's vision in Acts 10 has a voice tell him, 'What God has made clean, do not call common,' regarding animals Leviticus would classify as unclean. Paul warns against those who forbid foods 'that God created to be received with thanksgiving' (1 Timothy 4:3-5).
@@ -260,6 +282,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 16. Must all sacrifices be offered only at the tabernacle, given that patriarchs, judges, and prophets built altars and sacrificed elsewhere?
+
+*Entry ID: LEV-016*
 
 **References:** Leviticus 17:1-9; Genesis 12:7-8; Genesis 22:9; Judges 6:24-26; 1 Samuel 7:9-10; 1 Kings 18:30-38
 
@@ -275,6 +299,8 @@ primary texts and the cross-references directly.
 
 ### 17. Is Sabbath observance a permanent requirement, or was it fulfilled and set aside in Christ?
 
+*Entry ID: LEV-017*
+
 **References:** Leviticus 19:3, 30; Exodus 20:8-11; Romans 14:5-6; Colossians 2:16-17
 
 **The claim:** Leviticus 19:3 commands, 'ye shall keep my sabbaths,' repeating the fourth commandment's requirement (Exodus 20:8-11) as a standing part of Israel's law. Paul, writing to New Testament believers, treats the observance of special days as a matter of individual conscience rather than binding obligation (Romans 14:5-6), and explicitly tells the Colossians not to let anyone judge them 'in respect of... the sabbath days,' calling these 'a shadow of things to come' whose substance is found 'in Christ' (Colossians 2:16-17).
@@ -288,6 +314,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 18. May a eunuch, or a person with a physical blemish, belong to the assembly of the LORD?
+
+*Entry ID: LEV-018*
 
 **References:** Leviticus 21:17-20; Deuteronomy 23:1; Isaiah 56:3-5; Acts 8:26-39
 
@@ -305,6 +333,8 @@ primary texts and the cross-references directly.
 
 ### 19. Mixed fabrics forbidden for Israel in general -- yet required for the priesthood
 
+*Entry ID: LEV-019*
+
 **References:** Leviticus 19:19; Exodus 28:4-8; Exodus 39:27-29
 
 **The claim:** Leviticus 19:19 prohibits wearing 'a garment of cloth made of two kinds of material' (commonly understood to include a wool/linen mixture, sha'atnez). Yet the priestly garments prescribed in Exodus 28 explicitly call for linen combined with wool (blue, purple, and scarlet yarn, alongside fine twisted linen) woven together with gold thread for the ephod, breastpiece, and other priestly vestments.
@@ -318,6 +348,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 20. The sabbatical year, its centuries of neglect, and the seventy-year exile: does the arithmetic connect?
+
+*Entry ID: LEV-020*
 
 **References:** Leviticus 25:1-7; Leviticus 26:34-35; 2 Chronicles 36:20-21; Jeremiah 25:11-12; Jeremiah 29:10; Daniel 9:2
 

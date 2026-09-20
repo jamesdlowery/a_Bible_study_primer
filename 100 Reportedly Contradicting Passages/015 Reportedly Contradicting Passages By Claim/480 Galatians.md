@@ -19,15 +19,7 @@ diversity of opinion rather than a single forced resolution. Entry 1 addresses a
 significant episode of one apostle publicly correcting another, presented directly rather than
 minimized.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -52,6 +44,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 1. Paul publicly opposes Peter 'to his face' at Antioch
 
+*Entry ID: GAL-001*
+
 **References:** Galatians 2:11-14
 
 **The claim:** Galatians 2:11-14 records Paul directly and publicly confronting the apostle Peter (Cephas) at Antioch: 'when Cephas came to Antioch, I opposed him to his face, because he stood condemned. For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party... I said to Cephas before them all, If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?' -- a striking account of one apostle publicly rebuking another for a specific moral and practical failure, with real significance for how apostolic authority and fallibility are understood across different Christian traditions.
@@ -67,6 +61,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ## Chronology
 
 ### 2. Galatians 2's Jerusalem visit and the Acts 15 Jerusalem Council -- addressed at length in the companion Acts chapter
+
+*Entry ID: GAL-002*
 
 **References:** Galatians 2:1-10; Acts 15:1-29; Acts 11:27-30
 
@@ -84,6 +80,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 3. The 'offspring... who is Christ' -- Paul's argument from the singular form of 'seed'
 
+*Entry ID: GAL-003*
+
 **References:** Galatians 3:16; Genesis 22:17-18
 
 **The claim:** Galatians 3:16 builds an argument on the grammatical number of a specific Hebrew word: 'Now the promises were made to Abraham and to his offspring. It does not say, "And to offsprings," referring to many, but referring to one, "And to your offspring," who is Christ.' Critics have long objected that the underlying Hebrew word for 'seed' or 'offspring' (zera) is what grammarians call a collective singular noun -- grammatically singular in form while regularly referring to a plural, collective group of descendants (as the same word plainly does elsewhere in the same Abrahamic narrative, e.g., Genesis 13:16 and 15:5, comparing Abraham's 'seed' to the dust of the earth and the stars of the sky) -- raising a question of whether Paul's argument rests on a grammatical technicality that does not actually hold in the underlying Hebrew text he is interpreting.
@@ -97,6 +95,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 4. Hagar and Sarah as 'allegory' -- Paul's own explicit, non-literal reading of the Genesis narrative
+
+*Entry ID: GAL-004*
 
 **References:** Galatians 4:21-31; Genesis 16:1-16; Genesis 21:1-21
 
@@ -114,6 +114,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 5. 'Neither male nor female... all one in Christ Jesus' -- spiritual equality, or a claim about social roles?
 
+*Entry ID: GAL-005*
+
 **References:** Galatians 3:26-29; 1 Corinthians 11:2-16; 1 Corinthians 14:34-35
 
 **The claim:** Galatians 3:28 states, 'There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus' -- a striking, egalitarian-sounding statement that some read as teaching the dissolution of all social and role-based distinctions, including gender roles, among believers. This raises a question about how this statement relates to Paul's own apparently more differentiated teaching regarding gender roles and conduct elsewhere in his letters (addressed at length in the companion 1 Corinthians chapter regarding 11:2-16 and 14:34-35), and to his own acceptance, without direct condemnation, of the social institution of slavery as it existed in his own context (addressed pastorally, rather than abolished outright, in his letter to Philemon).
@@ -130,6 +132,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 6. 'Let him be accursed' -- strong language toward those preaching a different gospel
 
+*Entry ID: GAL-006*
+
 **References:** Galatians 1:6-9
 
 **The claim:** Galatians 1:8-9 pronounces a severe curse on anyone, even an angel, who preaches a gospel contrary to the one Paul had originally delivered to the Galatians: 'even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed... let him be accursed' -- repeated twice for emphasis -- language of unusual severity that some read as in tension with the broader New Testament emphasis on patience, gentleness, and love, even toward those in doctrinal error.
@@ -144,6 +148,8 @@ encouraged to consult the primary texts and the cross-references directly.
 
 ### 7. Slavery regulated by the Law vs. 'neither slave nor free' in Christ
 
+*Entry ID: GAL-007*
+
 **References:** Exodus 21:2-11; Leviticus 25:44-46; Galatians 3:28; Philemon 15-16
 
 **The claim:** The Mosaic Law regulates the institution of slavery rather than prohibiting it -- specifying terms for Hebrew indentured servants (Exodus 21:2-11) and permitting the acquisition of foreign slaves as property from surrounding nations (Leviticus 25:44-46) -- and the New Testament likewise instructs slaves to obey their masters (Ephesians 6:5-8; Colossians 3:22-24) without commanding masters to free them outright. Yet Paul writes, 'There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus' (Galatians 3:28), and in his letter to Philemon appeals for the runaway slave Onesimus to be received back 'no longer as a slave but... as a beloved brother' (Philemon 15-16). This raises the question of how the New Testament's language of radical spiritual equality relates to its own apparent acceptance of slavery as a continuing social institution.
@@ -157,6 +163,8 @@ encouraged to consult the primary texts and the cross-references directly.
 ---
 
 ### 8. Should we bear each other's burdens, or does each person bear their own?
+
+*Entry ID: GAL-008*
 
 **References:** Galatians 6:2, 5
 

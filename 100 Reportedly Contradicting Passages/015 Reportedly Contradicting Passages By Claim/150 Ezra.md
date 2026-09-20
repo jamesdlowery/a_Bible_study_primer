@@ -15,15 +15,7 @@ identity, and whether Ezra arrived before or after Nehemiah) are presented as qu
 majority position and a genuine, actively argued minority alternative, rather than fully
 settled matters.
 
-**Verification status:** Every wording-specific claim in this document was checked against
-the published text of the tracked translations as part of producing this document, except where
-a specific entry below names a translation that could not be checked (for example, TRB's lack
-of a searchable published text). Translation
-wording was checked directly wherever a difference seemed plausible enough to matter to the
-claim. Where no such check turned up a meaningful difference, the entry states that all 27 tracked
-translations render the passage similarly -- reflecting the fact that most of these claims
-turn on a disagreement between two biblical passages rather than on how any single verse
-happens to be translated, not an unchecked assumption.
+**Verification status:** See A Note on Method and Verification for this book's verification standard.
 
 **A note on posture:** Inclusion of an item here is not a concession that Scripture actually
 contradicts itself. Every entry below is paired with the harmonization most commonly offered
@@ -50,6 +42,8 @@ primary texts and the cross-references directly.
 
 ### 1. The returnees' census: does it add up, and does it match the same list in Nehemiah 7?
 
+*Entry ID: EZRA-001*
+
 **References:** Ezra 2:1-67; Ezra 2:64; Nehemiah 7:6-69; Nehemiah 7:66
 
 **The claim:** Ezra 2 gives a detailed, family-by-family list of those who returned from Babylon with Zerubbabel, concluding with a stated total: 'the whole assembly together was 42,360' (2:64). Adding up the individual family figures listed in the chapter, however, yields approximately 29,818 -- not 42,360. Nehemiah 7 records what is explicitly the same list (Nehemiah 7:5 states he found and copied 'the genealogy of those who came up at the first'), states the identical total of 42,360 (7:66), yet its own individual family figures sum to approximately 31,089 -- a different number from Ezra's sum, and also not matching the stated total. Furthermore, of roughly 33 family units appearing in both lists, about 14 show numeric discrepancies between the two accounts (ranging from a difference of 1 up to a difference of 1,100 for the sons of Azgad), and a few names differ between otherwise matching entries.
@@ -63,6 +57,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 2. Do the freewill contributions for the rebuilding work match between Ezra's and Nehemiah's parallel lists?
+
+*Entry ID: EZRA-002*
 
 **References:** Ezra 2:69; Nehemiah 7:70-72
 
@@ -80,6 +76,8 @@ primary texts and the cross-references directly.
 
 ### 3. Sheshbazzar or Zerubbabel: one governor, or two?
 
+*Entry ID: EZRA-003*
+
 **References:** Ezra 1:8, 11; Ezra 2:2; Ezra 5:14-16; Haggai 1:1; Haggai 2:2
 
 **The claim:** Ezra 1:8, 11 introduces 'Sheshbazzar the prince of Judah,' to whom Cyrus entrusts the Temple vessels for the return, and Ezra 5:14, 16 explicitly calls him 'the governor' whom Cyrus appointed, crediting him with laying the Temple's foundation. Yet Ezra 2:2 and the bulk of the book's subsequent narrative credit the return and the Temple-building project's actual leadership to 'Zerubbabel,' explicitly called 'governor of Judah' in Haggai 1:1 and 2:2 -- raising the question of whether Sheshbazzar and Zerubbabel are the same individual under two names, or two distinct, sequential Persian-appointed governors.
@@ -95,6 +93,8 @@ primary texts and the cross-references directly.
 ## Literary Composition
 
 ### 4. Ezra 4's chronological leap: forward to Xerxes and Artaxerxes, then back to Darius
+
+*Entry ID: EZRA-004*
 
 **References:** Ezra 4:1-5; Ezra 4:6; Ezra 4:7-23; Ezra 4:24
 
@@ -112,6 +112,8 @@ primary texts and the cross-references directly.
 
 ### 5. Did Ezra arrive in Jerusalem before, or after, Nehemiah?
 
+*Entry ID: EZRA-005*
+
 **References:** Ezra 7:1, 7-9; Nehemiah 1:1; Nehemiah 2:1; Nehemiah 8:9
 
 **The claim:** Ezra 7 dates Ezra's own arrival in Jerusalem to 'the seventh year of King Artaxerxes' (7:7-8). Nehemiah's own mission begins in 'the twentieth year of King Artaxerxes' (Nehemiah 2:1), thirteen years later on the traditional reading that both books refer to the same king, Artaxerxes I -- placing Ezra's arrival well before Nehemiah's, consistent with the two men appearing together in Jerusalem during Nehemiah's time (Nehemiah 8:9, 12:26, 12:36). A minority of modern critical scholars, however, have proposed that the 'Artaxerxes' of Ezra 7 is actually a later king, Artaxerxes II, which would place Ezra's arrival decades *after* Nehemiah's entire recorded ministry, reversing the traditional order -- a position argued from perceived tensions in the internal evidence (including questions about whether the wall Ezra reportedly found already standing, and various administrative and social details, fit more naturally with a later setting).
@@ -127,6 +129,8 @@ primary texts and the cross-references directly.
 ## Law and Ethics
 
 ### 6. Ezra's forced divorces: consistent with, or in tension with, Malachi's 'I hate divorce' and Ruth's welcome of a foreign wife?
+
+*Entry ID: EZRA-006*
 
 **References:** Ezra 9:1-2; Ezra 10:2-3, 10-11, 44; Malachi 2:14-16; Ruth 1:16-17; Ruth 4:13-17
 
@@ -144,6 +148,8 @@ primary texts and the cross-references directly.
 
 ### 7. Cyrus's decree: two different versions?
 
+*Entry ID: EZRA-007*
+
 **References:** Ezra 1:2-4; Ezra 6:3-5
 
 **The claim:** Ezra 1:2-4 records Cyrus's decree in an elaborate, religiously effusive form, opening 'The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem,' and inviting any of the LORD's people to return with the freewill support of their neighbors. Ezra 6:3-5, describing a search of the royal archives conducted decades later under Darius, produces a different-sounding document -- a terser administrative memorandum specifying the Temple's required dimensions and stipulating that its costs be paid from the royal treasury, with no comparable religious language -- raising the question of whether these represent two different, possibly conflicting versions of the same original decree.
@@ -160,6 +166,8 @@ primary texts and the cross-references directly.
 
 ### 8. Ezra's genealogy back to Aaron: a compressed generational list
 
+*Entry ID: EZRA-008*
+
 **References:** Ezra 7:1-5
 
 **The claim:** Ezra 7:1-5 traces Ezra's priestly lineage back through a list of names to Aaron, spanning several centuries of Israel's history in a comparatively short list of generations -- raising the same kind of genealogical-compression question addressed for several other biblical genealogies elsewhere in this project.
@@ -173,6 +181,8 @@ primary texts and the cross-references directly.
 ---
 
 ### 9. Was the prophet Zechariah the son of Iddo, or his grandson?
+
+*Entry ID: EZRA-009*
 
 **References:** Ezra 5:1; Ezra 6:14; Zechariah 1:1
 
