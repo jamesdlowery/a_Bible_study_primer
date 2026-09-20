@@ -91,11 +91,7 @@ These verses appear in the main text of the **KJV** and (with footnotes) the **N
 
 **Larger disputed passages**
 
-- **Mark 16:9–20** (Longer Ending): Present in KJV/NKJV main text. In NIV, ESV, NLT, CSB, NRSV, etc., usually printed in double brackets or with a clear note that the earliest manuscripts end at 16:8. NASB often brackets it.
-
-- **John 7:53–8:11** (Pericope Adulterae / woman caught in adultery): Present in KJV/NKJV. Nearly all modern critical-text translations place it in brackets or a footnote with a note that it is absent from the earliest manuscripts (though widely attested later and accepted as historically valuable by most scholars).
-
-- **1 John 5:7b–8a** (Comma Johanneum): “For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one…” Present in KJV (and retained in NKJV with a note). Absent from virtually all modern translations; the earliest Greek evidence is extremely late (medieval). The shorter reading is the scholarly consensus.
+Three passages longer than a single verse carry the same basic KJV/NKJV-vs-critical-text pattern as the table above, but at enough length and doctrinal weight that each has its own full treatment, with the manuscript evidence, in Manuscript and Translation Differences: **Mark 16:9–20** (the Longer Ending, see Mark), **John 7:53–8:11** (the Pericope Adulterae, see John), and **1 John 5:7b–8a** (the Comma Johanneum, see 1 John).
 
 2\. Notable Passages with Foundationally Different Wording (Textual or Translational)
 

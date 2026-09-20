@@ -31,7 +31,7 @@ Usage: python3 render_html.py <full_document_md> <html_style_path> <out_html_pat
 import sys
 import subprocess
 
-PANDOC_READER = "markdown+raw_attribute+link_attributes"
+PANDOC_READER = "markdown+raw_attribute+link_attributes-yaml_metadata_block"
 PAGEBREAK_MARKER = '<div class="print-page-break"></div>'
 
 # ~1.5MB per chunk. Comfortably below the ~5.8MB/15s point on the observed

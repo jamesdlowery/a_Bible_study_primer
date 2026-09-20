@@ -3,6 +3,25 @@ import re
 import os
 import sys
 import html as html_entities
+import hashlib
+
+
+def bookmark_name(target_id):
+    """A stable, valid Word bookmark name for a given target id. Word
+    bookmark names must start with a letter, contain only letters, digits,
+    and underscores, and be 40 characters or fewer. Target ids (e.g.
+    "ot_010 Genesis.md") often contain spaces, dots, and other characters
+    Word rejects, and pandoc's own heading-anchor-to-bookmark mapping isn't
+    reliably predictable for headings with punctuation or excess length
+    (it silently falls back to an opaque hash for some headings but not
+    others) -- so rather than depend on that, every docx target gets its
+    own explicit bookmark here, named directly from its own stable id, so
+    a PAGEREF field in the Table of Contents can point at it reliably.
+    A short hash suffix keeps names unique after truncation/sanitizing
+    even if two ids happen to collide once stripped down to safe characters."""
+    safe = re.sub(r'[^A-Za-z0-9_]', '_', target_id)
+    digest = hashlib.md5(target_id.encode("utf-8")).hexdigest()[:8]
+    return f"bm_{safe[:28]}_{digest}"
 
 REPO = "/home/claude/repo"
 FORMAT = sys.argv[1] if len(sys.argv) > 1 else "docx"  # "docx" or "odt"
@@ -531,6 +550,23 @@ def build_targets():
     add("references", get_heading_text("130 References for Further Reading/010 References for Further Reading.md"),
         lambda: read("130 References for Further Reading/010 References for Further Reading.md"))
 
+    # A compiled back-of-book index, DOCX only: every numbered claim
+    # entry (Reportedly Contradicting Passages) and every dashed variant
+    # entry (Manuscript and Translation Differences) gets its own
+    # alphabetized line with a real page number, via the XE fields
+    # inject_index_entries() plants at each entry heading during the
+    # final assembly pass below. ODT and HTML keep their own existing,
+    # page-number-free navigation instead.
+    if FORMAT == "docx":
+        def render_index():
+            return ('# Index\n\n'
+                    '`<w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r>'
+                    '<w:r><w:instrText xml:space="preserve"> INDEX \\h "A" \\c "2" \\z 1033 </w:instrText></w:r>'
+                    '<w:r><w:fldChar w:fldCharType="separate"/></w:r>'
+                    '<w:r><w:t>Right-click and select &quot;Update Field&quot; to generate the index.</w:t></w:r>'
+                    '<w:r><w:fldChar w:fldCharType="end"/></w:r>`{=openxml}\n')
+        add("index", "Index", render_index)
+
     return targets
 
 
@@ -590,7 +626,7 @@ def pypandoc_convert(markdown_text):
     pandoc assigns)."""
     import subprocess
     result = subprocess.run(
-        ["pandoc", "-f", "markdown+raw_attribute", "-t", "html"],
+        ["pandoc", "-f", "markdown+raw_attribute-yaml_metadata_block", "-t", "html"],
         input=markdown_text, capture_output=True, text=True, check=True,
     )
     return result.stdout
@@ -672,7 +708,20 @@ def build_toc_md(anchors):
         anchor = anchors.get(target_id)
         if anchor is None:
             return f"{label} (link unavailable)"
-        return f"[{label}](#{anchor})"
+        base = f"[{label}](#{anchor})"
+        if FORMAT != "docx":
+            return base
+        # DOCX only: append a PAGEREF field resolving to this target's own
+        # bookmark (inserted at its content by bookmark_marker_md below),
+        # right-tab-aligned like a conventional printed table of contents.
+        name = bookmark_name(target_id)
+        pageref = (
+            '`<w:r><w:tab/></w:r><w:r><w:fldChar w:fldCharType="begin"/></w:r>'
+            f'<w:r><w:instrText xml:space="preserve"> PAGEREF {name} \\h </w:instrText></w:r>'
+            '<w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:t>1</w:t></w:r>'
+            '<w:r><w:fldChar w:fldCharType="end"/></w:r>`{=openxml}'
+        )
+        return base + pageref
 
     lines = ["# Table of Contents", ""]
     lines.append(f"- {link('preface', 'Preface')}")
@@ -736,6 +785,8 @@ def build_toc_md(anchors):
     lines.append(f"- {link('top_study_bibles', 'Top Study Bibles')}")
 
     lines.append(f"- {link('references', 'References for Further Reading')}")
+    if FORMAT == "docx":
+        lines.append(f"- {link('index', 'Index')}")
 
     return "\n".join(lines) + "\n"
 
@@ -816,6 +867,66 @@ out.append(f"\n\n*{TOC_END_MARKER}*\n\n")
 # divider heading(s) prepended directly above its content on that one page.
 pending_divider_md = []
 
+def bookmark_marker_md(target_id):
+    """A raw-OOXML bookmark spanning zero content, placed right before a
+    target's own content, so a PAGEREF field in the Table of Contents can
+    resolve to this target's actual page number. DOCX only -- ODT and HTML
+    use their own existing (page-number-free) navigation and don't need
+    this. bookmarkStart/End ids just need to be unique within the document;
+    a running counter is simplest since collisions would corrupt the file."""
+    bookmark_marker_md.counter += 1
+    bid = bookmark_marker_md.counter
+    name = bookmark_name(target_id)
+    return (f'\n\n```{{=openxml}}\n<w:p><w:bookmarkStart w:id="{bid}" w:name="{name}"/>'
+            f'<w:bookmarkEnd w:id="{bid}"/></w:p>\n```\n\n')
+bookmark_marker_md.counter = 1000  # start well above pandoc's own auto-assigned bookmark ids
+
+
+def xe_escape(s):
+    """Escape a string for use inside a Word XE field's quoted argument,
+    embedded inside a raw-openxml inline code span. Two escaping layers
+    apply, in this order: Word's own field-quoting rules (backslash and
+    double-quote each need their own backslash), then XML entity escaping
+    (&, <, > -- since the raw_attribute code span's content becomes
+    literal XML text, not further processed by pandoc). Skipping the XML
+    layer is exactly what corrupted document.xml the first time this was
+    written (an unescaped "&" inside a heading, e.g. "C&MA", broke the
+    whole file as invalid XML)."""
+    s = s.replace('\\', '\\\\').replace('"', '\\"')
+    return html_entities.escape(s, quote=False)
+
+
+RCP_ENTRY_HEADING = re.compile(r'^(#{2,6}) (\d+)\. (.+)$', re.MULTILINE)
+VARIANT_ENTRY_HEADING = re.compile(r'^(#{2,6}) (.+ — .+)$', re.MULTILINE)
+
+
+def inject_index_entries(rendered_md, book_label):
+    """Add an invisible Word index entry (XE field) right after every
+    numbered claim heading (Reportedly Contradicting Passages: "### N.
+    Title") and every dashed variant heading (Manuscript and Translation
+    Differences: "## Verse ref — description"), so the book-wide back-
+    of-book Index picks up one alphabetized entry per claim/variant,
+    each carrying its own real page number. DOCX only -- ODT and HTML
+    don't get a compiled index in this pass. The heading text itself is
+    left completely unchanged; the XE field is invisible in the rendered
+    page, so this never affects how a heading actually looks or prints."""
+
+    def make_xe(entry_text):
+        key = xe_escape(f"{book_label} — {entry_text}")
+        return (f'\n\n`<w:r><w:fldChar w:fldCharType="begin"/></w:r>'
+                f'<w:r><w:instrText xml:space="preserve"> XE "{key}" </w:instrText></w:r>'
+                f'<w:r><w:fldChar w:fldCharType="end"/></w:r>`{{=openxml}}\n\n')
+
+    def repl_rcp(m):
+        return m.group(0) + make_xe(m.group(3))
+
+    def repl_variant(m):
+        return m.group(0) + make_xe(m.group(2))
+
+    rendered_md = RCP_ENTRY_HEADING.sub(repl_rcp, rendered_md)
+    rendered_md = VARIANT_ENTRY_HEADING.sub(repl_variant, rendered_md)
+    return rendered_md
+
 for t in targets:
     if t["is_divider"]:
         pending_divider_md.append(t["render"]())
@@ -823,10 +934,33 @@ for t in targets:
     if t["id"] in needs_blank:
         out.append(PAGEBREAK)
     out.append(PAGEBREAK)
+    if FORMAT == "docx":
+        out.append(bookmark_marker_md(t["id"]))
     if pending_divider_md:
         out.append("\n\n".join(pending_divider_md))
         pending_divider_md = []
-    out.append(t["render"]())
+    rendered = t["render"]()
+    # Only Manuscript and Translation Differences and Reportedly
+    # Contradicting Passages book targets get indexed -- other sections
+    # (denominations, study Bibles, histories, front matter) sometimes
+    # use an em dash in their own headings for unrelated reasons (e.g. a
+    # denomination profile's "United States — Christian and Missionary
+    # Alliance"), which would otherwise falsely match the variant-heading
+    # pattern below and pollute the index with entries that aren't
+    # claims or variants at all.
+    indexable_prefixes = ("ot_", "apoc_", "nt_", "rcpbook_")
+    if FORMAT == "docx" and t["id"].startswith(indexable_prefixes):
+        # rcpbook_ targets' own search_text is already a short book name
+        # (e.g. "Genesis"); ot_/apoc_/nt_ targets' search_text is the
+        # full heading ("Genesis: Significant Textual Variants Across 27
+        # Translations"), so shorten it the same way the ToC does, to
+        # keep index entries from repeating the same long book title
+        # every single time.
+        index_label = t["search_text"]
+        if t["id"].startswith(("ot_", "apoc_", "nt_")):
+            index_label = canonical_display_name(t["search_text"], t["id"])
+        rendered = inject_index_entries(rendered, index_label)
+    out.append(rendered)
     if FORMAT == "html":
         out.append('\n\n[↑ Back to Table of Contents](#table-of-contents){.back-link}\n\n')
 
