@@ -23,7 +23,7 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Histories of English Bible Translations | A history for each of {{TRANSLATION_COUNT}} major translations |
 | Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all {{TRANSLATION_COUNT}} tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
-| Major U.S. Christian Denominations | Profiles of the 25 most prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
+| Major U.S. Christian Denominations | Profiles of 27 prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
 | Prominent English Study Bibles | Profiles of 27 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
 | References for Further Reading | A bibliography for readers who want to go deeper on any section |
 

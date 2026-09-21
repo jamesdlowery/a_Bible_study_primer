@@ -1,6 +1,6 @@
 # Major U.S. Christian Denominations
 
-This section profiles the 25 most prominent Christian denominations and denominational families in the United States, ranked primarily by adherents per the 2020 U.S. Religion Census -- the most comprehensive, methodologically consistent source available for this kind of comparison -- supplemented in a small number of cases where that source is known to under-report a body's actual size (noted individually where this applies). Recently-split bodies (e.g., the United Methodist Church and the Global Methodist Church) are listed as separate entries with their own distinct positions, rather than blended into one profile that would erase a real, current disagreement.
+This section profiles 27 prominent Christian denominations and denominational families in the United States, ranked primarily by adherents per the 2020 U.S. Religion Census -- the most comprehensive, methodologically consistent source available for this kind of comparison -- supplemented in a small number of cases where that source is known to under-report a body's actual size (noted individually where this applies). Recently-split bodies (e.g., the United Methodist Church and the Global Methodist Church) are listed as separate entries with their own distinct positions, rather than blended into one profile that would erase a real, current disagreement. The last two entries (African Methodist Episcopal Zion Church and United Pentecostal Church International) were added specifically for doctrinal breadth alongside size: AME Zion completes the historically Black Methodist family already represented elsewhere in this section, and the UPCI is the only Oneness (non-Trinitarian) body profiled here, a genuinely distinct doctrinal position none of the other 26 entries hold.
 
 For each denomination, this section documents core doctrinal positions (view of Scripture, salvation, baptism, the Lord's Supper, church government, eschatology, spiritual gifts, and women's ordination) and a smaller set of ethical/lifestyle positions (abortion, homosexuality and same-sex marriage, and alcohol). Each ethical/lifestyle position is sourced explicitly -- distinguishing an official confessional statement from a documented general practice or cultural norm -- since these are different kinds of claims with different kinds of evidence behind them. Where a tradition is internally split or actively debating a question, this section says so directly rather than forcing a single label onto a live disagreement.
 
@@ -857,3 +857,71 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Premarital sex/cohabitation | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
 | War/pacifism | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
 | Death penalty | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+
+---
+
+## 26. African Methodist Episcopal Zion Church (AME Zion)
+
+**U.S. adherents:** ~1.2–1.4 million (denominational reporting; not separately broken out in the 2020 U.S. Religion Census in this research pass) — one of the oldest independent Protestant denominations founded by African Americans, tracing its roots to a group that left New York's John Street Methodist Church in the 1790s over discriminatory treatment, organizing formally in 1821 and adding "Zion" to its name in 1848.
+**Governance:** Episcopal/connectional, closely paralleling AME and United Methodist structure, from which it historically separated (independently of, though for similar reasons as, the AME Church) over the exclusion and mistreatment of Black members and clergy.
+**Origin:** 1796 (informal beginnings), New York City; formally organized 1821. Historically known as the "Freedom Church" for its role aiding enslaved people escaping to freedom; members have included Harriet Tubman, Sojourner Truth, and Frederick Douglass.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Scripture authoritative, interpreted within the Wesleyan-Arminian theological tradition, closely paralleling the AME Church and UMC. |
+| Salvation | Wesleyan-Arminian theology, closely paralleling the AME Church and UMC. |
+| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion all valid. |
+| The Lord's Supper | A "means of grace" in the Wesleyan sense, closely paralleling the AME Church's own practice. |
+| Church government | Episcopal/connectional, closely paralleling AME and United Methodist structure. |
+| Eschatology | No specific end-times framework doctrinally mandated, consistent with the wider Wesleyan tradition. |
+| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
+| Women's ordination | Fully open, and historically pioneering: Julia A. J. Foote was ordained the denomination's first woman deacon in 1894 -- the first Black denomination to ordain a woman to that office -- and the second woman elder in 1900. Mildred "Bonnie" Hines became the AME Zion Church's first female bishop in 2008; a second woman, Melanie Rogers Miller, was elected bishop in 2024. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | No single mandated denominational statement as sharply defined as the SBC's; best understood as generally consistent with the moderate, pastorally-oriented position described in the AME Church entry above, rather than independently and distinctly documented for this specific denomination in this research pass. | General denominational pattern, not independently documented |
+| Homosexuality | Denominational leadership has officially described homosexuality and same-sex marriage as "morally wrong" (1996 bishops' statement), while also stating the church's position is "not condemning any of God's children" -- combining traditional teaching on the practice with an explicitly pastoral posture toward persons, a pattern similar to several other bodies in this section. | Official statement (AME Zion Council of Bishops, 1996) |
+| Alcohol | No formal prohibition identified in this research pass; drunkenness alone would be expected to be condemned, consistent with the wider Methodist family's general approach outside the SBC's specific confessional abstinence rule. | General pattern, not independently documented |
+| Divorce and remarriage | Best understood as generally consistent with the AME Church's own broader Wesleyan-Arminian pastoral approach, rather than independently documented for this specific denomination. | General pattern, not independently documented |
+| Contraception | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| Gambling | Best understood as generally consistent with the wider historically Black Methodist tradition's emphasis on stewardship, as described in the AME Church entry above, rather than independently documented for this specific denomination. | General pattern, not independently documented |
+| Dancing | No doctrinal position identified in this research pass; not treated as a moral category in current teaching in the wider Methodist family. | Not identified in this research pass |
+| Premarital sex/cohabitation | Best understood as generally consistent with the AME Church's own broader moderate, traditional sexual ethic, rather than independently documented for this specific denomination. | General pattern, not independently documented |
+| War/pacifism | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| Death penalty | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+
+---
+
+## 27. United Pentecostal Church International (UPCI)
+
+**U.S. adherents:** figures vary by source; the UPCI itself reports roughly 6.2 million constituents worldwide, while the 2020 U.S. Religion Census and similar sources place U.S.-specific membership considerably lower (on the order of 1–1.5 million) -- the largest predominantly white Oneness Pentecostal body in the country either way, and, doctrinally, the one denomination in this section that departs from Trinitarian orthodoxy shared by every other body profiled here.
+**Governance:** Congregational-presbyterian hybrid; local churches are self-governing (electing their own pastors, owning their own property, and setting their own budgets and membership), while ministers also meet in sectional, district, and general conferences.
+**Origin:** Formed in 1945 in St. Louis, Missouri, by the merger of the Pentecostal Church, Inc. and the Pentecostal Assemblies of Jesus Christ, both tracing back to the Oneness ("Jesus' Name") wing of the early Pentecostal movement that emerged from the 1906 Azusa Street Revival.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Biblical inerrancy affirmed, consistent with broad Pentecostal evangelicalism. |
+| Salvation | Requires repentance, water baptism "in the name of Jesus Christ" (rather than the traditional Trinitarian formula), and the baptism of the Holy Spirit evidenced by speaking in tongues -- all three held to be necessary elements of the new birth (Acts 2:38), a distinctively Oneness Pentecostal soteriology setting the UPCI apart from every other Pentecostal body profiled in this section. |
+| Baptism | Believer's baptism only, by full immersion, performed specifically "in the name of Jesus" rather than the traditional Trinitarian formula ("Father, Son, and Holy Spirit") used by other denominations in this section. |
+| The Lord's Supper | Observed as an ordinance/memorial, alongside foot washing as a further practiced ordinance in many congregations. |
+| Church government | Congregational-presbyterian hybrid, organized into districts and a general conference. |
+| Eschatology | Premillennial and dispensationalist, consistent with much of the wider Pentecostal movement. |
+| Spiritual gifts | Explicitly continuationist and central to its identity, as with other Pentecostal bodies in this section -- but distinctively **Oneness** rather than Trinitarian: God is understood as a single person (not three coequal, coeternal persons) who is revealed as Father, Son, and Holy Spirit in different modes or manifestations, a position historic Christian creeds (Nicene, Athanasian) explicitly reject as the heresy of modalism. This is the defining doctrinal distinctive separating the UPCI from every other denomination profiled in this section. |
+| Women's ordination | Women may be licensed as evangelists, missionaries, and ministers, and have long served in these roles, but the office of bishop/general leadership has historically been reserved to men; practice on ordaining women to the pastorate varies somewhat by district. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed except to save the life of the mother, consistent with broad Pentecostal-evangelical practice. | General denominational pattern |
+| Homosexuality | Considered sinful; same-sex marriage not recognized, consistent with broad Pentecostal-evangelical practice. | General denominational pattern |
+| Alcohol | Total abstinence expected, reflecting the broader Pentecostal-Holiness movement's historical temperance heritage and this denomination's own holiness-code emphasis (see below), though (as throughout this section) this is distinguished from the near-universal Christian condemnation of drunkenness specifically. | General denominational pattern |
+| Divorce and remarriage | Historically treated more restrictively than much of broad evangelicalism, particularly for ministry leadership, consistent with the wider Pentecostal-Holiness movement's traditional emphasis on marital permanence. | General pattern, not independently documented in detail |
+| Contraception | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| Gambling | Opposed, consistent with the wider Pentecostal-Holiness movement's stewardship emphasis. | General denominational pattern |
+| Dancing | Historically and, in many congregations, still discouraged as part of a wider "holiness code" also addressing modest dress, jewelry, and entertainment standards (including social/secular dancing, attending movies, and mixed public swimming) -- a distinctive of the UPCI's continuing Pentecostal-Holiness heritage that has relaxed in some congregations but remains more visibly maintained than in most other bodies in this section. | Historical/cultural denominational pattern |
+| Premarital sex/cohabitation | Opposed, consistent with broad Pentecostal-evangelical sexual ethics. | General denominational pattern |
+| War/pacifism | No mandated pacifism identified in this research pass; individual conscience generally respected regarding military service, consistent with much of the wider Pentecostal movement. | General pattern, not independently documented in detail |
+| Death penalty | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |

@@ -186,7 +186,8 @@ def demote(text, levels):
 # and (b) be pushed to the next ODD page (with a blank page inserted before
 # it) if it would otherwise land on an even page. This covers: the 9 main
 # "Part" sections, the 3 Testament dividers (Old Testament/Apocrypha/New
-# Testament), each of the 25 translation histories, and each book in the
+# Testament), each of the 16 translation history chapters (covering all 27
+# tracked translations, several grouped by family into one chapter), and each book in the
 # Variants section. Category labels (Pentateuch/Law/Torah, Gospels, etc.)
 # are NOT separate targets -- they're prepended to whichever book follows.
 # ---------------------------------------------------------------------------
