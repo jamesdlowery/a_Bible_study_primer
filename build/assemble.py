@@ -999,7 +999,11 @@ meta_path = f"build/targets_meta_{FORMAT}.json"
 with open(meta_path, "w", encoding="utf-8") as f:
     json.dump(meta, f, indent=2)
 
-# TOC (first real target, right after the title page)
+# TOC (first real target, right after the title page). One blank page is
+# always inserted here unconditionally; a second one is added on top of
+# it when the odd/even-page enforcement above independently determines
+# the ToC would otherwise land on an even page.
+out.append(PAGEBREAK)
 if "toc" in needs_blank:
     out.append(PAGEBREAK)
 out.append(PAGEBREAK)
