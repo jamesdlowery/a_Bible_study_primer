@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260921f/A_Bible_Study_Primer_v20260921f.docx)
-- [📄 OpenDocument (.odt)](../../releases/download/v20260921f/A_Bible_Study_Primer_v20260921f.odt)
-- [📄 PDF](../../releases/download/v20260921f/A_Bible_Study_Primer_v20260921f.pdf)
-- [🌐 HTML](../../releases/download/v20260921f/A_Bible_Study_Primer_v20260921f.html)
+- [📄 Word (.docx)](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.odt)
+- [📄 PDF](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.pdf)
+- [🌐 HTML](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -21,6 +21,7 @@ Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases pa
 
 | Folder | Description |
 |---|---|
+| [`005 Cover`](005%20Cover/front-cover.jpg) | Front cover image |
 | [`010 Title`](010%20Title/010%20Title%20Page.md) | Title page |
 | [`020 Table of Contents`](020%20Table%20of%20Contents/010%20Table%20of%20Contents.md) | Full table of contents |
 | [`030 Introduction`](030%20Introduction/010%20Preface.md) | Front matter: preface, purpose & scope, how to use this book, reading paths for different readers, background on textual transmission, and a note on method and verification |

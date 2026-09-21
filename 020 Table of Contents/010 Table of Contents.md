@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [Cover](../010%20Title/front-cover.jpg)
+- [Cover](../005%20Cover/front-cover.jpg)
  - [Preface](../030%20Introduction/010%20Preface.md)
  - [Purpose & Scope](../030%20Introduction/020%20Purpose%20and%20Scope.md)
  - [How to Use This Book](../030%20Introduction/050%20How%20to%20Use%20This%20Book.md)

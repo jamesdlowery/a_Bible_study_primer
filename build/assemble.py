@@ -851,7 +851,7 @@ def build_cover_md():
         # into the bookmarks panel is instead handled directly on the
         # compiled PDF's own outline data, in build/add_cover_bookmark.py,
         # which doesn't depend on that conversion behavior at all.
-        '![](010 Title/front-cover.jpg){width=6.5in height=8.67in}'
+        '![](005 Cover/front-cover.jpg){width=6.5in height=8.67in}'
         + cover_section_break
         + '&nbsp;'
         + blank_section_break

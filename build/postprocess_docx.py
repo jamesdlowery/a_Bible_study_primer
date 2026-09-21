@@ -103,7 +103,7 @@ def fix_docx(path, build_version=None):
             '<wp:docPr id="21" name="Picture"/>'
             '<wp:cNvGraphicFramePr/>'
             '<a:graphic><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
-            '<pic:pic><pic:nvPicPr><pic:cNvPr id="22" name="Picture" descr="010%20Title/front-cover.jpg"/>'
+            '<pic:pic><pic:nvPicPr><pic:cNvPr id="22" name="Picture" descr="005%20Cover/front-cover.jpg"/>'
             '<pic:cNvPicPr><a:picLocks noChangeArrowheads="1" noChangeAspect="1"/></pic:cNvPicPr></pic:nvPicPr>'
             f'<pic:blipFill><a:blip r:embed="{embed_id}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
             '<pic:spPr bwMode="auto">'
