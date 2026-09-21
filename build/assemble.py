@@ -745,25 +745,30 @@ title_md, BUILD_VERSION_RESOLVED = build_title_md()
 
 
 def build_cover_md():
-    """A front-cover image page, followed by three completely blank pages
-    (no header, footer, watermark, or page number on any of the four),
-    before the normal title page begins. DOCX only -- ODT and HTML don't
-    get a cover image this way.
+    """A front-cover image page (no header, footer, watermark, or page
+    number), followed by three blank pages carrying the book's normal
+    header, footer, and watermark like any other page, before the normal
+    title page begins. DOCX only -- ODT and HTML don't get a cover image
+    this way.
 
-    Achieved with four short-lived one-page sections, each flagged
-    w:titlePg. That tells Word/LibreOffice "the first page of this
-    section uses its own title-page header/footer" -- and since no
-    w:type="first" header/footer is defined (only "default" and "even",
-    reused from the main document purely to satisfy the schema), the
-    actual effect is that the section's one page renders with no header
-    or footer at all. w:titlePg only exempts the first page of its own
-    section, which is why each blank page needs a section of its own
-    rather than three blank paragraphs sharing one section (the second
-    and third would otherwise pick up the ordinary header/footer). A
-    fifth, ordinary section then carries on with the real header/footer
-    for the rest of the book, using the exact same page size and margins
-    as the document's own final sectPr. The cover section additionally
-    zeroes its margins so the image can bleed to the edge of the page.
+    Each of the four pages gets its own short-lived, one-page section.
+    The cover's section is flagged w:titlePg: that tells Word/LibreOffice
+    "the first page of this section uses its own title-page header/
+    footer" -- and since no w:type="first" header/footer is defined (only
+    "default" and "even", reused from the main document purely to satisfy
+    the schema), the actual effect is that the section's one page renders
+    with no header or footer at all -- needed so the image can bleed to
+    the very edge of the page (that section also zeroes its margins for
+    the same reason). The three blank pages' own sections are NOT flagged
+    w:titlePg, so each shows the book's ordinary running header, footer,
+    and watermark like any other page. A one-page section per blank page
+    (rather than three blank paragraphs sharing a single section) was
+    settled on after a plain-page-break version proved unreliable in
+    testing -- depending on the exact separator used between the last
+    blank page and the title page's own content, it either merged the
+    two together (corrupting the title page's markdown) or introduced an
+    extra, unwanted fourth blank page. Explicit one-page sections make
+    the page count and content of each page unambiguous.
     """
     if FORMAT != "docx":
         return ""
@@ -781,21 +786,26 @@ def build_cover_md():
     # always-present numbering/styles/settings/webSettings/fontTable/theme/
     # footnotes/comments relationships) regardless of the document's own
     # content -- so they stay stable across builds of this reference doc.
-    sect_common = (
+    # These four relationship references are shared by every section
+    # break below (cover and all three blank pages); only w:titlePg and
+    # the margins differ per section.
+    header_footer_refs = (
         '<w:headerReference w:type="default" r:id="rId9"/>'
         '<w:headerReference w:type="even" r:id="rId10"/>'
         '<w:footerReference w:type="default" r:id="rId11"/>'
         '<w:footerReference w:type="even" r:id="rId12"/>'
-        '<w:titlePg/>'
         '<w:pgSz w:w="12240" w:h="15840"/>'
     )
     cover_section_break = (
-        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{sect_common}'
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{header_footer_refs}<w:titlePg/>'
         '<w:pgMar w:top="0" w:right="0" w:bottom="0" w:left="0" w:header="0" w:footer="0" w:gutter="0"/>'
         '</w:sectPr></w:pPr></w:p>\n```\n\n'
     )
+    # No w:titlePg here -- this is what makes each blank page's own
+    # section show the book's ordinary header, footer, and watermark
+    # instead of suppressing them the way the cover's section does.
     blank_section_break = (
-        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{sect_common}'
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{header_footer_refs}'
         '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1080" w:header="720" w:footer="200" w:gutter="0"/>'
         '</w:sectPr></w:pPr></w:p>\n```\n\n'
     )
