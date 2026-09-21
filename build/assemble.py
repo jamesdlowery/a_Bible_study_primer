@@ -815,12 +815,17 @@ def build_cover_md():
     )
 
     return (
-        # Deliberately oversized in both dimensions relative to the 8.5x11in
-        # page, so the image covers it edge-to-edge with no visible gap on
-        # any side regardless of exactly how the renderer's image-fitting
-        # rounds the aspect ratio; the excess is simply cropped at the page
-        # boundary rather than left as a border.
-        '![](010 Title/front-cover.jpg){width=9in height=12in}'
+        # This width/height is only a placeholder -- pandoc silently caps an
+        # inline image's rendered width to the page's text-area width
+        # regardless of what's requested here (confirmed directly: a 9in
+        # request came out ~7in wide, leaving a visible border on every
+        # side), so getting an actual full-bleed cover requires overriding
+        # its placement after the fact. postprocess_docx.py finds this exact
+        # image by filename and replaces pandoc's inline, text-width-
+        # constrained drawing with a page-anchored one sized to the true
+        # 8.5x11in page -- that step, not this markdown, is what actually
+        # controls the final size and position.
+        '![](010 Title/front-cover.jpg){width=6.5in height=8.67in}'
         + cover_section_break
         + '&nbsp;'
         + blank_section_break
