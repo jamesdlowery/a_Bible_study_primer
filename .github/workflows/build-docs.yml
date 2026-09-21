@@ -144,6 +144,9 @@ jobs:
       - name: Generate PDF (rendered from the final DOCX, so it always matches)
         run: python3 build/update_fields_and_export.py A_Bible_Study_Primer.docx A_Bible_Study_Primer.pdf
 
+      - name: Add Front Cover to the PDF's bookmarks panel
+        run: python3 build/add_cover_bookmark.py A_Bible_Study_Primer.pdf
+
       # --- HTML: single pass, no pagination (page breaks are print-CSS only) ---
 
       - name: Generate HTML

@@ -839,6 +839,18 @@ def build_cover_md():
         # (which starts at 1000).
         f'```{{=openxml}}\n<w:p><w:bookmarkStart w:id="999" w:name="{bookmark_name("cover_page")}"/>'
         f'<w:bookmarkEnd w:id="999"/></w:p>\n```\n\n'
+        # A "HiddenHeading" was tried here (the same custom style
+        # build_title_md() uses for "Title Page", which does register as a
+        # PDF bookmark) to get "Front Cover" into the reader's native
+        # bookmarks/navigation panel. It didn't work in practice -- "Title
+        # Page" appears there but "Front Cover" didn't, in an otherwise
+        # identical setup, on the actual GitHub Actions build -- most
+        # likely some LibreOffice-version-specific quirk in how it decides
+        # which headings become PDF bookmarks that isn't reproducible in
+        # this sandbox's own LibreOffice install. Getting this cover page
+        # into the bookmarks panel is instead handled directly on the
+        # compiled PDF's own outline data, in build/add_cover_bookmark.py,
+        # which doesn't depend on that conversion behavior at all.
         '![](010 Title/front-cover.jpg){width=6.5in height=8.67in}'
         + cover_section_break
         + '&nbsp;'
