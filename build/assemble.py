@@ -828,6 +828,17 @@ def build_cover_md():
         # constrained drawing with a page-anchored one sized to the true
         # 8.5x11in page -- that step, not this markdown, is what actually
         # controls the final size and position.
+        # A fixed-name bookmark right at the cover image, so the Table of
+        # Contents can link to it and show its real page number via
+        # PAGEREF, the same way every other ToC entry does. This page has
+        # no target id of its own (the cover isn't part of the normal
+        # target/bookmark_marker_md loop below, since it's prepended before
+        # that loop even runs), so it uses a fixed string key instead of a
+        # target id -- bookmark id 999 is chosen simply to stay clear of
+        # pandoc's own auto-assigned ids and bookmark_marker_md's counter
+        # (which starts at 1000).
+        f'```{{=openxml}}\n<w:p><w:bookmarkStart w:id="999" w:name="{bookmark_name("cover_page")}"/>'
+        f'<w:bookmarkEnd w:id="999"/></w:p>\n```\n\n'
         '![](010 Title/front-cover.jpg){width=6.5in height=8.67in}'
         + cover_section_break
         + '&nbsp;'
@@ -877,6 +888,24 @@ def build_toc_md(anchors):
         return base + pageref
 
     lines = ["# Table of Contents", ""]
+    if FORMAT == "docx":
+        # The cover isn't a real target (see build_cover_md), so it has no
+        # entry in `anchors` for the generic link() helper above to look
+        # up -- it links directly to the fixed bookmark build_cover_md()
+        # itself creates at the cover image, using the same PAGEREF
+        # pattern as every other entry for a real, resolved page number.
+        cover_bookmark = bookmark_name("cover_page")
+        cover_pageref = (
+            '`<w:r><w:tab/></w:r><w:r><w:fldChar w:fldCharType="begin"/></w:r>'
+            f'<w:r><w:instrText xml:space="preserve"> PAGEREF {cover_bookmark} \\h </w:instrText></w:r>'
+            '<w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:t>1</w:t></w:r>'
+            '<w:r><w:fldChar w:fldCharType="end"/></w:r>`{=openxml}'
+        )
+        cover_link = (
+            f'`<w:hyperlink w:anchor="{cover_bookmark}"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr>'
+            '<w:t>Front Cover</w:t></w:r></w:hyperlink>`{=openxml}'
+        )
+        lines.append(f"- {cover_link}{cover_pageref}")
     lines.append(f"- {link('preface', 'Preface')}")
     lines.append(f"- {link('purpose_and_scope', 'Purpose & Scope')}")
     lines.append(f"- {link('how_to_use_this_book', 'How to Use This Book')}")
