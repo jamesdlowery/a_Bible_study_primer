@@ -192,19 +192,25 @@ def demote(text, levels):
 # ---------------------------------------------------------------------------
 
 PROTESTANT_HISTORIES = [
+    # Ordered by each family's earliest published work: KJV 1611; Young's
+    # Literal 1862 (earliest of the 19th-century literalist group); ASV
+    # 1901; RSV 1952; Amplified 1965; NIV 1978; ERV ~1987; NLT 1996; CJB
+    # 1998; NET 2001; BSB 2016; CSB 2017; TRB 2024. See the master
+    # translation table in Bible Translations and Their Source
+    # Manuscripts for the individual dates each grouping is based on.
     ("Protestant/010 History of the King James Tradition.md", "King James Tradition (KJV, NKJV, AKJV, Webster's Bible)", 4),
+    ("Protestant/040 History of the 19th-Century Literalist Translations.md", "19th-Century Literalist Translations (Darby, Young's, Smith's)", 3),
     ("Protestant/020 History of the American Standard Version and Its Descendants.md", "American Standard Version and Its Descendants (ASV, NASB, LSB, WEB)", 4),
     ("Protestant/030 History of the RSV-ESV Tradition.md", "RSV-ESV Tradition (RSV, ESV)", 2),
-    ("Protestant/040 History of the 19th-Century Literalist Translations.md", "19th-Century Literalist Translations (Darby, Young's, Smith's)", 3),
     ("Protestant/050 History of the Amplified Bible.md", "Amplified Bible", 1),
     ("Protestant/060 History of the New International Version.md", "New International Version", 1),
     ("Protestant/070 History of the Easy to Read Version.md", "Easy-to-Read Version", 1),
     ("Protestant/080 History of the New Living Translation.md", "New Living Translation", 1),
-    ("Protestant/090 History of the New English Translation.md", "New English Translation", 1),
-    ("Protestant/100 History of the Christian Standard Bible.md", "Christian Standard Bible", 1),
-    ("Protestant/110 History of the Berean Standard Bible.md", "Berean Standard Bible", 1),
-    ("Protestant/120 History of The Readable Bible.md", "The Readable Bible", 1),
     ("Protestant/130 History of the Complete Jewish Bible.md", "Complete Jewish Bible", 1),
+    ("Protestant/090 History of the New English Translation.md", "New English Translation", 1),
+    ("Protestant/110 History of the Berean Standard Bible.md", "Berean Standard Bible", 1),
+    ("Protestant/100 History of the Christian Standard Bible.md", "Christian Standard Bible", 1),
+    ("Protestant/120 History of The Readable Bible.md", "The Readable Bible", 1),
 ]
 
 CATHOLIC_HISTORIES = [
