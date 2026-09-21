@@ -759,6 +759,75 @@ Title Page
 
 title_md, BUILD_VERSION_RESOLVED = build_title_md()
 
+
+def build_cover_md():
+    """A front-cover image page, followed by one completely blank page
+    (no header, footer, watermark, or page number on either page), before
+    the normal title page begins. DOCX only -- ODT and HTML don't get a
+    cover image this way.
+
+    Achieved with two short-lived one-page sections, each flagged
+    w:titlePg. That tells Word/LibreOffice "the first page of this
+    section uses its own title-page header/footer" -- and since no
+    w:type="first" header/footer is defined (only "default" and "even",
+    reused from the main document purely to satisfy the schema), the
+    actual effect is that the section's one page renders with no header
+    or footer at all. A third, ordinary section then carries on with the
+    real header/footer for the rest of the book, using the exact same
+    page size and margins as the document's own final sectPr. The cover
+    section additionally zeroes its margins so the image can bleed to
+    the edge of the page.
+    """
+    if FORMAT != "docx":
+        return ""
+
+    # These relationship ids are pandoc's own auto-assigned ones for the
+    # reference doc's four header/footer parts (header1/2.xml, footer1/2.xml),
+    # not the custom string ids (e.g. "rIdHeaderDefault") visible when
+    # inspecting custom-reference.docx directly -- pandoc discards those and
+    # renumbers everything sequentially when it merges the reference doc's
+    # styles into a freshly generated document.xml. The compiled document's
+    # own closing sectPr (already present, unchanged, at the very end of the
+    # body) confirms the actual assignment: rId9/10/11/12 for header
+    # default/even and footer default/even, in that fixed order, since those
+    # four relationships are always the 9th-12th added (after the seven
+    # always-present numbering/styles/settings/webSettings/fontTable/theme/
+    # footnotes/comments relationships) regardless of the document's own
+    # content -- so they stay stable across builds of this reference doc.
+    sect_common = (
+        '<w:headerReference w:type="default" r:id="rId9"/>'
+        '<w:headerReference w:type="even" r:id="rId10"/>'
+        '<w:footerReference w:type="default" r:id="rId11"/>'
+        '<w:footerReference w:type="even" r:id="rId12"/>'
+        '<w:titlePg/>'
+        '<w:pgSz w:w="12240" w:h="15840"/>'
+    )
+    cover_section_break = (
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{sect_common}'
+        '<w:pgMar w:top="0" w:right="0" w:bottom="0" w:left="0" w:header="0" w:footer="0" w:gutter="0"/>'
+        '</w:sectPr></w:pPr></w:p>\n```\n\n'
+    )
+    blank_section_break = (
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{sect_common}'
+        '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1080" w:header="720" w:footer="200" w:gutter="0"/>'
+        '</w:sectPr></w:pPr></w:p>\n```\n\n'
+    )
+
+    return (
+        # Deliberately oversized in both dimensions relative to the 8.5x11in
+        # page, so the image covers it edge-to-edge with no visible gap on
+        # any side regardless of exactly how the renderer's image-fitting
+        # rounds the aspect ratio; the excess is simply cropped at the page
+        # boundary rather than left as a border.
+        '![](010 Title/front-cover.jpg){width=9in height=12in}'
+        + cover_section_break
+        + '&nbsp;'
+        + blank_section_break
+    )
+
+
+cover_md = build_cover_md()
+
 def canonical_display_name(heading_text, filename):
     """Derive a short display name for a Table-of-Contents entry from the
     book's actual current heading text (e.g. 'Genesis: Significant Textual
@@ -881,7 +950,7 @@ anchors = resolve_anchors(targets)
 RCP_ANCHORS.update(anchors)
 TOC_MD = build_toc_md(anchors)
 
-out = [title_md]
+out = [cover_md, title_md]
 
 # Also write out the ordered id/search_text metadata for the page-detection
 # pass, regardless of whether this run itself uses blanks yet.
