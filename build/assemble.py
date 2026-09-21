@@ -622,23 +622,6 @@ def build_targets():
     add("references", get_heading_text("130 References for Further Reading/010 References for Further Reading.md"),
         lambda: read("130 References for Further Reading/010 References for Further Reading.md"))
 
-    # A compiled back-of-book index, DOCX only: every numbered claim
-    # entry (Reportedly Contradicting Passages) and every dashed variant
-    # entry (Manuscript and Translation Differences) gets its own
-    # alphabetized line with a real page number, via the XE fields
-    # inject_index_entries() plants at each entry heading during the
-    # final assembly pass below. ODT and HTML keep their own existing,
-    # page-number-free navigation instead.
-    if FORMAT == "docx":
-        def render_index():
-            return ('# Index\n\n'
-                    '`<w:r><w:fldChar w:fldCharType="begin" w:dirty="true"/></w:r>'
-                    '<w:r><w:instrText xml:space="preserve"> INDEX \\h "A" \\c "2" \\z 1033 </w:instrText></w:r>'
-                    '<w:r><w:fldChar w:fldCharType="separate"/></w:r>'
-                    '<w:r><w:t>Right-click and select &quot;Update Field&quot; to generate the index.</w:t></w:r>'
-                    '<w:r><w:fldChar w:fldCharType="end"/></w:r>`{=openxml}\n')
-        add("index", "Index", render_index)
-
     return targets
 
 
@@ -979,8 +962,6 @@ def build_toc_md(anchors):
     lines.append(f"- {link('top_study_bibles', 'Prominent English Study Bibles')}")
 
     lines.append(f"- {link('references', 'References for Further Reading')}")
-    if FORMAT == "docx":
-        lines.append(f"- {link('index', 'Index')}")
 
     return "\n".join(lines) + "\n"
 
@@ -1080,88 +1061,6 @@ def bookmark_marker_md(target_id):
 bookmark_marker_md.counter = 1000  # start well above pandoc's own auto-assigned bookmark ids
 
 
-def smarten_quotes(s):
-    """Convert straight quotes/apostrophes to the curly equivalents pandoc's
-    own \"smart\" extension applies everywhere else in this book. XE field
-    text is inserted as raw OOXML and never passes through pandoc's normal
-    markdown processing, so without this step every Index entry pulled from
-    a heading that (like most of this book's source) is written with plain
-    ASCII quotes would print with straight quotes while every other page
-    uses curly ones -- exactly the inconsistency a reader would notice
-    first, since the Index sits at the very end of the book. This is a
-    simple, non-perfect heuristic (parity-based for double quotes; letter-
-    adjacency for apostrophes vs. single quotes), matched to how heading
-    text actually looks in this book's source, not a general-purpose
-    typography engine."""
-    out = []
-    double_open = True
-    for i, ch in enumerate(s):
-        if ch == '"':
-            out.append('\u201c' if double_open else '\u201d')
-            double_open = not double_open
-        elif ch == "'":
-            prev_alpha = i > 0 and s[i - 1].isalpha()
-            next_alpha = i + 1 < len(s) and s[i + 1].isalpha()
-            if prev_alpha and not next_alpha:
-                out.append('\u2019')  # possessive/contraction end, e.g. Jesus'
-            elif prev_alpha and next_alpha:
-                out.append('\u2019')  # mid-word apostrophe, e.g. don't
-            elif not prev_alpha:
-                out.append('\u2018')  # opening single quote
-            else:
-                out.append('\u2019')
-        else:
-            out.append(ch)
-    return "".join(out)
-
-
-def xe_escape(s):
-    """Escape a string for use inside a Word XE field's quoted argument,
-    embedded inside a raw-openxml inline code span. Smart-quotes the text
-    first (see smarten_quotes), then applies two escaping layers, in this
-    order: Word's own field-quoting rules (backslash and double-quote each
-    need their own backslash), then XML entity escaping (&, <, > -- since
-    the raw_attribute code span's content becomes literal XML text, not
-    further processed by pandoc). Skipping the XML layer is exactly what
-    corrupted document.xml the first time this was written (an unescaped
-    "&" inside a heading, e.g. "C&MA", broke the whole file as invalid
-    XML)."""
-    s = smarten_quotes(s)
-    s = s.replace('\\', '\\\\').replace('"', '\\"')
-    return html_entities.escape(s, quote=False)
-
-
-RCP_ENTRY_HEADING = re.compile(r'^(#{2,6}) (\d+)\. (.+)$', re.MULTILINE)
-VARIANT_ENTRY_HEADING = re.compile(r'^(#{2,6}) (.+ — .+)$', re.MULTILINE)
-
-
-def inject_index_entries(rendered_md, book_label):
-    """Add an invisible Word index entry (XE field) right after every
-    numbered claim heading (Reportedly Contradicting Passages: "### N.
-    Title") and every dashed variant heading (Manuscript and Translation
-    Differences: "## Verse ref — description"), so the book-wide back-
-    of-book Index picks up one alphabetized entry per claim/variant,
-    each carrying its own real page number. DOCX only -- ODT and HTML
-    don't get a compiled index in this pass. The heading text itself is
-    left completely unchanged; the XE field is invisible in the rendered
-    page, so this never affects how a heading actually looks or prints."""
-
-    def make_xe(entry_text):
-        key = xe_escape(f"{book_label} — {entry_text}")
-        return (f'\n\n`<w:r><w:fldChar w:fldCharType="begin"/></w:r>'
-                f'<w:r><w:instrText xml:space="preserve"> XE "{key}" </w:instrText></w:r>'
-                f'<w:r><w:fldChar w:fldCharType="end"/></w:r>`{{=openxml}}\n\n')
-
-    def repl_rcp(m):
-        return m.group(0) + make_xe(m.group(3))
-
-    def repl_variant(m):
-        return m.group(0) + make_xe(m.group(2))
-
-    rendered_md = RCP_ENTRY_HEADING.sub(repl_rcp, rendered_md)
-    rendered_md = VARIANT_ENTRY_HEADING.sub(repl_variant, rendered_md)
-    return rendered_md
-
 for t in targets:
     if t["is_divider"]:
         pending_divider_md.append(t["render"]())
@@ -1175,26 +1074,6 @@ for t in targets:
         out.append("\n\n".join(pending_divider_md))
         pending_divider_md = []
     rendered = t["render"]()
-    # Only Manuscript and Translation Differences and Reportedly
-    # Contradicting Passages book targets get indexed -- other sections
-    # (denominations, study Bibles, histories, front matter) sometimes
-    # use an em dash in their own headings for unrelated reasons (e.g. a
-    # denomination profile's "United States — Christian and Missionary
-    # Alliance"), which would otherwise falsely match the variant-heading
-    # pattern below and pollute the index with entries that aren't
-    # claims or variants at all.
-    indexable_prefixes = ("ot_", "apoc_", "nt_", "rcpbook_")
-    if FORMAT == "docx" and t["id"].startswith(indexable_prefixes):
-        # rcpbook_ targets' own search_text is already a short book name
-        # (e.g. "Genesis"); ot_/apoc_/nt_ targets' search_text is the
-        # full heading ("Genesis: Significant Textual Variants Across 27
-        # Translations"), so shorten it the same way the ToC does, to
-        # keep index entries from repeating the same long book title
-        # every single time.
-        index_label = t["search_text"]
-        if t["id"].startswith(("ot_", "apoc_", "nt_")):
-            index_label = canonical_display_name(t["search_text"], t["id"])
-        rendered = inject_index_entries(rendered, index_label)
     out.append(rendered)
     if FORMAT == "html":
         out.append('\n\n[↑ Back to Table of Contents](#table-of-contents){.back-link}\n\n')
