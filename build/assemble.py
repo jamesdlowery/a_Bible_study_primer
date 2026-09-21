@@ -762,22 +762,25 @@ title_md, BUILD_VERSION_RESOLVED = build_title_md()
 
 
 def build_cover_md():
-    """A front-cover image page, followed by one completely blank page
-    (no header, footer, watermark, or page number on either page), before
-    the normal title page begins. DOCX only -- ODT and HTML don't get a
-    cover image this way.
+    """A front-cover image page, followed by three completely blank pages
+    (no header, footer, watermark, or page number on any of the four),
+    before the normal title page begins. DOCX only -- ODT and HTML don't
+    get a cover image this way.
 
-    Achieved with two short-lived one-page sections, each flagged
+    Achieved with four short-lived one-page sections, each flagged
     w:titlePg. That tells Word/LibreOffice "the first page of this
     section uses its own title-page header/footer" -- and since no
     w:type="first" header/footer is defined (only "default" and "even",
     reused from the main document purely to satisfy the schema), the
     actual effect is that the section's one page renders with no header
-    or footer at all. A third, ordinary section then carries on with the
-    real header/footer for the rest of the book, using the exact same
-    page size and margins as the document's own final sectPr. The cover
-    section additionally zeroes its margins so the image can bleed to
-    the edge of the page.
+    or footer at all. w:titlePg only exempts the first page of its own
+    section, which is why each blank page needs a section of its own
+    rather than three blank paragraphs sharing one section (the second
+    and third would otherwise pick up the ordinary header/footer). A
+    fifth, ordinary section then carries on with the real header/footer
+    for the rest of the book, using the exact same page size and margins
+    as the document's own final sectPr. The cover section additionally
+    zeroes its margins so the image can bleed to the edge of the page.
     """
     if FORMAT != "docx":
         return ""
@@ -827,6 +830,10 @@ def build_cover_md():
         # controls the final size and position.
         '![](010 Title/front-cover.jpg){width=6.5in height=8.67in}'
         + cover_section_break
+        + '&nbsp;'
+        + blank_section_break
+        + '&nbsp;'
+        + blank_section_break
         + '&nbsp;'
         + blank_section_break
     )
