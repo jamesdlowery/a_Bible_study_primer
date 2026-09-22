@@ -147,6 +147,9 @@ jobs:
       - name: Add Front Cover to the PDF's bookmarks panel
         run: python3 build/add_cover_bookmark.py A_Bible_Study_Primer.pdf
 
+      - name: Remove running-header text from blank pages
+        run: python3 build/blank_page_headers.py A_Bible_Study_Primer.pdf
+
       # --- HTML: single pass, no pagination (page breaks are print-CSS only) ---
 
       - name: Generate HTML
