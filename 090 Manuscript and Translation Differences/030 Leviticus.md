@@ -1,6 +1,6 @@
 # Leviticus: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 Leviticus is one of the textually calmest books in the Old Testament, and the research pass behind this project did not find a case where the tracked translations actually render a verse with different wording that changes its meaning. The items below are real variants in the wider manuscript tradition, but none of them produces a split among the tracked translations.
 

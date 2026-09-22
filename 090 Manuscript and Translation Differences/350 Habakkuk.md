@@ -1,6 +1,6 @@
 # Habakkuk: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 A systematic search did not find a case in Habakkuk where the tracked translations render a verse with different, meaning-changing wording. The one well-known variant in this book, discussed below, is a case where the tracked translations agree with each other, even though it has major New Testament significance.
 

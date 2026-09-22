@@ -1,6 +1,6 @@
 # 1 Chronicles: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 The two most notable numerical differences involving 1 Chronicles are disagreements between 1 Chronicles and its own parallel passage in 2 Samuel -- not a case where the tracked translations render the *same* verse differently from each other. Every translation renders each passage exactly as its own underlying Hebrew text states, without attempting to harmonize the two. These are documented here as background, not as splits among the tracked translations.
 

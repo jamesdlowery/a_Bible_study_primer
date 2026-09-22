@@ -1,6 +1,6 @@
 # Mark: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 As explained in the companion Matthew chapter, the New Testament's textual situation differs fundamentally from the Old Testament's: thousands of Greek manuscripts survive, and translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others), with Vulgate-tradition translations (Douay-Rheims, CPDV) forming a third lineage that agrees with each side at different points depending on what Jerome's own source manuscripts contained. Mark contains what is probably the single most significant textual question in the entire New Testament.
 

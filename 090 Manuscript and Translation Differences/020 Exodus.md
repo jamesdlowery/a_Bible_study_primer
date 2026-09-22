@@ -1,6 +1,6 @@
 # Exodus: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 The research pass behind this project did not confirm a case in Exodus where the tracked translations actually render a verse with different wording that changes its meaning. That may reflect Exodus genuinely having fewer such cases relative to books like Genesis or Deuteronomy, or it may reflect a gap in how thoroughly this book was checked -- worth stating plainly rather than implying a completeness that has not been verified.
 

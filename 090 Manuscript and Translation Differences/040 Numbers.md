@@ -1,6 +1,6 @@
 # Numbers: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 The research pass behind this project did not confirm a case in Numbers where the tracked translations render a verse with different wording that changes its meaning at the tier covered elsewhere in this project. The items below are real questions in the wider manuscript and interpretive tradition, but this pass cannot confirm they produce a genuine meaning-changing split among the tracked translations.
 

@@ -1,6 +1,6 @@
 # Tobit: Textual and Translation Differences
 
-**Comparison translations:** RSV2CE, NABRE (New American Bible, Revised Edition — the current US Catholic lectionary translation), Douay-Rheims (the historic Catholic translation, revised by Challoner), CPDV, and NRSV (widely used across denominations and in academic settings).
+**Comparison translations:** RSV2CE, NABRE (New American Bible, Revised Edition — the current US Catholic lectionary translation), DR (the historic Catholic translation, revised by Challoner), CPDV, and NRSV (widely used across denominations and in academic settings).
 
 **A note on scope:** unlike the rest of this project's 27 tracked translations, most of which are Protestant-tradition editions that do not include the Apocrypha/Deuterocanon at all, this book and the other Apocryphal books in this section are compared specifically among the Catholic and ecumenical translations that do include them. The Complete Jewish Bible and the bulk of the Protestant-tradition translations added elsewhere in this project's expansion are not relevant additions here for that reason.
 

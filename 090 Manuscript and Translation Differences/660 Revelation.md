@@ -1,6 +1,6 @@
 # Revelation: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 Revelation has a distinctive textual situation of its own: it survives in fewer ancient Greek manuscripts overall than most other New Testament books (highly liturgical books like the Gospels and Psalms were copied far more often than Revelation, which saw less regular use in worship in parts of the early church), and its Greek is stylistically unusual even by the standards of the rest of the New Testament — both factors that made it a genuinely difficult book for early editors like Erasmus to work with.
 

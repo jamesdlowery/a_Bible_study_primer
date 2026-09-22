@@ -1,6 +1,6 @@
 # 1 Samuel: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 1 Samuel is textually one of the most interesting books in the Old Testament -- the Masoretic Text here is widely regarded as one of the least well-preserved in the Hebrew Bible, and the Dead Sea Scrolls (4QSamᵃ) recover real material. But in the two most-discussed cases below, the tracked translations actually agree with each other, so neither produces a live split. A systematic search did not find a separate case in 1 Samuel where the tracked translations render a verse with different, meaning-changing wording.
 

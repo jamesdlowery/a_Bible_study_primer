@@ -1,6 +1,6 @@
 # Joshua: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 The research pass behind this project did not confirm a case in Joshua where the tracked translations render a verse with different wording that changes its meaning. Joshua has several notable structural differences between the Hebrew and Greek textual traditions, but none of them surfaces as a wording split among the tracked translations -- they're noted below as background.
 

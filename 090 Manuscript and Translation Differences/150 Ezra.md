@@ -1,6 +1,6 @@
 # Ezra: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, Douay-Rheims, CPDV, Darby, Young's Literal, Smith's Literal, Webster's Bible, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
+**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
 A systematic search did not find a case in Ezra where the tracked translations render a verse with different, meaning-changing wording. The one well-known puzzle in this book is an internal arithmetic discrepancy in the underlying Hebrew text itself, not a translation difference -- every translation checked renders the numbers exactly as the Hebrew states them.
 
