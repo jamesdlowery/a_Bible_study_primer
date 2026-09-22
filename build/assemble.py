@@ -30,6 +30,18 @@ if len(sys.argv) > 2:
 
 if FORMAT == "docx":
     PAGEBREAK = '\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n'
+
+    # A blank-header treatment (see build_cover_md()'s header3.xml/rId11)
+    # was also tried for the ~100 mid-document blank pages inserted below
+    # to enforce odd-page starts (each would need its own pair of section
+    # breaks, since a plain PAGEBREAK can't change header/footer refs on
+    # its own). Reverted: confirmed directly that adding roughly 200 extra
+    # section boundaries made LibreOffice's own field-recalculation pass
+    # in update_fields_and_export.py hang well past 280 seconds with no
+    # output, whereas the same build completes normally without them.
+    # Mid-document blank pages are unaffected by this section's fix and
+    # still use a plain PAGEBREAK, carrying forward whatever running-
+    # header text was already showing on the preceding page.
 elif FORMAT == "odt":
     PAGEBREAK = '\n\n::: {custom-style="PageBreak"}\n\u200B\n:::\n\n'
 else:  # html -- no real pagination; just a print-only page break hint
@@ -774,26 +786,39 @@ def build_cover_md():
         return ""
 
     # These relationship ids are pandoc's own auto-assigned ones for the
-    # reference doc's four header/footer parts (header1/2.xml, footer1/2.xml),
-    # not the custom string ids (e.g. "rIdHeaderDefault") visible when
-    # inspecting custom-reference.docx directly -- pandoc discards those and
-    # renumbers everything sequentially when it merges the reference doc's
-    # styles into a freshly generated document.xml. The compiled document's
-    # own closing sectPr (already present, unchanged, at the very end of the
-    # body) confirms the actual assignment: rId9/10/11/12 for header
-    # default/even and footer default/even, in that fixed order, since those
-    # four relationships are always the 9th-12th added (after the seven
-    # always-present numbering/styles/settings/webSettings/fontTable/theme/
-    # footnotes/comments relationships) regardless of the document's own
-    # content -- so they stay stable across builds of this reference doc.
-    # These four relationship references are shared by every section
-    # break below (cover and all three blank pages); only w:titlePg and
-    # the margins differ per section.
+    # reference doc's five header/footer parts (header1/2/3.xml,
+    # footer1/2.xml), not the custom string ids (e.g. "rIdHeaderDefault")
+    # visible when inspecting custom-reference.docx directly -- pandoc
+    # discards those and renumbers everything sequentially when it merges
+    # the reference doc's styles into a freshly generated document.xml.
+    # Confirmed directly with a minimal test build: rId9/10 for the
+    # default/even headers (running header text + watermark), rId11 for
+    # the blank header (watermark only, no running-header text -- see
+    # header3.xml), rId12/13 for the default/even footers, in that fixed
+    # order (headers before footers, each already-numbered part in
+    # docx-part order, after the seven always-present numbering/styles/
+    # settings/webSettings/fontTable/theme/footnotes/comments
+    # relationships) -- so they stay stable across builds of this
+    # reference doc, but will shift again if any part is added, removed,
+    # or reordered in custom-reference.docx.
     header_footer_refs = (
         '<w:headerReference w:type="default" r:id="rId9"/>'
         '<w:headerReference w:type="even" r:id="rId10"/>'
-        '<w:footerReference w:type="default" r:id="rId11"/>'
-        '<w:footerReference w:type="even" r:id="rId12"/>'
+        '<w:footerReference w:type="default" r:id="rId12"/>'
+        '<w:footerReference w:type="even" r:id="rId13"/>'
+        '<w:pgSz w:w="12240" w:h="15840"/>'
+    )
+    # Same footers (still shows the normal running footer), but both
+    # header slots point to the blank header (header3.xml -- watermark
+    # only) instead of the normal one, so a page using this has no
+    # running-header text at all. Used for every actually-blank page in
+    # the book: the three post-cover pages below, and every mid-document
+    # blank page inserted later in this file to enforce odd-page starts.
+    blank_header_footer_refs = (
+        '<w:headerReference w:type="default" r:id="rId11"/>'
+        '<w:headerReference w:type="even" r:id="rId11"/>'
+        '<w:footerReference w:type="default" r:id="rId12"/>'
+        '<w:footerReference w:type="even" r:id="rId13"/>'
         '<w:pgSz w:w="12240" w:h="15840"/>'
     )
     cover_section_break = (
@@ -801,11 +826,12 @@ def build_cover_md():
         '<w:pgMar w:top="0" w:right="0" w:bottom="0" w:left="0" w:header="0" w:footer="0" w:gutter="0"/>'
         '</w:sectPr></w:pPr></w:p>\n```\n\n'
     )
-    # No w:titlePg here -- this is what makes each blank page's own
-    # section show the book's ordinary header, footer, and watermark
-    # instead of suppressing them the way the cover's section does.
+    # No w:titlePg here (this page still shows a footer and watermark,
+    # unlike the cover's own section) -- but it uses the blank header
+    # refs, not the normal ones, so no running-header text appears
+    # either, since this page has no real content of its own to name.
     blank_section_break = (
-        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{header_footer_refs}'
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{blank_header_footer_refs}'
         '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1080" w:header="720" w:footer="200" w:gutter="0"/>'
         '</w:sectPr></w:pPr></w:p>\n```\n\n'
     )
