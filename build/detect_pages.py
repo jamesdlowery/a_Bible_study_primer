@@ -31,19 +31,21 @@ def normalize_whitespace(s):
 HEADING_WINDOW_CHARS = 300
 
 # A much larger budget, used only for the exact-standalone-line check
-# (short/bare search text). Folded-in divider content ahead of a target
-# -- a testament/category label, or a longer bridge paragraph like
-# Reportedly Contradicting Passages' own reminder note -- can push a
-# heading well past 300 characters into its own page; confirmed directly
-# for "Genesis" (roughly 900 characters of divider text ahead of it) and
-# "Tobit" (pushed similarly by the Apocrypha block's own canon-status
-# note). A wide window carries much less false-positive risk here than
-# it would for the substring check below, since ordinary prose only very
-# rarely puts a single short word entirely alone on its own line.
-LINE_MATCH_WINDOW_CHARS = 2000
+# (short/bare search text). Folded-in divider content or a long section
+# intro ahead of a target can push a heading well past 300 characters
+# into its own page; confirmed directly for "Genesis" (~900 characters of
+# divider text ahead of it), "Tobit" (similarly, the Apocrypha block's
+# own canon-status note), and the first numbered entry in Major U.S.
+# Christian Denominations ("1. The Catholic Church", pushed to character
+# offset 3186 by that section's own multi-paragraph intro -- the reason
+# this was raised from 2000 to 4000). A wide window carries much less
+# false-positive risk here than it would for the substring check below,
+# since ordinary prose only very rarely puts a single short word entirely
+# alone on its own line.
+LINE_MATCH_WINDOW_CHARS = 4000
 
 
-def find_page(doc, search_text, start_page):
+def find_page(doc, search_text, start_page, line_match_max_len=40):
     """Forward-only search for search_text starting at start_page (0-indexed).
     Returns the 0-indexed page number where it's first found at or after
     start_page, or None if not found.
@@ -103,7 +105,7 @@ def find_page(doc, search_text, start_page):
         # for longer titles that might legitimately wrap across two
         # rendered lines) when no such standalone line exists on this
         # page at all.
-        if len(target) <= 40:
+        if len(target) <= line_match_max_len:
             # Use the same HEADING_WINDOW_CHARS budget as the substring
             # check below, not a fixed line count -- a divider's own
             # content (a testament/category label, or a longer bridge

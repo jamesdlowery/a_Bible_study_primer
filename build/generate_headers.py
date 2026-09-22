@@ -17,17 +17,22 @@ book's blanket STYLEREF-based header entirely. Rules (as specified):
       the guide word is aligned opposite to the main title.)
 
 Phase boundary, stated plainly: this implements 1-3 for every main
-section (using each section's own page range, from the PDF's bookmarks),
-and 3c for the three sections with existing per-entry target data
+section (using each section's own page range, from the PDF's bookmarks);
+3c for the three sections with existing per-entry target data
 (Manuscript and Translation Differences, Reportedly Contradicting
-Passages, Histories of English Bible Translations) -- together covering
-the large majority of the book's content pages. It does NOT yet implement
-3c for Major U.S. Christian Denominations, Prominent English Study
-Bibles, or the front-matter sections with their own internal
-sub-headings (Purpose & Scope, How to Use This Book, etc.) -- those need
-font-based sub-heading detection that hasn't been built/calibrated yet.
+Passages, Histories of English Bible Translations); and 3c for Major
+U.S. Christian Denominations and Prominent English Study Bibles, whose
+27 numbered entries each (e.g. "## 1. The Catholic Church") are parsed
+directly from their own source markdown file rather than from target
+metadata (they're each a single target with no per-entry data of their
+own) -- together covering the large majority of the book's content
+pages. It does NOT yet implement 3c for the front-matter sections with
+their own internal sub-headings (Purpose & Scope, How to Use This Book,
+etc.), including the specified recursive em-dash pairing for a
+sub-section that itself has sub-sub-headings -- that needs font-based
+heading-level detection that hasn't been built/calibrated yet.
 
-Usage: python3 generate_headers.py <pdf_path> <targets_meta_json_path>
+Usage: python3 generate_headers.py <pdf_path> <targets_meta_json_path> <repo_root>
 Edits the PDF in place.
 """
 import sys
@@ -35,6 +40,9 @@ import os
 import re
 import json
 import fitz  # PyMuPDF
+
+sys.path.insert(0, os.path.dirname(__file__))
+from detect_pages import find_page as _dp_find_page
 
 HEADER_Y_MAX = 60
 FOOTER_Y_MIN = 750
@@ -51,30 +59,6 @@ HEADER_COLOR = (0, 0, 0)
 # fallback middle-dot character instead.
 FONT_FILE = os.path.join(os.path.dirname(__file__), "LiberationSans-Italic.ttf")
 FONT_ALIAS = "hdrfont"
-
-
-def normalize_quotes(s):
-    return (s.replace("\u2019", "'").replace("\u2018", "'")
-             .replace("\u201c", '"').replace("\u201d", '"'))
-
-
-def normalize_whitespace(s):
-    return re.sub(r"\s+", " ", s).strip()
-
-
-def find_page(doc, search_text, start_page, window_chars=300):
-    """Same logic as detect_pages.py's find_page: forward-only search,
-    restricted to near the top of the page (avoiding false matches
-    buried in body content), on the page's own text with the running
-    header line stripped first."""
-    target = normalize_whitespace(normalize_quotes(search_text))
-    for i in range(start_page, len(doc)):
-        raw_text = doc[i].get_text()
-        body_lines = raw_text.split("\n")[1:] if "\n" in raw_text else [raw_text]
-        page_text = normalize_whitespace(normalize_quotes("\n".join(body_lines)))
-        if target in page_text[:window_chars]:
-            return i
-    return None
 
 
 def is_blank_page(page):
@@ -167,10 +151,48 @@ def build_sub_entries(doc, meta, prefixes, start_0idx, end_0idx):
     cursor = start_0idx
     found = []
     for m in entries:
-        page = find_page(doc, m["search_text"], cursor)
+        page = _dp_find_page(doc, m["search_text"], cursor)
         if page is None or page > end_0idx:
             continue
         found.append((page, m["search_text"]))
+        cursor = page
+    return found
+
+
+def parse_numbered_headings(source_path):
+    """Extract "## N. Name" headings, in order, from a source markdown
+    file -- used for sections (Denominations, Study Bibles) that are a
+    single target with no per-entry target data of their own. Keeps the
+    number prefix, since that's how the heading actually renders in the
+    compiled document (confirmed directly: "1. The Catholic Church", not
+    just "The Catholic Church")."""
+    headings = []
+    with open(source_path, encoding="utf-8") as f:
+        for line in f:
+            m = re.match(r"^## (\d+\.\s.+)$", line.rstrip("\n"))
+            if m:
+                headings.append(m.group(1))
+    return headings
+
+
+def build_sub_entries_from_headings(doc, headings, start_0idx, end_0idx):
+    """Same idea as build_sub_entries(), but for a list of plain heading
+    strings (from parse_numbered_headings) rather than target metadata."""
+    cursor = start_0idx
+    found = []
+    for h in headings:
+        # A higher line_match_max_len than the default 40: confirmed
+        # directly that several of these numbered headings (up to 59
+        # characters, e.g. "8. Church of Jesus Christ of Latter-day
+        # Saints (LDS/Mormon)") would otherwise fall into the plainer,
+        # narrower-window substring-match path instead of the more
+        # robust standalone-line match, and be just as vulnerable to
+        # this section's own long multi-paragraph intro pushing them
+        # far down the page as the shorter ones already were.
+        page = _dp_find_page(doc, h, cursor, line_match_max_len=80)
+        if page is None or page > end_0idx:
+            continue
+        found.append((page, h))
         cursor = page
     return found
 
@@ -188,7 +210,7 @@ def guide_word_for_page(sub_entries, page_0idx, want):
     return prior[-1] if prior else None
 
 
-def generate_headers(pdf_path, meta_path):
+def generate_headers(pdf_path, meta_path, repo_root):
     doc = fitz.open(pdf_path)
     meta = json.load(open(meta_path, encoding="utf-8"))
 
@@ -199,6 +221,15 @@ def generate_headers(pdf_path, meta_path):
         "Manuscript and Translation Differences": ("ot_", "apoc_", "nt_"),
         "Reportedly Contradicting Passages": ("rcpbook_",),
         "Histories of English Bible Translations": ("history_",),
+    }
+    # Sections that are a single target with no per-entry target data of
+    # their own, but whose entries can be parsed directly out of their
+    # one source file as "## N. Name" headings.
+    NUMBERED_HEADING_SOURCES = {
+        "Major U.S. Christian Denominations":
+            os.path.join(repo_root, "110 Top Christian Denominations", "010 Top Christian Denominations.md"),
+        "Prominent English Study Bibles":
+            os.path.join(repo_root, "120 Top Study Bibles", "010 Top Study Bibles.md"),
     }
 
     touched = 0
@@ -214,6 +245,9 @@ def generate_headers(pdf_path, meta_path):
         sub_entries = []
         if title in STRUCTURED:
             sub_entries = build_sub_entries(doc, meta, STRUCTURED[title], start, end)
+        elif title in NUMBERED_HEADING_SOURCES:
+            headings = parse_numbered_headings(NUMBERED_HEADING_SOURCES[title])
+            sub_entries = build_sub_entries_from_headings(doc, headings, start, end)
 
         for pno in range(start, end + 1):
             page = doc[pno]
@@ -242,4 +276,4 @@ def generate_headers(pdf_path, meta_path):
 
 
 if __name__ == "__main__":
-    generate_headers(sys.argv[1], sys.argv[2])
+    generate_headers(sys.argv[1], sys.argv[2], sys.argv[3])
