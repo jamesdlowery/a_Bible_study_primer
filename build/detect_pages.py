@@ -77,7 +77,8 @@ def find_page(doc, search_text, start_page, line_match_max_len=40):
     """
     target = normalize_whitespace(normalize_quotes(search_text))
     for i in range(start_page, len(doc)):
-        raw_text = doc[i].get_text()
+        page = doc[i]
+        raw_text = page.get_text()
         # Drop the running header -- its own first line, e.g. "Manuscript
         # and Translation Differences — Exodus". Short, generic search
         # texts (the Reportedly Contradicting Passages book targets use
@@ -106,25 +107,66 @@ def find_page(doc, search_text, start_page, line_match_max_len=40):
         # rendered lines) when no such standalone line exists on this
         # page at all.
         if len(target) <= line_match_max_len:
-            # Use the same HEADING_WINDOW_CHARS budget as the substring
-            # check below, not a fixed line count -- a divider's own
-            # content (a testament/category label, or a longer bridge
-            # paragraph like Reportedly Contradicting Passages' own
-            # reminder note) can fold onto the same page as the very next
-            # target and push its heading down several lines; confirmed
-            # directly for "Genesis" (pushed to line 12 of the page by a
-            # 9-line divider paragraph ahead of it) and "Tobit" (pushed
-            # similarly by the Apocrypha block's own canon-status note).
+            # An exact standalone-line match alone isn't enough: "How to
+            # Use This Book"'s own Folder Structure table lists nearly
+            # every other main section's name as its own isolated table
+            # cell -- confirmed directly as a real, severe bug (not
+            # theoretical): "Reading Paths for Different Readers" and
+            # eight other main section targets all falsely matched a
+            # cell in that table instead of their real, much later
+            # heading, and because this function's own cursor advances
+            # to wherever the *previous* target was found, one false
+            # match let the next search start from the same wrong page
+            # and often falsely match again, cascading through most of
+            # the table. Every heading in this book, at every level, is
+            # rendered bold; the table's own cell text never is
+            # (confirmed directly: LiberationSans-Bold 16pt for a real
+            # H1 vs. plain LiberationSans 11pt for the same words as a
+            # table cell) -- so this uses get_text("dict") to also
+            # require the matched line's own font name to contain
+            # "Bold", which a table cell's text never does regardless of
+            # which page it appears on.
+            d = page.get_text("dict")
+            page_lines = []  # [(text, is_bold), ...], in reading order
+            for block in d.get("blocks", []):
+                for line in block.get("lines", []):
+                    spans = line.get("spans", [])
+                    if not spans:
+                        continue
+                    line_text = "".join(s["text"] for s in spans)
+                    is_bold = any("bold" in s["font"].lower() for s in spans)
+                    page_lines.append((line_text, is_bold))
+            # Drop the running header the same way as above -- it's
+            # always the page's own first line.
+            body_page_lines = page_lines[1:] if page_lines else []
+
             consumed = 0
-            body_window_lines = []
-            for l in body_lines:
-                norm = normalize_whitespace(normalize_quotes(l))
-                if consumed >= LINE_MATCH_WINDOW_CHARS and body_window_lines:
+            window_lines = []
+            for line_text, is_bold in body_page_lines:
+                norm = normalize_whitespace(normalize_quotes(line_text))
+                if consumed >= LINE_MATCH_WINDOW_CHARS and window_lines:
                     break
-                body_window_lines.append(norm)
+                window_lines.append((norm, is_bold))
                 consumed += len(norm) + 1
-            if target in body_window_lines:
-                return i
+
+            for norm, is_bold in window_lines:
+                if norm == target and is_bold:
+                    return i
+            # A heading long enough to need a raised line_match_max_len
+            # is also long enough to legitimately wrap across two
+            # rendered lines (confirmed directly: a 91-character
+            # References for Further Reading category heading wraps
+            # after "Character," onto its own second line) -- so also
+            # try each consecutive pair of lines joined by a space,
+            # still requiring the *pair* to equal the target exactly
+            # (not a substring match) and both lines to be bold, before
+            # falling through to the softer substring check below.
+            for j in range(len(window_lines) - 1):
+                text_a, bold_a = window_lines[j]
+                text_b, bold_b = window_lines[j + 1]
+                joined = (text_a + " " + text_b).strip()
+                if target == joined and bold_a and bold_b:
+                    return i
             continue
 
         if target in window:
