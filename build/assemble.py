@@ -1097,7 +1097,38 @@ def bookmark_marker_md(target_id):
 bookmark_marker_md.counter = 1000  # start well above pandoc's own auto-assigned bookmark ids
 
 
+# Every "main section" (the ones that appear as top-level entries in the
+# PDF's own bookmarks/outline panel -- see add_cover_bookmark.py and the
+# HiddenHeading targets throughout build_targets()) always gets a blank
+# page before it, regardless of whether odd/even-page enforcement alone
+# would have required one. Before this, only 8 of 20 main sections had a
+# preceding blank page -- the rest simply happened to land on an odd page
+# naturally, with no separator, whenever the preceding content already
+# ended at the right spot. Checked against needs_blank the same as every
+# other target, so a main section that would ALSO land on an even page
+# even after its own unconditional blank still gets a second one, exactly
+# like the Table of Contents already does below.
+#
+# Includes both ordinary targets and the three targets that are dividers
+# (histories_title, variants_title, rcp_title) -- for a divider, this
+# check has to run before it's folded into pending_divider_md (dividers
+# never reach the PAGEBREAK logic below on their own, since their content
+# is only ever emitted alongside whichever real target follows), so the
+# blank page still lands immediately before the divider's own content
+# rather than before the first book chapter under it.
+MAIN_SECTIONS = {
+    "preface", "purpose_and_scope", "how_to_use_this_book", "reading_paths",
+    "what_is_the_word_of_god", "what_is_an_inerrant_word_of_god",
+    "background_on_textual_transmission", "note_on_method_and_verification",
+    "biblical_source_manuscripts", "character_of_each_tradition",
+    "popular_bible_translations", "bible_translations_and_sources",
+    "histories_title", "variants_title", "rcp_title",
+    "top_denominations", "top_study_bibles", "references",
+}
+
 for t in targets:
+    if t["id"] in MAIN_SECTIONS:
+        out.append(PAGEBREAK)
     if t["is_divider"]:
         pending_divider_md.append(t["render"]())
         continue
