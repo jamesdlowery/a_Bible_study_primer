@@ -1374,6 +1374,28 @@ for t in targets:
         continue
     if t["id"] in needs_blank:
         out.append(PAGEBREAK)
+        # When this target is ALSO about to get an illustration
+        # (pending_illustration already set above), this needs_blank
+        # page must be closed off as its own normal section right here,
+        # not left open for the illustration's own CLOSE_TO_FULL_BLEED
+        # to close later -- confirmed directly as a real bug otherwise:
+        # with nothing closing it in between, this blank page and the
+        # illustration's own page both fall inside the *same* section
+        # (opened by this MAIN_SECTIONS checkpoint's own
+        # RESUME_NORMAL_SECTION_ONLY, not yet closed), and since
+        # w:titlePg only suppresses header/footer for the *first* page
+        # of whatever section it closes, that wrongly left this blank
+        # page fully empty (missing the watermark and footer every
+        # other ordinary blank page keeps) while the illustration's own
+        # page -- the *second* page of that same wrongly-merged section
+        # -- wrongly showed the book's normal running header and footer
+        # text instead of being clean. Safe from the same "two bare
+        # markers cost an extra page" issue documented on
+        # RESUME_NORMAL_SECTION_ONLY itself: the PAGEBREAK immediately
+        # before this is a real, non-bare paragraph (it carries its own
+        # page-break run), not another bare section marker.
+        if pending_illustration and FORMAT == "docx":
+            out.append(RESUME_NORMAL_SECTION_ONLY)
     if pending_illustration and FORMAT == "docx":
         out.append(illustration_md(pending_illustration))
         pending_illustration = None
