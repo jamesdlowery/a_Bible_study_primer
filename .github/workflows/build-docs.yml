@@ -6,6 +6,9 @@ on:
     branches: [main]
     paths:
       - '**/*.md'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.png'
       - 'build/**'
       - '.github/workflows/build-docs.yml'
   workflow_dispatch: {}
