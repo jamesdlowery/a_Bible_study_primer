@@ -42,6 +42,110 @@ if FORMAT == "docx":
     # Mid-document blank pages are unaffected by this section's fix and
     # still use a plain PAGEBREAK, carrying forward whatever running-
     # header text was already showing on the preceding page.
+    #
+    # A genuinely full-bleed page (no header, footer, watermark, or
+    # margin at all -- used for the 20 illustration pages below, each
+    # replacing what would otherwise be one specific blank page) needs
+    # its own one-page section, the same way the cover itself gets one,
+    # since a plain PAGEBREAK can't suppress header/footer/watermark on
+    # its own. This is a fixed, small set (20 pages, each independently
+    # confirmed by page position below) rather than the open-ended,
+    # page-count-dependent ~100 mid-document blanks the note above is
+    # about, so it doesn't carry that same performance risk -- confirmed
+    # directly: exporting a full build with these adds about 40 extra
+    # section boundaries (20 pages, entering and exiting each), well
+    # under the roughly 200 that caused the hang above, and completes in
+    # about 160 seconds.
+    #
+    # Unlike the cover, this can't reuse w:titlePg for the suppression:
+    # confirmed directly that w:titlePg only reliably suppresses *both*
+    # header and footer for the document's own very first section --
+    # applied mid-document, it suppressed the header but left the
+    # footer (page number, version, URL) showing. So this instead
+    # points at two genuinely empty parts (header4.xml/footer3.xml,
+    # each just a single empty paragraph, no watermark or anything
+    # else) via explicit w:type="first" references, which -- combined
+    # with w:titlePg, so this section's one page counts as its
+    # "first" -- suppresses both regardless of position in the
+    # document.
+    #
+    # Relationship ids (see build_cover_md()'s own comment for how
+    # these were determined and why they can shift): rId9/10 for the
+    # normal default/even headers, rId12 for the empty header
+    # (header4.xml), rId13/14 for the normal default/even footers,
+    # rId15 for the empty footer (footer3.xml).
+    _FULL_BLEED_HEADER_FOOTER_REFS = (
+        '<w:headerReference w:type="default" r:id="rId9"/>'
+        '<w:headerReference w:type="even" r:id="rId10"/>'
+        '<w:headerReference w:type="first" r:id="rId12"/>'
+        '<w:footerReference w:type="default" r:id="rId13"/>'
+        '<w:footerReference w:type="even" r:id="rId14"/>'
+        '<w:footerReference w:type="first" r:id="rId15"/>'
+        '<w:pgSz w:w="12240" w:h="15840"/>'
+    )
+    # A one-marker-per-page alternative to CLOSE_TO_FULL_BLEED, used
+    # only for the Table of Contents' own illustration (see below): that
+    # illustration has no real, visible content on either side of it to
+    # safely carry a second bare marker (Title Page's own content, right
+    # before it, has no section boundary of its own and would wrongly
+    # absorb the extra one; the ToC's own content, right after, is the
+    # very next thing with nothing real in between either) -- so rather
+    # than continue fighting that same "two bare markers" constraint,
+    # this reuses the book's already-proven, one-marker blank-page
+    # pattern instead (same headerReference/footerReference structure as
+    # build_cover_md()'s own blank_header_footer_refs: blank header,
+    # r:Id11, watermark only, no running-header text; normal footer,
+    # normal margins), leaving the image not truly full-bleed at the
+    # markup level -- postprocess_docx.py's anchor conversion overrides
+    # position and size outright regardless of the section's own margins,
+    # so the image still renders edge-to-edge in practice. The residual
+    # watermark and footer this leaves on that one page are cleaned up
+    # separately, in blank_page_headers.py, the same way every other
+    # already-blank page in the book gets its header cleaned up.
+    BLANK_PAGE_STYLE_MARKER = (
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>'
+        '<w:headerReference w:type="default" r:id="rId11"/>'
+        '<w:headerReference w:type="even" r:id="rId11"/>'
+        '<w:footerReference w:type="default" r:id="rId13"/>'
+        '<w:footerReference w:type="even" r:id="rId14"/>'
+        '<w:pgSz w:w="12240" w:h="15840"/>'
+        '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1080" w:header="720" w:footer="200" w:gutter="0"/>'
+        '</w:sectPr></w:pPr></w:p>\n```\n\n'
+    )
+    # A section-closing marker applies its properties to whatever
+    # content came *before* it, back to the previous marker (confirmed
+    # directly, from how the cover's own image + cover_section_break
+    # pattern already works) -- so this goes right after the image
+    # itself, not before it: [image] + CLOSE_TO_FULL_BLEED makes the
+    # image's own page (and only that page) full-bleed.
+    CLOSE_TO_FULL_BLEED = (
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{_FULL_BLEED_HEADER_FOOTER_REFS}<w:titlePg/>'
+        '<w:pgMar w:top="0" w:right="0" w:bottom="0" w:left="0" w:header="0" w:footer="0" w:gutter="0"/>'
+        '</w:sectPr></w:pPr></w:p>\n```\n\n'
+    )
+    # Resumes the book's ordinary formatting for whatever comes after a
+    # full-bleed illustration -- placed not right after the
+    # illustration's own CLOSE_TO_FULL_BLEED, but at the *next*
+    # MAIN_SECTIONS checkpoint after it (whichever target that turns out
+    # to be, illustrated or not; see the pending/needs_normal_resume
+    # tracking around the MAIN_SECTIONS loop further down). Two bare
+    # section-marker paragraphs in a row, with nothing visible between
+    # them, was confirmed directly to always cost an extra blank page --
+    # regardless of which one (if either) carries an explicit page-break
+    # run of its own, regardless of whether they're in the same raw
+    # openxml fenced block or separate ones, and regardless of whether
+    # w:titlePg is involved at all; this appears to be a hard OOXML/
+    # Word rendering constraint, not something markup structuring can
+    # route around. So this can only safely follow *real* content (a
+    # previous target's own rendered text) -- never CLOSE_TO_FULL_BLEED
+    # or another instance of this same marker directly -- and needs no
+    # explicit page-break run of its own, since the section change to a
+    # new sectPr already forces one for whatever follows.
+    RESUME_NORMAL_SECTION_ONLY = (
+        f'\n\n```{{=openxml}}\n<w:p><w:pPr><w:sectPr>{_FULL_BLEED_HEADER_FOOTER_REFS}'
+        '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1080" w:header="720" w:footer="200" w:gutter="0"/>'
+        '</w:sectPr></w:pPr></w:p>\n```\n\n'
+    )
 elif FORMAT == "odt":
     PAGEBREAK = '\n\n::: {custom-style="PageBreak"}\n\u200B\n:::\n\n'
 else:  # html -- no real pagination; just a print-only page break hint
@@ -786,26 +890,29 @@ def build_cover_md():
         return ""
 
     # These relationship ids are pandoc's own auto-assigned ones for the
-    # reference doc's five header/footer parts (header1/2/3.xml,
-    # footer1/2.xml), not the custom string ids (e.g. "rIdHeaderDefault")
+    # reference doc's seven header/footer parts (header1/2/3/4.xml,
+    # footer1/2/3.xml), not the custom string ids (e.g. "rIdHeaderDefault")
     # visible when inspecting custom-reference.docx directly -- pandoc
     # discards those and renumbers everything sequentially when it merges
     # the reference doc's styles into a freshly generated document.xml.
     # Confirmed directly with a minimal test build: rId9/10 for the
     # default/even headers (running header text + watermark), rId11 for
     # the blank header (watermark only, no running-header text -- see
-    # header3.xml), rId12/13 for the default/even footers, in that fixed
-    # order (headers before footers, each already-numbered part in
-    # docx-part order, after the seven always-present numbering/styles/
-    # settings/webSettings/fontTable/theme/footnotes/comments
-    # relationships) -- so they stay stable across builds of this
-    # reference doc, but will shift again if any part is added, removed,
-    # or reordered in custom-reference.docx.
+    # header3.xml), rId12 for the empty header (header4.xml -- truly
+    # nothing, used for full-bleed illustration pages elsewhere in this
+    # file), rId13/14 for the default/even footers, rId15 for the empty
+    # footer (footer3.xml) -- in that fixed order (headers before
+    # footers, each already-numbered part in docx-part order, after the
+    # seven always-present numbering/styles/settings/webSettings/
+    # fontTable/theme/footnotes/comments relationships) -- so they stay
+    # stable across builds of this reference doc, but will shift again
+    # if any part is added, removed, or reordered in
+    # custom-reference.docx.
     header_footer_refs = (
         '<w:headerReference w:type="default" r:id="rId9"/>'
         '<w:headerReference w:type="even" r:id="rId10"/>'
-        '<w:footerReference w:type="default" r:id="rId12"/>'
-        '<w:footerReference w:type="even" r:id="rId13"/>'
+        '<w:footerReference w:type="default" r:id="rId13"/>'
+        '<w:footerReference w:type="even" r:id="rId14"/>'
         '<w:pgSz w:w="12240" w:h="15840"/>'
     )
     # Same footers (still shows the normal running footer), but both
@@ -817,8 +924,8 @@ def build_cover_md():
     blank_header_footer_refs = (
         '<w:headerReference w:type="default" r:id="rId11"/>'
         '<w:headerReference w:type="even" r:id="rId11"/>'
-        '<w:footerReference w:type="default" r:id="rId12"/>'
-        '<w:footerReference w:type="even" r:id="rId13"/>'
+        '<w:footerReference w:type="default" r:id="rId13"/>'
+        '<w:footerReference w:type="even" r:id="rId14"/>'
         '<w:pgSz w:w="12240" w:h="15840"/>'
     )
     cover_section_break = (
@@ -876,8 +983,27 @@ def build_cover_md():
         + blank_section_break
         + '&nbsp;'
         + blank_section_break
-        + '&nbsp;'
-        + blank_section_break
+        # The third and last post-cover page: a full-bleed illustration
+        # (see ILLUSTRATIONS/illustration_md() below for the other 19),
+        # replacing what would otherwise be this page's own blank
+        # content. Uses CLOSE_TO_FULL_BLEED, not cover_section_break --
+        # confirmed directly that w:titlePg alone (what
+        # cover_section_break relies on) only reliably suppresses both
+        # header and footer for the document's own very first section;
+        # this page isn't the document's first section (the cover image
+        # above it is), so it needs the same explicit-empty-parts
+        # mechanism as every other illustration in the book. No trailing
+        # transition-back-to-normal needed here (unlike every other
+        # illustration, which is mid-document and needs one before
+        # normal content resumes): this is the very end of build_cover_md(),
+        # and Title Page's own content, right after, has never had a
+        # section break of its own -- confirmed directly that it
+        # correctly inherits the document's ordinary formatting from
+        # whatever section is next actually defined (its own eventual
+        # closing sectPr), the same as it already did before any of this
+        # illustration work.
+        + '![](010 Title/005 Illustration.jpg){width=6.5in height=8.67in}'
+        + CLOSE_TO_FULL_BLEED
     )
 
 
@@ -1060,11 +1186,23 @@ with open(meta_path, "w", encoding="utf-8") as f:
 # TOC (first real target, right after the title page). One blank page is
 # always inserted here unconditionally; a second one is added on top of
 # it when the odd/even-page enforcement above independently determines
-# the ToC would otherwise land on an even page.
+# the ToC would otherwise land on an even page. The last of those blank
+# page(s) -- the one immediately before the ToC's own content, whichever
+# one that ends up being -- is an illustration instead (see ILLUSTRATIONS
+# above for the analogous main-section case), using
+# BLANK_PAGE_STYLE_MARKER rather than the full-bleed CLOSE_TO_FULL_BLEED/
+# RESUME_NORMAL_SECTION_ONLY pair those use -- see that constant's own
+# comment for why this one specific illustration needs different
+# treatment (no real, visible content on either side of it to safely
+# carry two section markers).
 out.append(PAGEBREAK)
 if "toc" in needs_blank:
     out.append(PAGEBREAK)
-out.append(PAGEBREAK)
+if FORMAT == "docx":
+    out.append('![](020 Table of Contents/005 Illustration.jpg){width=6.5in height=8.67in}')
+    out.append(BLANK_PAGE_STYLE_MARKER)
+else:
+    out.append(PAGEBREAK)
 out.append(TOC_MD)
 if "toc_end_marker" in needs_blank:
     out.append(PAGEBREAK)
@@ -1126,15 +1264,123 @@ MAIN_SECTIONS = {
     "top_denominations", "top_study_bibles", "references",
 }
 
+# One illustration per main section (except Title Page and Table of
+# Contents, handled separately -- see build_cover_md() and the ToC
+# assembly below), replacing what would otherwise be that section's own
+# last blank page -- i.e. the one immediately preceding its content,
+# whichever blank page that ends up being (a section can have one or two
+# depending on odd/even-page enforcement; the illustration always takes
+# the one closest to the content, never an earlier one). Confirmed by
+# direct inspection of a real build which blank page that is for each of
+# these 18 sections. DOCX only, matching every other illustration/cover
+# feature in this file -- ODT and HTML don't get these.
+ILLUSTRATIONS = {
+    "preface": "030 Introduction/005 Illustration (Preface).jpg",
+    "purpose_and_scope": "030 Introduction/015 Illustration (Purpose and Scope).jpg",
+    "what_is_the_word_of_god": "030 Introduction/025 Illustration (Word of God).jpg",
+    "what_is_an_inerrant_word_of_god": "030 Introduction/035 Illustration (Inerrant Word of God).jpg",
+    "how_to_use_this_book": "030 Introduction/045 Illustration (How to Use This Book).jpg",
+    "reading_paths": "030 Introduction/055 Illustration (Reading Paths).jpg",
+    "background_on_textual_transmission": "030 Introduction/065 Illustration (Background on Textual Transmission).jpg",
+    "note_on_method_and_verification": "030 Introduction/075 Illustration (Method and Verification).jpg",
+    "biblical_source_manuscripts": "040 Biblical Source Manuscripts/005 Illustration.jpg",
+    "character_of_each_tradition": "050 Character Of Each Source Manuscript Tradition/005 Illustration.jpg",
+    "popular_bible_translations": "060 Popular Bible Translations/005 Illustration.jpg",
+    "bible_translations_and_sources": "070 Bible Translations and Their Source Manuscripts/005 Illustration.jpg",
+    "histories_title": "080 Histories of Various Bible Translations/005 Illustration.jpg",
+    "variants_title": "090 Manuscript and Translation Differences/005 Illustration.jpg",
+    "rcp_title": "100 Reportedly Contradicting Passages/005 Illustration.jpg",
+    "top_denominations": "110 Top Christian Denominations/005 Illustration.jpg",
+    "top_study_bibles": "120 Top Study Bibles/005 Illustration.jpg",
+    "references": "130 References for Further Reading/005 Illustration.jpg",
+}
+
+
+def illustration_md(image_path):
+    """A single full-bleed illustration page: the image itself
+    (width/height are placeholders only -- see build_cover_md()'s own
+    comment on this same point; postprocess_docx.py's cover-anchoring
+    step, generalized to match any "Illustration" filename, is what
+    actually controls final size and position), then a marker closing
+    it into its own headerless/footerless/watermark-less/zero-margin
+    section. Returning to the book's ordinary formatting for whatever
+    follows is the caller's job, not this function's -- see the main
+    MAIN_SECTIONS loop's own needs_normal_resume tracking for how and
+    why that's deferred to the *next* checkpoint rather than placed
+    directly after this."""
+    if FORMAT != "docx":
+        return ""
+    return (
+        f'![]({image_path}){{width=6.5in height=8.67in}}'
+        + CLOSE_TO_FULL_BLEED
+    )
+
+
+pending_illustration = None
+# Whether a previously-inserted illustration's own full-bleed section is
+# still awaiting closure. Set True right after any illustration_md() is
+# emitted; the *next* MAIN_SECTIONS checkpoint below -- whichever target
+# that turns out to be, illustrated or not -- is what actually closes it
+# via RESUME_NORMAL_SECTION_ONLY, and clears this flag. This two-part
+# tracking (this flag, plus checking t["id"] in ILLUSTRATIONS directly)
+# is needed because either condition alone misses a real case: checking
+# only "is this target itself illustrated" misses a plain, unillustrated
+# target that immediately follows an illustration (confirmed directly:
+# its real content was wrongly left inside the illustration's own
+# pending full-bleed section); checking only this flag misses a plain
+# target immediately *preceding* an illustrated one (confirmed directly:
+# the preceding target's real content stayed pending right up until the
+# illustration's own CLOSE_TO_FULL_BLEED, so w:titlePg -- which only
+# suppresses header/footer for the *first* page of whatever section it
+# closes -- left the illustration's own page, not the preceding target's
+# first page, wrongly showing the book's normal header/footer).
+needs_normal_resume = False
 for t in targets:
+    if t["id"] in MAIN_SECTIONS and t["id"] in ILLUSTRATIONS:
+        # Tracked rather than inserted immediately: for a divider
+        # (histories_title, variants_title, rcp_title), the blank
+        # page(s) this illustration should replace aren't fully emitted
+        # until the *next* real target's own needs_blank check below --
+        # dividers never reach that check themselves, since they
+        # "continue" out of this loop right after their own
+        # MAIN_SECTIONS pagebreak, further down.
+        pending_illustration = ILLUSTRATIONS[t["id"]]
     if t["id"] in MAIN_SECTIONS:
-        out.append(PAGEBREAK)
+        # RESUME_NORMAL_SECTION_ONLY, not a plain PAGEBREAK, whenever
+        # EITHER this section is about to get an illustration of its
+        # own OR an earlier illustration's own section is still pending
+        # closure (see needs_normal_resume's own comment above for why
+        # both checks are needed) -- confirmed directly that without
+        # this, whatever content preceded a still-open section (if it
+        # never had a section boundary of its own either -- true for
+        # most ordinary content, which just continues in whichever
+        # section was last explicitly opened) stays part of the same
+        # pending section right up until the next explicit marker,
+        # wrongly extending that marker's own formatting (full-bleed or
+        # normal, whichever it is) across content it was never meant to
+        # cover. Not a version with its own explicit page-break run:
+        # this is preceded by the previous target's own real, visible
+        # content, never by another bare marker (CLOSE_TO_FULL_BLEED or
+        # another instance of this same marker) -- see
+        # RESUME_NORMAL_SECTION_ONLY's own comment for why that
+        # distinction matters.
+        if (t["id"] in ILLUSTRATIONS or needs_normal_resume) and FORMAT == "docx":
+            out.append(RESUME_NORMAL_SECTION_ONLY)
+            needs_normal_resume = False
+        else:
+            out.append(PAGEBREAK)
     if t["is_divider"]:
         pending_divider_md.append(t["render"]())
         continue
     if t["id"] in needs_blank:
         out.append(PAGEBREAK)
-    out.append(PAGEBREAK)
+    if pending_illustration and FORMAT == "docx":
+        out.append(illustration_md(pending_illustration))
+        pending_illustration = None
+        needs_normal_resume = True
+    else:
+        pending_illustration = None
+        out.append(PAGEBREAK)
     if FORMAT == "docx":
         out.append(bookmark_marker_md(t["id"]))
     if pending_divider_md:

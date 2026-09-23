@@ -55,6 +55,18 @@ compiled PDF:
    only this specific forward-looking text needs to go, the same
    surgical way as case 2.)
 
+4. The footer (page number, book version, repo URL) on illustration
+   pages specifically -- one of the book's full-bleed images (see
+   assemble.py's ILLUSTRATIONS/illustration_md()), not an ordinary blank
+   page. Most of these already have no footer to remove here at all,
+   suppressed at the DOCX level the same way their header is (see
+   CLOSE_TO_FULL_BLEED in assemble.py); the one exception is the Table
+   of Contents' own illustration, which uses a simpler one-marker
+   section (no real, visible content on either side of it to safely
+   carry the two section markers full suppression needs -- see
+   BLANK_PAGE_STYLE_MARKER's own comment) that leaves its footer showing
+   at the DOCX level, cleaned up here instead.
+
 All three are handled the same way: find the affected page or text
 (differently for each case), then redact just that -- either the whole
 header-region text (blank pages) or just the specific wrong substring
@@ -77,6 +89,7 @@ import os
 import fitz  # PyMuPDF
 
 HEADER_REGION_Y_MAX = 60  # points from the top; header text confirmed ~36-45
+FOOTER_REGION_Y_MIN = 750  # points from the top; footer text confirmed to start here
 
 # The book's own first Heading-4- and Heading-1-styled paragraphs; see
 # module docstring cases 2 and 3. If the document's own heading structure
@@ -136,7 +149,48 @@ def redact_full_header(page):
             for span in line["spans"]:
                 if span["bbox"][1] < HEADER_REGION_Y_MAX:
                     page.add_redact_annot(span["bbox"])
-    page.apply_redactions()
+    page.apply_redactions(images=0)  # never blank out image content, only remove text
+
+
+def redact_full_footer(page):
+    """Mirrors redact_full_header, but for the footer band instead --
+    used only for illustration pages (see is_illustration_page()), never
+    for an ordinary blank page: those keep their footer by design, the
+    same established convention every other blank page in the book
+    already follows. An illustration page's own footer can't be
+    suppressed at the DOCX/section level the way its header already is
+    (see build_cover_md()'s and illustration_md()'s own comments on the
+    Table of Contents illustration specifically, and why it uses a
+    simpler one-marker section that leaves the footer showing) -- so
+    this cleans it up directly on the rendered PDF instead, the same way
+    every ordinary blank page's header already gets cleaned up here."""
+    d = page.get_text("dict")
+    for block in d.get("blocks", []):
+        for line in block.get("lines", []):
+            for span in line["spans"]:
+                if span["bbox"][1] >= FOOTER_REGION_Y_MIN:
+                    page.add_redact_annot(span["bbox"])
+    page.apply_redactions(images=0)  # never blank out image content, only remove text
+
+
+def is_illustration_page(page):
+    """A blank-looking page (per is_blank_page()) that also carries at
+    least one image -- i.e. one of the book's full-bleed illustrations,
+    not a genuinely empty blank page. Distinguished from an ordinary
+    blank page specifically so only illustration pages get their footer
+    redacted too (see redact_full_footer()); an ordinary blank page's
+    footer is left untouched.
+
+    get_image_info(), not get_images(): confirmed directly that
+    get_images() returns every image referenced anywhere in this PDF's
+    shared resources, not just the ones actually placed on this specific
+    page -- it reported 21 "images" apiece for several genuinely
+    single-image illustration pages, evidently because LibreOffice's own
+    PDF export pools image XObjects across pages that share a resource
+    dictionary. get_image_info() instead reports each image actually
+    rendered on this page, confirmed directly to correctly return 1 for
+    every illustration page and 0 for an ordinary blank page."""
+    return is_blank_page(page) and len(page.get_image_info()) > 0
 
 
 def redact_header_substring(page, text):
@@ -147,7 +201,7 @@ def redact_header_substring(page, text):
     for rect in page.search_for(text):
         if rect.y0 < HEADER_REGION_Y_MAX:
             page.add_redact_annot(rect)
-    page.apply_redactions()
+    page.apply_redactions(images=0)  # never blank out image content, only remove text
 
 
 def strip_misleading_headers(pdf_path):
@@ -158,10 +212,23 @@ def strip_misleading_headers(pdf_path):
     first_h4_page = find_first_occurrence_page(doc, FIRST_HEADING4_TEXT)
     first_h1_page = find_first_occurrence_page(doc, FIRST_HEADING1_TEXT)
 
+    illustration_pages = []
     for page in doc:
         if is_blank_page(page):
             blank_pages.append(page.number + 1)  # 1-indexed for the log
             redact_full_header(page)
+            # Illustration pages using the full-bleed section markup
+            # (build/assemble.py's CLOSE_TO_FULL_BLEED) already have no
+            # footer to redact here -- this only has real work to do for
+            # the one illustration (Table of Contents' own) that uses
+            # the simpler, one-marker blank-page-style section instead,
+            # which leaves its footer showing at the DOCX level. Checked
+            # for every illustration page regardless, rather than only
+            # that one specifically, since redacting an already-empty
+            # footer region is harmless.
+            if is_illustration_page(page):
+                redact_full_footer(page)
+                illustration_pages.append(page.number + 1)
             continue
 
         fixed_this_page = False
@@ -182,8 +249,9 @@ def strip_misleading_headers(pdf_path):
         doc.close()
         os.replace(tmp_path, pdf_path)
         print(f"Removed header text from {len(blank_pages)} blank page(s) "
-              f"and fixed {len(fixed_pages)} page(s) with a forward-looking "
-              f"header in {pdf_path}")
+              f"(also removed footer text from {len(illustration_pages)} "
+              f"illustration page(s) among them) and fixed {len(fixed_pages)} "
+              f"page(s) with a forward-looking header in {pdf_path}")
     else:
         doc.close()
         print(f"No blank pages or forward-looking headers found in {pdf_path}")

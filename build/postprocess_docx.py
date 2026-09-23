@@ -15,20 +15,22 @@
    duplicated row. Pandoc doesn't expose a markdown-level way to set
    this, so it's applied uniformly here to every row in every table
    rather than requiring it be set table-by-table in source.
-4. Convert the front-cover image from an inline drawing to a full-page
-   anchored (floating) one. Pandoc silently constrains an inline image's
-   width to the page's text-area width regardless of any explicit
-   width/height markdown attributes -- a 9in-wide request was actually
-   emitted as ~7in wide (this document's text width) at the image's own
-   aspect ratio, leaving a visible white margin on every side instead of
-   the intended full-bleed cover. Anchoring the drawing to the page
-   itself (rather than the text flow), positioned at (0,0) and sized to
-   the exact page dimensions, bypasses that text-width constraint
-   entirely, since it's no longer part of the inline content flow pandoc
-   applies that limit to. Identified by the image's own relationship id
-   (the first and only cover image in the document) rather than by
-   position, so this survives future content changes shifting the
-   cover's exact byte offset.
+4. Convert the front-cover image, and every full-bleed illustration
+   (assemble.py's ILLUSTRATIONS, one per main section plus the Table of
+   Contents), from an inline drawing to a full-page anchored (floating)
+   one. Pandoc silently constrains an inline image's width to the page's
+   text-area width regardless of any explicit width/height markdown
+   attributes -- a 9in-wide request was actually emitted as ~7in wide
+   (this document's text width) at the image's own aspect ratio, leaving
+   a visible white margin on every side instead of the intended
+   full-bleed image. Anchoring the drawing to the page itself (rather
+   than the text flow), positioned at (0,0) and sized to the exact page
+   dimensions, bypasses that text-width constraint entirely, since it's
+   no longer part of the inline content flow pandoc applies that limit
+   to. Identified by matching each inline drawing's own descr attribute
+   against "front-cover.jpg" or any filename containing "Illustration"
+   (not by position or a fixed count), so this keeps working as more
+   illustrations are added or moved between folders.
 5. Retarget the Table of Contents' own list paragraphs from the shared
    "Compact" style to a dedicated "TOCCompact" style (identical except
    for one added right-aligned, dot-leader tab stop), so the ToC's page
@@ -79,18 +81,40 @@ def fix_docx(path, build_version=None):
     doc_xml, bare_count = re.subn(r"<w:tr>(?!<w:trPr>)", '<w:tr><w:trPr><w:cantSplit/></w:trPr>', doc_xml)
     row_count = trpr_count + bare_count
 
-    # Convert the front-cover image from a text-width-constrained inline
-    # drawing to a full-page anchored one (see module docstring point 4).
+    # Convert the front-cover image, and every full-bleed illustration
+    # (see assemble.py's ILLUSTRATIONS/illustration_md() and
+    # build_cover_md()), from a text-width-constrained inline drawing to
+    # a full-page anchored one (see module docstring point 4). Matches
+    # any inline drawing whose own descr attribute names a file called
+    # exactly "front-cover.jpg" or containing "Illustration" -- covers
+    # both without depending on a specific folder, so this keeps working
+    # if illustrations move between folders later. Processes every match
+    # in the document (not just the first), since there are now up to 20
+    # of these rather than the original single cover image.
     cover_count = 0
-    cover_match = re.search(
-        r'<w:drawing><wp:inline>.*?front-cover\.jpg.*?<a:blip r:embed="([^"]+)"\s*/>.*?</wp:inline></w:drawing>',
-        doc_xml, flags=re.DOTALL,
+    image_pattern = re.compile(
+        r'<w:drawing><wp:inline>.*?descr="([^"]*(?:front-cover\.jpg|Illustration[^"]*))"'
+        r'.*?<a:blip r:embed="([^"]+)"\s*/>.*?</wp:inline></w:drawing>',
+        flags=re.DOTALL,
     )
-    if cover_match:
-        embed_id = cover_match.group(1)
+
+    def anchor_image(m):
+        nonlocal cover_count
+        descr, embed_id = m.group(1), m.group(2)
         # US Letter, full bleed, in EMU (914400 EMU = 1 inch): 8.5in x 11in.
         page_cx, page_cy = 7772400, 9906000
-        anchored_drawing = (
+        cover_count += 1
+        # Unique per image (there are now up to 21 of these in the same
+        # document, not just the original single cover image) -- reusing
+        # the same docPr/cNvPr id for all of them was confirmed directly
+        # to cause several of them to silently fail to render at all in
+        # the full document, despite rendering correctly in isolation
+        # (where only one such image exists, so no id collision arises).
+        # Spaced 10 apart per image as a safety margin against any other
+        # id this document might already assign in the 20-29 range.
+        docpr_id = 20 + cover_count * 10
+        cnvpr_id = docpr_id + 1
+        return (
             '<w:drawing>'
             '<wp:anchor behindDoc="1" distT="0" distB="0" distL="0" distR="0" '
             'simplePos="0" locked="0" layoutInCell="0" allowOverlap="1" relativeHeight="1">'
@@ -100,10 +124,10 @@ def fix_docx(path, build_version=None):
             f'<wp:extent cx="{page_cx}" cy="{page_cy}"/>'
             '<wp:effectExtent b="0" l="0" r="0" t="0"/>'
             '<wp:wrapNone/>'
-            '<wp:docPr id="21" name="Picture"/>'
+            f'<wp:docPr id="{docpr_id}" name="Picture{cover_count}"/>'
             '<wp:cNvGraphicFramePr/>'
             '<a:graphic><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
-            '<pic:pic><pic:nvPicPr><pic:cNvPr id="22" name="Picture" descr="005%20Cover/front-cover.jpg"/>'
+            f'<pic:pic><pic:nvPicPr><pic:cNvPr id="{cnvpr_id}" name="Picture{cover_count}" descr="{descr}"/>'
             '<pic:cNvPicPr><a:picLocks noChangeArrowheads="1" noChangeAspect="1"/></pic:cNvPicPr></pic:nvPicPr>'
             f'<pic:blipFill><a:blip r:embed="{embed_id}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
             '<pic:spPr bwMode="auto">'
@@ -112,8 +136,8 @@ def fix_docx(path, build_version=None):
             '<a:noFill/><a:ln w="9525"><a:noFill/><a:headEnd/><a:tailEnd/></a:ln>'
             '</pic:spPr></pic:pic></a:graphicData></a:graphic></wp:anchor></w:drawing>'
         )
-        doc_xml = doc_xml[:cover_match.start()] + anchored_drawing + doc_xml[cover_match.end():]
-        cover_count = 1
+
+    doc_xml = image_pattern.sub(anchor_image, doc_xml)
 
     # Retarget "Compact" -> "TOCCompact" only within the Table of Contents
     # section, bounded by its own heading bookmark and its closing marker
@@ -158,7 +182,7 @@ def fix_docx(path, build_version=None):
     print(f"Fixed {count} table(s) in {path}")
     print(f"Marked {row_count} table row(s) as cantSplit in {path}")
     print(f"Retargeted {toc_count} ToC paragraph(s) to TOCCompact in {path}")
-    print(f"Converted {cover_count} cover image(s) to full-page anchored placement in {path}")
+    print(f"Converted {cover_count} full-bleed image(s) (cover + illustrations) to full-page anchored placement in {path}")
     if version:
         print(f"Replaced {version_count} {{{{BUILD_VERSION}}}} placeholder(s) with {version}")
 
