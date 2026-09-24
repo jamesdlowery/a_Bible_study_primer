@@ -269,9 +269,19 @@ def main():
         before
         + '<div class="page-layout">'
         + sidebar_html
-        + '<div class="main-content">'
+        # Two nested divs, not one: .main-content reserves the sidebar's
+        # own width and spans the rest of the viewport, while
+        # .content-inner is what actually caps the reading width and
+        # centers it -- confirmed directly that combining both jobs into
+        # a single element (a fixed margin-left plus a max-width) left
+        # the reading column flush against the sidebar with all the
+        # viewport's remaining width dumped as empty space on the right,
+        # rather than split evenly on both sides, since a fixed
+        # margin-left and an auto margin-right don't center a box, they
+        # just left-align it within whatever space is left.
+        + '<div class="main-content"><div class="content-inner">'
         + body_html
-        + "</div></div>"
+        + "</div></div></div>"
         + after
     )
 
