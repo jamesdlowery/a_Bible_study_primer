@@ -1,6 +1,15 @@
 <style>
   h1.title { display: none; }
 
+  /* max-width: none overrides pandoc's own default standalone-template
+     style (body { max-width: 36em; ... }, included automatically ahead
+     of this file's own <style> block by build_standalone_shell()) --
+     confirmed directly as a real bug otherwise: CSS cascades per
+     property, not per rule, so simply not mentioning max-width here (as
+     an earlier version of this file did) left pandoc's own 36em (540px
+     at this font-size) silently in effect, constraining the sidebar/
+     main-content layout to a 220px-wide sliver regardless of what
+     .main-content and .content-inner below were themselves given. */
   body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
@@ -8,6 +17,7 @@
     color: #000000;
     margin: 0;
     padding: 0;
+    max-width: none;
   }
 
   /* Left-hand sidebar: a fixed-position CSS panel, not a real HTML frame
