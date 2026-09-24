@@ -6,9 +6,89 @@
     font-size: 15px;
     line-height: 1.5;
     color: #000000;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Left-hand sidebar: a fixed-position CSS panel, not a real HTML frame
+     (frames are deprecated and would require splitting this into
+     multiple files) -- functionally the same as a PDF viewer's
+     bookmarks panel: a collapsed-by-default, click-to-expand outline of
+     every heading in the document, built in render_html.py. */
+  .main-content {
+    margin-left: 320px;
     max-width: 900px;
-    margin: 0 auto;
     padding: 2em 2.5em;
+    box-sizing: border-box;
+  }
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 320px;
+    height: 100vh;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 1em 1em 3em 1em;
+    background: #F5F6F8;
+    border-right: 1px solid #CCCCCC;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    line-height: 1.4;
+  }
+  .sidebar a {
+    text-decoration: none;
+    color: #1F4E79;
+  }
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+  .sidebar details {
+    margin: 0.1em 0;
+  }
+  .sidebar summary {
+    cursor: pointer;
+    padding: 0.15em 0;
+    list-style-position: outside;
+  }
+  .sidebar summary::marker {
+    color: #808080;
+  }
+  .sidebar-children {
+    margin-left: 0.7em;
+    padding-left: 0.6em;
+    border-left: 1px solid #DDDDDD;
+  }
+  .sidebar-leaf {
+    margin-left: 1.1em;
+    padding: 0.15em 0;
+  }
+  /* Narrow viewports (phones/tablets): a fixed 320px rail would crowd out
+     the reading content, so the sidebar instead flows above it as an
+     ordinary, height-limited scrolling block -- still fully usable, just
+     not pinned to the screen while scrolling. */
+  @media (max-width: 900px) {
+    .sidebar {
+      position: static;
+      width: 100%;
+      height: auto;
+      max-height: 40vh;
+      border-right: none;
+      border-bottom: 1px solid #CCCCCC;
+    }
+    .main-content {
+      margin-left: 0;
+    }
+  }
+  /* Print: matches every other format's pagination, which has no room
+     for (and no use for) an on-screen navigation panel. */
+  @media print {
+    .sidebar {
+      display: none;
+    }
+    .main-content {
+      margin-left: 0;
+    }
   }
 
   h1, h2, h3, h4, h5, h6 {
