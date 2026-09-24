@@ -197,9 +197,13 @@ jobs:
             A_Bible_Study_Primer_${{ steps.version.outputs.version }}.html
 
       # Rewrites only the marked block in README.md (see README_snippet.md)
-      # to point at this run's exact versioned filenames, then commits that
-      # change back to main. Pushes made with the default GITHUB_TOKEN don't
-      # re-trigger this workflow, so this can't cause an infinite loop.
+      # to point at this run's exact versioned filenames, each annotated
+      # with its own current size in MB (read straight off the versioned
+      # files this same working directory already has, from "Prepare
+      # versioned copies for release" above -- so no separate files_dir
+      # argument is needed here), then commits that change back to main.
+      # Pushes made with the default GITHUB_TOKEN don't re-trigger this
+      # workflow, so this can't cause an infinite loop.
       - name: Update README download links
         run: python3 build/update_readme_links.py "${{ steps.version.outputs.version }}"
 
