@@ -230,7 +230,91 @@ def build_sidebar_nav(body_html):
     headings = extract_headings(body_html)
     tree = build_heading_tree(headings)
     inner = render_sidebar_tree(tree)
-    return f'<nav class="sidebar" aria-label="Document bookmarks">{inner}</nav>'
+    # The resize handle is a sibling of the sidebar, not a child --
+    # .sidebar's own overflow-y: auto implicitly clips horizontal
+    # overflow too (per the CSS overflow spec, overflow-x computes to
+    # auto rather than staying visible once overflow-y is anything but
+    # visible), which was confirmed directly to clip off a handle
+    # positioned to straddle the sidebar's own right edge from inside
+    # it. As a sibling, its own position is independent of the
+    # sidebar's overflow entirely. The collapse toggle is a sibling for
+    # a different reason: it has to stay put and clickable even once
+    # the sidebar itself is slid off-screen collapsed, to be able to
+    # bring it back.
+    return (
+        '<button id="sidebar-toggle" type="button" '
+        'aria-label="Collapse or expand the bookmarks sidebar" '
+        'aria-controls="sidebar" title="Collapse or expand bookmarks">\u2630</button>'
+        f'<nav class="sidebar" id="sidebar" aria-label="Document bookmarks">{inner}</nav>'
+        '<div id="sidebar-resize-handle" role="separator" aria-orientation="vertical" '
+        'aria-label="Resize the bookmarks sidebar"></div>'
+    )
+
+
+# Vanilla JS, no external libraries or build step, consistent with this
+# being a single self-contained HTML file: lets the whole sidebar be
+# collapsed out of view and its width be dragged wider or narrower, with
+# the main content column reflowing to match as you drag. This is the
+# one thing in this file that isn't achievable with CSS alone (unlike
+# the sidebar tree's own expand/collapse, which is plain <details>) --
+# CSS has no way for one element being resized to reactively resize an
+# unrelated sibling, which dragging the sidebar wider while keeping the
+# main content correctly offset genuinely requires. Both the sidebar's
+# own width and the main content's offset are driven by the same
+# --sidebar-width custom property (see html_style.html), so this script
+# only ever has to update that one value; it never touches layout CSS
+# directly. Guards every element lookup and no-ops if the expected
+# structure isn't there, so a future edit to this file that changes
+# element ids fails safe (no script errors) rather than fails loud.
+SIDEBAR_SCRIPT = """
+<script>
+(function () {
+  "use strict";
+  var pageLayout = document.querySelector(".page-layout");
+  var sidebar = document.getElementById("sidebar");
+  var handle = document.getElementById("sidebar-resize-handle");
+  var toggleBtn = document.getElementById("sidebar-toggle");
+  if (!pageLayout || !sidebar || !handle || !toggleBtn) return;
+
+  var MIN_WIDTH = 200;
+  var MAX_WIDTH = 640;
+
+  function setWidth(px) {
+    px = Math.max(MIN_WIDTH, Math.min(MAX_WIDTH, px));
+    document.documentElement.style.setProperty("--sidebar-width", px + "px");
+  }
+
+  var dragging = false;
+  function startDrag(clientX) {
+    dragging = true;
+    document.body.classList.add("sidebar-resizing");
+  }
+  function duringDrag(clientX) {
+    if (!dragging) return;
+    setWidth(clientX);
+  }
+  function endDrag() {
+    dragging = false;
+    document.body.classList.remove("sidebar-resizing");
+  }
+
+  handle.addEventListener("mousedown", function (e) {
+    startDrag(e.clientX);
+    e.preventDefault();
+  });
+  document.addEventListener("mousemove", function (e) {
+    duringDrag(e.clientX);
+  });
+  document.addEventListener("mouseup", endDrag);
+
+  toggleBtn.addEventListener("click", function () {
+    var collapsed = pageLayout.classList.toggle("sidebar-collapsed");
+    toggleBtn.setAttribute("aria-expanded", collapsed ? "false" : "true");
+  });
+  toggleBtn.setAttribute("aria-expanded", "true");
+})();
+</script>
+"""
 
 
 def main():
@@ -282,6 +366,7 @@ def main():
         + '<div class="main-content"><div class="content-inner">'
         + body_html
         + "</div></div></div>"
+        + SIDEBAR_SCRIPT
         + after
     )
 

@@ -24,9 +24,19 @@
      (frames are deprecated and would require splitting this into
      multiple files) -- functionally the same as a PDF viewer's
      bookmarks panel: a collapsed-by-default, click-to-expand outline of
-     every heading in the document, built in render_html.py. */
+     every heading in the document, built in render_html.py. Both the
+     sidebar's own width and the main content's offset are driven by
+     this one custom property, kept in sync by render_html.py's own
+     script (see SIDEBAR_SCRIPT there) as the sidebar is dragged wider
+     or narrower -- CSS alone has no way for one element's resize to
+     reactively resize an unrelated sibling, so this is the one place
+     in this file that isn't achievable with CSS alone. */
+  :root {
+    --sidebar-width: 320px;
+  }
   .main-content {
-    margin-left: 320px;
+    margin-left: var(--sidebar-width);
+    transition: margin-left 0.15s ease;
   }
   .content-inner {
     max-width: 900px;
@@ -38,16 +48,17 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 320px;
+    width: var(--sidebar-width);
     height: 100vh;
     overflow-y: auto;
     box-sizing: border-box;
-    padding: 1em 1em 3em 1em;
+    padding: 3em 1em 3em 1em;
     background: #F5F6F8;
     border-right: 1px solid #CCCCCC;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.8em;
     line-height: 1.4;
+    transition: transform 0.15s ease, width 0.15s ease;
   }
   .sidebar a {
     text-decoration: none;
@@ -76,10 +87,92 @@
     margin-left: 1.1em;
     padding: 0.15em 0;
   }
-  /* Narrow viewports (phones/tablets): a fixed 320px rail would crowd out
-     the reading content, so the sidebar instead flows above it as an
+
+  /* Collapse toggle: deliberately a sibling of .sidebar, not a child --
+     it has to stay fixed in place and clickable even once the sidebar
+     itself is slid off-screen, to be able to bring it back. */
+  #sidebar-toggle {
+    position: fixed;
+    top: 0.6em;
+    left: 0.6em;
+    z-index: 1001;
+    width: 2.2em;
+    height: 2.2em;
+    box-sizing: border-box;
+    border: 1px solid #CCCCCC;
+    background: #FFFFFF;
+    color: #1F4E79;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    line-height: 1;
+    padding: 0;
+  }
+  #sidebar-toggle:hover {
+    background: #EDEFF2;
+  }
+
+  /* Resize handle: a thin strip tracking the sidebar's own right edge,
+     spanning the full viewport height, dragged via render_html.py's own
+     script. A sibling of .sidebar, not a child of it -- see
+     build_sidebar_nav()'s own comment on why. left is offset by -3px so
+     the strip straddles the sidebar's actual edge rather than sitting
+     only just inside or outside it. */
+  #sidebar-resize-handle {
+    position: fixed;
+    top: 0;
+    left: calc(var(--sidebar-width) - 3px);
+    width: 6px;
+    height: 100vh;
+    cursor: col-resize;
+    z-index: 5;
+    transition: left 0.15s ease;
+  }
+  body.sidebar-resizing #sidebar-resize-handle {
+    transition: none;
+  }
+  #sidebar-resize-handle:hover,
+  body.sidebar-resizing #sidebar-resize-handle {
+    background: #2E75B6;
+    opacity: 0.4;
+  }
+  /* While actively dragging: no transition (so the width tracks the
+     mouse instantly instead of visibly lagging behind it) and no text
+     selection (so a fast drag doesn't also select the page's own text). */
+  body.sidebar-resizing {
+    cursor: col-resize;
+    user-select: none;
+  }
+  body.sidebar-resizing .sidebar,
+  body.sidebar-resizing .main-content {
+    transition: none;
+  }
+
+  /* Collapsed state: the sidebar slides fully off-screen (kept in the
+     DOM, not removed, so re-expanding is instant) and the main content
+     reclaims the full width. */
+  .page-layout.sidebar-collapsed .sidebar {
+    transform: translateX(-100%);
+  }
+  .page-layout.sidebar-collapsed .main-content {
+    margin-left: 0;
+  }
+  /* The handle's own position tracks --sidebar-width, not the sidebar's
+     collapsed/expanded state directly, so without this it would keep
+     floating at the old width position once the sidebar itself has
+     already slid out of view -- resizing something no longer visible
+     isn't meaningful anyway. */
+  .page-layout.sidebar-collapsed #sidebar-resize-handle {
+    display: none;
+  }
+
+  /* Narrow viewports (phones/tablets): a fixed rail would crowd out the
+     reading content, so the sidebar instead flows above it as an
      ordinary, height-limited scrolling block -- still fully usable, just
-     not pinned to the screen while scrolling. */
+     not pinned to the screen while scrolling, and not resizable (there's
+     no adjacent content column for a width change to meaningfully
+     affect here). The collapse toggle still works, to reclaim the
+     screen space the sidebar takes up above the reading content. */
   @media (max-width: 900px) {
     .sidebar {
       position: static;
@@ -88,19 +181,29 @@
       max-height: 40vh;
       border-right: none;
       border-bottom: 1px solid #CCCCCC;
+      transform: none;
     }
     .main-content {
       margin-left: 0;
     }
+    .page-layout.sidebar-collapsed .sidebar {
+      display: none;
+    }
+    #sidebar-resize-handle {
+      display: none;
+    }
   }
   /* Print: matches every other format's pagination, which has no room
-     for (and no use for) an on-screen navigation panel. */
+     for (and no use for) an on-screen navigation panel or its controls. */
   @media print {
     .sidebar {
       display: none;
     }
     .main-content {
       margin-left: 0;
+    }
+    #sidebar-toggle {
+      display: none;
     }
   }
 
