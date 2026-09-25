@@ -840,7 +840,15 @@ def build_title_md():
     extra_lines = lines[version_idx + 1:]
     extra_md = ""
     if extra_lines:
-        extra_md = "\n\n" + "\n\n".join(l.strip() for l in extra_lines)
+        # The whole Dear Reader note is italicized; its own greeting line
+        # (the first line, "Dear Reader,") is additionally bold, so it
+        # reads as a bold-italic heading-like lead-in to the italicized
+        # body that follows.
+        styled_lines = []
+        for i, l in enumerate(extra_lines):
+            text = l.strip()
+            styled_lines.append(f"***{text}***" if i == 0 else f"*{text}*")
+        extra_md = "\n\n" + "\n\n".join(styled_lines)
 
     # Copyright year is derived from the resolved build version itself
     # (vYYYYMMDDx -> the YYYY substring) rather than hardcoded in the
