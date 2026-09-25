@@ -842,6 +842,26 @@ def build_title_md():
     if extra_lines:
         extra_md = "\n\n" + "\n\n".join(l.strip() for l in extra_lines)
 
+    # Copyright year is derived from the resolved build version itself
+    # (vYYYYMMDDx -> the YYYY substring) rather than hardcoded in the
+    # source file or computed from today's date, so it never needs
+    # separate upkeep and always matches the version already shown right
+    # above it, even for a locally-run build with a different system
+    # clock. Deliberately no URL here per the user's own instruction
+    # (this is the title page notice, not the footer) -- LICENSE.md,
+    # linked from the footer via the repo URL, is where the full text
+    # and license link live; this is just the reader-facing notice.
+    copyright_year = version_line_resolved[1:5] if version_line_resolved[:1] == "v" and version_line_resolved[1:5].isdigit() else ""
+    copyright_notice = (
+        f"*\u00a9 {copyright_year} Jim Lowery. Licensed under a Creative Commons "
+        "Attribution-NonCommercial-ShareAlike 4.0 International License "
+        "(CC BY-NC-SA 4.0). See this project's LICENSE.md for the full terms.*"
+        if copyright_year else
+        "*Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike "
+        "4.0 International License (CC BY-NC-SA 4.0). See this project's "
+        "LICENSE.md for the full terms.*"
+    )
+
     md = f"""::: {{custom-style="HiddenHeading"}}
 Title Page
 :::
@@ -853,6 +873,8 @@ Title Page
 ::: {{custom-style="Subtitle"}}
 {version_line_resolved}
 :::
+
+{copyright_notice}
 {extra_md}
 """
     return md, version_line_resolved
