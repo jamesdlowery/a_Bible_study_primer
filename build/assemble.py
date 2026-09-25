@@ -847,20 +847,52 @@ def build_title_md():
     # source file or computed from today's date, so it never needs
     # separate upkeep and always matches the version already shown right
     # above it, even for a locally-run build with a different system
-    # clock. Deliberately no URL here per the user's own instruction
-    # (this is the title page notice, not the footer) -- LICENSE.md,
-    # linked from the footer via the repo URL, is where the full text
-    # and license link live; this is just the reader-facing notice.
+    # clock.
     copyright_year = version_line_resolved[1:5] if version_line_resolved[:1] == "v" and version_line_resolved[1:5].isdigit() else ""
-    copyright_notice = (
-        f"*\u00a9 {copyright_year} Jim Lowery. Licensed under a Creative Commons "
-        "Attribution-NonCommercial-ShareAlike 4.0 International License "
-        "(CC BY-NC-SA 4.0). See this project's LICENSE.md for the full terms.*"
+    intro_line = (
+        f"*\u00a9 {copyright_year} Jim Lowery. This work is licensed under the "
+        "[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International "
+        "License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).*"
         if copyright_year else
-        "*Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike "
-        "4.0 International License (CC BY-NC-SA 4.0). See this project's "
-        "LICENSE.md for the full terms.*"
+        "*This work is licensed under the [Creative Commons "
+        "Attribution-NonCommercial-ShareAlike 4.0 International License "
+        "(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).*"
     )
+
+    # The Summary, Full License Text, and Scripture Quotations sections
+    # are pulled live from LICENSE.md itself -- confirmed by measuring an
+    # actual rendered test build that this fuller notice fits on the
+    # Title Page in one page alongside the Dear Reader note -- rather
+    # than duplicated here as a separate hardcoded copy, so the two can
+    # never silently drift out of sync with each other if LICENSE.md is
+    # ever revised. "## Section Name" headings are turned into inline
+    # bold labels instead of kept as real headings, to save the vertical
+    # space a full heading's own spacing would otherwise cost on an
+    # already-tight page.
+    def extract_license_section(heading_substring):
+        with open(os.path.join(REPO, "LICENSE.md"), encoding="utf-8") as f:
+            license_lines = f.read().split("\n")
+        start = next((i for i, l in enumerate(license_lines)
+                      if l.startswith("## ") and heading_substring in l), None)
+        if start is None:
+            raise ValueError(f"Could not find '{heading_substring}' section in LICENSE.md")
+        end = next((i for i in range(start + 1, len(license_lines))
+                     if license_lines[i].startswith("## ")), len(license_lines))
+        return "\n".join(license_lines[start + 1:end]).strip()
+
+    summary_body = extract_license_section("Summary")
+    full_text_body = extract_license_section("Full License Text")
+    scripture_body = extract_license_section("Scripture Quotations")
+
+    copyright_notice = f"""{intro_line}
+
+**Summary (not a substitute for the full license):**
+
+{summary_body}
+
+{full_text_body}
+
+**Scripture Quotations:** {scripture_body}"""
 
     md = f"""::: {{custom-style="HiddenHeading"}}
 Title Page
