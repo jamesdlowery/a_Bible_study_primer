@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20260924i/A_Bible_Study_Primer_v20260924i.docx) — 69.4 MB
-- [📄 OpenDocument (.odt)](../../releases/download/v20260924i/A_Bible_Study_Primer_v20260924i.odt) — 1.0 MB
-- [📄 PDF](../../releases/download/v20260924i/A_Bible_Study_Primer_v20260924i.pdf) — 29.3 MB
-- [🌐 HTML](../../releases/download/v20260924i/A_Bible_Study_Primer_v20260924i.html) — 3.5 MB
+- [📄 Word (.docx)](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.docx)
+- [📄 OpenDocument (.odt)](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.odt)
+- [📄 PDF](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.pdf)
+- [🌐 HTML](../../releases/download/v20260913a/A_Bible_Study_Primer_v20260913a.html)
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -64,4 +64,4 @@ If you'd rather not use GitHub directly for a specific pull request or issue, th
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE.md). See [`LICENSE.md`](LICENSE.md) for the full text.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md). See [`LICENSE.md`](LICENSE.md) for the full text.
