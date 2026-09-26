@@ -494,7 +494,14 @@ def read_rcp_body(path, demote_levels=3):
     ... ' H1, which is redundant once wrapped in our own book/translation
     heading -- so this drops that line entirely and demotes the rest (H2/H3
     in the source) by `demote_levels`, keeping everything within Markdown's
-    6-heading-level ceiling once nested under a book or translation divider."""
+    6-heading-level ceiling once nested under a book or translation divider.
+
+    Also, on the way: (1) each claim's own per-book number (which resets to
+    1 for every book) gets the claim's running count across the whole RCP
+    section appended as a superscript, via the RCP_GLOBAL_COUNTS mapping
+    computed once upfront; and (2) every "Entry ID: ..." line is dropped
+    entirely -- confirmed by direct measurement that these ~865 lines cost
+    about 21 pages across the RCP section as a whole."""
     text = read(path)
     lines = text.split("\n")
     idx = 0
@@ -506,6 +513,22 @@ def read_rcp_body(path, demote_levels=3):
     while idx < len(lines) and lines[idx].strip() == "":
         idx += 1
     body = "\n".join(lines[idx:])
+
+    book_folder = os.path.basename(path)
+    if book_folder.endswith(".md"):
+        book_folder = book_folder[:-3]
+    book_folder = book_folder.strip()
+
+    def add_running_count(m):
+        number, title = m.group(1), m.group(2)
+        global_count = RCP_GLOBAL_COUNTS.get((book_folder, number))
+        if global_count is None:
+            return m.group(0)
+        return f"### {number}^({global_count})^. {title}"
+
+    body = re.sub(r'^### (\d+)\. (.+)$', add_running_count, body, flags=re.MULTILINE)
+    body = re.sub(r'\n\n\*Entry ID: [^*]+\*\n\n', '\n\n', body)
+
     return demote(body, demote_levels)
 
 
@@ -525,6 +548,36 @@ def rcp_all_books():
         for fn in files:
             out.append((group_title, fn))
     return out
+
+
+def build_rcp_global_counts():
+    """Maps (book_folder, local_claim_number_str) -> that claim's running
+    count across the whole RCP section, in the same book order
+    rcp_all_books() itself defines -- e.g. a book's own claim "1" might
+    map to running count 348 if 347 claims from earlier books precede it.
+    Computed once, upfront, from the source files' own claim numbers
+    (extract_claims()) rather than incremented inline inside a render
+    function: targets get rendered more than once (resolve_anchors() and
+    the final assembly loop each render every target), and a counter
+    mutated inside a render function would double- or triple-count as a
+    result."""
+    RCP_BY_CLAIM_DIR = "100 Reportedly Contradicting Passages/015 Reportedly Contradicting Passages By Claim"
+    counts = {}
+    running = 0
+    for _group_label, fn in rcp_all_books():
+        if fn is None:
+            continue
+        book_folder = rcp_book_folder(fn)
+        rel_path = os.path.join(RCP_BY_CLAIM_DIR, f"{book_folder}.md")
+        if not os.path.exists(os.path.join(REPO, rel_path)):
+            continue
+        for number, _title in extract_claims(rel_path):
+            running += 1
+            counts[(book_folder, number)] = running
+    return counts, running
+
+
+RCP_GLOBAL_COUNTS, RCP_TOTAL_CLAIMS = build_rcp_global_counts()
 
 
 def get_heading_text(path):
