@@ -191,8 +191,12 @@ def build_main_section_ranges(doc):
     trimming trailing blank pages from each section's raw bookmark-to-
     next-bookmark span so the range reflects real content only."""
     toc = doc.get_toc()
+    # "Title Page" is excluded as well: now that the title block, the
+    # licence notice and the Dear Reader note each sit on their own page,
+    # the section spans several pages, and rule 3b would otherwise print
+    # "Title Page" as a running header over the licence and the note.
     mains = [(title, page - 1) for level, title, page in toc
-             if level == 1 and title not in ("Front Cover",)]
+             if level == 1 and title not in ("Front Cover", "Title Page")]
     ranges = []
     for i, (title, start) in enumerate(mains):
         raw_end = (mains[i + 1][1] - 1) if i + 1 < len(mains) else len(doc) - 1

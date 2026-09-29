@@ -911,11 +911,21 @@ def build_title_md():
         # (the first line, "Dear Reader,") is additionally bold, so it
         # reads as a bold-italic heading-like lead-in to the italicized
         # body that follows.
-        styled_lines = []
+        # Lines beginning "- " are kept as a bulleted list (italicized
+        # item by item); consecutive list lines stay in one list rather
+        # than being separated by blank lines into one-item lists.
+        chunks = []
         for i, l in enumerate(extra_lines):
             text = l.strip()
-            styled_lines.append(f"***{text}***" if i == 0 else f"*{text}*")
-        extra_md = "\n\n" + "\n\n".join(styled_lines)
+            if text.startswith("- "):
+                item = f"- *{text[2:].strip()}*"
+                if chunks and chunks[-1].startswith("- "):
+                    chunks[-1] += "\n" + item
+                else:
+                    chunks.append(item)
+            else:
+                chunks.append(f"***{text}***" if i == 0 else f"*{text}*")
+        extra_md = "\n\n" + "\n\n".join(chunks)
 
     # Copyright year is derived from the resolved build version itself
     # (vYYYYMMDDx -> the YYYY substring) rather than hardcoded in the
