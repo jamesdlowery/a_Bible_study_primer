@@ -25,13 +25,7 @@ companion Ezra, Deuteronomy, and Ruth documents rather than repeating them. The 
 entries are narrative and legal questions where all 27 tracked translations render the same
 underlying text and the harmonization is exegetical rather than a matter of wording.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

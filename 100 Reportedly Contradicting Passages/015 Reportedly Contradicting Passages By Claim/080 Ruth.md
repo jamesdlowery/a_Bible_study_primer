@@ -25,15 +25,7 @@ non-euphemistically. The remaining entries are internal
 narrative, ethical, legal, and chronological questions where all 27 translations render the
 same underlying text and the harmonization is exegetical rather than a matter of wording.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where the text itself is genuinely
-open (entries 8 and 6 are framed this way), an honest account of what can and cannot be
-settled. Readers are encouraged to consult the primary texts and the cross-references
-directly.
-
 ---
-
 
 ## Table of Contents
 

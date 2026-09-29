@@ -23,14 +23,7 @@ representing the range of scholarly positions on Jude's use of non-canonical Jew
 literature, including citation to Richard Bauckham, Thomas Schreiner, and a documented
 Qumran-based distinction between valuing and canonizing a text.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary text and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

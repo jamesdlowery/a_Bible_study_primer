@@ -25,14 +25,7 @@ baptismal regeneration. The remaining entries are addressed from standard harmon
 approaches, several of which build on treatments in the companion 1
 Timothy and Romans chapters.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine theological diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

@@ -1,7 +1,5 @@
 # Psalms: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 ---
 
 ## Psalm 22:16 — "they pierced my hands and my feet," or "like a lion, my hands and my feet"?

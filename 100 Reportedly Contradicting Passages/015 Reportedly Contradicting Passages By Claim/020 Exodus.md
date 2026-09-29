@@ -8,15 +8,7 @@ passages involved (only where the translation's own wording materially affects h
 resolvable the claim appears in English), and gives the standard scholarly reconciliation or
 harmonization.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 
@@ -500,7 +492,7 @@ primary texts and the cross-references directly.
 
 **The claim:** Exodus 12:9 explicitly instructs that the Passover lamb must not be eaten raw or boiled in water, but roasted over fire. Deuteronomy 16:7 instructs, in some translations, that the offering should be 'boiled' (or 'cooked') and eaten.
 
-**How the translations render it:** This is a genuine three-way split:7.
+**How the translations render it:** This is a genuine three-way split:
 - **General "cook"/"prepare" term (avoiding the specific tension entirely):** AMP, CSB, ESV, NASB, LSB, **Darby** ("cook") and the **Douay-Rheims Bible** ("dress," a general preparation term), along with **WEB** ("cooked"), **NABRE** ("cook"), **the ERV** (Easy-to-Read Version: "You must cook the meal"), and **the NET Bible** ("cook"). **CPDV** is also in this same general-term camp, albeit with its own specific word choice rather than Douay-Rheims' "dress" ("you shall cook and eat it in the place which the Lord your God will choose"). **TRB** is also in this same general-term camp too: "You are to cook it and eat it at the place that the Lord your God chooses."
 - **"Roast" (matching Exodus 12:9's specific instruction, avoiding any tension):** KJV, NKJV, NIV, NLT, **the ASV and the CJB**, along with **YLT** ("thou shalt roast and eat it") and **Webster's Bible** ("You shall roast and eat it"). **BSB** is also in this camp ("Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire"). **The AKJV** was not checked for this verse but would be expected to match KJV here, given its preservation method.
 - **"Boil" (the specific reading that most directly raises the appearance of tension with Exodus 12:9):** RSV2CE (via its RSV base text), and **RSV itself** renders "boil" -- the one clearly-attested camp among the tracked translations whose specific wording most directly raises the appearance of conflict with Exodus 12:9's explicit prohibition on boiling. **Smith's Literal Translation** is also in this camp ("And boil thou and eat in the place which Jehovah thy God shall choose in it"), consistent with its general translation philosophy of extreme literalism and the underlying Hebrew verb's most basic sense. **The NRSV-CE** was not checked for this verse but would be expected to follow the same RSV-tradition reading.

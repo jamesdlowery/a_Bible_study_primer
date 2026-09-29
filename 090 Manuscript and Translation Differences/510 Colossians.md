@@ -1,7 +1,5 @@
 # Colossians: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 ---
 
 ## Colossians 1:14 — redemption "through his blood," or simply "redemption"?

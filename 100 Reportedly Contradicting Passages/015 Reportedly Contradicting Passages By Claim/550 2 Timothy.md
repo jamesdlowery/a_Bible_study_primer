@@ -27,14 +27,7 @@ claim -- including, for the new entry below, a direct check of all 27 tracked tr
 rendering of 2 Timothy 2:26's genuinely ambiguous pronoun. Where no such check turned up a
 meaningful difference, the entry states that all 27 tracked translations render the passage similarly.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly or
-theological diversity remains, an honest account of the live discussion. Readers are
-encouraged to consult the primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

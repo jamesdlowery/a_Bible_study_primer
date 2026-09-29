@@ -1,7 +1,5 @@
 # Jeremiah: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 Jeremiah's most famous textual feature is a book-wide structural one, not a single-verse wording split, and the tracked translations all agree on which edition to follow. No separate verse was identified within Jeremiah where the tracked translations render the same words with a different, meaning-changing sense.
 
 ---

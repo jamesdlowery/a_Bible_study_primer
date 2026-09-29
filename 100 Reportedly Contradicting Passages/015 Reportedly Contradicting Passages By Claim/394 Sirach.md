@@ -1,4 +1,4 @@
-# Reportedly Contradicting Passages in Sirach (Ecclesiasticus)
+# Reportedly Contradicting Passages in Sirach
 
 **A note on this chapter's place in the series:** As with Tobit, Judith, and the Wisdom of
 Solomon, Sirach is a deuterocanonical book -- see the note on canon status at the start of the
@@ -22,13 +22,7 @@ including academic and translators'-handbook-level scholarship on Sirach 25:24's
 disputed relationship to Eve and universal human death. The remaining entries are theological
 questions addressed from standard scholarly positions.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by relevant scholarship, or, where genuine scholarly disagreement remains, an honest account
-of the live discussion. Readers are encouraged to consult the primary text directly.
-
 ---
-
 
 ## Table of Contents
 

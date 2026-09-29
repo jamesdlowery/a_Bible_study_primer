@@ -12,15 +12,7 @@ resolving the discomfort many readers feel -- several mitigating considerations 
 but this entry does not claim they fully settle the matter, consistent with this book's
 practice of not manufacturing false certainty where the evidence does not clearly support it.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

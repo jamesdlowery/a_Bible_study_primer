@@ -1,4 +1,4 @@
-# Baruch (including the Letter of Jeremiah): Textual and Translation Differences
+# Baruch: Textual and Translation Differences
 
 **Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 

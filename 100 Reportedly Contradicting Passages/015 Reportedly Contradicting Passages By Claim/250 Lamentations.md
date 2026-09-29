@@ -25,14 +25,7 @@ theological and literary questions where all 27 tracked translations render the 
 (to the extent an acrostic pattern in the Hebrew letters can be rendered at all in English) and
 the harmonization is exegetical rather than a matter of wording.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary texts directly.
-
 ---
-
 
 ## Table of Contents
 

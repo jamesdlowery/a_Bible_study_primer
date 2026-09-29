@@ -28,14 +28,7 @@ question.
 representing both Catholic and Protestant perspectives. The remaining entries are historical
 and literary questions addressed from standard scholarly positions.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by relevant scholarship, or, where a genuine and sincerely held doctrinal disagreement exists
-between major Christian traditions, an honest, even-handed account of it. Readers are
-encouraged to consult the primary text directly.
-
 ---
-
 
 ## Table of Contents
 

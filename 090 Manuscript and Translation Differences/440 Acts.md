@@ -1,7 +1,5 @@
 # Acts: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 As explained in the Gospel chapters in this book, New Testament translations divide mainly between those based on the later Textus Receptus (KJV, NKJV) and those based on a modern critical text weighted toward the earliest manuscripts (most others), with Vulgate-tradition translations (Douay-Rheims, CPDV) forming a third lineage. Acts has an additional wrinkle beyond this: its "Western text" (represented especially by the 5th-century Codex Bezae) is considerably longer than the standard text in numerous places throughout the book — sometimes by as much as 10% overall — making Acts one of the most textually complex books in the New Testament, even though most of those Western expansions are minor narrative details rather than major single variants.
 
 ---

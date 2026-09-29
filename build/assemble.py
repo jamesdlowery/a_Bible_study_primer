@@ -416,7 +416,7 @@ APOCRYPHA = ["391 Tobit.md", "392 Judith.md", "393 Wisdom of Solomon.md", "394 S
 
 NT_GROUPS = [
     ("Gospels", ["400 Matthew.md", "410 Mark.md", "420 Luke.md", "430 John.md"]),
-    ("History", ["440 Acts.md"]),
+    ("Acts of the Apostles", ["440 Acts.md"]),
     ("Pauline Epistles", ["450 Romans.md", "460 1 Corinthians.md", "470 2 Corinthians.md", "480 Galatians.md",
                            "490 Ephesians.md", "500 Philippians.md", "510 Colossians.md", "520 1 Thessalonians.md",
                            "530 2 Thessalonians.md", "540 1 Timothy.md", "550 2 Timothy.md", "560 Titus.md",
@@ -667,6 +667,10 @@ def build_targets():
     add("variants_title", "Manuscript and Translation Differences",
         lambda: (
             "# Manuscript and Translation Differences\n\n"
+        "Every chapter in this section compares the same " + str(book_stats()["translation_count"]) + " tracked translations -- AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, "
+        "RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, and CJB -- "
+        "abbreviated as in the table in How to Use This Book; the seven deuterocanonical books compare only the four "
+        "Catholic-tradition translations that include them (RSV2CE, NABRE, DR, CPDV).\n\n"
             "**A note on recurring patterns:** the variants documented book by book below fall "
             "into a few recurring types, worth naming once rather than repeating at every "
             "entry. Some are secondary expansions or liturgical/theological additions to an "
@@ -722,7 +726,17 @@ def build_targets():
         "(the entire text is well-attested and the same across every translation; the dispute is about how to "
         "read it, not what it says). Each book chapter below states the claim as it is typically raised and "
         "gives the standard scholarly harmonization; inclusion of a claim is not a concession that Scripture "
-        "actually contradicts itself.\n"
+        "actually contradicts itself.\n\n"
+        "**On the harmonizations offered:** the \"standard scholarly harmonization\" given for each claim is drawn chiefly "
+        "from the conservative and mainstream evangelical reference literature (Gleason Archer, the Kaiser/Bruce et al. "
+        "*Hard Sayings* series, and the NET Bible's translators' notes, among others) -- the body of work that has most "
+        "systematically addressed these claims. That literature approaches the text from a position that assumes its "
+        "coherence, and readers should not take an entry's harmonization as the only academic view: critical scholarship "
+        "often treats the same tensions as evidence of multiple sources or editorial layers rather than as apparent "
+        "contradictions to be resolved. The text-critical works in References for Further Reading (Tov, W\u00fcrthwein, "
+        "Metzger and Ehrman, Aland) represent that side. Every entry states the claim as it is actually made, gives the "
+        "harmonization most commonly offered, and encourages readers to consult the primary texts and cross-references "
+        "directly; where no harmonization commands general agreement, or a difficulty is genuinely unresolved, the entry says so rather than forcing one. Wording-specific claims follow the verification standard described in A Note on Method and Verification.\n"
     ), is_divider=True)
 
     testament_labels = {"__OT__": "Old Testament", "__APOCRYPHA__": "Apocrypha", "__NT__": "New Testament"}

@@ -1,7 +1,5 @@
 # Esther: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 This isn't a single-verse wording variant, but it's the largest and most consequential textual difference affecting Esther among the tracked translations, so it's called out here rather than as a side note.
 
 ---

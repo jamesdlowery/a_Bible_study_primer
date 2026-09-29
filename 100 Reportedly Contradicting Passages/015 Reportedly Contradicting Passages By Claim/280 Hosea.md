@@ -12,16 +12,7 @@ relationship with Israel generates several of this chapter's entries (1, 2, and 
 document does not force a single resolution on the literal-versus-visionary question
 surrounding Hosea's own marriage (entry 1).
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

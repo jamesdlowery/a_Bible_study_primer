@@ -21,16 +21,7 @@ diversity of opinion, including on entry 5's underlying doctrinal question, whic
 project does not adjudicate consistent with its treatment of the same question in the
 companion 2 Maccabees chapter.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

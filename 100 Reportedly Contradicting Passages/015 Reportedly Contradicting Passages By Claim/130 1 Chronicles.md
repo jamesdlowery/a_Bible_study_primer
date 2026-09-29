@@ -17,17 +17,7 @@ translations, those entries are kept brief and cross-reference the fuller treatm
 published, rather than repeating it. The remaining entries are freshly researched
 genealogical and literary questions substantially unique to this book.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine uncertainty remains
-among scholars (as with the Eliam/Ahithophel identification in entry 2), an honest account of
-what is and is not established. Readers are encouraged to consult the primary texts and the
-cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

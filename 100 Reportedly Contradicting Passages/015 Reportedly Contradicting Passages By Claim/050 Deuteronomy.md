@@ -1,21 +1,13 @@
 # Reportedly Contradicting Passages in Deuteronomy
 
-This chapter catalogs 25 commonly cited alleged contradictions involving the book of
+This chapter catalogs 23 commonly cited alleged contradictions involving the book of
 Deuteronomy, either entirely internal to Deuteronomy, between Deuteronomy and its own earlier
 parallel in Exodus, or between Deuteronomy and later narrative books (Judges, 1 Samuel, 1
 Kings, Ruth, Ezekiel, Matthew). For each item, this chapter states the claim as it is
 typically raised, notes how the tracked translations render the passages involved (only where
-translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization.
-
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts and the cross-references directly.
+translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization. Two further questions often raised against Deuteronomy are treated once, in the chapter where their paired passage lives, rather than twice: whether the Passover lamb was to be roasted or boiled (Deuteronomy 16:7 against Exodus 12:9) is in the Exodus chapter, and the law of the king (Deuteronomy 17:14-17) against Solomon's practice is in the 1 Kings chapter.
 
 ---
-
 
 ## Table of Contents
 
@@ -62,30 +54,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 3. Was the Passover lamb to be roasted, or boiled?
+### 3. A single centralized place of worship, yet legitimate altars used elsewhere in Israel's later history
 
 *Entry ID: DEUT-003*
-
-**References:** Exodus 12:9; Deuteronomy 16:7
-
-**The claim:** Exodus 12:9 explicitly instructs that the Passover lamb must not be eaten raw or boiled in water, but roasted over fire. Deuteronomy 16:7 instructs, in some translations, that the offering should be 'boiled' (or 'cooked') and eaten.
-
-**How the translations render it:** As documented more fully in this book's companion Exodus chapter (see its entry on this same question), this is a genuine three-way split:7.
-- **General "cook"/"prepare" term (avoiding the specific tension entirely):** AMP, CSB, ESV, NASB, LSB, **Darby** ("cook") and the **Douay-Rheims Bible** ("dress," a general preparation term), along with **WEB** ("cooked"), **NABRE** ("cook"), **the ERV** (Easy-to-Read Version: "You must cook the meal"), and **the NET Bible** ("cook"). **CPDV** is also in this same general-term camp, albeit with its own specific word choice rather than Douay-Rheims' "dress" ("you shall cook and eat it in the place which the Lord your God will choose"). **TRB** is also in this same general-term camp too: "You are to cook it and eat it at the place that the Lord your God chooses."
-- **"Roast" (matching Exodus 12:9's specific instruction, avoiding any tension):** KJV, NKJV, NIV, NLT, **the ASV and the CJB**, along with **YLT** ("thou shalt roast and eat it") and **Webster's Bible** ("You shall roast and eat it"). **BSB** is also in this camp ("Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire"). **The AKJV** was not checked for this verse but would be expected to match KJV here, given its preservation method.
-- **"Boil" (the specific reading that most directly raises the appearance of tension with Exodus 12:9):** RSV2CE (via its RSV base text), and **RSV itself** renders "boil." **Smith's Literal Translation** is also in this camp ("And boil thou and eat in the place which Jehovah thy God shall choose in it") -- a fitting result given SLT's general translation philosophy of extreme literalism, and the underlying Hebrew verb's most basic sense being "to boil" or "cook in liquid." **The NRSV-CE** was not checked for this verse but would be expected to follow the same RSV-family reading.
-
-**Reconciliation:** The Hebrew verb in Deuteronomy 16:7 (bashal) is a general term for cooking that can include roasting, not exclusively boiling in water -- most modern translations render it with a general term like 'cook' precisely to avoid the false impression of a conflict with Exodus 12:9's specific prohibition on boiling. Additionally, Deuteronomy 16 addresses the broader festival offerings across the week (which included other sacrifices that could be boiled), not only the Passover lamb itself specifically.
-
----
-
----
-
-## Law and Practice
-
-### 4. A single centralized place of worship, yet legitimate altars used elsewhere in Israel's later history
-
-*Entry ID: DEUT-004*
 
 **References:** Deuteronomy 12:5-14; Judges 6:24-26; 1 Samuel 7:9-10; 1 Kings 18:30-39
 
@@ -99,25 +70,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 5. The law for Israel's king (Deuteronomy 17:14-17) vs. Solomon's own practice
+### 4. Ammonites and Moabites excluded from the assembly 'forever' -- yet Ruth the Moabite is welcomed in
 
-*Entry ID: DEUT-005*
-
-**References:** Deuteronomy 17:14-17; 1 Kings 10:14-11:8
-
-**The claim:** Deuteronomy's law governing a future Israelite king explicitly prohibits the king from acquiring many horses, many wives ('lest his heart turn away'), or excessive silver and gold. 1 Kings 10-11 describes Solomon doing all three at an extraordinary scale -- vast horse-trading operations, 700 wives and 300 concubines explicitly said to have turned his heart away after his foreign wives led him into idolatry (11:1-8), and enormous quantities of gold -- without an immediate prophetic rebuke recorded at the moment each accumulation is first described, though the text does record God's displeasure and its consequences later, in 11:9-13.
-
-**How the translations render it:** All 27 tracked translations render both passages plainly and consistently as given; the connection between them is a matter of recognizing 1 Kings' own narrative structure and echoing vocabulary, not translation choice.
-
-**Reconciliation:** This is not generally treated as Scripture contradicting itself but as Scripture directly illustrating, in narrative form, the very failure Deuteronomy's law was written to prevent -- the author of Kings narrates Solomon's accumulations largely without comment through chapter 10, then explicitly ties the consequence (God's anger, the announced division of the kingdom) directly back to the specific violation of exactly this pattern in 11:1-13, using language ('his wives turned away his heart,' 11:3) that directly echoes Deuteronomy 17:17's warning. Far from an oversight, most commentators read 1 Kings 10-11 as a deliberate, structured demonstration of Deuteronomy's king-law being violated in each of its particulars, with consequences following exactly as that law implied they would.
-
----
-
----
-
-### 6. Ammonites and Moabites excluded from the assembly 'forever' -- yet Ruth the Moabite is welcomed in
-
-*Entry ID: DEUT-006*
+*Entry ID: DEUT-004*
 
 **References:** Deuteronomy 23:3-6; Ruth 1:16-17; Ruth 4:13-17; Matthew 1:5
 
@@ -131,9 +86,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 7. Were fruit trees in besieged cities to be spared, given that Elisha later instructed Israel's own army to fell every tree in Moab?
+### 5. Were fruit trees in besieged cities to be spared, given that Elisha later instructed Israel's own army to fell every tree in Moab?
 
-*Entry ID: DEUT-007*
+*Entry ID: DEUT-005*
 
 **References:** Deuteronomy 20:19-20; 2 Kings 3:19, 25
 
@@ -147,9 +102,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 8. May a eunuch enter the congregation of the LORD?
+### 6. May a eunuch enter the congregation of the LORD?
 
-*Entry ID: DEUT-008*
+*Entry ID: DEUT-006*
 
 **References:** Deuteronomy 23:1
 
@@ -163,9 +118,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 9. For how many generations does the exclusion of an illegitimate child's descendants from the congregation of the LORD last?
+### 7. For how many generations does the exclusion of an illegitimate child's descendants from the congregation of the LORD last?
 
-*Entry ID: DEUT-009*
+*Entry ID: DEUT-007*
 
 **References:** Deuteronomy 23:2
 
@@ -179,9 +134,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 10. How should Edomites be treated -- as brothers not to be abhorred, or as a nation marked for judgment?
+### 8. How should Edomites be treated -- as brothers not to be abhorred, or as a nation marked for judgment?
 
-*Entry ID: DEUT-010*
+*Entry ID: DEUT-008*
 
 **References:** Deuteronomy 23:7; Obadiah 1:10-18; Psalm 137:7
 
@@ -197,9 +152,9 @@ primary texts and the cross-references directly.
 
 ## Law and Ethics
 
-### 11. Individual responsibility for sin (Deuteronomy 24:16) vs. generational punishment (Exodus 20:5)
+### 9. Individual responsibility for sin (Deuteronomy 24:16) vs. generational punishment (Exodus 20:5)
 
-*Entry ID: DEUT-011*
+*Entry ID: DEUT-009*
 
 **References:** Deuteronomy 24:16; Exodus 20:5; Exodus 34:7; Ezekiel 18:1-4, 20
 
@@ -213,9 +168,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 12. Total destruction commanded for nearby nations, yet differentiated and sometimes peaceful treatment prescribed for others
+### 10. Total destruction commanded for nearby nations, yet differentiated and sometimes peaceful treatment prescribed for others
 
-*Entry ID: DEUT-012*
+*Entry ID: DEUT-010*
 
 **References:** Deuteronomy 20:10-18; Deuteronomy 2:4-9; Deuteronomy 2:19
 
@@ -229,9 +184,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 13. Interest may be charged to foreigners, but not to fellow Israelites -- a double standard, or a covenant-community ethic?
+### 11. Interest may be charged to foreigners, but not to fellow Israelites -- a double standard, or a covenant-community ethic?
 
-*Entry ID: DEUT-013*
+*Entry ID: DEUT-011*
 
 **References:** Deuteronomy 23:19-20; Exodus 22:25; Leviticus 25:35-37
 
@@ -245,9 +200,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 14. Divorce permitted by Moses, restricted by Jesus -- and differently, in each Gospel
+### 12. Divorce permitted by Moses, restricted by Jesus -- and differently, in each Gospel
 
-*Entry ID: DEUT-014*
+*Entry ID: DEUT-012*
 
 **References:** Deuteronomy 24:1-4; Matthew 5:31-32; Matthew 19:3-9; Mark 10:2-12; Luke 16:18
 
@@ -263,9 +218,9 @@ primary texts and the cross-references directly.
 
 ## Authorship and Composition
 
-### 15. Moses' own death and burial, narrated in the book traditionally attributed to him
+### 13. Moses' own death and burial, narrated in the book traditionally attributed to him
 
-*Entry ID: DEUT-015*
+*Entry ID: DEUT-013*
 
 **References:** Deuteronomy 34:1-8; Deuteronomy 34:10-12
 
@@ -279,9 +234,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 16. Do this book's own parenthetical asides about the conquest's outcome fit Mosaic authorship before that conquest occurred?
+### 14. Do this book's own parenthetical asides about the conquest's outcome fit Mosaic authorship before that conquest occurred?
 
-*Entry ID: DEUT-016*
+*Entry ID: DEUT-014*
 
 **References:** Deuteronomy 2:10-12, 20-23; Deuteronomy 2:37
 
@@ -297,9 +252,9 @@ primary texts and the cross-references directly.
 
 ## Internal Narrative Tensions
 
-### 17. Moses 'known face to face' (Deuteronomy 34:10) -- yet 'no one may see my face and live' (Exodus 33:20)
+### 15. Moses 'known face to face' (Deuteronomy 34:10) -- yet 'no one may see my face and live' (Exodus 33:20)
 
-*Entry ID: DEUT-017*
+*Entry ID: DEUT-015*
 
 **References:** Deuteronomy 34:10; Exodus 33:11; Exodus 33:20
 
@@ -313,9 +268,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 18. Did Israel see God directly at Horeb, or hear only a voice with no visible form?
+### 16. Did Israel see God directly at Horeb, or hear only a voice with no visible form?
 
-*Entry ID: DEUT-018*
+*Entry ID: DEUT-016*
 
 **References:** Deuteronomy 4:12, 15; Deuteronomy 5:4
 
@@ -331,9 +286,9 @@ primary texts and the cross-references directly.
 
 ## Theological Tensions
 
-### 19. Will the earth last forever, or will it pass away?
+### 17. Will the earth last forever, or will it pass away?
 
-*Entry ID: DEUT-019*
+*Entry ID: DEUT-017*
 
 **References:** Deuteronomy 4:40; 2 Peter 3:10; Revelation 21:1
 
@@ -347,9 +302,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 20. Does God keep covenant with his people 'to a thousand generations,' or has that covenant been set aside in Christ?
+### 18. Does God keep covenant with his people 'to a thousand generations,' or has that covenant been set aside in Christ?
 
-*Entry ID: DEUT-020*
+*Entry ID: DEUT-018*
 
 **References:** Deuteronomy 7:9; Hebrews 8:13; Galatians 3:23-25
 
@@ -363,9 +318,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 21. Did God need to test Israel in the wilderness in order to find out what was in their hearts?
+### 19. Did God need to test Israel in the wilderness in order to find out what was in their hearts?
 
-*Entry ID: DEUT-021*
+*Entry ID: DEUT-019*
 
 **References:** Deuteronomy 8:2; Psalm 139:1-4; Jeremiah 17:10
 
@@ -379,9 +334,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 22. Are all people God's children, or only some?
+### 20. Are all people God's children, or only some?
 
-*Entry ID: DEUT-022*
+*Entry ID: DEUT-020*
 
 **References:** Deuteronomy 14:1; John 8:44; Ephesians 2:2-3; 1 John 3:10
 
@@ -395,9 +350,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 23. Does Paul's citation of this verse mean obedience to the law brings a curse?
+### 21. Does Paul's citation of this verse mean obedience to the law brings a curse?
 
-*Entry ID: DEUT-023*
+*Entry ID: DEUT-021*
 
 **References:** Deuteronomy 27:26; Galatians 3:10-13
 
@@ -411,9 +366,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 24. Does God take pleasure in the death of the wicked, or does their destruction bring him no pleasure at all?
+### 22. Does God take pleasure in the death of the wicked, or does their destruction bring him no pleasure at all?
 
-*Entry ID: DEUT-024*
+*Entry ID: DEUT-022*
 
 **References:** Deuteronomy 28:63; Ezekiel 33:11
 
@@ -427,9 +382,9 @@ primary texts and the cross-references directly.
 
 ---
 
-### 25. Do humans have genuine free will to choose their own destiny, or does God sovereignly determine it?
+### 23. Do humans have genuine free will to choose their own destiny, or does God sovereignly determine it?
 
-*Entry ID: DEUT-025*
+*Entry ID: DEUT-023*
 
 **References:** Deuteronomy 30:19; John 6:44; Ephesians 1:4-5; Romans 9:16
 

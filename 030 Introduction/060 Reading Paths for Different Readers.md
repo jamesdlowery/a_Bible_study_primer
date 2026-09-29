@@ -28,4 +28,4 @@ Go to **Major U.S. Christian Denominations** for a specific denomination's core 
 
 ## "I want to read this book start to finish."
 
-The folder numbering is the intended reading order: front matter, then the manuscript and translation background, then the two comparison catalogs, then the denomination and study Bible profiles, then the bibliography. Reading straight through gives the fullest picture of how manuscript history, translation choice, popular claims about the Bible, and the denominational landscape all relate to one another.
+The order of the parts is the intended reading order: front matter, then the manuscript and translation background, then the two comparison catalogs, then the denomination and study Bible profiles, then the bibliography. Reading straight through gives the fullest picture of how manuscript history, translation choice, popular claims about the Bible, and the denominational landscape all relate to one another.

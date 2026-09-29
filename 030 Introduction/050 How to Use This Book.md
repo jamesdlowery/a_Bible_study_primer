@@ -1,8 +1,8 @@
 # How to Use This Book
 
-## The Folder Structure
+## How the Book Is Organized
 
-Each major part of this book lives in its own numbered folder, and the numbers indicate reading order rather than importance:
+The parts of this book, in reading order:
 
 | Section | What's there |
 |---|---|
@@ -27,7 +27,6 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 | Prominent English Study Bibles | Profiles of 27 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
 | References for Further Reading | A bibliography for readers who want to go deeper on any section |
 
-Within each folder, files are numbered the same way, so everything sorts correctly whether you're browsing on GitHub or reading the compiled document.
 
 ## Two Sections, Two Different Jobs
 
@@ -78,9 +77,6 @@ All {{TRANSLATION_COUNT}} translations listed below have their own history (see 
 
 Throughout this book, text shown in a distinct color (typically blue) is a hyperlink -- clicking or tapping it jumps to the linked location, whether that's the Table of Contents, a specific book's chapter, or an external source cited in the References section. It carries no meaning beyond "this is a link"; it isn't used elsewhere in this book to flag emphasis, warnings, or any other category of content.
 
-## Reading on GitHub vs. Reading the Compiled Document
+## About This Edition
 
-This book is maintained as a set of linked Markdown files on GitHub, and also published as compiled DOCX, ODT, PDF, and HTML documents. Both are generated from the same source content, but navigate slightly differently:
-
-- **On GitHub**, links jump to the *exact claim or variant* you clicked — down to the specific numbered entry.
-- **In the compiled document**, the Table of Contents takes you directly to that book's chapter (since a single linear document can't practically link to hundreds of individual claim anchors); the numbered claims follow in order from there, and each book's chapter is short enough to scan quickly for a specific one.
+This book is maintained as a set of source files and published in several formats (this printed or compiled edition, and web-readable versions) from the same content. In this edition, the Table of Contents takes you to each book's chapter; the numbered claims and variant entries follow in order from there, and each chapter is short enough to scan for a specific one. The source files, the full revision history, and the place to report errors are at the project's public repository, https://github.com/jamesdlowery/a_Bible_study_primer.

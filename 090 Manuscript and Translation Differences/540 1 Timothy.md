@@ -1,7 +1,5 @@
 # 1 Timothy: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 ---
 
 ## 1. 1 Timothy 3:16 — "God was manifested," or "He who was manifested"?

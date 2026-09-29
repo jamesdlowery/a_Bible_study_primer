@@ -14,16 +14,7 @@ each face real objections and no one solution commands full scholarly consensus 
 with this book's practice of flagging genuine open questions rather than manufacturing
 false certainty.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where none commands real consensus,
-an honest account of the live disagreement. Readers are encouraged to consult the primary
-texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

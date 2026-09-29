@@ -15,15 +15,7 @@ standard English translation follows, and a shorter Greek Septuagint text-form i
 confirmed by Dead Sea Scroll fragments). This is a feature of the book's transmission history
 invisible to readers of any single English translation.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

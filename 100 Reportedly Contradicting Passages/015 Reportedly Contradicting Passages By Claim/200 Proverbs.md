@@ -14,15 +14,7 @@ back to back, deliberately teaching that proverbs are compressed, situational wi
 than universal, exceptionless laws. Several other entries in this set (2, 4, and 8) apply this
 same genre principle to other frequently misread "guarantee" verses.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts directly.
-
 ---
-
 
 ## Table of Contents
 

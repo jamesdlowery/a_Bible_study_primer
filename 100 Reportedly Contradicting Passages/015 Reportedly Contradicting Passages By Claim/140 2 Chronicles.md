@@ -17,16 +17,7 @@ remaining entries include two genuine, actively debated genealogical cruxes (Abi
 mother's name and Zechariah's father's name) presented candidly as open questions where
 serious scholars have not reached consensus.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly disagreement
-remains (entries 4, 5, and 8), an honest account of what is and is not established. Readers
-are encouraged to consult the primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

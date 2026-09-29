@@ -1,7 +1,5 @@
 # 2 Chronicles: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 ---
 
 ## 2 Chronicles 22:2 — was Ahaziah twenty-two, or forty-two, when he became king?

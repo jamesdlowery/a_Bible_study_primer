@@ -1,7 +1,5 @@
 # 1 Peter: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 ---
 
 ## 1. 1 Peter 3:15 — "sanctify the Lord God," or "sanctify Christ as Lord"?

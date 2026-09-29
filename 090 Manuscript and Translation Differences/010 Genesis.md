@@ -1,8 +1,19 @@
 # Genesis: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 This chapter lists cases where the tracked translations actually render a verse with different words that change its meaning -- not just stylistic differences. Where a real manuscript variant exists but the translations happen to agree on the same reading, that's noted separately at the end as a side note, since it doesn't create a difference among them but is still useful background.
+
+---
+
+## Genesis 4:8 — does Cain say anything to Abel before killing him?
+
+**The variant:** MT's text of Cain's words to Abel breaks off mid-sentence ("Cain said to his brother Abel..." with no reported speech at all in the strict Hebrew consonantal text). The Septuagint, Samaritan Pentateuch, Vulgate, and Peshitta all supply "Let us go out to the field," giving Cain an actual line of dialogue before the murder.
+
+**How the translations render it:**
+- **Supply "Let us go out to the field" (following the versions):** NIV, NLT, and CSB include the phrase in their main text. **YLT** ("Let us go into the field") and the **Douay-Rheims Bible** ("Let us go forth abroad") also supply it — consistent with Douay-Rheims' Vulgate basis, which includes the line. Also supplying the phrase: **the WEB** ("Let's go into the field"), **the NET Bible** ("Let's go out to the field"), **the BSB** ("Let us go out to the field"), **the NABRE** ("Cain said to his brother Abel, 'Let us go out in the field,'", with an accompanying footnote explaining the invitation's purpose: "to avoid detection"), and **the ERV** (Easy-to-Read Version: "Cain said to his brother Abel, 'Let's go out to the field.'"). **CPDV** is also in this camp: "And Cain said to his brother Abel, 'Let us go outside.'" **RSV** is also in this camp: "Cain said to Abel his brother, 'Let us go out to the field.'" **RSV2CE** is also in this same camp: "Cain said to Abel his brother, 'Let us go out to the field.'" **NRSV-CE** is also in this same camp: "Cain said to his brother Abel, 'Let us go out to the field.'"
+- **Omit it, following the bare MT (which breaks off without reported speech):** KJV and NKJV omit it; ESV and NASB also omit it from their main text (ESV notes the versions' reading in a footnote). LSB, tracking NASB, also omits it. Also omitting it: **Webster's Bible** ("And Cain talked with Abel his brother"), **Darby** ("And Cain spoke to Abel his brother"), and **the CJB** ("Kayin had words with Hevel his brother"). **Smith's Literal Translation** is also in this camp ("And Cain will speak to Abel his brother"), matching the same short, unsupplemented reading. **AKJV** is also in this camp ("And Cain talked with Abel his brother"), matching KJV's own wording exactly, as expected given its preservation method. **ASV** is also in this camp ("And Cain told Abel his brother"), its own distinct verb choice but the same short, unsupplemented reading. **AMP** is also in this camp: "Cain talked with Abel his brother [about what God had said]" -- worth noting, the older AMPC (Classic Amplified) edition instead reads "Let us go out to the field," supplying the phrase; the current AMP tracked by this book has since moved to the shorter, unsupplemented reading.
+- **Not verified:** TRB was not checked against its own text for this verse.
+
+**The difference in meaning:** With the supplied line, Cain lures Abel out with a specific pretext, making the murder premeditated in an explicit, stated way. Without it, the Hebrew's abruptness itself becomes part of the narrative effect — Cain's words trail off and the text jumps straight to the field, which many readers take as its own kind of ominous silence.
 
 ---
 
@@ -19,19 +30,6 @@ This chapter lists cases where the tracked translations actually render a verse 
 - **Not verified:** TRB was not checked against its own text for this verse, despite dedicated searches in repeated searches.
 
 **The difference in meaning:** If "Shiloh" is a name/title, the verse reads as a specific, personal messianic prediction — a named or titled figure to whom the scepter passes. If it's read as "until tribute/what belongs to him comes," the verse is a more general statement about the permanence of Judah's rule until it receives its due — still widely read as messianic in its ultimate fulfillment, but without a specific name embedded in the text. The Douay-Rheims/Vulgate reading ("he who is to be sent") represents yet a third interpretive tradition distinct from both. This is a case where the wording difference has had real downstream interpretive consequences for centuries of messianic prophecy discussion.
-
----
-
-## Genesis 4:8 — does Cain say anything to Abel before killing him?
-
-**The variant:** MT's text of Cain's words to Abel breaks off mid-sentence ("Cain said to his brother Abel..." with no reported speech at all in the strict Hebrew consonantal text). The Septuagint, Samaritan Pentateuch, Vulgate, and Peshitta all supply "Let us go out to the field," giving Cain an actual line of dialogue before the murder.
-
-**How the translations render it:**
-- **Supply "Let us go out to the field" (following the versions):** NIV, NLT, and CSB include the phrase in their main text. **YLT** ("Let us go into the field") and the **Douay-Rheims Bible** ("Let us go forth abroad") also supply it — consistent with Douay-Rheims' Vulgate basis, which includes the line. Also supplying the phrase: **the WEB** ("Let's go into the field"), **the NET Bible** ("Let's go out to the field"), **the BSB** ("Let us go out to the field"), **the NABRE** ("Cain said to his brother Abel, 'Let us go out in the field,'", with an accompanying footnote explaining the invitation's purpose: "to avoid detection"), and **the ERV** (Easy-to-Read Version: "Cain said to his brother Abel, 'Let's go out to the field.'"). **CPDV** is also in this camp: "And Cain said to his brother Abel, 'Let us go outside.'" **RSV** is also in this camp: "Cain said to Abel his brother, 'Let us go out to the field.'" **RSV2CE** is also in this same camp: "Cain said to Abel his brother, 'Let us go out to the field.'" **NRSV-CE** is also in this same camp: "Cain said to his brother Abel, 'Let us go out to the field.'"
-- **Omit it, following the bare MT (which breaks off without reported speech):** KJV and NKJV omit it; ESV and NASB also omit it from their main text (ESV notes the versions' reading in a footnote). LSB, tracking NASB, also omits it. Also omitting it: **Webster's Bible** ("And Cain talked with Abel his brother"), **Darby** ("And Cain spoke to Abel his brother"), and **the CJB** ("Kayin had words with Hevel his brother"). **Smith's Literal Translation** is also in this camp ("And Cain will speak to Abel his brother"), matching the same short, unsupplemented reading. **AKJV** is also in this camp ("And Cain talked with Abel his brother"), matching KJV's own wording exactly, as expected given its preservation method. **ASV** is also in this camp ("And Cain told Abel his brother"), its own distinct verb choice but the same short, unsupplemented reading. **AMP** is also in this camp: "Cain talked with Abel his brother [about what God had said]" -- worth noting, the older AMPC (Classic Amplified) edition instead reads "Let us go out to the field," supplying the phrase; the current AMP tracked by this book has since moved to the shorter, unsupplemented reading.
-- **Not verified:** TRB was not checked against its own text for this verse.
-
-**The difference in meaning:** With the supplied line, Cain lures Abel out with a specific pretext, making the murder premeditated in an explicit, stated way. Without it, the Hebrew's abruptness itself becomes part of the narrative effect — Cain's words trail off and the text jumps straight to the field, which many readers take as its own kind of ominous silence.
 
 ---
 

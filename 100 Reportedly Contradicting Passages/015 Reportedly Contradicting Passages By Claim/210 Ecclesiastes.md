@@ -18,16 +18,7 @@ substance.
 skeptical body) and entry 9 (Solomonic authorship) are both presented with genuine scholarly
 uncertainty rather than a single forced resolution.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine uncertainty remains
-among scholars, an honest account of what is and is not established. Readers are encouraged
-to consult the primary texts directly.
-
 ---
-
 
 ## Table of Contents
 

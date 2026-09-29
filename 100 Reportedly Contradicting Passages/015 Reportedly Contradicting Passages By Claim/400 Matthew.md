@@ -25,16 +25,7 @@ without asserting a single certain answer. Entries 1, 5, and 12 are presented wi
 scholarly diversity of opinion, including on questions (entry 12 especially) that remain bound
 up with sincerely contested denominational differences this book does not adjudicate.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

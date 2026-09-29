@@ -92,7 +92,7 @@
       - [Mark](../090%20Manuscript%20and%20Translation%20Differences/410%20Mark.md)
       - [Luke](../090%20Manuscript%20and%20Translation%20Differences/420%20Luke.md)
       - [John](../090%20Manuscript%20and%20Translation%20Differences/430%20John.md)
-    - History
+    - Acts of the Apostles
       - [Acts](../090%20Manuscript%20and%20Translation%20Differences/440%20Acts.md)
     - Pauline Epistles
       - [Romans](../090%20Manuscript%20and%20Translation%20Differences/450%20Romans.md)
@@ -179,7 +179,7 @@
       - [Mark](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/410%20Mark.md)
       - [Luke](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/420%20Luke.md)
       - [John](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/430%20John.md)
-    - History
+    - Acts of the Apostles
       - [Acts](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/440%20Acts.md)
     - Pauline Epistles
       - [Romans](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/450%20Romans.md)

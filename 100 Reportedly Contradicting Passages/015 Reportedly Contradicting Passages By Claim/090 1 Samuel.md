@@ -1,28 +1,19 @@
 # Reportedly Contradicting Passages in 1 Samuel
 
-This chapter catalogs 25 commonly cited alleged contradictions involving the book of 1
+This chapter catalogs 24 commonly cited alleged contradictions involving the book of 1
 Samuel, either entirely internal to 1 Samuel or between 1 Samuel and a directly related
 passage elsewhere (Deuteronomy, 2 Samuel, 1 Chronicles). For each item, this chapter states
 the claim as it is typically raised, notes how the tracked translations render the
 passages involved (only where the translation's own wording materially affects how sharp or
 resolvable the claim appears in English), and gives the standard scholarly reconciliation or
-harmonization.
+harmonization. The question of who killed Goliath -- David, or Elhanan -- turns on a textual variant at 2 Samuel 21:19 rather than on anything in 1 Samuel 17, and is treated once, in the 2 Samuel chapter (and, for the manuscript evidence itself, in the Manuscript and Translation Differences chapter on 2 Samuel).
 
 **A note on candor:** Entry 9 (the witch of Endor) is presented without a single, confident
 resolution, since serious interpreters have long disagreed about whether Samuel's spirit
 genuinely appeared, a deception occurred, or something else -- consistent with this book's
 practice of flagging live disagreements rather than manufacturing false certainty.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where none commands real consensus,
-an honest account of the live disagreement. Readers are encouraged to consult the primary
-texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 
@@ -85,25 +76,9 @@ texts and the cross-references directly.
 
 ---
 
-### 4. Who killed Goliath -- David, or Elhanan?
+### 4. How did Saul die -- by his own hand, or an Amalekite's?
 
 *Entry ID: 1SAM-004*
-
-**References:** 1 Samuel 17:1-51; 2 Samuel 21:19; 1 Chronicles 20:5
-
-**The claim:** 1 Samuel 17 credits David with killing Goliath the Gittite in single combat. 2 Samuel 21:19 (Masoretic Hebrew, read literally) states that Elhanan killed Goliath the Gittite in a later battle.
-
-**How the translations render it:** See the fuller treatment and full 27-translation breakdown in elsewhere in this book's entry on this question, since the decisive textual variant occurs at 2 Samuel 21:19 rather than within 1 Samuel 17 itself; 1 Samuel 17's own account of David and Goliath is rendered identically across all 27 translations. As documented there: the "brother of" harmonization is confirmed for KJV, NKJV, NIV (2011+), WEB, Webster's Bible, the BSB, the AKJV, YLT, the ERV, the NET Bible, and TRB; the literal, unharmonized reading is confirmed for ESV, NASB, CSB, LSB, AMP, RSV2CE, ASV, the RSV, Darby, and Smith's Literal Translation; and the Douay-Rheims Bible and the CPDV both depart from either camp entirely, naming the warrior "Adeodatus" rather than "Elhanan" and omitting any brother-of-Goliath language, reflecting the older Clementine Vulgate's own distinct textual tradition at this verse.
-
-**Reconciliation:** This entry is treated at greater length in elsewhere in this book covering the wider 27-translation textual-variant project. In brief, 1 Chronicles 20:5, describing the same later battle, states Elhanan killed 'Lahmi, the brother of Goliath,' and most textual scholars conclude 2 Samuel 21:19 suffered a scribal mix-up in transmission (the Hebrew word for 'the brother of' and the accusative particle before a name closely resemble each other), with Chronicles most likely preserving the original sense.
-
----
-
----
-
-### 5. How did Saul die -- by his own hand, or an Amalekite's?
-
-*Entry ID: 1SAM-005*
 
 **References:** 1 Samuel 31:3-6; 2 Samuel 1:6-10; 2 Samuel 21:12; 1 Chronicles 10:4-5
 
@@ -117,9 +92,9 @@ texts and the cross-references directly.
 
 ---
 
-### 6. 'The Glory of Israel will not lie or have regret' -- stated in the very chapter that twice says the LORD regretted making Saul king
+### 5. 'The Glory of Israel will not lie or have regret' -- stated in the very chapter that twice says the LORD regretted making Saul king
 
-*Entry ID: 1SAM-006*
+*Entry ID: 1SAM-005*
 
 **References:** 1 Samuel 15:11; 1 Samuel 15:29; 1 Samuel 15:35
 
@@ -133,9 +108,9 @@ texts and the cross-references directly.
 
 ---
 
-### 7. Was Samuel's father an Ephraimite, or a Levite?
+### 6. Was Samuel's father an Ephraimite, or a Levite?
 
-*Entry ID: 1SAM-007*
+*Entry ID: 1SAM-006*
 
 **References:** 1 Samuel 1:1; 1 Chronicles 6:16, 22, 33-38
 
@@ -149,9 +124,9 @@ texts and the cross-references directly.
 
 ---
 
-### 8. Were the Philistines subdued 'all the days of Samuel,' given their renewed threat only a few chapters later?
+### 7. Were the Philistines subdued 'all the days of Samuel,' given their renewed threat only a few chapters later?
 
-*Entry ID: 1SAM-008*
+*Entry ID: 1SAM-007*
 
 **References:** 1 Samuel 7:13-14; 1 Samuel 13:3-5, 19-23
 
@@ -165,9 +140,9 @@ texts and the cross-references directly.
 
 ---
 
-### 9. Who was Samuel's firstborn son -- Joel, or Vashni?
+### 8. Who was Samuel's firstborn son -- Joel, or Vashni?
 
-*Entry ID: 1SAM-009*
+*Entry ID: 1SAM-008*
 
 **References:** 1 Samuel 8:2; 1 Chronicles 6:28
 
@@ -181,9 +156,9 @@ texts and the cross-references directly.
 
 ---
 
-### 10. Was Kish's father Abiel, or Ner?
+### 9. Was Kish's father Abiel, or Ner?
 
-*Entry ID: 1SAM-010*
+*Entry ID: 1SAM-009*
 
 **References:** 1 Samuel 9:1; 1 Chronicles 8:33; 1 Chronicles 9:39
 
@@ -197,9 +172,9 @@ texts and the cross-references directly.
 
 ---
 
-### 11. What was Jonathan's first strike against the Philistines -- at Geba, or at the Michmash pass?
+### 10. What was Jonathan's first strike against the Philistines -- at Geba, or at the Michmash pass?
 
-*Entry ID: 1SAM-011*
+*Entry ID: 1SAM-010*
 
 **References:** 1 Samuel 13:3; 1 Samuel 14:1-14
 
@@ -213,9 +188,9 @@ texts and the cross-references directly.
 
 ---
 
-### 12. Who were Saul's sons -- did 'Ishvi' survive to become king after Saul's death?
+### 11. Who were Saul's sons -- did 'Ishvi' survive to become king after Saul's death?
 
-*Entry ID: 1SAM-012*
+*Entry ID: 1SAM-011*
 
 **References:** 1 Samuel 14:49; 1 Samuel 31:2; 2 Samuel 2:8-10; 1 Chronicles 8:33; 1 Chronicles 9:39
 
@@ -229,9 +204,9 @@ texts and the cross-references directly.
 
 ---
 
-### 13. Did Saul and Samuel destroy all the Amalekites, given their continued presence in the very same book?
+### 12. Did Saul and Samuel destroy all the Amalekites, given their continued presence in the very same book?
 
-*Entry ID: 1SAM-013*
+*Entry ID: 1SAM-012*
 
 **References:** 1 Samuel 15:7-8, 20; 1 Samuel 27:8; 1 Samuel 30:1-20
 
@@ -245,9 +220,9 @@ texts and the cross-references directly.
 
 ---
 
-### 14. When exactly did Saul become David's enemy?
+### 13. When exactly did Saul become David's enemy?
 
-*Entry ID: 1SAM-014*
+*Entry ID: 1SAM-013*
 
 **References:** 1 Samuel 18:8-9; 1 Samuel 18:28-29
 
@@ -263,9 +238,9 @@ texts and the cross-references directly.
 
 ## Numbers and Text
 
-### 15. Saul's age and length of reign: a famously incomplete Hebrew text
+### 14. Saul's age and length of reign: a famously incomplete Hebrew text
 
-*Entry ID: 1SAM-015*
+*Entry ID: 1SAM-014*
 
 **References:** 1 Samuel 13:1
 
@@ -285,9 +260,9 @@ texts and the cross-references directly.
 
 ---
 
-### 16. Michal's bride-price: one hundred Philistine foreskins, or two hundred?
+### 15. Michal's bride-price: one hundred Philistine foreskins, or two hundred?
 
-*Entry ID: 1SAM-016*
+*Entry ID: 1SAM-015*
 
 **References:** 1 Samuel 18:25; 1 Samuel 18:27; 2 Samuel 3:14
 
@@ -301,9 +276,9 @@ texts and the cross-references directly.
 
 ---
 
-### 17. Was the ark of the covenant kept at Kiriath-jearim for only twenty years, or for decades longer, until David retrieved it?
+### 16. Was the ark of the covenant kept at Kiriath-jearim for only twenty years, or for decades longer, until David retrieved it?
 
-*Entry ID: 1SAM-017*
+*Entry ID: 1SAM-016*
 
 **References:** 1 Samuel 7:1-2; 2 Samuel 6:1-3
 
@@ -317,9 +292,9 @@ texts and the cross-references directly.
 
 ---
 
-### 18. Was David the seventh son of Jesse, or the eighth?
+### 17. Was David the seventh son of Jesse, or the eighth?
 
-*Entry ID: 1SAM-018*
+*Entry ID: 1SAM-017*
 
 **References:** 1 Samuel 16:10-11; 1 Chronicles 2:13-15
 
@@ -335,9 +310,9 @@ texts and the cross-references directly.
 
 ## Miracles and Interpretation
 
-### 19. The witch of Endor: was it really Samuel's spirit that appeared?
+### 18. The witch of Endor: was it really Samuel's spirit that appeared?
 
-*Entry ID: 1SAM-019*
+*Entry ID: 1SAM-018*
 
 **References:** 1 Samuel 28:3-19
 
@@ -353,9 +328,9 @@ texts and the cross-references directly.
 
 ## Literary Composition
 
-### 20. David spares Saul's life in the cave at En Gedi and again in Saul's camp -- one event told twice, or two separate occasions?
+### 19. David spares Saul's life in the cave at En Gedi and again in Saul's camp -- one event told twice, or two separate occasions?
 
-*Entry ID: 1SAM-020*
+*Entry ID: 1SAM-019*
 
 **References:** 1 Samuel 24:1-22; 1 Samuel 26:1-25
 
@@ -369,9 +344,9 @@ texts and the cross-references directly.
 
 ---
 
-### 21. 'Is Saul also among the prophets?' -- the same proverb explained on two separate occasions
+### 20. 'Is Saul also among the prophets?' -- the same proverb explained on two separate occasions
 
-*Entry ID: 1SAM-021*
+*Entry ID: 1SAM-020*
 
 **References:** 1 Samuel 10:10-13; 1 Samuel 19:18-24
 
@@ -387,9 +362,9 @@ texts and the cross-references directly.
 
 ## Theological Tensions
 
-### 22. Was Israel's request for a king a sin, or a legitimate institution the Law anticipated?
+### 21. Was Israel's request for a king a sin, or a legitimate institution the Law anticipated?
 
-*Entry ID: 1SAM-022*
+*Entry ID: 1SAM-021*
 
 **References:** 1 Samuel 8:4-9; 1 Samuel 8:19-22; 1 Samuel 12:16-19; Deuteronomy 17:14-20
 
@@ -403,9 +378,9 @@ texts and the cross-references directly.
 
 ---
 
-### 23. What is the earth set upon -- pillars, or nothing at all?
+### 22. What is the earth set upon -- pillars, or nothing at all?
 
-*Entry ID: 1SAM-023*
+*Entry ID: 1SAM-022*
 
 **References:** 1 Samuel 2:8; Job 26:7
 
@@ -419,9 +394,9 @@ texts and the cross-references directly.
 
 ---
 
-### 24. Does God help his people in times of need, given his refusal to hear their cry in 1 Samuel 8:18?
+### 23. Does God help his people in times of need, given his refusal to hear their cry in 1 Samuel 8:18?
 
-*Entry ID: 1SAM-024*
+*Entry ID: 1SAM-023*
 
 **References:** 1 Samuel 8:18; Psalm 34:17; Psalm 145:18-19
 
@@ -437,9 +412,9 @@ texts and the cross-references directly.
 
 ## Names and Identity
 
-### 25. Could Haman genuinely be called 'the Agagite' centuries after Samuel killed Agag and Saul's campaign against Amalek?
+### 24. Could Haman genuinely be called 'the Agagite' centuries after Samuel killed Agag and Saul's campaign against Amalek?
 
-*Entry ID: 1SAM-025*
+*Entry ID: 1SAM-024*
 
 **References:** 1 Samuel 15:8-33; Esther 3:1, 10
 

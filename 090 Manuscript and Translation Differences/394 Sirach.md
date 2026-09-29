@@ -1,4 +1,6 @@
-# Sirach (Ecclesiasticus): Textual and Translation Differences
+# Sirach: Textual and Translation Differences
+
+Sirach is also known as Ecclesiasticus (the name used in the Douay-Rheims Bible and the Vulgate tradition) and as the Wisdom of Ben Sira.
 
 **Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 

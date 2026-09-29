@@ -1,7 +1,5 @@
 # Hebrews: Textual and Translation Differences
 
-**Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
-
 A systematic search did not find a case in Hebrews where the tracked translations render a verse with different, meaning-changing wording. The most debated variant in the book, discussed below, is one where the tracked translations agree with each other.
 
 ---

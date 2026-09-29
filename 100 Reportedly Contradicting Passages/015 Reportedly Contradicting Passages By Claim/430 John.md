@@ -22,16 +22,7 @@ Supper's relationship to Passover.
 **A note on candor:** Entries 1, 2, 3, 4, and 7 are all presented with genuine scholarly
 diversity of opinion rather than a single forced resolution.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly diversity
-remains, an honest account of the live discussion. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

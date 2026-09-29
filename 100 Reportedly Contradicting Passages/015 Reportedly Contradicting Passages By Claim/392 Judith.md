@@ -20,12 +20,7 @@ rather than strict historical chronicle -- a reading the book's own opening vers
 deliberately signaling to its original audience, rather than a simple error requiring
 apologetic defense.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by relevant scholarship. Readers are encouraged to consult the primary text directly.
-
 ---
-
 
 ## Table of Contents
 

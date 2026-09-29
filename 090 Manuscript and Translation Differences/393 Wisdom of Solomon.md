@@ -1,4 +1,4 @@
-# Wisdom (of Solomon): Textual and Translation Differences
+# Wisdom of Solomon: Textual and Translation Differences
 
 **Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 

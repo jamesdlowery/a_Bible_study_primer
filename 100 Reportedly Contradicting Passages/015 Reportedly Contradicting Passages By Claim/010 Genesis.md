@@ -6,15 +6,7 @@ passage elsewhere (Luke, Acts). For each item, this chapter states the claim as 
 typically raised, notes how the tracked translations render the passages involved (only where
 translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization.
 
-**Verification status:** See A Note on Method and Verification for this book's verification standard.
-
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship. Readers are encouraged to consult the
-primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

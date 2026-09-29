@@ -23,14 +23,7 @@ Scrolls document 11QMelchizedek. The remaining entries are addressed from standa
 harmonization approaches, several of which build on treatments already established in the
 companion 2 Timothy, Daniel, and Tobit documents.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by conservative and mainstream biblical scholarship, or, where genuine scholarly or
-theological diversity remains, an honest account of the live discussion. Readers are
-encouraged to consult the primary texts and the cross-references directly.
-
 ---
-
 
 ## Table of Contents
 

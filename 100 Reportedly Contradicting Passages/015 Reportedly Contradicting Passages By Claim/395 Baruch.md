@@ -1,4 +1,4 @@
-# Reportedly Contradicting Passages in Baruch (including the Letter of Jeremiah)
+# Reportedly Contradicting Passages in Baruch
 
 **A note on this chapter's place in the series:** As with Tobit, Judith, the Wisdom of
 Solomon, and Sirach, Baruch is a deuterocanonical book -- see the note on canon status at the
@@ -26,13 +26,7 @@ official USCCB study notes (which acknowledge the Belshazzar issue directly) and
 sources on Baruch 3:37's Incarnational interpretation. The remaining entries are historical and
 literary questions addressed from standard scholarly positions.
 
-**A note on posture:** Inclusion of an item here is not a concession that Scripture actually
-contradicts itself. Every entry below is paired with the harmonization most commonly offered
-by relevant scholarship, or, where a genuine unresolved difficulty remains, an honest account
-of it. Readers are encouraged to consult the primary text directly.
-
 ---
-
 
 ## Table of Contents
 
