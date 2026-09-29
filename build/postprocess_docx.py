@@ -81,6 +81,26 @@ def fix_docx(path, build_version=None):
     doc_xml, bare_count = re.subn(r"<w:tr>(?!<w:trPr>)", '<w:tr><w:trPr><w:cantSplit/></w:trPr>', doc_xml)
     row_count = trpr_count + bare_count
 
+    # Repeat each table's first row as a header on every page the table
+    # spans (w:tblHeader), so a table that breaks across a page keeps its
+    # column labels. Pandoc marks the header row's cells via the style's
+    # firstRow conditional formatting but never sets tblHeader itself.
+    # Applied to the first <w:tr> of every <w:tbl> only; nested tables
+    # aren't used in this document.
+    def add_tbl_header(m):
+        # m spans "<w:tbl>" through the end of the first row ("</w:tr>").
+        tbl = m.group(0)
+        if "tblHeader" not in tbl:
+            tbl = re.sub(r"<w:trPr>", "<w:trPr><w:tblHeader/>", tbl, count=1)
+        # Keep the header row on the same page as at least the first body
+        # row: every paragraph in the header row gets w:keepNext, so a
+        # page break can never fall between the repeated header and the
+        # table's first row (the "orphaned header" case).
+        tbl = re.sub(r"<w:pPr>", "<w:pPr><w:keepNext/>", tbl)
+        tbl = re.sub(r"<w:p>(?!<w:pPr>)", "<w:p><w:pPr><w:keepNext/></w:pPr>", tbl)
+        return tbl
+    doc_xml, header_count = re.subn(r"<w:tbl>.*?</w:tr>", add_tbl_header, doc_xml, flags=re.DOTALL)
+
     # Convert the front-cover image, and every full-bleed illustration
     # (see assemble.py's ILLUSTRATIONS/illustration_md() and
     # build_cover_md()), from a text-width-constrained inline drawing to

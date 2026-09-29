@@ -935,9 +935,8 @@ def build_title_md():
     )
 
     # The Summary, Full License Text, and Scripture Quotations sections
-    # are pulled live from LICENSE.md itself -- confirmed by measuring an
-    # actual rendered test build that this fuller notice fits on the
-    # Title Page in one page alongside the Dear Reader note -- rather
+    # are pulled live from LICENSE.md itself -- the notice gets a page of
+    # its own between the title block and the Dear Reader note -- rather
     # than duplicated here as a separate hardcoded copy, so the two can
     # never silently drift out of sync with each other if LICENSE.md is
     # ever revised. "## Section Name" headings are turned into inline
@@ -980,8 +979,9 @@ Title Page
 ::: {{custom-style="Subtitle"}}
 {version_line_resolved}
 :::
-
+{PAGEBREAK}
 {copyright_notice}
+{PAGEBREAK if extra_md else ""}
 {extra_md}
 """
     return md, version_line_resolved
@@ -1305,6 +1305,8 @@ meta = [
 # target after each divider (which is where the folded divider heading
 # actually lands). Ordinary book chapters flow on, so a one-paragraph
 # book no longer costs a blank verso. detect_pages.py honours the flag.
+# Whole-section targets that follow the last divider still open a part.
+PART_OPENER_IDS = {"top_denominations", "top_study_bibles", "references"}
 seen_divider = False
 pending_opener = False
 for t in targets:
@@ -1316,7 +1318,7 @@ for t in targets:
         seen_divider = True
         pending_opener = True
         continue
-    force_odd = (not seen_divider) or pending_opener
+    force_odd = (not seen_divider) or pending_opener or t["id"] in PART_OPENER_IDS
     pending_opener = False
     meta.append({"id": t["id"], "search_text": t["search_text"], "force_odd": force_odd})
 meta_path = f"build/targets_meta_{FORMAT}.json"

@@ -75,9 +75,9 @@ All {{TRANSLATION_COUNT}} translations listed below have their own history (see 
 | WEB | World English Bible |
 | YLT | Young's Literal Translation |
 
-## A Note on Colored Text
+## A Note on Links
 
-Throughout this book, text shown in a distinct color (typically blue) is a hyperlink -- clicking or tapping it jumps to the linked location, whether that's the Table of Contents, a specific book's chapter, or an external source cited in the References section. It carries no meaning beyond "this is a link"; it isn't used elsewhere in this book to flag emphasis, warnings, or any other category of content.
+Throughout this book, underlined text (shown in blue on screen, and underlined in a printed or grayscale copy) is a hyperlink -- clicking or tapping it jumps to the linked location, whether that's the Table of Contents, a specific book's chapter, or an external source cited in the References section. It carries no meaning beyond "this is a link"; it isn't used elsewhere in this book to flag emphasis, warnings, or any other category of content.
 
 ## About This Edition
 
