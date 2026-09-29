@@ -4,6 +4,21 @@
 
 ---
 
+## Psalm 22:16 — "they pierced my hands and my feet," or "like a lion, my hands and my feet"?
+
+**The variant:** MT reads כארי (*ka'ari*), "like a lion," which lacks a verb and reads awkwardly in context. The Septuagint, Syriac Peshitta, and some Vulgate traditions instead reflect a Hebrew reading with a final vav, understood as "they pierced" or "they dug" — a reading independently attested by a Dead Sea Scrolls fragment of Psalms from Nahal Hever (5/6HevPs), predating any Christian editorial interest. The Hever fragment's own spelling (*ka'aru*) is itself grammatically awkward, and a separate Qumran fragment (4QPsᶠ) is too broken at this exact point to settle the question, so this remains a genuinely disputed reading among textual scholars rather than a settled one; some medieval Hebrew manuscripts and the Masoretic marginal notes also show awareness of the alternative.
+
+**How the translations render it:**
+- **Render "pierced":** AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, RSV2CE, Darby, Webster's Bible, YLT, the WEB, and the BSB, each confirmed against its own text. Worth noting: the RSV also renders "pierced" here, even though the RSV famously broke from Christian-tradition wording at Isaiah 7:14 ("young woman") — a reminder that a translation's choices are made verse by verse against the actual evidence, not as a single uniform editorial stance for or against traditional readings. The AKJV would be expected to match KJV, given its explicit mechanical-modernization method (see that translation's own history entry), though this verse was not separately checked.
+- **Render "dug" (a distinct but related choice):** the Douay-Rheims Bible, following the Latin Vulgate's own *foderunt* ("they dug"), and Smith's Literal Translation ("they digged my hands and my feet"). The CPDV would be expected to follow Douay-Rheims here, as it does generally, though this verse was not separately checked.
+- **Render "like a lion," matching the Masoretic reading:** the Complete Jewish Bible, discussed further in that translation's own history entry, with "they pierced my hands and feet" relegated to a footnote rather than adopted into the main text.
+- **Distinct hybrid or periphrastic renderings:** the NET Bible ("like a lion they pin my hands and feet") retains the Masoretic "like a lion" imagery while supplying an active verb describing violence to the hands and feet, bridging the two camps rather than committing to either; the ASV ("they made wounds in my hands and feet") conveys a wounding action without committing to "pierced," "dug," or "like a lion."
+- **Not verified:** NRSV-CE, NABRE, and TRB were not checked against their own text for this verse and are not assigned to a camp here.
+
+**The difference in meaning:** The "pierced" reading is the one cited in Christian tradition as a prophecy of crucifixion; the MT reading has been understood as a metaphor of being surrounded or mauled, as if by a lion. As with Isaiah 7:14, the divide tracks translation philosophy and textual-tradition lineage more than any single family line: the Vulgate tradition lands on a third option ("dug") distinct from both "pierced" and "like a lion," while a Messianic Jewish translation (CJB) chooses the Masoretic "like a lion" that most Christian translations set aside.
+
+---
+
 ## Psalm 145:13 — the missing "nun" verse
 
 **The variant:** Psalm 145 is an acrostic (each verse begins with the next Hebrew letter in order), but MT's version has only 21 verses — the one that should begin with *nun*, between the current verses 13 and 14, is missing. The Septuagint, Syriac, one medieval Hebrew manuscript, and a Dead Sea Scrolls copy of Psalms (11QPsa) all preserve a nun-verse: "The LORD is faithful in all his words, and gracious [or holy] in all his works" (closely paralleling verse 17 later in the same psalm).
@@ -15,23 +30,3 @@
 - **Not independently confirmed in this research pass:** TRB was not checked against its own text for this specific verse.
 
 **The difference in meaning:** Without the extra line, the acrostic is incomplete (skipping directly from the mem-verse to the samek-verse). With it, the acrostic runs the full 22-letter alphabet, and the psalm gains an additional statement about God's faithfulness and works.
-
----
-
-## Side note: a case where the tracked translations agree, but a real variant exists elsewhere in the manuscript tradition
-
-- **Psalm 22:16** — MT reads כארי (*ka'ari*), "like a lion," which lacks a verb and reads awkwardly in context. The Septuagint, Syriac Peshitta, and some Vulgate traditions instead reflect a Hebrew reading with a final vav, understood as "they pierced" or "they dug" -- a reading independently confirmed by a Dead Sea Scrolls fragment of Psalms from Nahal Hever (5/6HevPs), predating any Christian editorial interest. The Hever fragment's own spelling (*ka'aru*) is itself grammatically awkward, and a separate Qumran fragment (4QPsᶠ) is too broken at this exact point to settle the question, so this remains a genuinely disputed reading among textual scholars rather than a settled one -- some medieval Hebrew manuscripts and the Masoretic marginal notes also show awareness of the alternative. The "pierced" reading is the one cited in Christian tradition as a prophecy of crucifixion; the MT reading has been understood as a metaphor of being surrounded or mauled, as if by a lion.
-
-  Among the 27 tracked translations:
-
-  **Render "pierced":** AMP, CSB, ESV, KJV, NASB, LSB, NIV, NKJV, NLT, RSV2CE, Darby, Webster's Bible, YLT, and the WEB, confirmed directly against their own text. The AKJV would be expected to match, given its explicit mechanical-modernization method (see that translation's own history entry), though this specific verse was not separately checked. Worth noting specifically: the RSV also renders "pierced" here, even though the RSV famously broke from Christian-tradition wording at Isaiah 7:14 ("young woman") -- a reminder that a translation's choices are made verse by verse against the actual evidence, not as a single uniform editorial stance for or against traditional readings. **The BSB is also confirmed directly** in this same "pierced" camp.
-
-  **Renders "dug" (a distinct but related choice, not "pierced" itself):** the Douay-Rheims Bible, following the Latin Vulgate's own *foderunt* ("they dug"). **Smith's Literal Translation is also confirmed directly in this same camp**, rendering "they digged my hands and my feet" -- the archaic form of "dug," matching Douay-Rheims' choice rather than either the "pierced" majority or the Masoretic "like a lion." The Catholic Public Domain Version would be expected to follow Douay-Rheims' lead here, as it does generally, though this was not separately confirmed.
-
-  **Renders "like a lion," matching the Masoretic reading:** the Complete Jewish Bible, confirmed directly and discussed further in that translation's own history entry -- with "they pierced my hands and feet" relegated to a footnote there rather than adopted into the main text. **The NET Bible offers a genuinely distinct hybrid, confirmed directly and not previously documented for this entry**: "like a lion they pin my hands and feet" -- retaining the Masoretic "like a lion" imagery (matching CJB's textual basis) while supplying an active verb ("pin") describing violence to the hands and feet, bridging the meaning of the "pierced" camp with the wording of the "like a lion" camp rather than fully committing to either.
-
-  **A third, genuinely distinct rendering, not previously documented for this entry:** **the ASV is confirmed directly** rendering this "they made wounds in my hands and feet" -- neither the clean "pierced" reading nor the Masoretic "like a lion" reading nor Douay-Rheims' "dug," but its own periphrastic middle path that conveys a wounding action without committing to either "pierced" specifically or "like a lion" at all.
-
-  **Not independently confirmed in this research pass:** NRSV-CE, NABRE, and TRB were not directly checked against their own text for this specific verse. One source consulted suggested some modern critical-leaning translations in this general family (NRSV, NABRE among them) may also favor "pierced" given the Qumran evidence, but this book has not confirmed that directly and does not assert it as fact here.
-
-  As with Isaiah 7:14, this verse shows the same underlying pattern: the divide tracks translation philosophy and textual-tradition lineage more than any single family line. The Vulgate tradition (Douay-Rheims) lands on a third option ("dug") distinct from both "pierced" and "like a lion" entirely, while a Messianic Jewish translation (CJB) chooses the Masoretic "like a lion" that most Christian translations set aside.

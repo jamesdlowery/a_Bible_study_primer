@@ -2,7 +2,7 @@
 
 **Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-The research pass behind this project did not confirm a case in Exodus where the tracked translations actually render a verse with different wording that changes its meaning. That may reflect Exodus genuinely having fewer such cases relative to books like Genesis or Deuteronomy, or it may reflect a gap in how thoroughly this book was checked -- worth stating plainly rather than implying a completeness that has not been verified.
+No entry is recorded for Exodus: no verse was identified where the 27 tracked translations render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists. The item below is a real variant in the wider manuscript tradition, but it produces no split among the tracked translations.
 
 ---
 

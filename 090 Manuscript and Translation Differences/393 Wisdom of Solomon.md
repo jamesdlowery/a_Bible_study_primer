@@ -2,7 +2,7 @@
 
 **Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 
-This research pass did not confirm a specific verse where RSV2CE and NABRE or Douay-Rheims render clearly different wording with a clearly different meaning.
+No entry is recorded for the Wisdom of Solomon: no verse was identified where RSV2CE, NABRE, Douay-Rheims, and the CPDV render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists.
 
 ---
 

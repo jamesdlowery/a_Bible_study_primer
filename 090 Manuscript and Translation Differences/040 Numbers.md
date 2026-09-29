@@ -2,7 +2,7 @@
 
 **Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-The research pass behind this project did not confirm a case in Numbers where the tracked translations render a verse with different wording that changes its meaning at the tier covered elsewhere in this project. The items below are real questions in the wider manuscript and interpretive tradition, but this pass cannot confirm they produce a genuine meaning-changing split among the tracked translations.
+No entry is recorded for Numbers: no verse was identified where the 27 tracked translations render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists. The items below are real questions in the wider manuscript and interpretive tradition, but none produces a confirmed meaning-changing split among the tracked translations.
 
 ---
 
