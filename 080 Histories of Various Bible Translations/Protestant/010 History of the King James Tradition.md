@@ -4,7 +4,7 @@
 
 ## Before 1611: The Road to the King James Version
 
-The King James Version was not a wholly new creation but a careful revision drawing heavily on nearly a century of prior English translation, produced by approximately fifty scholars working under rules set at the Hampton Court Conference of 1604. Roughly 80-90% of its New Testament wording, and a substantial portion of its Old Testament, traces ultimately to William Tyndale.
+The King James Version was not a wholly new creation but a careful revision drawing heavily on nearly a century of prior English translation, produced by approximately fifty scholars working under rules set at the Hampton Court Conference of 1604. By the commonly cited estimate, roughly 80–90% of its New Testament wording, and a substantial portion of its Old Testament, traces ultimately to William Tyndale.
 
 **John Wycliffe** (c. 1320s-1384) oversaw the first complete English Bible (c. 1382-1388), translated from the Latin Vulgate and circulated only in manuscript among the Lollards; the Church later declared Wycliffe a heretic, exhumed and burned his bones in 1428, and made possession of his Bible punishable by death.
 

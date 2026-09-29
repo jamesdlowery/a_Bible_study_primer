@@ -30,7 +30,7 @@
    - [Complete Jewish Bible](../080%20Histories%20of%20Various%20Bible%20Translations/Protestant/130%20History%20of%20the%20Complete%20Jewish%20Bible.md)
  - Catholic Bibles
    - [Vulgate Tradition in English (Douay-Rheims, Catholic Public Domain Version)](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/010%20History%20of%20the%20Vulgate%20Tradition%20in%20English.md)
-   - [Catholic RSV Editions (NRSV-CE, RSV-2CE)](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/020%20History%20of%20the%20Catholic%20RSV%20Editions.md)
+   - [Catholic RSV Editions (NRSV-CE, RSV2CE)](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/020%20History%20of%20the%20Catholic%20RSV%20Editions.md)
    - [New American Bible Revised Edition](../080%20Histories%20of%20Various%20Bible%20Translations/Catholic/030%20History%20of%20the%20New%20American%20Bible%20Revised%20Edition.md)
 - **Manuscript and Translation Differences:**
   - Old Testament

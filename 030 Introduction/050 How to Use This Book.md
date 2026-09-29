@@ -68,7 +68,7 @@ All {{TRANSLATION_COUNT}} translations listed below have their own history (see 
 | NRSV-CE | New Revised Standard Version Catholic Edition |
 | RSV | Revised Standard Version |
 | RSV2CE | Revised Standard Version, Second Catholic Edition |
-| SLT | Smith's Literal Translation |
+| SLT | Smith's Literal Translation (Julia E. Smith, 1876) |
 | TRB | The Readable Bible |
 | WBT | Webster's Bible Translation |
 | WEB | World English Bible |

@@ -1,6 +1,6 @@
 # Sirach (Ecclesiasticus): Textual and Translation Differences
 
-**Comparison translations:** RSV2CE, NABRE, DR, CPDV, NRSV.
+**Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 
 A genuine verse-level example does turn up with more targeted searching, resolving what an earlier research pass had left as an open gap.
 

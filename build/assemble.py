@@ -332,7 +332,7 @@ PROTESTANT_HISTORIES = [
 
 CATHOLIC_HISTORIES = [
     ("Catholic/010 History of the Vulgate Tradition in English.md", "Vulgate Tradition in English (Douay-Rheims, Catholic Public Domain Version)", 2),
-    ("Catholic/020 History of the Catholic RSV Editions.md", "Catholic RSV Editions (NRSV-CE, RSV-2CE)", 2),
+    ("Catholic/020 History of the Catholic RSV Editions.md", "Catholic RSV Editions (NRSV-CE, RSV2CE)", 2),
     ("Catholic/030 History of the New American Bible Revised Edition.md", "New American Bible Revised Edition", 1),
 ]
 
@@ -1207,11 +1207,11 @@ def build_toc_md(anchors):
             heading_text = book_title_text(fn)
             name = canonical_display_name(heading_text, fn)
             lines.append(f"      - {link(f'ot_{fn}', name)}")
-    lines.append("    - Apocrypha")
+    lines.append("  - Apocrypha")
     for fn in APOCRYPHA:
         heading_text = book_title_text(fn)
         name = canonical_display_name(heading_text, fn)
-        lines.append(f"      - {link(f'apoc_{fn}', name)}")
+        lines.append(f"    - {link(f'apoc_{fn}', name)}")
     lines.append("  - New Testament")
     for group_title, files in NT_GROUPS:
         lines.append(f"    - {group_title}")
@@ -1226,9 +1226,9 @@ def build_toc_md(anchors):
         lines.append(f"      - {group_title}")
         for fn in files:
             lines.append(f"        - {link(f'rcpbook_{fn}', rcp_book_display(fn))}")
-    lines.append("      - Apocrypha")
+    lines.append("    - Apocrypha")
     for fn in APOCRYPHA:
-        lines.append(f"        - {link(f'rcpbook_{fn}', rcp_book_display(fn))}")
+        lines.append(f"      - {link(f'rcpbook_{fn}', rcp_book_display(fn))}")
     lines.append("    - New Testament")
     for group_title, files in NT_GROUPS:
         lines.append(f"      - {group_title}")
