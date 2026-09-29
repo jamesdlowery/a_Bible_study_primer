@@ -6,6 +6,18 @@ This is a general bibliography of standard, widely respected reference works in 
 
 Where a work is available in multiple editions, the most recent edition at the time of writing is listed; earlier editions remain valuable and are often what's available secondhand or in libraries.
 
+## How the Entries Were Sourced
+
+**This book is a finding aid, not a citable scholarly apparatus.** Its two catalogs tell you *where* the manuscripts and translations differ and *what* is usually said about a disputed passage, so that you can go to the primary sources and the standard reference works with a specific question. It does not carry a footnote per claim, and it should not be cited as if it did.
+
+How the entries were built:
+
+- **Translation wording** was checked against each translation's own published text (print or the publisher's official online edition) wherever that text could be consulted; entries say "not verified" where it could not be, most often for the Textus Receptus Bible. The edition conventions are stated in How to Use This Book.
+- **Manuscript evidence** (which witnesses read which way) is drawn from the standard critical editions and handbooks listed under Biblical Source Manuscripts below -- chiefly the *Biblia Hebraica* and Nestle-Aland/UBS apparatus as summarized in Tov, Würthwein and Fischer, Metzger and Ehrman, Metzger's *Textual Commentary*, and the Aland and Aland introduction.
+- **Harmonizations** in Reportedly Contradicting Passages are drawn from the popular-apologetics and reference literature listed below (Archer; Kaiser, Davids, Bruce, and Brauch; Geisler and Howe; the NET Bible's translators' notes), with the critical-scholarship counterweight noted in that section's opening pages.
+- **Denomination and study-Bible positions** are taken from each body's or edition's own published statements, catechisms, confessions, and editorial prefaces, as cited within the entries; adherent figures are from the 2020 U.S. Religion Census unless an entry says otherwise.
+- **Drafting** was done with AI assistance and single-editor review, as described in A Note on Method and Verification. Errors should be reported through the repository named on the title page.
+
 ## Biblical Source Manuscripts / Manuscript Traditions: Character, Relationships, and Weighing
 
 - Würthwein, Ernst, and Alexander Achilles Fischer. *The Text of the Old Testament: An Introduction to the Biblia Hebraica*. 3rd ed. Grand Rapids: Eerdmans, 2014.

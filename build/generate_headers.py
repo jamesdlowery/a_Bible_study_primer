@@ -407,6 +407,8 @@ def generate_headers(pdf_path, meta_path, repo_root):
             os.path.join(repo_root, "030 Introduction", "050 How to Use This Book.md"),
         "Reading Paths for Different Readers":
             os.path.join(repo_root, "030 Introduction", "060 Reading Paths for Different Readers.md"),
+        "How to Study a Passage":
+            os.path.join(repo_root, "030 Introduction", "064 How to Study a Passage.md"),
         "What Is Meant by the \u201cWord of God\u201d?":
             os.path.join(repo_root, "030 Introduction", "030 What Is Meant by the Word of God.md"),
         "What Is Meant by an \u201cInerrant\u201d Word of God?":
@@ -440,6 +442,8 @@ def generate_headers(pdf_path, meta_path, repo_root):
             os.path.join(repo_root, "030 Introduction", "050 How to Use This Book.md"),
         "Reading Paths for Different Readers":
             os.path.join(repo_root, "030 Introduction", "060 Reading Paths for Different Readers.md"),
+        "How to Study a Passage":
+            os.path.join(repo_root, "030 Introduction", "064 How to Study a Passage.md"),
         "What Is Meant by the \u201cWord of God\u201d?":
             os.path.join(repo_root, "030 Introduction", "030 What Is Meant by the Word of God.md"),
         "What Is Meant by an \u201cInerrant\u201d Word of God?":

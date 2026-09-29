@@ -632,6 +632,8 @@ def build_targets():
         lambda: render_with_book_stats("030 Introduction/050 How to Use This Book.md"))
     add("reading_paths", get_heading_text("030 Introduction/060 Reading Paths for Different Readers.md"),
         lambda: read("030 Introduction/060 Reading Paths for Different Readers.md"))
+    add("how_to_study_a_passage", get_heading_text("030 Introduction/064 How to Study a Passage.md"),
+        lambda: read("030 Introduction/064 How to Study a Passage.md"))
     add("what_is_the_word_of_god", get_heading_text("030 Introduction/030 What Is Meant by the Word of God.md"),
         lambda: read("030 Introduction/030 What Is Meant by the Word of God.md"))
     add("what_is_an_inerrant_word_of_god", get_heading_text("030 Introduction/040 What Is Meant by an Inerrant Word of God.md"),
@@ -892,7 +894,10 @@ def build_title_md():
     lines = [l.strip() for l in raw_lines if l.strip()]
     # Expected: ["# Title Page", "**A Bible Study Primer**", "v20260823a"]
     title_line = next((l for l in lines if l.startswith("**") and l.endswith("**")), None)
-    version_line = next((l for l in lines[1:] if l != title_line), None)
+    # An optional subtitle line, marked "*...*" (single-asterisk italic)
+    # directly after the title line, is rendered under the title.
+    subtitle_line = next((l for l in lines if l.startswith("*") and not l.startswith("**") and l.endswith("*")), None)
+    version_line = next((l for l in lines[1:] if l not in (title_line, subtitle_line)), None)
     if title_line is None or version_line is None:
         raise ValueError(f"Could not parse title/version out of 010 Title Page.md; got lines: {lines!r}")
     title_text = title_line.strip("*")
@@ -985,7 +990,7 @@ Title Page
 ::: {{custom-style="Title"}}
 {title_text}
 :::
-
+{("\n::: {custom-style=\"Subtitle\"}\n" + subtitle_line.strip("*") + "\n:::\n") if subtitle_line else ""}
 ::: {{custom-style="Subtitle"}}
 {version_line_resolved}
 :::
@@ -1206,6 +1211,7 @@ def build_toc_md(anchors):
     lines.append(f"- {link('purpose_and_scope', 'Purpose & Scope')}")
     lines.append(f"- {link('how_to_use_this_book', 'How to Use This Book')}")
     lines.append(f"- {link('reading_paths', 'Reading Paths for Different Readers')}")
+    lines.append(f"- {link('how_to_study_a_passage', 'How to Study a Passage')}")
     lines.append(f"- {link('what_is_the_word_of_god', 'What Is Meant by the \"Word of God\"?')}")
     lines.append(f"- {link('what_is_an_inerrant_word_of_god', 'What Is Meant by an \"Inerrant\" Word of God?')}")
     lines.append(f"- {link('background_on_textual_transmission', 'Background on Textual Transmission')}")
@@ -1408,6 +1414,7 @@ bookmark_marker_md.counter = 1000  # start well above pandoc's own auto-assigned
 # rather than before the first book chapter under it.
 MAIN_SECTIONS = {
     "preface", "purpose_and_scope", "how_to_use_this_book", "reading_paths",
+    "how_to_study_a_passage",
     "what_is_the_word_of_god", "what_is_an_inerrant_word_of_god",
     "background_on_textual_transmission", "note_on_method_and_verification",
     "biblical_source_manuscripts", "character_of_each_tradition",

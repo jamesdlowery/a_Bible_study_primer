@@ -12,6 +12,7 @@ The parts of this book, in reading order:
 | Purpose & Scope | What this book covers, and what it deliberately doesn't attempt |
 | *(this section)* | Orientation for readers — navigation and method |
 | Reading Paths for Different Readers | Suggested starting points based on what you're trying to find |
+| How to Study a Passage | A working method for reading any passage well: context, genre, comparing translations, weighing a variant, using study tools |
 | What Is Meant by the "Word of God"? | The sense in which this book uses that phrase, and why it matters |
 | What Is Meant by an "Inerrant" Word of God? | What this doctrine does and doesn't claim, and why it matters for the rest of the book |
 | Background on Textual Transmission | A plain-language orientation to why Bibles differ at all |
