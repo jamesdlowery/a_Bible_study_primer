@@ -1,8 +1,8 @@
 # Reportedly Contradicting Passages in James
 
-This document catalogs 3 commonly cited alleged contradictions involving James, either
+This chapter catalogs 3 commonly cited alleged contradictions involving James, either
 entirely internal to the letter or in comparison with the companion Romans and 2 Corinthians
-documents, Matthew, and 2 Timothy. For each item, this document states the claim as it is
+documents, Matthew, and 2 Timothy. For each item, this chapter states the claim as it is
 typically raised, notes how the tracked translations render the passages involved (only where
 translation wording materially affects how sharp or resolvable the claim appears in English), and gives the standard scholarly reconciliation or harmonization.
 

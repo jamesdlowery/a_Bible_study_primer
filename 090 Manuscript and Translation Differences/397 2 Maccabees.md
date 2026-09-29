@@ -8,4 +8,4 @@ No entry is recorded for 2 Maccabees: no verse was identified where RSV2CE, NABR
 
 ## Background
 
-2 Maccabees was composed directly in Greek as an acknowledged abridgment ("epitome") of a longer, now-lost five-volume history by Jason of Cyrene — unlike 1 Maccabees, there's no lost Hebrew original to create a translation split, and it survives in a single continuous Greek tradition. I would not expect a large divergence between RSV2CE and NABRE here, since both work from the same Greek base, but I haven't done the verse-by-verse check needed to rule out smaller differences, including against Douay-Rheims and the CPDV.
+2 Maccabees was composed directly in Greek as an acknowledged abridgment ("epitome") of a longer, now-lost five-volume history by Jason of Cyrene — unlike 1 Maccabees, there's no lost Hebrew original to create a translation split, and it survives in a single continuous Greek tradition. A large divergence between RSV2CE and NABRE is not expected here, since both work from the same Greek base, but the verse-by-verse check needed to rule out smaller differences, including against Douay-Rheims and the CPDV, has not been done.

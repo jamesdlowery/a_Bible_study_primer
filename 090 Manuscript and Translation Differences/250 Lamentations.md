@@ -21,4 +21,4 @@ For a long time this looked like an unexplained oddity unique to Lamentations. T
 ## Summary observations
 
 - Lamentations is a good reminder that not every noteworthy textual feature is a "variant" in the wording sense — sometimes the interesting question is about a book's underlying structure, confirmed not by comparing Hebrew manuscripts against each other but by outside archaeological evidence like Ugaritic abecedaries.
-- Because the book is comparatively stable in the manuscript record (no dramatic MT-vs-LXX split on the scale of Jeremiah or Samuel), there isn't a translation-splitting variant to report here at the tier covered elsewhere in this project — this entry is included for completeness and because the pe/ayin feature is a genuinely interesting piece of the book's textual history.
+- Because the book is comparatively stable in the manuscript record (no dramatic MT-vs-LXX split on the scale of Jeremiah or Samuel), there isn't a translation-splitting variant to report here at the tier covered elsewhere in this book — this entry is included for completeness and because the pe/ayin feature is a genuinely interesting piece of the book's textual history.

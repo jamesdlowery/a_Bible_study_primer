@@ -1,15 +1,15 @@
 # Reportedly Contradicting Passages in Joel
 
-This document catalogs 6 commonly cited alleged contradictions and notable interpretive
+This chapter catalogs 6 commonly cited alleged contradictions and notable interpretive
 questions involving the book of Joel, either entirely internal to the book or in comparison
 with Acts, Romans, and the companion Isaiah chapter's treatment of the shared "swords into
-plowshares" oracle. For each item, this document states the claim as it is typically raised,
+plowshares" oracle. For each item, this chapter states the claim as it is typically raised,
 notes how the tracked translations render the passages involved (only where the
 translation's own wording materially affects how sharp or resolvable the claim appears in
 English), and gives the standard scholarly reconciliation or harmonization.
 
 **A note on scope:** Joel is a very short book (3-4 chapters depending on versification). This
-document has 6 entries rather than the full 12 used for longer books in this series,
+document has 6 entries rather than the full 12 used for longer books in this book,
 consistent with the approach already taken for Ruth, Ezra, Nehemiah, Esther, Song of Solomon,
 and Lamentations.
 
@@ -20,7 +20,7 @@ book in the Old Testament, a genuine and openly acknowledged uncertainty rather 
 matter.
 
 **Verification status:** Entry 6's claims about the range and basis of scholarly dating
-proposals were checked against a deliberately wide range of sources for this document. The
+proposals were checked against a deliberately wide range of sources for this chapter. The
 remaining entries are theological and literary questions where all 27 tracked translations render the
 same underlying text and the harmonization is exegetical rather than a matter of wording.
 
@@ -70,9 +70,9 @@ primary texts and the cross-references directly.
 
 **The claim:** Joel 2:28-32 promises a future outpouring of God's Spirit 'on all flesh,' accompanied by prophecy, dreams, and visions, alongside cosmic signs -- 'blood and fire and columns of smoke... the sun shall be turned to darkness, and the moon to blood.' Peter, in his Pentecost sermon (Acts 2:16-21), quotes this passage at length and declares, 'this is what was uttered through the prophet Joel,' applying it directly to the events of Pentecost -- yet the specific cosmic signs Joel describes (the sun darkened, the moon turned to blood) were not literally, visibly manifest at Pentecost itself, raising a question about the nature and completeness of Peter's claimed fulfillment.
 
-**How the translations render it:** All 27 tracked translations render Joel 2:28-32 and Acts 2:16-21 plainly and consistently as given; the harmonization rests on recognizing an inaugurated, 'already but not yet' pattern of fulfillment, addressed at several points elsewhere in this project, not on translation choice.
+**How the translations render it:** All 27 tracked translations render Joel 2:28-32 and Acts 2:16-21 plainly and consistently as given; the harmonization rests on recognizing an inaugurated, 'already but not yet' pattern of fulfillment, addressed at several points elsewhere in this book, not on translation choice.
 
-**Reconciliation:** Most commentators read Peter's citation as identifying Pentecost as the genuine beginning of the fulfillment Joel's prophecy anticipates, rather than claiming every specific detail of the prophecy (including its cosmic, apocalyptic imagery) was completed in that single event -- a pattern of inaugurated, 'already but not yet' fulfillment addressed at several points elsewhere in this project regarding prophecy whose complete realization unfolds across an extended period rather than in one instant. On this reading, the outpouring of the Spirit on all people (not merely priests, prophets, or kings, as in the Old Testament's more restricted pattern of Spirit-empowerment) genuinely began at Pentecost and continues through the church age Peter's sermon inaugurates, while the passage's more explicitly apocalyptic cosmic imagery (widely recognized elsewhere in prophetic literature as conventional language for describing climactic divine judgment and the created order's dramatic response to it, rather than requiring strictly literal astronomical events) is generally understood to await a fuller, final realization at a later point still associated with 'the day of the LORD' Joel's own passage names -- Peter's sermon itself continues, in the same speech, to discuss Jesus' resurrection and coming judgment, suggesting his own understanding of the citation as inaugurating rather than completely exhausting the prophecy's full scope.
+**Reconciliation:** Most commentators read Peter's citation as identifying Pentecost as the genuine beginning of the fulfillment Joel's prophecy anticipates, rather than claiming every specific detail of the prophecy (including its cosmic, apocalyptic imagery) was completed in that single event -- a pattern of inaugurated, 'already but not yet' fulfillment addressed at several points elsewhere in this book regarding prophecy whose complete realization unfolds across an extended period rather than in one instant. On this reading, the outpouring of the Spirit on all people (not merely priests, prophets, or kings, as in the Old Testament's more restricted pattern of Spirit-empowerment) genuinely began at Pentecost and continues through the church age Peter's sermon inaugurates, while the passage's more explicitly apocalyptic cosmic imagery (widely recognized elsewhere in prophetic literature as conventional language for describing climactic divine judgment and the created order's dramatic response to it, rather than requiring strictly literal astronomical events) is generally understood to await a fuller, final realization at a later point still associated with 'the day of the LORD' Joel's own passage names -- Peter's sermon itself continues, in the same speech, to discuss Jesus' resurrection and coming judgment, suggesting his own understanding of the citation as inaugurating rather than completely exhausting the prophecy's full scope.
 
 ---
 

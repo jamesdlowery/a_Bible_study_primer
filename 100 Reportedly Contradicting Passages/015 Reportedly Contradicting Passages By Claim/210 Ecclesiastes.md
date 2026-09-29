@@ -1,14 +1,14 @@
 # Reportedly Contradicting Passages in Ecclesiastes
 
-This document catalogs 11 commonly cited alleged contradictions and notable
+This chapter catalogs 11 commonly cited alleged contradictions and notable
 compositional questions involving the book of Ecclesiastes, either entirely internal to the
 book or in comparison with Genesis, Isaiah, Revelation, 1 Corinthians, Luke, 2 Corinthians,
-Matthew, and Proverbs. For each item, this document states the claim as it is typically
+Matthew, and Proverbs. For each item, this chapter states the claim as it is typically
 raised, notes how the tracked translations render the passages involved (only where the
 translation's own wording materially affects how sharp or resolvable the claim appears in
 English), and gives the standard scholarly reconciliation or harmonization.
 
-**A note on scope:** Ecclesiastes is compact but unusually dense with contested material. This document has 11 entries rather than the full 12 used for the longest books in this series,
+**A note on scope:** Ecclesiastes is compact but unusually dense with contested material. This chapter has 11 entries rather than the full 12 used for the longest books in this book,
 since several additional candidate questions overlap substantially with material already
 covered at length in the companion Job and Proverbs chapters (particularly the
 retribution-theology question) -- repeating that ground here would add length without adding
@@ -129,7 +129,7 @@ to consult the primary texts directly.
 
 **How the translations render it:** All 27 tracked translations render the passages involved substantially the same way here; the reconciliation below does not turn on any translation choice.
 
-**Reconciliation:** 10:19 is best read as a dry, observational statement about money's practical, functional usefulness in worldly affairs -- money genuinely does provide the practical means to secure feasts, comfort, and many of life's ordinary necessities and pleasures, an unremarkable, descriptive point about how the world works 'under the sun,' consistent with the verse's own surrounding context of proverbial observations about ordinary life rather than a sustained theological argument. This is not a moral endorsement of money as an object of love, devotion, or ultimate security, a pursuit this very book explicitly warns produces only endless, unsatisfied craving (5:10) rather than genuine contentment. Money's real, practical usefulness (10:19) and the folly of loving or trusting in money as a source of ultimate satisfaction or security (5:10; 1 Timothy 6:10) are not competing claims -- Scripture consistently distinguishes money's legitimate, functional use from an inordinate love of or reliance on it, the same distinction this document applies elsewhere regarding wine's legitimate use versus its abuse (see the companion Proverbs chapter's entry on wine).
+**Reconciliation:** 10:19 is best read as a dry, observational statement about money's practical, functional usefulness in worldly affairs -- money genuinely does provide the practical means to secure feasts, comfort, and many of life's ordinary necessities and pleasures, an unremarkable, descriptive point about how the world works 'under the sun,' consistent with the verse's own surrounding context of proverbial observations about ordinary life rather than a sustained theological argument. This is not a moral endorsement of money as an object of love, devotion, or ultimate security, a pursuit this very book explicitly warns produces only endless, unsatisfied craving (5:10) rather than genuine contentment. Money's real, practical usefulness (10:19) and the folly of loving or trusting in money as a source of ultimate satisfaction or security (5:10; 1 Timothy 6:10) are not competing claims -- Scripture consistently distinguishes money's legitimate, functional use from an inordinate love of or reliance on it, the same distinction this chapter applies elsewhere regarding wine's legitimate use versus its abuse (see the companion Proverbs chapter's entry on wine).
 
 ---
 
@@ -163,7 +163,7 @@ to consult the primary texts directly.
 
 **How the translations render it:** All 27 tracked translations render Ecclesiastes 4:2-3 and 6:3-5 plainly and consistently as given; the harmonization rests on distinguishing an honest record of situational despair from the book's own broader, more positive final theology of life, not on translation choice.
 
-**Reconciliation:** Most commentators read this passage, along the same lines addressed for Job's own dark statements about his birth in the companion Job chapter (regarding Job 3), as an honest, unflinching record of despair experienced and expressed at a specific, difficult point within a longer wisdom reflection wrestling with observed injustice and oppression (4:1, explicitly the trigger for this specific statement), not as the book's own final, settled theological verdict on the value of human life or procreation as such -- a verdict the book itself elsewhere directly qualifies and moves beyond, both through its own repeated 'eat, drink, and enjoy' counter-refrain (addressed in entry 10 above, affirming the genuine goodness of ordinary life) and its concluding call to remember one's Creator specifically during the days of one's youth and life (12:1), which presupposes life's fundamental value and the appropriateness of having lived it, rather than regretting one's existence. Scripture elsewhere models exactly this same pattern of recording, without either censoring or theologically endorsing as final doctrine, a genuine sufferer's most extreme statements of anguish (see also this project's treatment of several psalms of lament).
+**Reconciliation:** Most commentators read this passage, along the same lines addressed for Job's own dark statements about his birth in the companion Job chapter (regarding Job 3), as an honest, unflinching record of despair experienced and expressed at a specific, difficult point within a longer wisdom reflection wrestling with observed injustice and oppression (4:1, explicitly the trigger for this specific statement), not as the book's own final, settled theological verdict on the value of human life or procreation as such -- a verdict the book itself elsewhere directly qualifies and moves beyond, both through its own repeated 'eat, drink, and enjoy' counter-refrain (addressed in entry 10 above, affirming the genuine goodness of ordinary life) and its concluding call to remember one's Creator specifically during the days of one's youth and life (12:1), which presupposes life's fundamental value and the appropriateness of having lived it, rather than regretting one's existence. Scripture elsewhere models exactly this same pattern of recording, without either censoring or theologically endorsing as final doctrine, a genuine sufferer's most extreme statements of anguish (see also this book's treatment of several psalms of lament).
 
 ---
 

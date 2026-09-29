@@ -2,7 +2,7 @@
 
 **Translations covered:** AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, RSV2CE, ASV, WEB, DR, CPDV, Darby, YLT, SLT, WBT, AKJV, NRSV-CE, RSV, NABRE, ERV, NET, BSB, TRB, CJB
 
-A systematic search did not find anything in Proverbs that rises to the tier of significance covered elsewhere in this collection -- a genuine, well-documented manuscript variant (MT vs. Samaritan Pentateuch, Septuagint, or Dead Sea Scrolls) that changes meaning and that shows up as a real difference among the tracked translations.
+A systematic search did not find anything in Proverbs that rises to the tier of significance covered elsewhere in this book -- a genuine, well-documented manuscript variant (MT vs. Samaritan Pentateuch, Septuagint, or Dead Sea Scrolls) that changes meaning and that shows up as a real difference among the tracked translations.
 
 Proverbs' translation differences are almost entirely about how to render difficult, ambiguous, or rare Hebrew vocabulary and idiom (for example, the famously disputed word in Proverbs 8:30, describing Wisdom's relationship to God at creation — variously rendered "master craftsman," "constantly," or "little child," depending on how a rare Hebrew term is parsed). These are real interpretive difficulties, but they're translation-philosophy questions about a single, stable underlying Hebrew text — not cases where the manuscripts themselves disagree about what that text says. It would be artificial to manufacture entries here to match the format used for other books, so I've left this as a placeholder rather than pad it out.
 

@@ -180,11 +180,11 @@ For each denomination, this section documents core doctrinal positions (view of 
 | Alcohol | Historic Methodism carried a strong temperance tradition (John Wesley himself warned against distilled spirits specifically, though not against fermented drink as such); this cultural association persists to some degree, though the GMC's founding documents are primarily focused on the sexuality and ordination questions rather than restating a formal abstinence rule. Drunkenness itself is condemned regardless of the use/abstinence question, consistent with the wider Christian tradition. | Historical/cultural tradition, not confirmed as a current formal GMC rule |
 | Divorce and remarriage | No specific restriction beyond general pastoral care; consistent with the broader Wesleyan tradition's practice of permitting remarriage. | General practice |
 | Contraception | No prohibition; treated as a matter of individual conscience within marriage. | General practice |
-| Gambling | No specific confessional statement identified in this research pass; the GMC's founding documents focus primarily on the sexuality and ordination questions that caused its separation from the UMC. | Not identified in this research pass |
+| Gambling | No specific confessional statement identified; the GMC's founding documents focus primarily on the sexuality and ordination questions that caused its separation from the UMC. | Not identified |
 | Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
 | Premarital sex/cohabitation | Opposed, consistent with the GMC's traditionalist sexual ethic generally. | Book of Doctrines and Discipline |
-| War/pacifism | No specific position identified in this research pass; not a focus of the GMC's founding documents. | Not identified in this research pass |
-| Death penalty | No specific position identified in this research pass. | Not identified in this research pass |
+| War/pacifism | No specific position identified; not a focus of the GMC's founding documents. | Not identified |
+| Death penalty | No specific position identified. | Not identified |
 
 **The UMC/GMC split, side by side:** As of January 1, 2025, the United Methodist Church (the body the GMC separated from) now permits both the ordination of LGBTQ+ clergy and the performance of same-sex marriages — the GMC was formed specifically to continue the position the UMC has since changed. Presenting both bodies (a future entry will cover the UMC itself) side by side is intended to make this live, recent split visible rather than treat "Methodist" as one uniform position.
 
@@ -317,12 +317,12 @@ Because this category spans thousands of independent congregations, no single do
 | Homosexuality | Considered sinful, consistent with COGIC's broader Holiness theological framework. | Official teaching |
 | Alcohol | The Holiness tradition COGIC belongs to has historically counseled abstinence as a matter of personal holiness and separation from worldly practice, distinct from (though related to) the specific doctrinal prohibitions found in LDS or Adventist teaching. | Holiness tradition, cultural/historical |
 | Divorce and remarriage | Historically discouraged, consistent with COGIC's Holiness theological framework, though practice and pastoral response have evolved considerably over the denomination's history. | Holiness tradition, general pattern |
-| Contraception | No formal doctrinal statement identified in this research pass. | Not identified in this research pass |
+| Contraception | No formal doctrinal statement identified. | Not identified |
 | Gambling | Opposed, consistent with COGIC's broader Holiness ethic of separation from worldly practice. | Holiness tradition |
 | Dancing | Historically discouraged as part of the Holiness movement's broader ethic of separation from worldly entertainment, though practice has relaxed considerably in many congregations. | Holiness tradition, cultural/historical |
 | Premarital sex/cohabitation | Opposed, consistent with COGIC's Holiness theological framework. | Official teaching |
-| War/pacifism | No formal doctrinal statement identified in this research pass. | Not identified in this research pass |
-| Death penalty | No formal doctrinal statement identified in this research pass. | Not identified in this research pass |
+| War/pacifism | No formal doctrinal statement identified. | Not identified |
+| Death penalty | No formal doctrinal statement identified. | Not identified |
 
 ---
 
@@ -386,10 +386,10 @@ Because this category spans thousands of independent congregations, no single do
 | Divorce and remarriage | Permitted on biblical grounds (chiefly infidelity or abandonment), consistent with broad evangelical practice, though historically treated more restrictively for those in ministry leadership. | Official position paper |
 | Contraception | No formal prohibition; treated as a matter of individual conscience within marriage. | General practice, not formally addressed in position papers |
 | Gambling | Opposed; official position papers address gambling as inconsistent with Christian stewardship. | Official position paper |
-| Dancing | No formal position paper identified in this research pass; historically discouraged in much of the wider Pentecostal-Holiness movement, though this has relaxed considerably. | Historical/cultural, not confirmed as current formal position |
+| Dancing | No formal position paper identified; historically discouraged in much of the wider Pentecostal-Holiness movement, though this has relaxed considerably. | Historical/cultural, not confirmed as current formal position |
 | Premarital sex/cohabitation | Opposed, consistent with broad evangelical sexual ethics. | Official position |
 | War/pacifism | No mandated pacifism; the denomination has historically supported military chaplaincy and members' service, while also respecting individual conscientious objection. | General practice |
-| Death penalty | No formal position paper identified in this research pass. | Not identified in this research pass |
+| Death penalty | No formal position paper identified. | Not identified |
 
 ---
 
@@ -424,7 +424,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Dancing | Not categorically prohibited, though immodest or sexually suggestive dancing is discouraged; social dancing in moderation is generally permitted. | Official teaching |
 | Premarital sex/cohabitation | Opposed; chastity before marriage is a firm expectation, and unrepentant violation can result in formal disfellowshipping. | Official teaching |
 | War/pacifism | Strict political and military neutrality is a matter of core doctrine; Jehovah's Witnesses do not serve in the military or bear arms in any national conflict, one of the clearest pacifist positions of any body in this section. | Official doctrine |
-| Death penalty | No formal denominational statement identified in this research pass; the strict church-state separation central to Witness doctrine generally keeps the denomination from taking positions on civil penal policy. | Not identified in this research pass |
+| Death penalty | No formal denominational statement identified; the strict church-state separation central to Witness doctrine generally keeps the denomination from taking positions on civil penal policy. | Not identified |
 
 ---
 
@@ -453,7 +453,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Alcohol | No prohibition; moderate use accepted, consistent with confessional Lutheran tradition generally (Martin Luther himself was famously no proponent of abstinence); drunkenness alone is condemned. | General practice |
 | Divorce and remarriage | Permitted on biblical grounds, consistent with confessional Lutheran teaching, while affirming marriage's intended permanence. | Confessional Lutheran teaching |
 | Contraception | No prohibition; treated as a matter of individual conscience within marriage, consistent with confessional Lutheran teaching generally. | General practice |
-| Gambling | No formal doctrinal statement identified in this research pass; individual conscience is generally the operative standard in confessional Lutheran ethics for matters not directly addressed in the Book of Concord. | Not identified in this research pass |
+| Gambling | No formal doctrinal statement identified; individual conscience is generally the operative standard in confessional Lutheran ethics for matters not directly addressed in the Book of Concord. | Not identified |
 | Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
 | Premarital sex/cohabitation | Opposed, consistent with confessional Lutheran sexual ethics. | Confessional Lutheran teaching |
 | War/pacifism | Just-war tradition, consistent with confessional Lutheran teaching (Luther himself wrote in defense of the just use of the sword by civil authority). | Confessional Lutheran teaching |
@@ -591,7 +591,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Dancing | Historically discouraged as part of the denomination's broader ethic of separation from worldly entertainment, though this has relaxed to some degree; social dancing remains discouraged in many conservative Adventist contexts. | Church Manual guidance, cultural/historical |
 | Premarital sex/cohabitation | Opposed, consistent with the denomination's broader sexual ethic. | Official Church Manual guidance |
 | War/pacifism | Historically associated with noncombatancy — many Adventists have served in the military in noncombatant medical roles (most famously as combat medics) rather than in direct combat, reflecting a distinctive middle position between full pacifism and unrestricted service. | Historical denominational practice |
-| Death penalty | No single official position identified in this research pass. | Not identified in this research pass |
+| Death penalty | No single official position identified. | Not identified |
 
 ---
 
@@ -657,7 +657,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Dancing | No doctrinal position; not treated as a moral category in current teaching. | Not addressed |
 | Premarital sex/cohabitation | Generally discouraged, consistent with the AME Church's broader moderate, traditional sexual ethic, alongside pastoral compassion for individual circumstances. | General pattern |
 | War/pacifism | No single mandated position; historically closer to a just-war orientation. | General pattern |
-| Death penalty | No single mandated denominational statement identified in this research pass. | Not identified in this research pass |
+| Death penalty | No single mandated denominational statement identified. | Not identified |
 
 ---
 
@@ -690,7 +690,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Dancing | Historically prohibited as part of the denomination's Wesleyan-Holiness code of personal conduct; this expectation has relaxed considerably in recent decades and is no longer a uniformly enforced membership requirement, though it reflects a stronger historical position than most other bodies in this section. | Historical Covenant of Christian Character, relaxed in recent decades |
 | Premarital sex/cohabitation | Opposed, consistent with the denomination's broader Wesleyan-Holiness sexual ethic. | Official Covenant of Christian Character |
 | War/pacifism | No mandated pacifism, though the Wesleyan-Holiness tradition historically included a significant peace-church-adjacent strand; today closer to a general acceptance of military service alongside respect for conscientious objection. | General pattern |
-| Death penalty | No single official position identified in this research pass. | Not identified in this research pass |
+| Death penalty | No single official position identified. | Not identified |
 
 ---
 
@@ -723,7 +723,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Dancing | Generally discouraged, particularly of clergy and leaders, consistent with this body's Higher Life/Keswick holiness roots, though not uniformly enforced today. | Cultural/historical expectation |
 | Premarital sex/cohabitation | Opposed, consistent with broad evangelical sexual ethics. | General teaching |
 | War/pacifism | No mandated pacifism; general acceptance of military service alongside respect for individual conscience. | General pattern |
-| Death penalty | No formal position identified in this research pass. | Not identified in this research pass |
+| Death penalty | No formal position identified. | Not identified |
 
 ---
 
@@ -847,22 +847,22 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Ethical and lifestyle positions
 | Category | Position | Source |
 |---|---|---|
-| Abortion | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass. | General pattern, not independently documented |
-| Homosexuality | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass. | General pattern, not independently documented |
-| Alcohol | Given this convention's congregational governance and the absence of a single confessional statement binding on all member churches (the same structural feature noted for the other historically Black Baptist conventions in this section), best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention in this research pass. | General pattern, not independently documented |
+| Abortion | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
+| Homosexuality | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
+| Alcohol | Given this convention's congregational governance and the absence of a single confessional statement binding on all member churches (the same structural feature noted for the other historically Black Baptist conventions in this section), best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
 | Divorce and remarriage | Given this convention's congregational governance, best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently documented for this specific convention. | General pattern, not independently documented |
-| Contraception | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+| Contraception | Not independently documented for this specific convention. | Not identified |
 | Gambling | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
-| Dancing | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+| Dancing | Not independently documented for this specific convention. | Not identified |
 | Premarital sex/cohabitation | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
-| War/pacifism | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
-| Death penalty | Not independently documented for this specific convention in this research pass. | Not identified in this research pass |
+| War/pacifism | Not independently documented for this specific convention. | Not identified |
+| Death penalty | Not independently documented for this specific convention. | Not identified |
 
 ---
 
 ## 26. African Methodist Episcopal Zion Church (AME Zion)
 
-**U.S. adherents:** ~1.2–1.4 million (denominational reporting; not separately broken out in the 2020 U.S. Religion Census in this research pass) — one of the oldest independent Protestant denominations founded by African Americans, tracing its roots to a group that left New York's John Street Methodist Church in the 1790s over discriminatory treatment, organizing formally in 1821 and adding "Zion" to its name in 1848.
+**U.S. adherents:** ~1.2–1.4 million (denominational reporting; not separately broken out in the 2020 U.S. Religion Census) — one of the oldest independent Protestant denominations founded by African Americans, tracing its roots to a group that left New York's John Street Methodist Church in the 1790s over discriminatory treatment, organizing formally in 1821 and adding "Zion" to its name in 1848.
 **Governance:** Episcopal/connectional, closely paralleling AME and United Methodist structure, from which it historically separated (independently of, though for similar reasons as, the AME Church) over the exclusion and mistreatment of Black members and clergy.
 **Origin:** 1796 (informal beginnings), New York City; formally organized 1821. Historically known as the "Freedom Church" for its role aiding enslaved people escaping to freedom; members have included Harriet Tubman, Sojourner Truth, and Frederick Douglass.
 
@@ -881,16 +881,16 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Ethical and lifestyle positions
 | Category | Position | Source |
 |---|---|---|
-| Abortion | No single mandated denominational statement as sharply defined as the SBC's; best understood as generally consistent with the moderate, pastorally-oriented position described in the AME Church entry above, rather than independently and distinctly documented for this specific denomination in this research pass. | General denominational pattern, not independently documented |
+| Abortion | No single mandated denominational statement as sharply defined as the SBC's; best understood as generally consistent with the moderate, pastorally-oriented position described in the AME Church entry above, rather than independently and distinctly documented for this specific denomination. | General denominational pattern, not independently documented |
 | Homosexuality | Denominational leadership has officially described homosexuality and same-sex marriage as "morally wrong" (1996 bishops' statement), while also stating the church's position is "not condemning any of God's children" -- combining traditional teaching on the practice with an explicitly pastoral posture toward persons, a pattern similar to several other bodies in this section. | Official statement (AME Zion Council of Bishops, 1996) |
-| Alcohol | No formal prohibition identified in this research pass; drunkenness alone would be expected to be condemned, consistent with the wider Methodist family's general approach outside the SBC's specific confessional abstinence rule. | General pattern, not independently documented |
+| Alcohol | No formal prohibition identified; drunkenness alone would be expected to be condemned, consistent with the wider Methodist family's general approach outside the SBC's specific confessional abstinence rule. | General pattern, not independently documented |
 | Divorce and remarriage | Best understood as generally consistent with the AME Church's own broader Wesleyan-Arminian pastoral approach, rather than independently documented for this specific denomination. | General pattern, not independently documented |
-| Contraception | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| Contraception | Not independently documented for this specific denomination. | Not identified |
 | Gambling | Best understood as generally consistent with the wider historically Black Methodist tradition's emphasis on stewardship, as described in the AME Church entry above, rather than independently documented for this specific denomination. | General pattern, not independently documented |
-| Dancing | No doctrinal position identified in this research pass; not treated as a moral category in current teaching in the wider Methodist family. | Not identified in this research pass |
+| Dancing | No doctrinal position identified; not treated as a moral category in current teaching in the wider Methodist family. | Not identified |
 | Premarital sex/cohabitation | Best understood as generally consistent with the AME Church's own broader moderate, traditional sexual ethic, rather than independently documented for this specific denomination. | General pattern, not independently documented |
-| War/pacifism | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
-| Death penalty | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| War/pacifism | Not independently documented for this specific denomination. | Not identified |
+| Death penalty | Not independently documented for this specific denomination. | Not identified |
 
 ---
 
@@ -919,9 +919,9 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Homosexuality | Considered sinful; same-sex marriage not recognized, consistent with broad Pentecostal-evangelical practice. | General denominational pattern |
 | Alcohol | Total abstinence expected, reflecting the broader Pentecostal-Holiness movement's historical temperance heritage and this denomination's own holiness-code emphasis (see below), though (as throughout this section) this is distinguished from the near-universal Christian condemnation of drunkenness specifically. | General denominational pattern |
 | Divorce and remarriage | Historically treated more restrictively than much of broad evangelicalism, particularly for ministry leadership, consistent with the wider Pentecostal-Holiness movement's traditional emphasis on marital permanence. | General pattern, not independently documented in detail |
-| Contraception | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| Contraception | Not independently documented for this specific denomination. | Not identified |
 | Gambling | Opposed, consistent with the wider Pentecostal-Holiness movement's stewardship emphasis. | General denominational pattern |
 | Dancing | Historically and, in many congregations, still discouraged as part of a wider "holiness code" also addressing modest dress, jewelry, and entertainment standards (including social/secular dancing, attending movies, and mixed public swimming) -- a distinctive of the UPCI's continuing Pentecostal-Holiness heritage that has relaxed in some congregations but remains more visibly maintained than in most other bodies in this section. | Historical/cultural denominational pattern |
 | Premarital sex/cohabitation | Opposed, consistent with broad Pentecostal-evangelical sexual ethics. | General denominational pattern |
-| War/pacifism | No mandated pacifism identified in this research pass; individual conscience generally respected regarding military service, consistent with much of the wider Pentecostal movement. | General pattern, not independently documented in detail |
-| Death penalty | Not independently documented for this specific denomination in this research pass. | Not identified in this research pass |
+| War/pacifism | No mandated pacifism identified; individual conscience generally respected regarding military service, consistent with much of the wider Pentecostal movement. | General pattern, not independently documented in detail |
+| Death penalty | Not independently documented for this specific denomination. | Not identified |

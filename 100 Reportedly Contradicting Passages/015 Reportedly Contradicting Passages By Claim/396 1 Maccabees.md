@@ -1,13 +1,13 @@
 # Reportedly Contradicting Passages in 1 Maccabees
 
-**A note on this document's place in the series:** As with the five prior deuterocanonical
-books addressed in this series, 1 Maccabees is a deuterocanonical book -- see the note on
+**A note on this chapter's place in the series:** As with the five prior deuterocanonical
+books addressed in this book, 1 Maccabees is a deuterocanonical book -- see the note on
 canon status at the start of the Apocrypha block above for which five of the 27 tracked
 translations include it.
 
-This document catalogs 6 commonly cited alleged contradictions and notable historical
+This chapter catalogs 6 commonly cited alleged contradictions and notable historical
 and theological questions involving 1 Maccabees, either entirely internal to the book or in
-comparison with Esther and Hebrews. For each item, this document states the claim as it is
+comparison with Esther and Hebrews. For each item, this chapter states the claim as it is
 typically raised and gives the standard scholarly reconciliation.
 
 **A note on this book's distinctive character:** Unlike Tobit and Judith (addressed in their
@@ -15,7 +15,7 @@ own companion chapters, both widely read as edifying religious fiction), 1 Macca
 widely regarded, including by secular historians, as one of the most historically reliable
 narratives in the entire deuterocanonical corpus, closely following the Old Testament's own
 annalistic historical style and corroborated extensively by Josephus's independent later
-work. This document highlights that contrast directly (entry 1) while still addressing the
+work. This chapter highlights that contrast directly (entry 1) while still addressing the
 specific historical difficulties the book does contain (entries 2 and 5).
 
 **Verification status:** Entries 4 and 2 were both checked in detail against multiple sources,
@@ -53,7 +53,7 @@ honest account of it. Readers are encouraged to consult the primary text directl
 
 **How the translations render it:** Of the 27 tracked translations, 22 -- AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT, ASV, WEB, Darby, YLT, Smith's Literal Translation, Webster's Bible, the AKJV, the RSV, the BSB, the ERV, the NET Bible, TRB, and the CJB -- do not include the book of 1 Maccabees at all, following the Protestant, Jewish, or otherwise non-deuterocanonical-affirming canon each represents. The original 1611 KJV printing included the book of 1 Maccabees in a separate Apocrypha section between the Testaments, read there for edification but not treated as canonical Scripture on a par with the 66-book Protestant canon, consistent with the Church of England's Thirty-Nine Articles; most KJV editions in common use today omit this section entirely. The five Catholic-tradition translations among the 27 -- the Douay-Rheims Bible, the CPDV, RSV2CE, the NRSV-CE, and the NABRE -- all include 1 Maccabees as canonical Scripture. RSV2CE includes the full text of 1 Maccabees as canonical Scripture. The book follows the annalistic style of Kings and Chronicles, using specific Seleucid-calendar dates throughout, and its narrative is independently corroborated by and served as a source for Josephus's later history (verified against the published text).
 
-**Reconciliation:** This is not a point of contradiction but a notable point of contrast this project highlights explicitly, consistent with how this series has treated variation in genre and historical reliability across different deuterocanonical books (Sirach's unusually well-documented authorship being a comparable case addressed in its own companion chapter). 1 Maccabees' comparative reliability does not mean it is entirely free of specific difficulties (addressed in entries 2 and 5 below), but its overall character -- careful attention to specific dates, named historical figures independently attested in Greek and Roman sources, and a general absence of the miraculous, legendary, or symbolic elements that pervade Tobit and Judith -- has led even scholars skeptical of the deuterocanonical books' canonical status to treat 1 Maccabees as valuable, credible history in its own right, distinct from the more overtly parabolic character of some other deuterocanonical narratives.
+**Reconciliation:** This is not a point of contradiction but a notable point of contrast this book highlights explicitly, consistent with how this book has treated variation in genre and historical reliability across different deuterocanonical books (Sirach's unusually well-documented authorship being a comparable case addressed in its own companion chapter). 1 Maccabees' comparative reliability does not mean it is entirely free of specific difficulties (addressed in entries 2 and 5 below), but its overall character -- careful attention to specific dates, named historical figures independently attested in Greek and Roman sources, and a general absence of the miraculous, legendary, or symbolic elements that pervade Tobit and Judith -- has led even scholars skeptical of the deuterocanonical books' canonical status to treat 1 Maccabees as valuable, credible history in its own right, distinct from the more overtly parabolic character of some other deuterocanonical narratives.
 
 ---
 
@@ -83,7 +83,7 @@ honest account of it. Readers are encouraged to consult the primary text directl
 
 **References:** 1 Maccabees 3:18-19; 1 Maccabees 3:50; 1 Maccabees 4:24; 1 Maccabees 4:55
 
-**The claim:** 1 Maccabees almost entirely avoids direct theological language describing God acting visibly in history, consistently substituting indirect terms such as 'Heaven' where a direct reference to God's own action might be expected (compare 3:18-19, 'it is easy for many to be hemmed in by few, for in the sight of Heaven there is no difference between saving by many or by few'; similarly 3:50, 4:24, 4:55) -- a stylistic and theological reticence closely paralleling this project's earlier discussion, in the companion Esther chapter, of that book's own complete avoidance of any explicit reference to God.
+**The claim:** 1 Maccabees almost entirely avoids direct theological language describing God acting visibly in history, consistently substituting indirect terms such as 'Heaven' where a direct reference to God's own action might be expected (compare 3:18-19, 'it is easy for many to be hemmed in by few, for in the sight of Heaven there is no difference between saving by many or by few'; similarly 3:50, 4:24, 4:55) -- a stylistic and theological reticence closely paralleling this book's earlier discussion, in the companion Esther chapter, of that book's own complete avoidance of any explicit reference to God.
 
 **How the translations render it:** As noted in the first entry above, this book is included only in the five Catholic-tradition translations (Douay-Rheims, CPDV, RSV2CE, NRSV-CE, NABRE) and absent from the other 22. RSV2CE reads (3:18-19): 'It is easy for many to be hemmed in by few, for in the sight of Heaven there is no difference between saving by many or by few. It is not on the size of the army that victory in battle depends, but strength comes from heaven' (verified against the published text).
 
@@ -121,7 +121,7 @@ honest account of it. Readers are encouraged to consult the primary text directl
 
 **How the translations render it:** As noted in the first entry above, this book is included only in the five Catholic-tradition translations (Douay-Rheims, CPDV, RSV2CE, NRSV-CE, NABRE) and absent from the other 22. RSV2CE reads (6:12-13): 'now I remember the evils I did at Jerusalem... I know that it is because of this that these evils have come upon me; and behold, I am perishing of deep grief in a strange land' (verified against the published text), a comparatively restrained account of Antiochus's death, without 2 Maccabees 9's more elaborate details of physical decay.
 
-**Reconciliation:** This entry is included here primarily to note the existence of a parallel account addressed more fully in the companion 2 Maccabees chapter, which discusses the relationship between the two versions directly. In brief, most commentators read the two accounts as complementary and compatible in their essential facts (Antiochus's illness and death occurring specifically in connection with his military reversals and his sacrilegious ambitions toward Jerusalem and other temples), while differing considerably in literary elaboration and specific narrative detail -- a pattern of two independent (or semi-independent) historical works treating the same significant event with different levels of detail and rhetorical emphasis, comparable to other cases addressed at various points in this project regarding parallel biblical accounts of the same event narrated with differing emphasis (2 Kings and 2 Chronicles' treatment of several of the same kings' reigns, addressed in their own companion chapters).
+**Reconciliation:** This entry is included here primarily to note the existence of a parallel account addressed more fully in the companion 2 Maccabees chapter, which discusses the relationship between the two versions directly. In brief, most commentators read the two accounts as complementary and compatible in their essential facts (Antiochus's illness and death occurring specifically in connection with his military reversals and his sacrilegious ambitions toward Jerusalem and other temples), while differing considerably in literary elaboration and specific narrative detail -- a pattern of two independent (or semi-independent) historical works treating the same significant event with different levels of detail and rhetorical emphasis, comparable to other cases addressed at various points in this book regarding parallel biblical accounts of the same event narrated with differing emphasis (2 Kings and 2 Chronicles' treatment of several of the same kings' reigns, addressed in their own companion chapters).
 
 ---
 

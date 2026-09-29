@@ -28,9 +28,9 @@ Broadly evangelical, cross-denominational, in the same general category as the E
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
 
 ---
 
@@ -48,9 +48,9 @@ Broadly evangelical, cross-denominational; deliberately designed to be usable ac
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Major U.S. Christian Denominations" for the closest parallel); specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Major U.S. Christian Denominations" for the closest parallel); specific verse-note wording not verified. |
+| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not verified. |
+| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not verified. |
 
 ---
 
@@ -110,9 +110,9 @@ Broadly evangelical, foundational to 20th-century American dispensationalism spe
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary in this research pass. |
+| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary. |
 | Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions not independently confirmed. |
-| Alcohol | Not independently confirmed in this research pass. |
+| Alcohol | Not verified. |
 
 ---
 
@@ -129,7 +129,7 @@ Broadly evangelical, foundational to 20th-century American dispensationalism spe
 Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible and NIV Study Bible; distinguished from the separately edited NLT Illustrated Study Bible (entry 10 below) by a somewhat greater emphasis on textual, historical, and word-study detail relative to that volume's more visually driven presentation.
 
 ### Ethical and lifestyle commentary
-Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
+Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
 
 ---
 
@@ -144,9 +144,9 @@ Broadly evangelical, cross-denominational; the NASB itself is widely regarded as
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
 
 ---
 
@@ -182,8 +182,8 @@ Broadly evangelical, cross-denominational, with the same B&H/Southern Baptist pu
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message given the shared publisher relationship; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message; specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message given the shared publisher relationship; specific verse-note wording not verified. |
+| Homosexuality | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message; specific verse-note wording not verified. |
 | Alcohol | This volume's broader, non-exclusively-Southern-Baptist contributor base means the SBC's own formal confessional abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
 
 ---
@@ -201,7 +201,7 @@ Produced as an institutional, multi-scholar Tyndale House project distinct from 
 Broadly evangelical, cross-denominational, in the same general category as the standard NLT Study Bible; reviewers have specifically noted the volume's conservative interpretive stance on questions where its notes engage historical-critical objections to traditional authorship or historicity.
 
 ### Ethical and lifestyle commentary
-Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed in this research pass.
+Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
 
 ---
 
@@ -219,8 +219,8 @@ Explicitly and confessionally Reformed/Calvinist — reflects confessional coven
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not verified. |
+| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not verified. |
 | Alcohol | No prohibition; drunkenness alone condemned, consistent with confessional Reformed tradition generally. |
 
 ---
@@ -239,9 +239,9 @@ Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie S
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Homosexuality | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
-| Alcohol | Consistent with conservative evangelical Protestantism; specific verse-note wording not independently confirmed in this research pass. |
+| Abortion | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. |
+| Homosexuality | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. |
+| Alcohol | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. |
 
 ---
 
@@ -283,7 +283,7 @@ Explicitly and exclusively Catholic — the volume states its notes follow "the 
 Explicitly and exclusively Catholic, given its direct use of the NABRE (the official translation for Mass and the Liturgy of the Hours throughout the United States, discussed at length in the companion "Popular Bible Translations" section) and its lectionary-aligned Reading Guide; see the Catholic Church entry in "Major U.S. Christian Denominations" for the fuller shared doctrinal framework, alongside the Ignatius Catholic Study Bible entry above for the closest direct parallel already profiled in this section.
 
 ### Ethical and lifestyle commentary
-Consistent with official Catholic teaching as described in the Catholic Church entry in "Major U.S. Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed in this research pass.
+Consistent with official Catholic teaching as described in the Catholic Church entry in "Major U.S. Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed.
 
 ---
 
@@ -300,7 +300,7 @@ Produced as an institutional Lockman Foundation/Zondervan project rather than cr
 Broadly evangelical and charismatic/Pentecostal-adjacent, cross-denominational; the AMP translation's own method (bracketed and parenthetical amplifications drawing out additional shades of original-language meaning) has made it particularly popular in charismatic and Word of Faith circles, though the Amplified Study Bible's own notes are not confined to that theological tradition specifically.
 
 ### Ethical and lifestyle commentary
-Not independently confirmed in this research pass on any of the three categories; this study Bible's notes are described by its own publisher as practical and application-oriented rather than systematically doctrinal, comparable in general orientation to the Life Application Study Bible above.
+Not verified on any of the three categories; this study Bible's notes are described by its own publisher as practical and application-oriented rather than systematically doctrinal, comparable in general orientation to the Life Application Study Bible above.
 
 ---
 
@@ -336,7 +336,7 @@ Pentecostal/Assemblies of God — see the Assemblies of God entry in "Major U.S.
 Broadly evangelical, cross-denominational; distinctive among this list for its specific focus on ancient historical and cultural background rather than doctrinal or devotional application, making it something of a specialized complement to, rather than a substitute for, a more doctrinally oriented study Bible.
 
 ### Ethical and lifestyle commentary
-Given this volume's specifically historical-background orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified in this research pass.
+Given this volume's specifically historical-background orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified.
 
 ---
 
@@ -353,7 +353,7 @@ Produced as an institutional Thomas Nelson editorial project rather than credite
 Broadly evangelical, cross-denominational, associated with the same publisher (Thomas Nelson) responsible for the MacArthur Study Bible and Orthodox Study Bible editions elsewhere in this section, though this specific volume represents a general-purpose reference and topical-study tool rather than a denominationally or theologically distinct commentary project.
 
 ### Ethical and lifestyle commentary
-Given this volume's emphasis on topical cross-referencing, doctrinal overview articles, and general Bible-study methodology rather than verse-by-verse interpretive commentary, direct notes on abortion, homosexuality, or alcohol comparable to the more heavily annotated study Bibles in this section have not been identified in this research pass.
+Given this volume's emphasis on topical cross-referencing, doctrinal overview articles, and general Bible-study methodology rather than verse-by-verse interpretive commentary, direct notes on abortion, homosexuality, or alcohol comparable to the more heavily annotated study Bibles in this section have not been identified.
 
 ---
 
@@ -391,7 +391,7 @@ Produced by a multi-denominational team of more than 25 biblical scholars under 
 Multi-denominational, broadly evangelical; the translation team was deliberately assembled to be interdenominational rather than reflecting one confessional tradition, and its translators' notes are oriented toward transparency about translation decisions and textual variants rather than doctrinal or devotional application in the manner of the ESV Study Bible or MacArthur Study Bible.
 
 ### Ethical and lifestyle commentary
-Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified in this research pass.
+Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified.
 
 ---
 
@@ -413,9 +413,9 @@ Messianic Judaism — a movement combining Jewish religious practice and identit
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Not independently confirmed in this research pass; Messianic Jewish congregations generally affirm the sanctity of human life consistent with broader conservative Jewish and Christian positions, but this volume's own specific verse-note wording on this question has not been directly verified. |
-| Homosexuality | Not independently confirmed in this research pass. |
-| Alcohol | Not independently confirmed in this research pass; Jewish tradition generally treats moderate wine use positively (wine is integral to Sabbath and festival observance), with drunkenness treated as a separate matter of self-control. |
+| Abortion | Not verified; Messianic Jewish congregations generally affirm the sanctity of human life consistent with broader conservative Jewish and Christian positions, but this volume's own specific verse-note wording on this question has not been directly verified. |
+| Homosexuality | Not verified. |
+| Alcohol | Not verified; Jewish tradition generally treats moderate wine use positively (wine is integral to Sabbath and festival observance), with drunkenness treated as a separate matter of self-control. |
 
 ---
 
@@ -434,9 +434,9 @@ Broadly evangelical, cross-denominational, with a specific and sustained focus o
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording in this research pass. |
-| Alcohol | Not independently confirmed in this research pass. |
+| Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed. |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording. |
+| Alcohol | Not verified. |
 
 ---
 
@@ -455,9 +455,9 @@ Broadly evangelical and conservative Protestant, cross-denominational, distingui
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed in this research pass. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording in this research pass. |
-| Alcohol | Not independently confirmed in this research pass. |
+| Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed. |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording. |
+| Alcohol | Not verified. |
 
 ---
 
@@ -474,7 +474,7 @@ Broadly evangelical and conservative Protestant, cross-denominational, distingui
 Broadly evangelical and Reformed, reflecting Edwards's own historic Congregationalist and broadly Calvinist theological commitments; the volume's stated organizing theme is Edwards's conviction that true and lasting joy is found only in God, rather than a systematic verse-by-verse doctrinal commentary in the manner of the MacArthur Study Bible or ESV Study Bible. As the newest entry in this section (2025), it has not yet had time to establish the kind of broad market presence several other entries in this list have achieved over decades.
 
 ### Ethical and lifestyle commentary
-Given this volume's specific devotional and historical-theological orientation around Edwards's own writings, rather than a systematic modern doctrinal or pastoral commentary, direct notes on contemporary questions such as abortion, homosexuality, or alcohol comparable to the more directly application-focused study Bibles in this section have not been identified in this research pass.
+Given this volume's specific devotional and historical-theological orientation around Edwards's own writings, rather than a systematic modern doctrinal or pastoral commentary, direct notes on contemporary questions such as abortion, homosexuality, or alcohol comparable to the more directly application-focused study Bibles in this section have not been identified.
 
 ---
 
@@ -508,14 +508,14 @@ Reflecting its early-19th-century original composition, Haydock's commentary doe
 Broadly mainline Protestant and academic/ecumenical, the same general orientation as the later NRSV-based New Oxford Annotated Bible; historical-critical and less devotionally or doctrinally oriented than most other entries in this section, closer in spirit to the Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach.
 
 ### Ethical and lifestyle commentary
-Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed on any of the three categories in this research pass.
+Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed on any of the three categories.
 
 ---
 
 ## 27. Logos Complete Study Bible
 
 **Translation used:** American Standard Version (ASV), 1901
-**Publisher:** Logos International, published 1972; based on the earlier "Cross-Reference Bible" (1910, edited by J.W. Monser). No second edition was ever produced, and the publisher itself ceased operations not long after this volume's release, making it very much a historical curiosity today rather than an actively marketed product -- reflected in its placement at the end of this list -- though it remains the one identifiable dedicated study Bible built specifically on the ASV among the sources checked for this research pass.
+**Publisher:** Logos International, published 1972; based on the earlier "Cross-Reference Bible" (1910, edited by J.W. Monser). No second edition was ever produced, and the publisher itself ceased operations not long after this volume's release, making it very much a historical curiosity today rather than an actively marketed product -- reflected in its placement at the end of this list -- though it remains the one identifiable dedicated study Bible built specifically on the ASV among the sources checked.
 **Scale:** Roughly 100,000 cross-references (more than many later study Bibles), topical articles and analyses distributed throughout the text, and variorum (alternative) readings drawn from the work of some 150 scholars.
 
 ### Editorial credit
@@ -525,6 +525,6 @@ Credited to Logos International as publisher rather than to a single named gener
 Broadly evangelical and Protestant, cross-denominational so far as can be determined from available sources; given the volume's age, obscurity, and the publisher's own closure shortly after its release, this entry has not identified a specific confessional orientation beyond its general evangelical Protestant character.
 
 ### Ethical and lifestyle commentary
-Reflecting its 1972 original composition, this volume's notes and cross-references do not address these specific contemporary questions the way modern study Bibles do; not independently confirmed in this research pass on any of the three categories.
+Reflecting its 1972 original composition, this volume's notes and cross-references do not address these specific contemporary questions the way modern study Bibles do; not verified on any of the three categories.
 
 ---

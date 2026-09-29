@@ -2,7 +2,7 @@
 
 **Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 
-**A note on scope:** as with Tobit, this comparison is limited to translations that include the Apocrypha/Deuterocanon at all -- the bulk of this project's Protestant-tradition translations, and the Complete Jewish Bible, are not relevant additions here.
+**A note on scope:** as with Tobit, this comparison is limited to translations that include the Apocrypha/Deuterocanon at all -- the bulk of this book's Protestant-tradition translations, and the Complete Jewish Bible, are not relevant additions here.
 
 ---
 
@@ -12,7 +12,7 @@
 
 **How the translations render it:**
 - **RSV2CE and NABRE** (Greek-based): describe the general advancing downward into the plain, burning the fields, and delivering the flocks and herds "to destruction," ravaging the cities, scattering the produce of the fertile plains "like chaff," and striking down the young men — a fuller, more specific catalogue of destruction.
-- **Douay-Rheims** (Vulgate-based): describes the same episode more briefly — going down into the plains "in the days of the harvest," setting the corn on fire, and cutting down the trees and vineyards — omitting the livestock, the cities, and the young men entirely. **The Catholic Public Domain Version is confirmed directly following Douay-Rheims into this same shorter, Vulgate-based camp**: its own text reads "he descended to the plains of Damascus, in the days of the harvest, and he set fire to all the crops, and he caused all the trees and the vineyards to be cut down" -- matching Douay-Rheims' shorter content precisely, with the same omissions (no livestock, cities, or young men mentioned).
+- **Douay-Rheims** (Vulgate-based): describes the same episode more briefly — going down into the plains "in the days of the harvest," setting the corn on fire, and cutting down the trees and vineyards — omitting the livestock, the cities, and the young men entirely. **Catholic Public Domain Version** follows Douay-Rheims into this same shorter, Vulgate-based camp: its own text reads "he descended to the plains of Damascus, in the days of the harvest, and he set fire to all the crops, and he caused all the trees and the vineyards to be cut down" -- matching Douay-Rheims' shorter content precisely, with the same omissions (no livestock, cities, or young men mentioned).
 
 **The difference in meaning:** This is a genuine, verse-level difference in narrated content, not just phrasing — the Vulgate (and so Douay-Rheims and, expectedly, CPDV) simply doesn't report several of the specific actions the Greek (and so RSV2CE/NABRE) describes. Jerome himself acknowledged working loosely and only including what he could clearly follow in his source text, which is the likely explanation for the gap.
 

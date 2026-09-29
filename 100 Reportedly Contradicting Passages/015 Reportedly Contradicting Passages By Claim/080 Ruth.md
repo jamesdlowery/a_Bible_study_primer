@@ -1,20 +1,20 @@
 # Reportedly Contradicting Passages in Ruth
 
-This document catalogs 8 commonly cited alleged contradictions and interpretive
+This chapter catalogs 8 commonly cited alleged contradictions and interpretive
 tensions involving the book of Ruth, either entirely internal to Ruth or between Ruth and a
 directly related passage elsewhere (Leviticus, Deuteronomy, Matthew, James). For each item,
-this document states the claim as it is typically raised, notes how the tracked translations
+this chapter states the claim as it is typically raised, notes how the tracked translations
 render the passages involved (only where the translation's own wording materially affects how sharp or resolvable the claim appears in English), and gives the
 standard scholarly reconciliation or harmonization.
 
 **A note on scope:** Ruth is a short, single-narrative book of four chapters, and genuinely
 yields fewer classic "contradiction" entries than a legal code or a multi-generation
-historical book. This document has 8 entries rather than the 12 used for longer books in this
-series -- padding to a round number with weak material would not serve this project's
+historical book. This chapter has 8 entries rather than the 12 used for longer books in this
+series -- padding to a round number with weak material would not serve this book's
 standard of quality, and several of the strongest candidate questions (Ruth's inclusion
 despite the Moabite exclusion; the levirate/redemption custom) are law-and-narrative
 questions that connect directly to material already covered at greater length in the
-companion Deuteronomy chapter, which this document cross-references rather than repeats.
+companion Deuteronomy chapter, which this chapter cross-references rather than repeats.
 
 **Verification status:** The one specific wording question checked in this pass (whether any
 translation softens or euphemizes "uncover his feet" at Ruth 3:4, 7) was confirmed against
@@ -110,7 +110,7 @@ directly.
 
 **How the translations render it:** All 27 tracked translations render the genealogy in Ruth 4:18-22 identically, listing the same names in the same order; no translation differences are involved in this discrepancy, which is a matter of ancient genealogical convention, not wording.
 
-**Reconciliation:** As with several other genealogical-compression questions addressed elsewhere in this project (the Exodus 6 Levite genealogy, for instance), most scholars hold that genealogies of this type, especially those serving a specific literary or theological purpose (here, tracing the line of Judah's royal house through its most theologically significant links), regularly omit generations, listing only prominent or relevant ancestors rather than every direct biological link -- a well-documented ancient Near Eastern convention, not unique to Ruth. This reading is reinforced by 1 Chronicles 2:5-15's own fuller Judahite genealogy, which uses the same skeletal set of names for this stretch, suggesting the shorter list was already the standard genealogical convention rather than a late compression specific to Ruth's author. The Rahab identification specifically is not stated in Ruth itself (only in Matthew 1:5), is held by many but by no means all scholars, and -- if accepted -- is generally read as additional evidence that this genealogy telescopes multiple generations rather than as license to place a firm number of years on the interval it covers.
+**Reconciliation:** As with several other genealogical-compression questions addressed elsewhere in this book (the Exodus 6 Levite genealogy, for instance), most scholars hold that genealogies of this type, especially those serving a specific literary or theological purpose (here, tracing the line of Judah's royal house through its most theologically significant links), regularly omit generations, listing only prominent or relevant ancestors rather than every direct biological link -- a well-documented ancient Near Eastern convention, not unique to Ruth. This reading is reinforced by 1 Chronicles 2:5-15's own fuller Judahite genealogy, which uses the same skeletal set of names for this stretch, suggesting the shorter list was already the standard genealogical convention rather than a late compression specific to Ruth's author. The Rahab identification specifically is not stated in Ruth itself (only in Matthew 1:5), is held by many but by no means all scholars, and -- if accepted -- is generally read as additional evidence that this genealogy telescopes multiple generations rather than as license to place a firm number of years on the interval it covers.
 
 ---
 
@@ -124,7 +124,7 @@ directly.
 
 **References:** Ruth 1:20-21; James 1:13
 
-**The claim:** Returning to Bethlehem after the deaths of her husband and both sons, Naomi tells the townswomen, 'Call me Mara [bitter]... the Almighty has dealt very bitterly with me... the LORD has testified against me and the Almighty has afflicted me' (1:20-21) -- language some read as attributing her family's deaths directly to God's punishing action, raising a question addressed more generally elsewhere in this project about whether Scripture is consistent in describing God as the source of calamity or affliction (compare Isaiah 45:7, and James 1:13's statement that God 'cannot be tempted with evil' and 'tempts no one').
+**The claim:** Returning to Bethlehem after the deaths of her husband and both sons, Naomi tells the townswomen, 'Call me Mara [bitter]... the Almighty has dealt very bitterly with me... the LORD has testified against me and the Almighty has afflicted me' (1:20-21) -- language some read as attributing her family's deaths directly to God's punishing action, raising a question addressed more generally elsewhere in this book about whether Scripture is consistent in describing God as the source of calamity or affliction (compare Isaiah 45:7, and James 1:13's statement that God 'cannot be tempted with evil' and 'tempts no one').
 
 **How the translations render it:** All 27 tracked translations render Naomi's statement plainly and consistently as given; the harmonization rests on distinguishing an inspired record of lament speech from binding doctrinal assertion, and on reading the statement in light of the book's own subsequent narrative arc, not on translation choice.
 
@@ -160,7 +160,7 @@ directly.
 
 **The claim:** Naomi instructs Ruth to wash, perfume herself, and go alone at night to the threshing floor where Boaz is sleeping after eating and drinking, to 'uncover his feet' and lie down, waiting for him to tell her what to do (3:3-4); Ruth does so, and the two remain together at the threshing floor until 'before one could recognize another,' with Boaz then sending her away before dawn 'so that it not be known that the woman came to the threshing floor' (3:14) -- details some read as implying a sexual encounter took place, which would sit uneasily with the book's overall portrayal of Ruth and Boaz as models of covenant faithfulness and sexual propriety, and with Boaz's own praise of Ruth for not having 'gone after young men, whether poor or rich' (3:10).
 
-**How the translations render it:** All 27 tracked translations render 'uncover his feet' literally and consistently, without euphemistic softening or explicit sexualizing in the wording itself -- confirmed directly for the Douay-Rheims Bible ("lift up the clothes wherewith he is covered towards his feet," a slightly fuller but equally literal, non-euphemistic rendering), the RSV, YLT, the ASV, the WEB, and Webster's Bible, all of which render the phrase in the same literal, non-euphemistic manner. **The CPDV is now confirmed directly** rendering this in the same literal, non-euphemistic manner ("lift up the covering, the part which covers near his feet, and lay yourself down"). The interpretive question addressed here concerns the scene's meaning and cultural context, not any difference in how the translations render the Hebrew.
+**How the translations render it:** All 27 tracked translations render 'uncover his feet' literally and consistently, without euphemistic softening or explicit sexualizing in the wording itself -- as in the Douay-Rheims Bible ("lift up the clothes wherewith he is covered towards his feet," a slightly fuller but equally literal, non-euphemistic rendering), the RSV, YLT, the ASV, the WEB, and Webster's Bible, all of which render the phrase in the same literal, non-euphemistic manner. **CPDV** also renders this in the same literal, non-euphemistic manner ("lift up the covering, the part which covers near his feet, and lay yourself down"). The interpretive question addressed here concerns the scene's meaning and cultural context, not any difference in how the translations render the Hebrew.
 
 **Reconciliation:** The great majority of commentators, across the theological spectrum, read this scene as a legally and socially loaded but non-sexual encounter: 'feet' in this context is generally understood in its ordinary sense (Ruth uncovering Boaz's feet to wake him, a scene of vulnerability and appeal rather than seduction, consistent with the surrounding narrative's own explicit statements -- Boaz's immediate response is to bless her and discuss the legal redemption process, not to describe or imply a sexual encounter, and 3:11 has him explicitly commend her as an eshet chayil, a 'worthy' or 'excellent' woman, language incompatible with the narrator having just depicted impropriety). The care taken to ensure Ruth left before dawn undetected (3:14) is read as protecting her reputation from misunderstanding or scandal precisely because the actual encounter, however unconventional in timing and setting, was chaste -- a bold, resourceful act of a widow formally petitioning her kinsman-redeemer for protection and marriage (compare her own words, 'spread your wings/covering over your servant, for you are a redeemer,' 3:9, invoking the marriage-covenant imagery of Ezekiel 16:8) rather than an account of sexual impropriety the book otherwise treats approvingly. A minority of interpreters read the scene as more sexually charged or ambiguous by design, without concluding that actual intercourse occurred before the legally proper marriage that follows in chapter 4.
 

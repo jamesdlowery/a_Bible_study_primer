@@ -8,7 +8,7 @@ Each major part of this book lives in its own numbered folder, and the numbers i
 |---|---|
 | Title | Title page |
 | Table of Contents | Full navigable contents, linked throughout |
-| Preface | The author's own account of why this project exists |
+| Preface | The author's own account of why this book exists |
 | Purpose & Scope | What this book covers, and what it deliberately doesn't attempt |
 | *(this section)* | Orientation for readers — navigation and method |
 | Reading Paths for Different Readers | Suggested starting points based on what you're trying to find |
