@@ -1,6 +1,6 @@
 # Major U.S. Christian Denominations
 
-This section profiles 27 prominent Christian denominations and denominational families in the United States, ranked primarily by adherents per the 2020 U.S. Religion Census -- the most comprehensive, methodologically consistent source available for this kind of comparison -- supplemented in a small number of cases where that source is known to under-report a body's actual size (noted individually where this applies). Recently-split bodies (e.g., the United Methodist Church and the Global Methodist Church) are listed as separate entries with their own distinct positions, rather than blended into one profile that would erase a real, current disagreement. The last two entries (African Methodist Episcopal Zion Church and United Pentecostal Church International) were added specifically for doctrinal breadth alongside size: AME Zion completes the historically Black Methodist family already represented elsewhere in this section, and the UPCI is the only Oneness (non-Trinitarian) body profiled here, a genuinely distinct doctrinal position none of the other 26 entries hold.
+This section profiles 27 prominent Christian denominations and denominational families in the United States, ranked by adherents per the 2020 U.S. Religion Census -- the most comprehensive, methodologically consistent count available for this kind of comparison -- with the following disclosed exceptions. Three bodies have no usable Census figure and are placed at the end of the list rather than ranked: the Global Methodist Church (formed in 2022, after the Census), the United Pentecostal Church International (the Census counted its congregations but no adherents), and the African Methodist Episcopal Zion Church, which does have a Census figure (~305,000) but was added specifically for doctrinal breadth -- it completes the historically Black Methodist family represented elsewhere in this section -- and happens to fall in that position by size in any case. Two entries carry a denomination-reported figure alongside the Census bracket because their exact 2020 Census counts were not verified for this edition: the Christian and Missionary Alliance and the Presbyterian Church in America, both of which the Census places in the 100,000–999,999 range. Several historically Black denominations (the Church of God in Christ, AME Zion, and the two National Baptist conventions) are known to be substantially under-counted by the Census, which locates congregations from address lists rather than receiving denominational reports; each such entry gives both figures and is ranked by the Census number for consistency. Recently-split bodies (the United Methodist Church and the Global Methodist Church) are listed as separate entries with their own distinct positions, rather than blended into one profile that would erase a real, current disagreement. The UPCI is the only Oneness (non-Trinitarian) body profiled here, a genuinely distinct doctrinal position none of the other 26 entries hold.
 
 For each denomination, this section documents core doctrinal positions (view of Scripture, salvation, baptism, the Lord's Supper, church government, eschatology, spiritual gifts, and women's ordination) and a smaller set of ethical/lifestyle positions (abortion, homosexuality and same-sex marriage, and alcohol). Each ethical/lifestyle position is sourced explicitly -- distinguishing an official confessional statement from a documented general practice or cultural norm -- since these are different kinds of claims with different kinds of evidence behind them. Where a tradition is internally split or actively debating a question, this section says so directly rather than forcing a single label onto a live disagreement.
 
@@ -48,7 +48,42 @@ For each denomination, this section documents core doctrinal positions (view of 
 
 ---
 
-## 2. Southern Baptist Convention (SBC)
+## 2. Non-denominational Christian Churches
+
+**U.S. adherents:** ~21,095,641 (2020 U.S. Religion Census) — the second-largest Christian grouping in the country, encompassing thousands of independent congregations rather than one organized body.
+**Governance:** Congregational; by definition, not affiliated with any denominational hierarchy, though many voluntarily network through associations (e.g., the Association of Related Churches).
+
+Because this category spans thousands of independent congregations, no single doctrinal or confessional statement applies the way it does for the other entries in this section. The summary below describes the general pattern most common among U.S. non-denominational churches, not an enforceable, uniform position.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Most hold to some form of biblical inerrancy or high view of Scripture's authority, consistent with broad evangelicalism, though no single confessional statement binds all congregations under this label. |
+| Salvation | Predominantly evangelical/Arminian-leaning in practice, though this varies by congregation; no single confessional position. |
+| Baptism | Generally believer's baptism by immersion, the most common practice among non-denominational churches, though this varies by congregation. |
+| The Lord's Supper | Generally a memorial view, consistent with broad evangelical practice, though this varies by congregation. |
+| Church government | Congregational, by definition. |
+| Eschatology | No single position; varies by congregation. |
+| Spiritual gifts | Ranges widely from cessationist to continuationist depending on the specific congregation's tradition of origin. |
+| Women's ordination | Varies considerably by congregation; no single position. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | The large majority of non-denominational churches, being predominantly evangelical in orientation, oppose abortion, though this is a general pattern rather than an enforceable position given the absence of a confessional body. | General pattern, not a confessional statement |
+| Homosexuality | The large majority hold same-sex marriage to be outside biblical teaching, though, as above, this is a general pattern rather than a uniform, enforceable position. | General pattern, not a confessional statement |
+| Alcohol | No single position; varies by congregation, consistent with the absence of any binding confessional statement for this category as a whole. | Not applicable — no confessional body |
+| Divorce and remarriage | Varies considerably by congregation; most permit remarriage on some biblical grounds, consistent with broad evangelical practice, though there is no confessional body to survey for a uniform position. | General pattern, not a confessional statement |
+| Contraception | No single position; varies by congregation. | Not applicable — no confessional body |
+| Gambling | Generally discouraged among conservative evangelical congregations, though this varies and is not uniformly mandated. | General pattern, not a confessional statement |
+| Dancing | No single position; varies considerably by congregation. | Not applicable — no confessional body |
+| Premarital sex/cohabitation | The large majority of non-denominational churches, being predominantly evangelical, oppose both, though this is a general pattern rather than an enforceable position. | General pattern, not a confessional statement |
+| War/pacifism | No single position; varies by congregation. | Not applicable — no confessional body |
+| Death penalty | No single position; varies by congregation. | Not applicable — no confessional body |
+
+---
+
+## 3. Southern Baptist Convention (SBC)
 
 **U.S. adherents:** ~17,649,040 (2020 U.S. Religion Census); the largest Protestant denomination in the U.S. by membership and by number of congregations (over 47,000).
 **Governance:** Congregational — each local church is independently self-governing; the Convention itself has no authority to bind a local church's beliefs or practice, only to determine which churches are recognized as in "friendly cooperation" with it.
@@ -82,7 +117,308 @@ For each denomination, this section documents core doctrinal positions (view of 
 
 ---
 
-## 3. Presbyterian Church (U.S.A.) [PC(USA)]
+## 4. United Methodist Church (UMC)
+
+**U.S. adherents:** ~8,018,629 (2020 U.S. Religion Census).
+**Governance:** Connectional, episcopal; the General Conference is the church's top legislative body.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Scripture is primary among the "Wesleyan Quadrilateral" (Scripture, tradition, reason, experience), though not affirmed as inerrant in the stricter evangelical sense. |
+| Salvation | Wesleyan-Arminian theology — grace available to all, and capable of being resisted, in contrast to Calvinist traditions elsewhere in this section. |
+| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion all valid; sprinkling is customary. |
+| The Lord's Supper | A "means of grace" in the Wesleyan sense — more than a bare memorial, without the precision of transubstantiation; generally an "open table," available to all baptized Christians. |
+| Church government | Connectional, episcopal; the General Conference is the top legislative body. |
+| Eschatology | No specific end-times framework doctrinally mandated, consistent with the wider Wesleyan tradition. |
+| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
+| Women's ordination | Fully open; women ordained with full clergy rights since 1956. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | The Social Principles describe a "life-based" rather than "choice-based" ethic — reluctant to condone abortion generally, while supporting it as a legal option in specific, limited circumstances (danger to the mother's life, severe fetal abnormality, and similar tragic conflicts). | Official Social Principles |
+| Homosexuality | As of May 2024 (effective January 1, 2025), the General Conference removed the church's prior bans on the ordination of LGBTQ+ clergy and on clergy performing same-sex marriages — a major and recent reversal of the denomination's previous position (this is the exact change the Global Methodist Church separated over; see that entry). | Official General Conference action, 2024 |
+| Alcohol | Historic Methodist temperance heritage persists culturally, but is not a matter of current formal prohibition; use and overuse (drunkenness) are treated as separate questions, with drunkenness alone clearly condemned. | Cultural/historical, not current formal doctrine |
+| Divorce and remarriage | Permitted; the Social Principles express regret at the breaking of marriage vows while affirming pastoral support and the possibility of remarriage rather than treating divorce as categorically disqualifying. | Official Social Principles |
+| Contraception | No prohibition; treated as a matter of individual conscience within responsible family planning. | Official Social Principles |
+| Gambling | Officially opposed; the Social Principles specifically state the church's opposition to gambling, including state-sponsored lotteries, as a threat to Christian stewardship. | Official Social Principles |
+| Dancing | No doctrinal position; not treated as a moral category in current UMC teaching, though early Methodism historically discouraged it. | Historical, not current formal doctrine |
+| Premarital sex/cohabitation | The Social Principles call for fidelity within marriage and celibacy for those not married, though pastoral practice varies. | Official Social Principles |
+| War/pacifism | The Social Principles state that war is incompatible with the teachings of Christ and lean toward a strong presumption against war, while stopping short of mandating strict pacifism for all members. | Official Social Principles |
+| Death penalty | Officially opposed; the Social Principles call for the abolition of capital punishment. | Official Social Principles |
+
+---
+
+## 5. Church of Jesus Christ of Latter-day Saints (LDS/Mormon)
+
+**U.S. adherents:** ~6,721,031 (2020 U.S. Religion Census).
+**Governance:** A distinct restorationist tradition, not part of the wider Nicene Christian family in the way every other entry in this section is; hierarchical, led by a President ("prophet"), a Quorum of Twelve Apostles, and a lay priesthood open to worthy male members.
+**Scripture:** The Bible, alongside the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price, which the LDS Church holds as additional, equally authoritative scripture — a doctrinal distinctive that separates this body from every other tradition profiled in this section.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | The Bible (as far as translated correctly) plus three additional standard works held as equally authoritative scripture — a distinctive setting this body apart from every other tradition in this section. |
+| Salvation | A distinctive doctrine of salvation involving multiple degrees of eternal glory, achieved through grace combined with ordinances and obedience — theologically distinct from the Protestant/Catholic/Orthodox frameworks elsewhere in this section. |
+| Baptism | Full immersion only, performed at the "age of accountability" (8 years old), not in infancy; also performed vicariously on behalf of deceased ancestors in LDS temples. |
+| The Lord's Supper | A weekly sacrament of bread and water (not wine), understood memorially rather than as involving a change in the elements. |
+| Church government | Hierarchical; led by a President ("prophet"), a Quorum of Twelve Apostles, and a lay priesthood. |
+| Eschatology | A distinctive eschatology including a millennial reign of Christ and multiple degrees of post-resurrection glory; not aligned with the dispensational/covenantal frameworks used elsewhere in this section. |
+| Spiritual gifts | Affirms ongoing revelation, including through a living prophet, distinct from the continuationist/cessationist framework used to describe other traditions in this section. |
+| Women's ordination | Priesthood ordination reserved to worthy male members (extended to men of all races only since 1978); women do not hold priesthood office, though serve extensively in other leadership auxiliaries. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed except in cases of rape, incest, serious threat to the mother's life or health, or severe fetal defects incompatible with survival — a position with named exceptions, distinct from the Catholic Church's more categorical opposition. | Official Church guidance |
+| Homosexuality | Taught that same-sex romantic relationships and marriage are outside God's plan for the family; the Church does not perform same-sex marriages. Church guidance has distinguished attraction (not itself treated as sinful) from acting on it. | Official Church guidance |
+| Alcohol | Prohibited entirely (not merely regulated) under the LDS "Word of Wisdom" health code, along with tobacco, coffee, and tea — one of the very few bodies in this section, alongside Seventh-day Adventists, with a formal doctrinal prohibition on alcohol rather than a call to moderation or a caution against drunkenness alone. | Official doctrinal health code |
+| Divorce and remarriage | Discouraged but not prohibited; the Church counsels couples toward reconciliation and views marriage (particularly temple marriage, understood as eternal) as ideally permanent, while permitting divorce and remarriage in practice. | Official Church guidance |
+| Contraception | Not prohibited; decisions about family size and spacing are left to individual couples in consultation with prayer, a notable contrast to the Church's much stricter, formally codified position on alcohol and tobacco. | Official Church guidance |
+| Gambling | Opposed; official Church guidance counsels members to avoid gambling in all its forms, including lotteries. | Official Church guidance |
+| Dancing | Not prohibited; dancing is a traditional and actively encouraged part of LDS youth and community culture, with modesty guidelines for how it is conducted. | Official Church guidance and cultural practice |
+| Premarital sex/cohabitation | Opposed; chastity before marriage is a core expectation, formally part of the Church's "law of chastity." | Official Church doctrine |
+| War/pacifism | No mandated pacifism; military service is left to individual conscience, and the Church has generally supported members' service in national armed forces. | Official Church guidance |
+| Death penalty | No single official prohibition; historically the Church has left this to civil authority and individual conscience rather than taking a mandated doctrinal position. | General Church guidance, not a formal prohibition |
+
+---
+
+## 6. Evangelical Lutheran Church in America (ELCA)
+
+**U.S. adherents:** ~3,139,413 (2020 U.S. Religion Census); the largest Lutheran body in the U.S.
+**Governance:** Episcopal/synodical; the Churchwide Assembly is the highest legislative body.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Authoritative and "the Word of God," interpreted through the historic Lutheran confessions (Augsburg Confession), not affirmed as inerrant in the stricter evangelical sense. |
+| Salvation | Historic Lutheran doctrine of justification by grace through faith alone. |
+| Baptism | Infant baptism is the norm. **Mode:** pouring is customary, though not exclusively required. |
+| The Lord's Supper | Sacramental union — a real, though not transubstantiated, presence of Christ in, with, and under the bread and wine. |
+| Church government | Episcopal/synodical; the Churchwide Assembly is the highest legislative body. |
+| Eschatology | No specific end-times framework doctrinally mandated. |
+| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
+| Women's ordination | Fully open; women ordained since 1970. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | The ELCA's 1991 social statement describes abortion as a matter for careful moral discernment rather than a flatly forbidden or flatly permitted act, generally more permissive than the evangelical bodies in this section but qualified rather than unconditionally supportive. | Official 1991 social statement |
+| Homosexuality | The 2009 Churchwide Assembly adopted a social statement permitting (but not requiring) congregations to bless same-sex unions, and opened ordained ministry to partnered LGBTQ+ clergy the same year — decisions left to individual congregations and synods rather than mandated churchwide. | Official 2009 social statement |
+| Alcohol | No prohibition; moderate use accepted, consistent with historic Lutheran practice; drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted; the ELCA does not treat divorce as categorically disqualifying and generally supports remarriage, consistent with its broader pastoral, discernment-oriented approach. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
+| Gambling | A 1999 social message expressed significant concern about the societal harms of gambling, particularly state-sponsored gambling, without mandating individual abstinence. | Official 1999 social message |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No single mandated position; ELCA social statements on sexuality generally emphasize responsible, committed relationships over a categorical rule against cohabitation specifically. | General pattern, not a single confessional rule |
+| War/pacifism | The ELCA's social teaching draws on the just-war tradition while also giving weight to pacifism as a legitimate Christian vocation, holding the two in tension rather than mandating one. | Official social teaching |
+| Death penalty | The ELCA has officially opposed the death penalty since a 1991 social statement, calling instead for its abolition. | Official 1991 social statement |
+
+---
+
+## 7. Assemblies of God
+
+**U.S. adherents:** ~3,094,547 (2020 U.S. Religion Census); the largest Pentecostal denomination among predominantly white American churches.
+**Governance:** A hybrid of congregational and presbyterian elements, organized into districts under a General Council.
+**Origin:** Founded 1914, Hot Springs, Arkansas, growing out of the broader early Pentecostal revival movement.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Biblical inerrancy explicitly affirmed, consistent with broad Pentecostal evangelicalism. |
+| Salvation | Arminian-leaning evangelical soteriology, consistent with the wider Pentecostal-Holiness tradition. |
+| Baptism | Believer's baptism only, by full immersion. |
+| The Lord's Supper | Observed as an ordinance/memorial; not a defining doctrinal emphasis relative to this body's Pentecostal distinctives. |
+| Church government | Hybrid of congregational and presbyterian elements, organized into districts under a General Council. |
+| Eschatology | Premillennial and dispensationalist, consistent with much of the wider Pentecostal movement. |
+| Spiritual gifts | Explicitly continuationist and central to its identity — the denomination's founding and ongoing distinctive is the affirmation that all spiritual gifts, including speaking in tongues as initial evidence of Spirit baptism, remain active. |
+| Women's ordination | Women have been credentialed for ministry since the denomination's founding, and may be ordained as pastors, though most senior pastors historically have been men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed except to save the life of the mother. | Official position |
+| Homosexuality | Considered sinful; same-sex marriage not recognized. | Official position |
+| Alcohol | Official position counsels total abstinence, reflecting the broader Pentecostal-Holiness movement's historical temperance heritage, though (as throughout this section) this is distinguished from the near-universal Christian condemnation of drunkenness specifically. | Official position |
+| Divorce and remarriage | Permitted on biblical grounds (chiefly infidelity or abandonment), consistent with broad evangelical practice, though historically treated more restrictively for those in ministry leadership. | Official position paper |
+| Contraception | No formal prohibition; treated as a matter of individual conscience within marriage. | General practice, not formally addressed in position papers |
+| Gambling | Opposed; official position papers address gambling as inconsistent with Christian stewardship. | Official position paper |
+| Dancing | No formal position paper identified; historically discouraged in much of the wider Pentecostal-Holiness movement, though this has relaxed considerably. | Historical/cultural, not confirmed as current formal position |
+| Premarital sex/cohabitation | Opposed, consistent with broad evangelical sexual ethics. | Official position |
+| War/pacifism | No mandated pacifism; the denomination has historically supported military chaplaincy and members' service, while also respecting individual conscientious objection. | General practice |
+| Death penalty | No formal position paper identified. | Not identified |
+
+---
+
+## 8. Jehovah's Witnesses
+
+**U.S. adherents:** ~3,016,924 (2020 U.S. Religion Census).
+**Governance:** Highly centralized; led by the Governing Body, headquartered in Warwick, New York, publishing through the Watch Tower Bible and Tract Society.
+
+Jehovah's Witnesses hold beliefs distinct enough from every other body in this section that direct doctrinal comparison requires care.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Scripture is authoritative, interpreted through the Governing Body's own publications (notably the *Watchtower* and the denomination's own translation, the New World Translation). |
+| Salvation | A distinctive soteriology involving a limited number (144,000) of "anointed" heavenly rulers alongside a larger "great crowd" who will live forever on a restored earth, rather than the traditional Protestant/Catholic/Orthodox framework used elsewhere in this section. |
+| Baptism | Full immersion, for believers only; understood as a public declaration rather than a means of grace. |
+| The Lord's Supper | Observed once yearly (the "Memorial"), at which only those understood to be among the 144,000 "anointed" partake of the emblems themselves. |
+| Church government | Highly centralized; led by the Governing Body. |
+| Eschatology | A distinctive eschatology centered on an imminent Armageddon; explicitly non-Trinitarian (holding Jesus to be a created being, God's first creation, and the Holy Spirit to be God's active force rather than a person), and rejecting the doctrine of an immortal soul and the traditional Christian understanding of hell. |
+| Spiritual gifts | Not a defining doctrinal category in the way it is for Pentecostal traditions in this section. |
+| Women's ordination | There is no clergy class in the traditional sense; both men and women serve as evangelizers ("publishers"), though formal congregational oversight roles are reserved to men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed, treated as a violation of the biblical commandment against murder. | Official teaching |
+| Homosexuality | Considered sinful; same-sex marriage not recognized. | Official teaching |
+| Alcohol | Moderate use is permitted; drunkenness is explicitly condemned as a serious sin, a distinction the denomination's own literature draws directly, consistent with the pattern across nearly every tradition in this section. | Official teaching |
+| Divorce and remarriage | Divorce is permitted only on the grounds of adultery in the denomination's own doctrinal understanding of the biblical exception; remarriage after a divorce not on these grounds is treated as adultery. | Official teaching |
+| Contraception | Not prohibited; treated as a matter of individual conscience within marriage. | Official teaching |
+| Gambling | Opposed; official literature counsels against gambling in all forms, including lotteries, as inconsistent with a proper view of material provision. | Official teaching |
+| Dancing | Not categorically prohibited, though immodest or sexually suggestive dancing is discouraged; social dancing in moderation is generally permitted. | Official teaching |
+| Premarital sex/cohabitation | Opposed; chastity before marriage is a firm expectation, and unrepentant violation can result in formal disfellowshipping. | Official teaching |
+| War/pacifism | Strict political and military neutrality is a matter of core doctrine; Jehovah's Witnesses do not serve in the military or bear arms in any national conflict, one of the clearest pacifist positions of any body in this section. | Official doctrine |
+| Death penalty | No formal denominational statement identified; the strict church-state separation central to Witness doctrine generally keeps the denomination from taking positions on civil penal policy. | Not identified |
+
+---
+
+## 9. National Missionary Baptist Convention of America
+
+**U.S. adherents:** ~2,428,820 (2020 U.S. Religion Census) — one of the largest historically African-American Baptist conventions, formed in 1988 by a further division within the National Baptist Convention of America over control of the convention's publishing operations.
+**Governance:** Congregational, cooperating through a voluntary national convention structure, in the same general pattern as the Southern Baptist Convention and the other historically Black Baptist conventions profiled in this section (National Baptist Convention, USA, Inc.).
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Broadly evangelical, consistent with Baptist doctrine generally; no single confessional statement binds all member churches, given congregational governance. |
+| Salvation | Broadly evangelical; varies by congregation. |
+| Baptism | Believer's baptism by immersion only. |
+| The Lord's Supper | Memorial view, consistent with Baptist doctrine generally. |
+| Church government | Congregational, cooperating through a voluntary national convention structure. |
+| Eschatology | No single mandated position; varies by congregation. |
+| Spiritual gifts | No single mandated position; varies by congregation. |
+| Women's ordination | Closely paralleling the National Baptist Convention, USA, Inc. entry below; the office of pastor is generally understood as reserved to men in most affiliated congregations, though practice varies by local church given congregational governance. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
+| Homosexuality | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
+| Alcohol | Given this convention's congregational governance and the absence of a single confessional statement binding on all member churches (the same structural feature noted for the other historically Black Baptist conventions in this section), best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
+| Divorce and remarriage | Given this convention's congregational governance, best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently documented for this specific convention. | General pattern, not independently documented |
+| Contraception | Not independently documented for this specific convention. | Not identified |
+| Gambling | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
+| Dancing | Not independently documented for this specific convention. | Not identified |
+| Premarital sex/cohabitation | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
+| War/pacifism | Not independently documented for this specific convention. | Not identified |
+| Death penalty | Not independently documented for this specific convention. | Not identified |
+
+---
+
+## 10. Lutheran Church–Missouri Synod (LCMS)
+
+**U.S. adherents:** ~1,802,680 (2020 U.S. Religion Census); the second-largest Lutheran body in the U.S. and, doctrinally, the more theologically conservative counterpart to the ELCA.
+**Governance:** Congregational with synodical cooperation.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Biblical inerrancy affirmed, holding to the historic Book of Concord without the doctrinal revisions the ELCA has since made. |
+| Salvation | Historic Lutheran doctrine of justification by grace through faith alone. |
+| Baptism | Infant baptism is the norm. |
+| The Lord's Supper | Sacramental union — a real, though not transubstantiated, presence of Christ in, with, and under the bread and wine, consistent with confessional Lutheran doctrine. |
+| Church government | Congregational with synodical cooperation. |
+| Eschatology | No specific end-times framework doctrinally mandated. |
+| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
+| Women's ordination | Women are not ordained to the pastoral office, a position the LCMS has maintained even as the ELCA moved in the opposite direction — the clearest and most direct doctrinal contrast between two bodies sharing the same broad Lutheran heritage found anywhere in this section, alongside the UMC/GMC and PC(USA)/PCA pairs. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed with limited exception for direct threat to the mother's life. | Official position |
+| Homosexuality | In 2006 and again in 2010 (specifically in response to the ELCA's 2009 decision), the LCMS formally reaffirmed that homosexual conduct is contrary to Scripture "in any and all situations," explicitly declining to follow the ELCA's more permissive path and urging the ELCA to reconsider. | Official 2006/2010 resolutions |
+| Alcohol | No prohibition; moderate use accepted, consistent with confessional Lutheran tradition generally (Martin Luther himself was famously no proponent of abstinence); drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted on biblical grounds, consistent with confessional Lutheran teaching, while affirming marriage's intended permanence. | Confessional Lutheran teaching |
+| Contraception | No prohibition; treated as a matter of individual conscience within marriage, consistent with confessional Lutheran teaching generally. | General practice |
+| Gambling | No formal doctrinal statement identified; individual conscience is generally the operative standard in confessional Lutheran ethics for matters not directly addressed in the Book of Concord. | Not identified |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed, consistent with confessional Lutheran sexual ethics. | Confessional Lutheran teaching |
+| War/pacifism | Just-war tradition, consistent with confessional Lutheran teaching (Luther himself wrote in defense of the just use of the sword by civil authority). | Confessional Lutheran teaching |
+| Death penalty | No single official prohibition; confessional Lutheran teaching has historically recognized the civil authority's right to bear the sword, including capital punishment, though this is treated as a matter of civil rather than church authority. | Confessional Lutheran teaching |
+
+---
+
+## 11. Episcopal Church
+
+**U.S. adherents:** ~1,576,611 (2020 U.S. Religion Census).
+**Governance:** Episcopal, the U.S. member church of the worldwide Anglican Communion; governed by a General Convention (bishops and elected lay/clergy deputies) between which the Presiding Bishop and Executive Council carry on the church's work.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Holds Scripture, tradition, and reason together as sources of authority (the "three-legged stool" often associated with Anglican theological method), a notably different framework from the "Scripture alone" emphasis found in most evangelical bodies profiled in this section. |
+| Salvation | Broadly Reformed/Anglican in heritage, with wide latitude across the theological breadth of the Anglican Communion (from Anglo-Catholic to evangelical wings). |
+| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion. |
+| The Lord's Supper | The Eucharist, understood sacramentally, though without the doctrinal precision of transubstantiation; central to Sunday worship. |
+| Church government | Episcopal; the U.S. member church of the worldwide Anglican Communion. |
+| Eschatology | No specific end-times framework doctrinally mandated. |
+| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
+| Women's ordination | Fully open; women have been ordained as priests since 1976 (the last of the major mainline Protestant traditions to do so) and consecrated as bishops since 1989. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Official church statements have generally supported access to legal abortion while also affirming the sanctity of life and encouraging pastoral care and alternatives where appropriate — a position closer to the UMC's or ELCA's qualified statements than to a categorical prohibition. | Official General Convention statements |
+| Homosexuality | The Episcopal Church ordained an openly gay bishop in a same-sex relationship in 2003 (Gene Robinson, Bishop of New Hampshire) — among the earliest and most publicly significant such actions of any major U.S. denomination — and has since authorized formal liturgical rites for blessing and, later, performing same-sex marriages, as well as ordination without regard to sexual orientation. This is among the most consistently affirming positions of any body profiled in this section, alongside the United Church of Christ. | Official General Convention actions, 2003 onward |
+| Alcohol | No prohibition; moderate use accepted, consistent with the wider Anglican tradition; drunkenness alone is condemned. | General practice |
+| Divorce and remarriage | Permitted; the Episcopal Church revised its canons in 1973 to allow remarriage after divorce with a bishop's consent, moving away from a stricter historical Anglican position. | Official canon law, revised 1973 |
+| Contraception | Not prohibited; the Anglican Communion's 1930 Lambeth Conference was among the first major Christian bodies to formally permit contraception within marriage, a position the Episcopal Church has continued to hold. | Official teaching, since the 1930 Lambeth Conference |
+| Gambling | No single mandated position; General Convention statements have at times raised concerns about the societal effects of gambling without a categorical prohibition. | General Convention statements |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No categorical prohibition; Episcopal teaching generally emphasizes pastoral discernment over a fixed rule, consistent with its broader approach to personal ethical questions. | General teaching, wide latitude across the Anglican Communion's theological breadth |
+| War/pacifism | Just-war tradition, consistent with historic Anglican teaching, while also recognizing pacifism as a legitimate Christian vocation for individuals. | General Convention statements and historic Anglican teaching |
+| Death penalty | The Episcopal Church's General Convention has officially opposed the death penalty since 1958, one of the earliest and most consistent such positions among the mainline bodies in this section. | Official General Convention resolutions, since 1958 |
+
+---
+
+## 12. National Baptist Convention, USA, Inc.
+
+**U.S. adherents:** ~1,567,741 (2020 U.S. Religion Census); one of the largest historically African-American Baptist conventions.
+**Governance:** Congregational, cooperating through a voluntary national convention structure, similar in polity to the Southern Baptist Convention.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Broadly evangelical, consistent with Baptist doctrine generally; no single confessional statement binds all member churches, given congregational governance. |
+| Salvation | Broadly evangelical; varies by congregation. |
+| Baptism | Believer's baptism by immersion only. |
+| The Lord's Supper | Memorial view, consistent with Baptist doctrine generally. |
+| Church government | Congregational, cooperating through a voluntary national convention structure. |
+| Eschatology | No single mandated position; varies by congregation. |
+| Spiritual gifts | No single mandated position; varies by congregation. |
+| Women's ordination | The office of pastor is generally understood as reserved to men in most affiliated congregations, though (as a voluntary convention of autonomous churches rather than a body that can bind individual congregations) practice varies more by local church than in more centrally governed traditions. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Generally opposed, consistent with the convention's broadly evangelical theological orientation. | General pattern, not a single binding confessional statement |
+| Homosexuality | Generally considered sinful, consistent with the convention's broadly evangelical theological orientation, though (as a voluntary association of autonomous congregations) this is not enforced the way a confessional statement like the Baptist Faith and Message is for SBC churches. | General pattern, not a single binding confessional statement |
+| Alcohol | No single confessional position; historically, abstinence has been culturally significant in many historically Black Baptist congregations, though this varies by local church rather than being nationally mandated. | Cultural/historical, varies by congregation |
+| Divorce and remarriage | Generally permitted on biblical grounds, consistent with broad Baptist practice, though practice varies by local church given congregational governance. | General pattern, varies by congregation |
+| Contraception | No single confessional position; varies by congregation. | Not addressed at the convention level |
+| Gambling | Generally discouraged, consistent with the convention's broadly evangelical theological orientation, though not nationally mandated given congregational governance. | General pattern, not a single binding statement |
+| Dancing | No single confessional position; varies by congregation. | Not addressed at the convention level |
+| Premarital sex/cohabitation | Generally opposed, consistent with the convention's broadly evangelical theological orientation. | General pattern, not a single binding statement |
+| War/pacifism | No single confessional position; varies by congregation. | Not addressed at the convention level |
+| Death penalty | No single confessional position; varies by congregation. | Not addressed at the convention level |
+
+---
+
+## 13. Presbyterian Church (U.S.A.) [PC(USA)]
 
 **U.S. adherents:** ~1,491,775 (2020 U.S. Religion Census); PC(USA)'s own more recent reporting places active membership closer to 1.0–1.3 million as of 2024–2025, reflecting continued membership decline common across mainline denominations.
 **Governance:** Presbyterian (representative governance through elected elders, organized in ascending regional and national bodies — session, presbytery, synod, General Assembly).
@@ -118,383 +454,7 @@ For each denomination, this section documents core doctrinal positions (view of 
 
 ---
 
-## 4. Eastern Orthodox Church (combined U.S. jurisdictions)
-
-**U.S. adherents:** est. 800,000–1,000,000 combined across jurisdictions (Greek Orthodox Archdiocese of America, Antiochian Orthodox Christian Archdiocese, Orthodox Church in America, and others) — treated as one entry here because these jurisdictions share full doctrinal and sacramental communion with one another, differing administratively (often along historic ethnic lines) rather than theologically.
-**Governance:** Episcopal, organized into autonomous or semi-autonomous jurisdictions in the U.S., coordinated through the Assembly of Canonical Orthodox Bishops of the United States of America; no single U.S. Orthodox "denomination" exists in the way other entries in this section do.
-**Origin:** Traces continuous institutional and liturgical continuity to the undivided early church, formally distinct from Roman Catholicism since the mutual excommunications of 1054.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Scripture is authoritative, read and interpreted within and inseparably from Holy Tradition (the Church Fathers, the Ecumenical Councils, and the Church's continuous liturgical life). |
-| Salvation | *Theosis* (deification/union with God) is the central framework — salvation is described less in the West's forensic/legal terms and more as a lifelong process of transformation into the likeness of God, synergistic (involving both grace and human cooperation). |
-| Baptism | Infant baptism, immediately followed by chrismation (confirmation), understood to actually confer regenerating grace. **Mode:** triple immersion is the norm and considered integral to the sacrament's full symbolism (the candidate is immersed and raised three times, once at the invocation of each person of the Trinity); this is treated as important to the sacrament's meaning in a way most Western traditions do not insist on. |
-| The Lord's Supper | The Eucharist — the bread and wine are believed to become the actual body and blood of Christ, though Orthodoxy generally declines to define the "how" as precisely as the Western term *transubstantiation* does, treating it as sacred mystery. |
-| Church government | Episcopal; a communion of self-governing (autocephalous) national/regional churches in full sacramental unity, without a single earthly head (the Ecumenical Patriarch of Constantinople holds a primacy of honor, not of universal jurisdiction). |
-| Eschatology | No detailed end-times timeline is doctrinally defined; affirms Christ's return, final judgment, and bodily resurrection as creedal essentials, generally without the more specific frameworks (dispensationalism, etc.) found in some Western Protestant traditions. |
-| Spiritual gifts | Not a defining doctrinal category in the way it is in Pentecostal/charismatic traditions; the miraculous is affirmed as ongoing (particularly through the lives of saints) without organizing around a cessationist/continuationist framework. |
-| Women's ordination | Reserved to men for the priesthood and episcopate; women may serve as deaconesses in some jurisdictions (a role with historical precedent currently being revisited in parts of the Orthodox world), and extensively in monastic, catechetical, and lay leadership roles. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed; official statements describe human life as sacred and inviolable from conception. | Official statements (e.g., Assembly of Canonical Orthodox Bishops of the United States) |
-| Homosexuality | Considered sinful; official statements place it alongside other sexual sins condemned in Scripture. Same-sex marriage is not performed or recognized. | Official statements (Greek Orthodox Archdiocese; Assembly of Canonical Orthodox Bishops) |
-| Alcohol | Moderate use is not prohibited; wine is integral to the Eucharist. Orthodox fasting rules (extensive and regularly observed, unlike in most Western traditions) restrict solid food more than drink, though some strict fasting periods do include abstention from wine specifically. Drunkenness itself, distinct from use, is treated as a real sin requiring confession. | Longstanding liturgical practice |
-| Divorce and remarriage | Uniquely among the traditions in this section, Orthodoxy permits remarriage after divorce (up to a third marriage) through the principle of *economia* (pastoral accommodation to human weakness), while treating a first marriage as the ideal; a second or third marriage is solemnized with a more penitential liturgical rite than the first. | Longstanding canonical practice (economia) |
-| Contraception | Genuinely divided and actively discussed: some Orthodox jurisdictions and theologians permit non-abortifacient contraception within marriage under a spiritual father's guidance as a pastoral accommodation, not a permanent ideal; others hold a more restrictive, Catholic-adjacent position. This is treated as a pastoral rather than dogmatic question. | Varies by jurisdiction and spiritual father; not a single dogmatic position |
-| Gambling | No formal doctrinal position; addressed pastorally, if at all, under general principles against excess. | Not a matter of official teaching |
-| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
-| Premarital sex/cohabitation | Opposed; chastity outside marriage is expected, consistent with the Church's sacramental view of marriage. | Official teaching |
-| War/pacifism | No single mandated position; historically closer to a just-war framework, though war is treated as a tragic necessity rather than a moral good, and some canonical traditions historically imposed penance on soldiers who killed even in a just cause. | Historical canonical tradition, not a single formal doctrine |
-| Death penalty | No single mandated position across jurisdictions; generally treated with more caution than support in contemporary statements, without the same formal, unified 2018-style revision the Catholic Church has made. | Varies by jurisdiction, not a single formal doctrine |
-
-**Note on consistency across jurisdictions:** Because Orthodox practice is mediated substantially through the relationship between an individual and their spiritual father/confessor, actual pastoral application of these positions (especially around sacramental access) can vary meaningfully by parish and jurisdiction even where doctrine itself does not.
-
----
-
-## 5. Global Methodist Church (GMC)
-
-**U.S. congregations:** ~7,000 self-reported (as of 2025); a newly formed denomination, not yet captured in the 2020 Religion Census, which predates its founding.
-**Governance:** Connectional, with a modified episcopal polity — bishops serve fixed terms rather than for life, a deliberate departure from the United Methodist model.
-**Origin:** Formed May 1, 2022, by clergy and congregations disaffiliating from the United Methodist Church, explicitly over disagreement regarding the ordination of non-celibate gay clergy and the recognition of same-sex marriage. Its permanent Book of Doctrines and Discipline was adopted at its first General Conference (Costa Rica, September 2024) and took effect January 1, 2025.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Affirms Scripture contains "all that is necessary for salvation"; historically Wesleyan in emphasizing Scripture read alongside tradition, reason, and experience (the "Wesleyan Quadrilateral"), while placing greater emphasis on Scripture's primacy than its parent denomination's recent trajectory. |
-| Salvation | Wesleyan-Arminian — salvation is available to all through grace, and can, in classic Wesleyan theology, be resisted or forfeited (in contrast to Calvinist traditions' view of the perseverance of the elect). |
-| Baptism | Both infant and believer's baptism practiced and recognized, consistent with historic Methodist practice. **Mode:** the GMC's founding documents explicitly permit sprinkling, pouring, or immersion, all equally valid; sprinkling is the most customary practice in Methodism generally, though immersion is available on request. |
-| The Lord's Supper | A means of grace in the Wesleyan sense — more than a bare memorial, without defining the mode as precisely as transubstantiation; open to baptized Christians generally ("open table"), consistent with Methodist tradition. |
-| Church government | Connectional; a modified episcopal system with term-limited bishops and a Connectional Council, explicitly designed to increase clergy and laity accountability relative to the UMC's structure. |
-| Eschatology | No specific end-times framework doctrinally mandated; historically Wesleyan traditions have not centered a particular millennial view. |
-| Spiritual gifts | No cessationist/continuationist position specified in its foundational documents; not a defining doctrinal emphasis. |
-| Women's ordination | Fully open — the GMC ordains both women and men as clergy, continuing historic Methodism's comparatively early and consistent practice of women's ordination (a position it did not revise in separating from the UMC). |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed, consistent with the broader traditionalist Methodist coalition that formed the GMC. | Book of Doctrines and Discipline |
-| Homosexuality / same-sex marriage | Marriage affirmed as between one man and one woman; the ordination of non-celibate gay clergy and the performance of same-sex marriages are both the specific points of disagreement that caused the GMC to separate from the UMC in the first place. | Book of Doctrines and Discipline; founding rationale |
-| Alcohol | Historic Methodism carried a strong temperance tradition (John Wesley himself warned against distilled spirits specifically, though not against fermented drink as such); this cultural association persists to some degree, though the GMC's founding documents are primarily focused on the sexuality and ordination questions rather than restating a formal abstinence rule. Drunkenness itself is condemned regardless of the use/abstinence question, consistent with the wider Christian tradition. | Historical/cultural tradition, not confirmed as a current formal GMC rule |
-| Divorce and remarriage | No specific restriction beyond general pastoral care; consistent with the broader Wesleyan tradition's practice of permitting remarriage. | General practice |
-| Contraception | No prohibition; treated as a matter of individual conscience within marriage. | General practice |
-| Gambling | No specific confessional statement identified; the GMC's founding documents focus primarily on the sexuality and ordination questions that caused its separation from the UMC. | Not identified |
-| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
-| Premarital sex/cohabitation | Opposed, consistent with the GMC's traditionalist sexual ethic generally. | Book of Doctrines and Discipline |
-| War/pacifism | No specific position identified; not a focus of the GMC's founding documents. | Not identified |
-| Death penalty | No specific position identified. | Not identified |
-
-**The UMC/GMC split, side by side:** As of January 1, 2025, the United Methodist Church (the body the GMC separated from) now permits both the ordination of LGBTQ+ clergy and the performance of same-sex marriages — the GMC was formed specifically to continue the position the UMC has since changed. Presenting both bodies (a future entry will cover the UMC itself) side by side is intended to make this live, recent split visible rather than treat "Methodist" as one uniform position.
-
----
-
-## 6. Non-denominational Christian Churches
-
-**U.S. adherents:** ~21,095,641 (2020 U.S. Religion Census) — the second-largest Christian grouping in the country, encompassing thousands of independent congregations rather than one organized body.
-**Governance:** Congregational; by definition, not affiliated with any denominational hierarchy, though many voluntarily network through associations (e.g., the Association of Related Churches).
-
-Because this category spans thousands of independent congregations, no single doctrinal or confessional statement applies the way it does for the other entries in this section. The summary below describes the general pattern most common among U.S. non-denominational churches, not an enforceable, uniform position.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Most hold to some form of biblical inerrancy or high view of Scripture's authority, consistent with broad evangelicalism, though no single confessional statement binds all congregations under this label. |
-| Salvation | Predominantly evangelical/Arminian-leaning in practice, though this varies by congregation; no single confessional position. |
-| Baptism | Generally believer's baptism by immersion, the most common practice among non-denominational churches, though this varies by congregation. |
-| The Lord's Supper | Generally a memorial view, consistent with broad evangelical practice, though this varies by congregation. |
-| Church government | Congregational, by definition. |
-| Eschatology | No single position; varies by congregation. |
-| Spiritual gifts | Ranges widely from cessationist to continuationist depending on the specific congregation's tradition of origin. |
-| Women's ordination | Varies considerably by congregation; no single position. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | The large majority of non-denominational churches, being predominantly evangelical in orientation, oppose abortion, though this is a general pattern rather than an enforceable position given the absence of a confessional body. | General pattern, not a confessional statement |
-| Homosexuality | The large majority hold same-sex marriage to be outside biblical teaching, though, as above, this is a general pattern rather than a uniform, enforceable position. | General pattern, not a confessional statement |
-| Alcohol | No single position; varies by congregation, consistent with the absence of any binding confessional statement for this category as a whole. | Not applicable — no confessional body |
-| Divorce and remarriage | Varies considerably by congregation; most permit remarriage on some biblical grounds, consistent with broad evangelical practice, though there is no confessional body to survey for a uniform position. | General pattern, not a confessional statement |
-| Contraception | No single position; varies by congregation. | Not applicable — no confessional body |
-| Gambling | Generally discouraged among conservative evangelical congregations, though this varies and is not uniformly mandated. | General pattern, not a confessional statement |
-| Dancing | No single position; varies considerably by congregation. | Not applicable — no confessional body |
-| Premarital sex/cohabitation | The large majority of non-denominational churches, being predominantly evangelical, oppose both, though this is a general pattern rather than an enforceable position. | General pattern, not a confessional statement |
-| War/pacifism | No single position; varies by congregation. | Not applicable — no confessional body |
-| Death penalty | No single position; varies by congregation. | Not applicable — no confessional body |
-
----
-
-## 7. United Methodist Church (UMC)
-
-**U.S. adherents:** ~8,018,629 (2020 U.S. Religion Census).
-**Governance:** Connectional, episcopal; the General Conference is the church's top legislative body.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Scripture is primary among the "Wesleyan Quadrilateral" (Scripture, tradition, reason, experience), though not affirmed as inerrant in the stricter evangelical sense. |
-| Salvation | Wesleyan-Arminian theology — grace available to all, and capable of being resisted, in contrast to Calvinist traditions elsewhere in this section. |
-| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion all valid; sprinkling is customary. |
-| The Lord's Supper | A "means of grace" in the Wesleyan sense — more than a bare memorial, without the precision of transubstantiation; generally an "open table," available to all baptized Christians. |
-| Church government | Connectional, episcopal; the General Conference is the top legislative body. |
-| Eschatology | No specific end-times framework doctrinally mandated, consistent with the wider Wesleyan tradition. |
-| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
-| Women's ordination | Fully open; women ordained with full clergy rights since 1956. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | The Social Principles describe a "life-based" rather than "choice-based" ethic — reluctant to condone abortion generally, while supporting it as a legal option in specific, limited circumstances (danger to the mother's life, severe fetal abnormality, and similar tragic conflicts). | Official Social Principles |
-| Homosexuality | As of May 2024 (effective January 1, 2025), the General Conference removed the church's prior bans on the ordination of LGBTQ+ clergy and on clergy performing same-sex marriages — a major and recent reversal of the denomination's previous position (this is the exact change the Global Methodist Church separated over; see that entry). | Official General Conference action, 2024 |
-| Alcohol | Historic Methodist temperance heritage persists culturally, but is not a matter of current formal prohibition; use and overuse (drunkenness) are treated as separate questions, with drunkenness alone clearly condemned. | Cultural/historical, not current formal doctrine |
-| Divorce and remarriage | Permitted; the Social Principles express regret at the breaking of marriage vows while affirming pastoral support and the possibility of remarriage rather than treating divorce as categorically disqualifying. | Official Social Principles |
-| Contraception | No prohibition; treated as a matter of individual conscience within responsible family planning. | Official Social Principles |
-| Gambling | Officially opposed; the Social Principles specifically state the church's opposition to gambling, including state-sponsored lotteries, as a threat to Christian stewardship. | Official Social Principles |
-| Dancing | No doctrinal position; not treated as a moral category in current UMC teaching, though early Methodism historically discouraged it. | Historical, not current formal doctrine |
-| Premarital sex/cohabitation | The Social Principles call for fidelity within marriage and celibacy for those not married, though pastoral practice varies. | Official Social Principles |
-| War/pacifism | The Social Principles state that war is incompatible with the teachings of Christ and lean toward a strong presumption against war, while stopping short of mandating strict pacifism for all members. | Official Social Principles |
-| Death penalty | Officially opposed; the Social Principles call for the abolition of capital punishment. | Official Social Principles |
-
----
-
-## 8. Church of Jesus Christ of Latter-day Saints (LDS/Mormon)
-
-**U.S. adherents:** ~6,721,031 (2020 U.S. Religion Census).
-**Governance:** A distinct restorationist tradition, not part of the wider Nicene Christian family in the way every other entry in this section is; hierarchical, led by a President ("prophet"), a Quorum of Twelve Apostles, and a lay priesthood open to worthy male members.
-**Scripture:** The Bible, alongside the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price, which the LDS Church holds as additional, equally authoritative scripture — a doctrinal distinctive that separates this body from every other tradition profiled in this section.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | The Bible (as far as translated correctly) plus three additional standard works held as equally authoritative scripture — a distinctive setting this body apart from every other tradition in this section. |
-| Salvation | A distinctive doctrine of salvation involving multiple degrees of eternal glory, achieved through grace combined with ordinances and obedience — theologically distinct from the Protestant/Catholic/Orthodox frameworks elsewhere in this section. |
-| Baptism | Full immersion only, performed at the "age of accountability" (8 years old), not in infancy; also performed vicariously on behalf of deceased ancestors in LDS temples. |
-| The Lord's Supper | A weekly sacrament of bread and water (not wine), understood memorially rather than as involving a change in the elements. |
-| Church government | Hierarchical; led by a President ("prophet"), a Quorum of Twelve Apostles, and a lay priesthood. |
-| Eschatology | A distinctive eschatology including a millennial reign of Christ and multiple degrees of post-resurrection glory; not aligned with the dispensational/covenantal frameworks used elsewhere in this section. |
-| Spiritual gifts | Affirms ongoing revelation, including through a living prophet, distinct from the continuationist/cessationist framework used to describe other traditions in this section. |
-| Women's ordination | Priesthood ordination reserved to worthy male members (extended to men of all races only since 1978); women do not hold priesthood office, though serve extensively in other leadership auxiliaries. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed except in cases of rape, incest, serious threat to the mother's life or health, or severe fetal defects incompatible with survival — a position with named exceptions, distinct from the Catholic Church's more categorical opposition. | Official Church guidance |
-| Homosexuality | Taught that same-sex romantic relationships and marriage are outside God's plan for the family; the Church does not perform same-sex marriages. Church guidance has distinguished attraction (not itself treated as sinful) from acting on it. | Official Church guidance |
-| Alcohol | Prohibited entirely (not merely regulated) under the LDS "Word of Wisdom" health code, along with tobacco, coffee, and tea — one of the very few bodies in this section, alongside Seventh-day Adventists, with a formal doctrinal prohibition on alcohol rather than a call to moderation or a caution against drunkenness alone. | Official doctrinal health code |
-| Divorce and remarriage | Discouraged but not prohibited; the Church counsels couples toward reconciliation and views marriage (particularly temple marriage, understood as eternal) as ideally permanent, while permitting divorce and remarriage in practice. | Official Church guidance |
-| Contraception | Not prohibited; decisions about family size and spacing are left to individual couples in consultation with prayer, a notable contrast to the Church's much stricter, formally codified position on alcohol and tobacco. | Official Church guidance |
-| Gambling | Opposed; official Church guidance counsels members to avoid gambling in all its forms, including lotteries. | Official Church guidance |
-| Dancing | Not prohibited; dancing is a traditional and actively encouraged part of LDS youth and community culture, with modesty guidelines for how it is conducted. | Official Church guidance and cultural practice |
-| Premarital sex/cohabitation | Opposed; chastity before marriage is a core expectation, formally part of the Church's "law of chastity." | Official Church doctrine |
-| War/pacifism | No mandated pacifism; military service is left to individual conscience, and the Church has generally supported members' service in national armed forces. | Official Church guidance |
-| Death penalty | No single official prohibition; historically the Church has left this to civil authority and individual conscience rather than taking a mandated doctrinal position. | General Church guidance, not a formal prohibition |
-
----
-
-## 9. Church of God in Christ (COGIC)
-
-**U.S. adherents:** ~6,500,000 (denomination-reported); the largest Pentecostal denomination in the U.S. and the largest historically African-American Pentecostal body.
-**Governance:** Episcopal; led by a Presiding Bishop (John Drew Sheard Sr. as of this writing).
-**Origin:** Founded by Charles Harrison Mason, incorporated 1907, following the Azusa Street Revival; headquartered in Memphis, Tennessee.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Biblical inerrancy affirmed, consistent with broad Holiness-Pentecostal evangelicalism. |
-| Salvation | Wesleyan-Holiness soteriology, including an emphasis on entire sanctification as a distinct work of grace following conversion. |
-| Baptism | Believer's baptism by full immersion. |
-| The Lord's Supper | Observed as an ordinance; not a defining doctrinal emphasis relative to this body's strong Pentecostal distinctives. |
-| Church government | Episcopal; led by a Presiding Bishop. |
-| Eschatology | No single mandated framework; broadly consistent with the wider Pentecostal-Holiness movement's historic premillennial leanings. |
-| Spiritual gifts | Continuationist; affirms ongoing spiritual gifts, including tongues, as central to its Pentecostal identity, in contrast to most other bodies in this section. |
-| Women's ordination | Women are not ordained as ministers, elders, or bishops — the denomination maintains a parallel, extensive Women's Department (its largest department) led by a General Supervisor, giving women substantial institutional leadership roles short of ordination itself, a real point of internal tension acknowledged within COGIC's own scholarship and membership. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed as contrary to Christian ethics, with narrow allowance for medical necessity; COGIC has partnered with anti-abortion advocacy organizations in its own outreach ministries. | Official teaching and documented denominational partnerships |
-| Homosexuality | Considered sinful, consistent with COGIC's broader Holiness theological framework. | Official teaching |
-| Alcohol | The Holiness tradition COGIC belongs to has historically counseled abstinence as a matter of personal holiness and separation from worldly practice, distinct from (though related to) the specific doctrinal prohibitions found in LDS or Adventist teaching. | Holiness tradition, cultural/historical |
-| Divorce and remarriage | Historically discouraged, consistent with COGIC's Holiness theological framework, though practice and pastoral response have evolved considerably over the denomination's history. | Holiness tradition, general pattern |
-| Contraception | No formal doctrinal statement identified. | Not identified |
-| Gambling | Opposed, consistent with COGIC's broader Holiness ethic of separation from worldly practice. | Holiness tradition |
-| Dancing | Historically discouraged as part of the Holiness movement's broader ethic of separation from worldly entertainment, though practice has relaxed considerably in many congregations. | Holiness tradition, cultural/historical |
-| Premarital sex/cohabitation | Opposed, consistent with COGIC's Holiness theological framework. | Official teaching |
-| War/pacifism | No formal doctrinal statement identified. | Not identified |
-| Death penalty | No formal doctrinal statement identified. | Not identified |
-
----
-
-## 10. Evangelical Lutheran Church in America (ELCA)
-
-**U.S. adherents:** ~3,139,413 (2020 U.S. Religion Census); the largest Lutheran body in the U.S.
-**Governance:** Episcopal/synodical; the Churchwide Assembly is the highest legislative body.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Authoritative and "the Word of God," interpreted through the historic Lutheran confessions (Augsburg Confession), not affirmed as inerrant in the stricter evangelical sense. |
-| Salvation | Historic Lutheran doctrine of justification by grace through faith alone. |
-| Baptism | Infant baptism is the norm. **Mode:** pouring is customary, though not exclusively required. |
-| The Lord's Supper | Sacramental union — a real, though not transubstantiated, presence of Christ in, with, and under the bread and wine. |
-| Church government | Episcopal/synodical; the Churchwide Assembly is the highest legislative body. |
-| Eschatology | No specific end-times framework doctrinally mandated. |
-| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
-| Women's ordination | Fully open; women ordained since 1970. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | The ELCA's 1991 social statement describes abortion as a matter for careful moral discernment rather than a flatly forbidden or flatly permitted act, generally more permissive than the evangelical bodies in this section but qualified rather than unconditionally supportive. | Official 1991 social statement |
-| Homosexuality | The 2009 Churchwide Assembly adopted a social statement permitting (but not requiring) congregations to bless same-sex unions, and opened ordained ministry to partnered LGBTQ+ clergy the same year — decisions left to individual congregations and synods rather than mandated churchwide. | Official 2009 social statement |
-| Alcohol | No prohibition; moderate use accepted, consistent with historic Lutheran practice; drunkenness alone is condemned. | General practice |
-| Divorce and remarriage | Permitted; the ELCA does not treat divorce as categorically disqualifying and generally supports remarriage, consistent with its broader pastoral, discernment-oriented approach. | General practice |
-| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
-| Gambling | A 1999 social message expressed significant concern about the societal harms of gambling, particularly state-sponsored gambling, without mandating individual abstinence. | Official 1999 social message |
-| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
-| Premarital sex/cohabitation | No single mandated position; ELCA social statements on sexuality generally emphasize responsible, committed relationships over a categorical rule against cohabitation specifically. | General pattern, not a single confessional rule |
-| War/pacifism | The ELCA's social teaching draws on the just-war tradition while also giving weight to pacifism as a legitimate Christian vocation, holding the two in tension rather than mandating one. | Official social teaching |
-| Death penalty | The ELCA has officially opposed the death penalty since a 1991 social statement, calling instead for its abolition. | Official 1991 social statement |
-
----
-
-## 11. Assemblies of God
-
-**U.S. adherents:** ~3,094,547 (2020 U.S. Religion Census); the largest Pentecostal denomination among predominantly white American churches.
-**Governance:** A hybrid of congregational and presbyterian elements, organized into districts under a General Council.
-**Origin:** Founded 1914, Hot Springs, Arkansas, growing out of the broader early Pentecostal revival movement.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Biblical inerrancy explicitly affirmed, consistent with broad Pentecostal evangelicalism. |
-| Salvation | Arminian-leaning evangelical soteriology, consistent with the wider Pentecostal-Holiness tradition. |
-| Baptism | Believer's baptism only, by full immersion. |
-| The Lord's Supper | Observed as an ordinance/memorial; not a defining doctrinal emphasis relative to this body's Pentecostal distinctives. |
-| Church government | Hybrid of congregational and presbyterian elements, organized into districts under a General Council. |
-| Eschatology | Premillennial and dispensationalist, consistent with much of the wider Pentecostal movement. |
-| Spiritual gifts | Explicitly continuationist and central to its identity — the denomination's founding and ongoing distinctive is the affirmation that all spiritual gifts, including speaking in tongues as initial evidence of Spirit baptism, remain active. |
-| Women's ordination | Women have been credentialed for ministry since the denomination's founding, and may be ordained as pastors, though most senior pastors historically have been men. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed except to save the life of the mother. | Official position |
-| Homosexuality | Considered sinful; same-sex marriage not recognized. | Official position |
-| Alcohol | Official position counsels total abstinence, reflecting the broader Pentecostal-Holiness movement's historical temperance heritage, though (as throughout this section) this is distinguished from the near-universal Christian condemnation of drunkenness specifically. | Official position |
-| Divorce and remarriage | Permitted on biblical grounds (chiefly infidelity or abandonment), consistent with broad evangelical practice, though historically treated more restrictively for those in ministry leadership. | Official position paper |
-| Contraception | No formal prohibition; treated as a matter of individual conscience within marriage. | General practice, not formally addressed in position papers |
-| Gambling | Opposed; official position papers address gambling as inconsistent with Christian stewardship. | Official position paper |
-| Dancing | No formal position paper identified; historically discouraged in much of the wider Pentecostal-Holiness movement, though this has relaxed considerably. | Historical/cultural, not confirmed as current formal position |
-| Premarital sex/cohabitation | Opposed, consistent with broad evangelical sexual ethics. | Official position |
-| War/pacifism | No mandated pacifism; the denomination has historically supported military chaplaincy and members' service, while also respecting individual conscientious objection. | General practice |
-| Death penalty | No formal position paper identified. | Not identified |
-
----
-
-## 12. Jehovah's Witnesses
-
-**U.S. adherents:** ~3,016,924 (2020 U.S. Religion Census).
-**Governance:** Highly centralized; led by the Governing Body, headquartered in Warwick, New York, publishing through the Watch Tower Bible and Tract Society.
-
-Jehovah's Witnesses hold beliefs distinct enough from every other body in this section that direct doctrinal comparison requires care.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Scripture is authoritative, interpreted through the Governing Body's own publications (notably the *Watchtower* and the denomination's own translation, the New World Translation). |
-| Salvation | A distinctive soteriology involving a limited number (144,000) of "anointed" heavenly rulers alongside a larger "great crowd" who will live forever on a restored earth, rather than the traditional Protestant/Catholic/Orthodox framework used elsewhere in this section. |
-| Baptism | Full immersion, for believers only; understood as a public declaration rather than a means of grace. |
-| The Lord's Supper | Observed once yearly (the "Memorial"), at which only those understood to be among the 144,000 "anointed" partake of the emblems themselves. |
-| Church government | Highly centralized; led by the Governing Body. |
-| Eschatology | A distinctive eschatology centered on an imminent Armageddon; explicitly non-Trinitarian (holding Jesus to be a created being, God's first creation, and the Holy Spirit to be God's active force rather than a person), and rejecting the doctrine of an immortal soul and the traditional Christian understanding of hell. |
-| Spiritual gifts | Not a defining doctrinal category in the way it is for Pentecostal traditions in this section. |
-| Women's ordination | There is no clergy class in the traditional sense; both men and women serve as evangelizers ("publishers"), though formal congregational oversight roles are reserved to men. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed, treated as a violation of the biblical commandment against murder. | Official teaching |
-| Homosexuality | Considered sinful; same-sex marriage not recognized. | Official teaching |
-| Alcohol | Moderate use is permitted; drunkenness is explicitly condemned as a serious sin, a distinction the denomination's own literature draws directly, consistent with the pattern across nearly every tradition in this section. | Official teaching |
-| Divorce and remarriage | Divorce is permitted only on the grounds of adultery in the denomination's own doctrinal understanding of the biblical exception; remarriage after a divorce not on these grounds is treated as adultery. | Official teaching |
-| Contraception | Not prohibited; treated as a matter of individual conscience within marriage. | Official teaching |
-| Gambling | Opposed; official literature counsels against gambling in all forms, including lotteries, as inconsistent with a proper view of material provision. | Official teaching |
-| Dancing | Not categorically prohibited, though immodest or sexually suggestive dancing is discouraged; social dancing in moderation is generally permitted. | Official teaching |
-| Premarital sex/cohabitation | Opposed; chastity before marriage is a firm expectation, and unrepentant violation can result in formal disfellowshipping. | Official teaching |
-| War/pacifism | Strict political and military neutrality is a matter of core doctrine; Jehovah's Witnesses do not serve in the military or bear arms in any national conflict, one of the clearest pacifist positions of any body in this section. | Official doctrine |
-| Death penalty | No formal denominational statement identified; the strict church-state separation central to Witness doctrine generally keeps the denomination from taking positions on civil penal policy. | Not identified |
-
----
-
-## 13. Lutheran Church–Missouri Synod (LCMS)
-
-**U.S. adherents:** ~1,802,680 (2020 U.S. Religion Census); the second-largest Lutheran body in the U.S. and, doctrinally, the more theologically conservative counterpart to the ELCA.
-**Governance:** Congregational with synodical cooperation.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Biblical inerrancy affirmed, holding to the historic Book of Concord without the doctrinal revisions the ELCA has since made. |
-| Salvation | Historic Lutheran doctrine of justification by grace through faith alone. |
-| Baptism | Infant baptism is the norm. |
-| The Lord's Supper | Sacramental union — a real, though not transubstantiated, presence of Christ in, with, and under the bread and wine, consistent with confessional Lutheran doctrine. |
-| Church government | Congregational with synodical cooperation. |
-| Eschatology | No specific end-times framework doctrinally mandated. |
-| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
-| Women's ordination | Women are not ordained to the pastoral office, a position the LCMS has maintained even as the ELCA moved in the opposite direction — the clearest and most direct doctrinal contrast between two bodies sharing the same broad Lutheran heritage found anywhere in this section, alongside the UMC/GMC and PC(USA)/PCA pairs. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed with limited exception for direct threat to the mother's life. | Official position |
-| Homosexuality | In 2006 and again in 2010 (specifically in response to the ELCA's 2009 decision), the LCMS formally reaffirmed that homosexual conduct is contrary to Scripture "in any and all situations," explicitly declining to follow the ELCA's more permissive path and urging the ELCA to reconsider. | Official 2006/2010 resolutions |
-| Alcohol | No prohibition; moderate use accepted, consistent with confessional Lutheran tradition generally (Martin Luther himself was famously no proponent of abstinence); drunkenness alone is condemned. | General practice |
-| Divorce and remarriage | Permitted on biblical grounds, consistent with confessional Lutheran teaching, while affirming marriage's intended permanence. | Confessional Lutheran teaching |
-| Contraception | No prohibition; treated as a matter of individual conscience within marriage, consistent with confessional Lutheran teaching generally. | General practice |
-| Gambling | No formal doctrinal statement identified; individual conscience is generally the operative standard in confessional Lutheran ethics for matters not directly addressed in the Book of Concord. | Not identified |
-| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
-| Premarital sex/cohabitation | Opposed, consistent with confessional Lutheran sexual ethics. | Confessional Lutheran teaching |
-| War/pacifism | Just-war tradition, consistent with confessional Lutheran teaching (Luther himself wrote in defense of the just use of the sword by civil authority). | Confessional Lutheran teaching |
-| Death penalty | No single official prohibition; confessional Lutheran teaching has historically recognized the civil authority's right to bear the sword, including capital punishment, though this is treated as a matter of civil rather than church authority. | Confessional Lutheran teaching |
-
----
-
-## 14. National Baptist Convention, USA, Inc.
-
-**U.S. adherents:** ~1,567,741 (2020 U.S. Religion Census); one of the largest historically African-American Baptist conventions.
-**Governance:** Congregational, cooperating through a voluntary national convention structure, similar in polity to the Southern Baptist Convention.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Broadly evangelical, consistent with Baptist doctrine generally; no single confessional statement binds all member churches, given congregational governance. |
-| Salvation | Broadly evangelical; varies by congregation. |
-| Baptism | Believer's baptism by immersion only. |
-| The Lord's Supper | Memorial view, consistent with Baptist doctrine generally. |
-| Church government | Congregational, cooperating through a voluntary national convention structure. |
-| Eschatology | No single mandated position; varies by congregation. |
-| Spiritual gifts | No single mandated position; varies by congregation. |
-| Women's ordination | The office of pastor is generally understood as reserved to men in most affiliated congregations, though (as a voluntary convention of autonomous churches rather than a body that can bind individual congregations) practice varies more by local church than in more centrally governed traditions. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Generally opposed, consistent with the convention's broadly evangelical theological orientation. | General pattern, not a single binding confessional statement |
-| Homosexuality | Generally considered sinful, consistent with the convention's broadly evangelical theological orientation, though (as a voluntary association of autonomous congregations) this is not enforced the way a confessional statement like the Baptist Faith and Message is for SBC churches. | General pattern, not a single binding confessional statement |
-| Alcohol | No single confessional position; historically, abstinence has been culturally significant in many historically Black Baptist congregations, though this varies by local church rather than being nationally mandated. | Cultural/historical, varies by congregation |
-| Divorce and remarriage | Generally permitted on biblical grounds, consistent with broad Baptist practice, though practice varies by local church given congregational governance. | General pattern, varies by congregation |
-| Contraception | No single confessional position; varies by congregation. | Not addressed at the convention level |
-| Gambling | Generally discouraged, consistent with the convention's broadly evangelical theological orientation, though not nationally mandated given congregational governance. | General pattern, not a single binding statement |
-| Dancing | No single confessional position; varies by congregation. | Not addressed at the convention level |
-| Premarital sex/cohabitation | Generally opposed, consistent with the convention's broadly evangelical theological orientation. | General pattern, not a single binding statement |
-| War/pacifism | No single confessional position; varies by congregation. | Not addressed at the convention level |
-| Death penalty | No single confessional position; varies by congregation. | Not addressed at the convention level |
-
----
-
-## 15. Churches of Christ
+## 14. Churches of Christ
 
 **U.S. adherents:** ~1,422,331 (2020 U.S. Religion Census).
 **Governance:** Strictly congregational — there is no national denominational headquarters, convention, or authority of any kind; each congregation is fully autonomous, a distinctive this body shares with the closely related "Christian Churches and Churches of Christ" (the next entry) but takes even further.
@@ -528,7 +488,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 16. Christian Churches and Churches of Christ
+## 15. Christian Churches and Churches of Christ
 
 **U.S. adherents:** ~1,379,041 (2020 U.S. Religion Census).
 **Governance:** Congregational, closely related historically to the Churches of Christ entry above (both descend from the Restoration Movement), but distinguished specifically by its acceptance of instrumental music in worship — the historical point of division between the two bodies in the late 19th and early 20th centuries.
@@ -561,7 +521,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 17. Seventh-day Adventist Church
+## 16. Seventh-day Adventist Church
 
 **U.S. adherents:** ~1,339,830 (2020 U.S. Religion Census).
 **Governance:** Representative, organized in an ascending structure of local church, conference, union, and General Conference.
@@ -595,7 +555,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 18. American Baptist Churches USA (ABCUSA)
+## 17. American Baptist Churches USA (ABCUSA)
 
 **U.S. adherents:** ~1,259,804 (2020 U.S. Religion Census); historically the more theologically and socially moderate-to-progressive counterpart to the Southern Baptist Convention within the wider American Baptist family (the two bodies share common 19th-century roots before dividing, largely over slavery, in 1845).
 **Governance:** Congregational, cooperating through a national denominational structure with somewhat more centralized identity than the SBC's looser convention model.
@@ -628,7 +588,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 19. African Methodist Episcopal Church (AME)
+## 18. African Methodist Episcopal Church (AME)
 
 **U.S. adherents:** ~1,059,888 (2020 U.S. Religion Census); the oldest independent Protestant denomination founded by African Americans (1816, Philadelphia, under Richard Allen).
 **Governance:** Episcopal/connectional, closely paralleling United Methodist structure, from which it historically separated over the exclusion and mistreatment of Black members and clergy.
@@ -661,9 +621,76 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 20. Church of the Nazarene
+## 19. United Church of Christ (UCC)
 
-**U.S. adherents:** est. ~600,000 (denomination-reported; formed 1908 from a merger of Holiness groups).
+**U.S. adherents:** ~924,744 (2020 U.S. Religion Census; formed 1957 by the merger of the Congregational Christian Churches and the Evangelical and Reformed Church).
+**Governance:** Congregational, with a national General Synod that sets denominational positions but cannot bind individual congregations, consistent with UCC's strong historical emphasis on local church autonomy.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Broadly Reformed in heritage, though the UCC is generally regarded as the most theologically progressive mainline Protestant denomination profiled in this section, with wide latitude for differing views among its congregations on questions of biblical authority and doctrine. |
+| Salvation | Broadly Reformed, with wide latitude across congregations; not affirmed in a single confessionally mandated form. |
+| Baptism | Both infant and believer's baptism practiced. |
+| The Lord's Supper | Open to all, consistent with the UCC's strong emphasis on inclusion; specific theological framing (memorial vs. real presence) varies by congregation. |
+| Church government | Congregational, with a national General Synod that sets denominational positions but cannot bind individual congregations. |
+| Eschatology | No single mandated framework; wide latitude across congregations. |
+| Spiritual gifts | No single mandated position; not a defining doctrinal emphasis for this body. |
+| Women's ordination | Fully open; women's ordination has been practiced since the denomination's founding (and within its predecessor bodies considerably earlier). |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | The UCC has been officially, explicitly supportive of legal access to abortion since 1971 — among the earliest and clearest such denominational statements of any body profiled in this section, well predating the other mainline bodies' own more recent and more qualified statements. | Official 1971 General Synod resolution |
+| Homosexuality | The UCC was the first mainline Christian denomination in the U.S. to formally endorse same-sex marriage (2005) and has ordained openly LGBTQ+ clergy since 1972 — again, the earliest and clearest position of any body in this section on this question. | Official General Synod actions, 1972 and 2005 |
+| Alcohol | No prohibition; moderate use accepted; drunkenness alone is condemned, consistent with the pattern across this entire section. | General practice |
+| Divorce and remarriage | No categorical restriction; the UCC's pastoral, discernment-oriented approach generally treats divorce and remarriage as matters for individual conscience and pastoral care rather than doctrinal prohibition. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
+| Gambling | No single mandated denominational position; General Synod statements have at times raised concern about the societal effects of gambling without a categorical prohibition. | General Synod statements |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | No categorical prohibition; UCC teaching generally emphasizes the quality and mutuality of relationships over a fixed rule, consistent with its position as the most theologically progressive mainline body profiled in this section. | General teaching, wide latitude across congregations |
+| War/pacifism | The UCC has a documented strong historical strand of support for pacifism and conscientious objection, reflecting its Congregationalist and Evangelical and Reformed roots, without mandating pacifism for all members. | General Synod statements and historical practice |
+| Death penalty | The UCC General Synod has officially opposed the death penalty and called for its abolition. | Official General Synod resolutions |
+
+---
+
+## 20. Church of God in Christ (COGIC)
+
+**U.S. adherents:** ~920,429 (2020 U.S. Religion Census, which counts only congregations it could locate and is a known under-count for historically Black bodies); COGIC itself reports roughly 6.5 million members. This entry is ranked by the Census figure, consistent with the rest of this section, even though by its own count it would rank among the five largest bodies profiled. It is the largest Pentecostal denomination in the U.S. and the largest historically African-American Pentecostal body.
+**Governance:** Episcopal; led by a Presiding Bishop (John Drew Sheard Sr. as of this writing).
+**Origin:** Founded by Charles Harrison Mason, incorporated 1907, following the Azusa Street Revival; headquartered in Memphis, Tennessee.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Biblical inerrancy affirmed, consistent with broad Holiness-Pentecostal evangelicalism. |
+| Salvation | Wesleyan-Holiness soteriology, including an emphasis on entire sanctification as a distinct work of grace following conversion. |
+| Baptism | Believer's baptism by full immersion. |
+| The Lord's Supper | Observed as an ordinance; not a defining doctrinal emphasis relative to this body's strong Pentecostal distinctives. |
+| Church government | Episcopal; led by a Presiding Bishop. |
+| Eschatology | No single mandated framework; broadly consistent with the wider Pentecostal-Holiness movement's historic premillennial leanings. |
+| Spiritual gifts | Continuationist; affirms ongoing spiritual gifts, including tongues, as central to its Pentecostal identity, in contrast to most other bodies in this section. |
+| Women's ordination | Women are not ordained as ministers, elders, or bishops — the denomination maintains a parallel, extensive Women's Department (its largest department) led by a General Supervisor, giving women substantial institutional leadership roles short of ordination itself, a real point of internal tension acknowledged within COGIC's own scholarship and membership. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed as contrary to Christian ethics, with narrow allowance for medical necessity; COGIC has partnered with anti-abortion advocacy organizations in its own outreach ministries. | Official teaching and documented denominational partnerships |
+| Homosexuality | Considered sinful, consistent with COGIC's broader Holiness theological framework. | Official teaching |
+| Alcohol | The Holiness tradition COGIC belongs to has historically counseled abstinence as a matter of personal holiness and separation from worldly practice, distinct from (though related to) the specific doctrinal prohibitions found in LDS or Adventist teaching. | Holiness tradition, cultural/historical |
+| Divorce and remarriage | Historically discouraged, consistent with COGIC's Holiness theological framework, though practice and pastoral response have evolved considerably over the denomination's history. | Holiness tradition, general pattern |
+| Contraception | No formal doctrinal statement identified. | Not identified |
+| Gambling | Opposed, consistent with COGIC's broader Holiness ethic of separation from worldly practice. | Holiness tradition |
+| Dancing | Historically discouraged as part of the Holiness movement's broader ethic of separation from worldly entertainment, though practice has relaxed considerably in many congregations. | Holiness tradition, cultural/historical |
+| Premarital sex/cohabitation | Opposed, consistent with COGIC's Holiness theological framework. | Official teaching |
+| War/pacifism | No formal doctrinal statement identified. | Not identified |
+| Death penalty | No formal doctrinal statement identified. | Not identified |
+
+---
+
+## 21. Church of the Nazarene
+
+**U.S. adherents:** ~905,690 (2020 U.S. Religion Census; formed 1908 from a merger of Holiness groups).
 **Governance:** Representative, connectional; part of the Wesleyan-Holiness tradition (alongside the Wesleyan Church and Free Methodist Church).
 
 ### Doctrinal positions
@@ -694,9 +721,45 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 21. Christian and Missionary Alliance (C&MA)
+## 22. Eastern Orthodox Church (combined U.S. jurisdictions)
 
-**U.S. adherents:** est. ~500,000 (denomination-reported; founded 1887 by A.B. Simpson).
+**U.S. adherents:** ~675,765 combined across all Eastern Orthodox jurisdictions (2020 U.S. Religion Census, via its Census of Orthodox Christian Churches; Oriental Orthodox bodies, counted separately at ~491,000, are not included here) (Greek Orthodox Archdiocese of America, Antiochian Orthodox Christian Archdiocese, Orthodox Church in America, and others) — treated as one entry here because these jurisdictions share full doctrinal and sacramental communion with one another, differing administratively (often along historic ethnic lines) rather than theologically.
+**Governance:** Episcopal, organized into autonomous or semi-autonomous jurisdictions in the U.S., coordinated through the Assembly of Canonical Orthodox Bishops of the United States of America; no single U.S. Orthodox "denomination" exists in the way other entries in this section do.
+**Origin:** Traces continuous institutional and liturgical continuity to the undivided early church, formally distinct from Roman Catholicism since the mutual excommunications of 1054.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Scripture is authoritative, read and interpreted within and inseparably from Holy Tradition (the Church Fathers, the Ecumenical Councils, and the Church's continuous liturgical life). |
+| Salvation | *Theosis* (deification/union with God) is the central framework — salvation is described less in the West's forensic/legal terms and more as a lifelong process of transformation into the likeness of God, synergistic (involving both grace and human cooperation). |
+| Baptism | Infant baptism, immediately followed by chrismation (confirmation), understood to actually confer regenerating grace. **Mode:** triple immersion is the norm and considered integral to the sacrament's full symbolism (the candidate is immersed and raised three times, once at the invocation of each person of the Trinity); this is treated as important to the sacrament's meaning in a way most Western traditions do not insist on. |
+| The Lord's Supper | The Eucharist — the bread and wine are believed to become the actual body and blood of Christ, though Orthodoxy generally declines to define the "how" as precisely as the Western term *transubstantiation* does, treating it as sacred mystery. |
+| Church government | Episcopal; a communion of self-governing (autocephalous) national/regional churches in full sacramental unity, without a single earthly head (the Ecumenical Patriarch of Constantinople holds a primacy of honor, not of universal jurisdiction). |
+| Eschatology | No detailed end-times timeline is doctrinally defined; affirms Christ's return, final judgment, and bodily resurrection as creedal essentials, generally without the more specific frameworks (dispensationalism, etc.) found in some Western Protestant traditions. |
+| Spiritual gifts | Not a defining doctrinal category in the way it is in Pentecostal/charismatic traditions; the miraculous is affirmed as ongoing (particularly through the lives of saints) without organizing around a cessationist/continuationist framework. |
+| Women's ordination | Reserved to men for the priesthood and episcopate; women may serve as deaconesses in some jurisdictions (a role with historical precedent currently being revisited in parts of the Orthodox world), and extensively in monastic, catechetical, and lay leadership roles. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed; official statements describe human life as sacred and inviolable from conception. | Official statements (e.g., Assembly of Canonical Orthodox Bishops of the United States) |
+| Homosexuality | Considered sinful; official statements place it alongside other sexual sins condemned in Scripture. Same-sex marriage is not performed or recognized. | Official statements (Greek Orthodox Archdiocese; Assembly of Canonical Orthodox Bishops) |
+| Alcohol | Moderate use is not prohibited; wine is integral to the Eucharist. Orthodox fasting rules (extensive and regularly observed, unlike in most Western traditions) restrict solid food more than drink, though some strict fasting periods do include abstention from wine specifically. Drunkenness itself, distinct from use, is treated as a real sin requiring confession. | Longstanding liturgical practice |
+| Divorce and remarriage | Uniquely among the traditions in this section, Orthodoxy permits remarriage after divorce (up to a third marriage) through the principle of *economia* (pastoral accommodation to human weakness), while treating a first marriage as the ideal; a second or third marriage is solemnized with a more penitential liturgical rite than the first. | Longstanding canonical practice (economia) |
+| Contraception | Genuinely divided and actively discussed: some Orthodox jurisdictions and theologians permit non-abortifacient contraception within marriage under a spiritual father's guidance as a pastoral accommodation, not a permanent ideal; others hold a more restrictive, Catholic-adjacent position. This is treated as a pastoral rather than dogmatic question. | Varies by jurisdiction and spiritual father; not a single dogmatic position |
+| Gambling | No formal doctrinal position; addressed pastorally, if at all, under general principles against excess. | Not a matter of official teaching |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed; chastity outside marriage is expected, consistent with the Church's sacramental view of marriage. | Official teaching |
+| War/pacifism | No single mandated position; historically closer to a just-war framework, though war is treated as a tragic necessity rather than a moral good, and some canonical traditions historically imposed penance on soldiers who killed even in a just cause. | Historical canonical tradition, not a single formal doctrine |
+| Death penalty | No single mandated position across jurisdictions; generally treated with more caution than support in contemporary statements, without the same formal, unified 2018-style revision the Catholic Church has made. | Varies by jurisdiction, not a single formal doctrine |
+
+**Note on consistency across jurisdictions:** Because Orthodox practice is mediated substantially through the relationship between an individual and their spiritual father/confessor, actual pastoral application of these positions (especially around sacramental access) can vary meaningfully by parish and jurisdiction even where doctrine itself does not.
+
+---
+
+## 23. Christian and Missionary Alliance (C&MA)
+
+**U.S. adherents:** est. ~500,000 (denomination-reported; the 2020 U.S. Religion Census places it in the 100,000–999,999 bracket, having counted 428,721 adherents in 2010); founded 1887 by A.B. Simpson.
 **Governance:** Representative, with a General Council as the highest governing body.
 
 ### Doctrinal positions
@@ -727,9 +790,9 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 22. Presbyterian Church in America (PCA)
+## 24. Presbyterian Church in America (PCA)
 
-**U.S. adherents:** 405,634 (PCA's own 2025 report); the second-largest Presbyterian body in the U.S. and the largest theologically conservative Reformed/Calvinist denomination in the country.
+**U.S. adherents:** 405,634 (PCA's own 2025 report; the 2020 U.S. Religion Census places it in the 100,000–999,999 bracket, having counted 341,431 adherents in 2010); the second-largest Presbyterian body in the U.S. and the largest theologically conservative Reformed/Calvinist denomination in the country.
 **Governance:** Presbyterian, paralleling PC(USA)'s structure (session, presbytery, General Assembly).
 **Origin:** Formed in 1973 by conservative congregations separating from the body that would go on to merge into today's PC(USA), specifically over concerns about theological liberalism.
 
@@ -761,108 +824,9 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
-## 23. United Church of Christ (UCC)
+## 25. African Methodist Episcopal Zion Church (AME Zion)
 
-**U.S. adherents:** est. ~600,000 (denomination-reported; formed 1957 by the merger of the Congregational Christian Churches and the Evangelical and Reformed Church).
-**Governance:** Congregational, with a national General Synod that sets denominational positions but cannot bind individual congregations, consistent with UCC's strong historical emphasis on local church autonomy.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Broadly Reformed in heritage, though the UCC is generally regarded as the most theologically progressive mainline Protestant denomination profiled in this section, with wide latitude for differing views among its congregations on questions of biblical authority and doctrine. |
-| Salvation | Broadly Reformed, with wide latitude across congregations; not affirmed in a single confessionally mandated form. |
-| Baptism | Both infant and believer's baptism practiced. |
-| The Lord's Supper | Open to all, consistent with the UCC's strong emphasis on inclusion; specific theological framing (memorial vs. real presence) varies by congregation. |
-| Church government | Congregational, with a national General Synod that sets denominational positions but cannot bind individual congregations. |
-| Eschatology | No single mandated framework; wide latitude across congregations. |
-| Spiritual gifts | No single mandated position; not a defining doctrinal emphasis for this body. |
-| Women's ordination | Fully open; women's ordination has been practiced since the denomination's founding (and within its predecessor bodies considerably earlier). |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | The UCC has been officially, explicitly supportive of legal access to abortion since 1971 — among the earliest and clearest such denominational statements of any body profiled in this section, well predating the other mainline bodies' own more recent and more qualified statements. | Official 1971 General Synod resolution |
-| Homosexuality | The UCC was the first mainline Christian denomination in the U.S. to formally endorse same-sex marriage (2005) and has ordained openly LGBTQ+ clergy since 1972 — again, the earliest and clearest position of any body in this section on this question. | Official General Synod actions, 1972 and 2005 |
-| Alcohol | No prohibition; moderate use accepted; drunkenness alone is condemned, consistent with the pattern across this entire section. | General practice |
-| Divorce and remarriage | No categorical restriction; the UCC's pastoral, discernment-oriented approach generally treats divorce and remarriage as matters for individual conscience and pastoral care rather than doctrinal prohibition. | General practice |
-| Contraception | No prohibition; treated as a matter of individual conscience. | General practice |
-| Gambling | No single mandated denominational position; General Synod statements have at times raised concern about the societal effects of gambling without a categorical prohibition. | General Synod statements |
-| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
-| Premarital sex/cohabitation | No categorical prohibition; UCC teaching generally emphasizes the quality and mutuality of relationships over a fixed rule, consistent with its position as the most theologically progressive mainline body profiled in this section. | General teaching, wide latitude across congregations |
-| War/pacifism | The UCC has a documented strong historical strand of support for pacifism and conscientious objection, reflecting its Congregationalist and Evangelical and Reformed roots, without mandating pacifism for all members. | General Synod statements and historical practice |
-| Death penalty | The UCC General Synod has officially opposed the death penalty and called for its abolition. | Official General Synod resolutions |
-
----
-
-## 24. Episcopal Church
-
-**U.S. adherents:** ~1,576,611 (2020 U.S. Religion Census).
-**Governance:** Episcopal, the U.S. member church of the worldwide Anglican Communion; governed by a General Convention (bishops and elected lay/clergy deputies) between which the Presiding Bishop and Executive Council carry on the church's work.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Holds Scripture, tradition, and reason together as sources of authority (the "three-legged stool" often associated with Anglican theological method), a notably different framework from the "Scripture alone" emphasis found in most evangelical bodies profiled in this section. |
-| Salvation | Broadly Reformed/Anglican in heritage, with wide latitude across the theological breadth of the Anglican Communion (from Anglo-Catholic to evangelical wings). |
-| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion. |
-| The Lord's Supper | The Eucharist, understood sacramentally, though without the doctrinal precision of transubstantiation; central to Sunday worship. |
-| Church government | Episcopal; the U.S. member church of the worldwide Anglican Communion. |
-| Eschatology | No specific end-times framework doctrinally mandated. |
-| Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
-| Women's ordination | Fully open; women have been ordained as priests since 1976 (the last of the major mainline Protestant traditions to do so) and consecrated as bishops since 1989. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Official church statements have generally supported access to legal abortion while also affirming the sanctity of life and encouraging pastoral care and alternatives where appropriate — a position closer to the UMC's or ELCA's qualified statements than to a categorical prohibition. | Official General Convention statements |
-| Homosexuality | The Episcopal Church ordained an openly gay bishop in a same-sex relationship in 2003 (Gene Robinson, Bishop of New Hampshire) — among the earliest and most publicly significant such actions of any major U.S. denomination — and has since authorized formal liturgical rites for blessing and, later, performing same-sex marriages, as well as ordination without regard to sexual orientation. This is among the most consistently affirming positions of any body profiled in this section, alongside the United Church of Christ. | Official General Convention actions, 2003 onward |
-| Alcohol | No prohibition; moderate use accepted, consistent with the wider Anglican tradition; drunkenness alone is condemned. | General practice |
-| Divorce and remarriage | Permitted; the Episcopal Church revised its canons in 1973 to allow remarriage after divorce with a bishop's consent, moving away from a stricter historical Anglican position. | Official canon law, revised 1973 |
-| Contraception | Not prohibited; the Anglican Communion's 1930 Lambeth Conference was among the first major Christian bodies to formally permit contraception within marriage, a position the Episcopal Church has continued to hold. | Official teaching, since the 1930 Lambeth Conference |
-| Gambling | No single mandated position; General Convention statements have at times raised concerns about the societal effects of gambling without a categorical prohibition. | General Convention statements |
-| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
-| Premarital sex/cohabitation | No categorical prohibition; Episcopal teaching generally emphasizes pastoral discernment over a fixed rule, consistent with its broader approach to personal ethical questions. | General teaching, wide latitude across the Anglican Communion's theological breadth |
-| War/pacifism | Just-war tradition, consistent with historic Anglican teaching, while also recognizing pacifism as a legitimate Christian vocation for individuals. | General Convention statements and historic Anglican teaching |
-| Death penalty | The Episcopal Church's General Convention has officially opposed the death penalty since 1958, one of the earliest and most consistent such positions among the mainline bodies in this section. | Official General Convention resolutions, since 1958 |
-
----
-
-## 25. National Missionary Baptist Convention of America
-
-**U.S. adherents:** ~2,428,820 (2020 U.S. Religion Census) — one of the largest historically African-American Baptist conventions, formed in 1988 by a further division within the National Baptist Convention of America over control of the convention's publishing operations.
-**Governance:** Congregational, cooperating through a voluntary national convention structure, in the same general pattern as the Southern Baptist Convention and the other historically Black Baptist conventions profiled in this section (National Baptist Convention, USA, Inc.).
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Broadly evangelical, consistent with Baptist doctrine generally; no single confessional statement binds all member churches, given congregational governance. |
-| Salvation | Broadly evangelical; varies by congregation. |
-| Baptism | Believer's baptism by immersion only. |
-| The Lord's Supper | Memorial view, consistent with Baptist doctrine generally. |
-| Church government | Congregational, cooperating through a voluntary national convention structure. |
-| Eschatology | No single mandated position; varies by congregation. |
-| Spiritual gifts | No single mandated position; varies by congregation. |
-| Women's ordination | Closely paralleling the National Baptist Convention, USA, Inc. entry above; the office of pastor is generally understood as reserved to men in most affiliated congregations, though practice varies by local church given congregational governance. |
-
-### Ethical and lifestyle positions
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
-| Homosexuality | Best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
-| Alcohol | Given this convention's congregational governance and the absence of a single confessional statement binding on all member churches (the same structural feature noted for the other historically Black Baptist conventions in this section), best understood as generally consistent with the broadly evangelical Baptist theological orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently and distinctly documented for this specific convention. | General pattern, not independently documented |
-| Divorce and remarriage | Given this convention's congregational governance, best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry, rather than independently documented for this specific convention. | General pattern, not independently documented |
-| Contraception | Not independently documented for this specific convention. | Not identified |
-| Gambling | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
-| Dancing | Not independently documented for this specific convention. | Not identified |
-| Premarital sex/cohabitation | Best understood as generally consistent with the broadly evangelical Baptist orientation described in the National Baptist Convention, USA, Inc. entry. | General pattern, not independently documented |
-| War/pacifism | Not independently documented for this specific convention. | Not identified |
-| Death penalty | Not independently documented for this specific convention. | Not identified |
-
----
-
-## 26. African Methodist Episcopal Zion Church (AME Zion)
-
-**U.S. adherents:** ~1.2–1.4 million (denominational reporting; not separately broken out in the 2020 U.S. Religion Census) — one of the oldest independent Protestant denominations founded by African Americans, tracing its roots to a group that left New York's John Street Methodist Church in the 1790s over discriminatory treatment, organizing formally in 1821 and adding "Zion" to its name in 1848.
+**U.S. adherents:** ~304,704 (2020 U.S. Religion Census, a known under-count for historically Black bodies; the denomination itself reports roughly 1.2–1.4 million members) — one of the oldest independent Protestant denominations founded by African Americans, tracing its roots to a group that left New York's John Street Methodist Church in the 1790s over discriminatory treatment, organizing formally in 1821 and adding "Zion" to its name in 1848.
 **Governance:** Episcopal/connectional, closely paralleling AME and United Methodist structure, from which it historically separated (independently of, though for similar reasons as, the AME Church) over the exclusion and mistreatment of Black members and clergy.
 **Origin:** 1796 (informal beginnings), New York City; formally organized 1821. Historically known as the "Freedom Church" for its role aiding enslaved people escaping to freedom; members have included Harriet Tubman, Sojourner Truth, and Frederick Douglass.
 
@@ -894,9 +858,45 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ---
 
+## 26. Global Methodist Church (GMC)
+
+**U.S. congregations:** ~7,000 self-reported (as of 2025); a newly formed denomination, not captured in the 2020 Religion Census, which predates its founding. It is placed near the end of this section for that reason -- it has no Census figure to rank by -- rather than beside the United Methodist Church it split from.
+**Governance:** Connectional, with a modified episcopal polity — bishops serve fixed terms rather than for life, a deliberate departure from the United Methodist model.
+**Origin:** Formed May 1, 2022, by clergy and congregations disaffiliating from the United Methodist Church, explicitly over disagreement regarding the ordination of non-celibate gay clergy and the recognition of same-sex marriage. Its permanent Book of Doctrines and Discipline was adopted at its first General Conference (Costa Rica, September 2024) and took effect January 1, 2025.
+
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Affirms Scripture contains "all that is necessary for salvation"; historically Wesleyan in emphasizing Scripture read alongside tradition, reason, and experience (the "Wesleyan Quadrilateral"), while placing greater emphasis on Scripture's primacy than its parent denomination's recent trajectory. |
+| Salvation | Wesleyan-Arminian — salvation is available to all through grace, and can, in classic Wesleyan theology, be resisted or forfeited (in contrast to Calvinist traditions' view of the perseverance of the elect). |
+| Baptism | Both infant and believer's baptism practiced and recognized, consistent with historic Methodist practice. **Mode:** the GMC's founding documents explicitly permit sprinkling, pouring, or immersion, all equally valid; sprinkling is the most customary practice in Methodism generally, though immersion is available on request. |
+| The Lord's Supper | A means of grace in the Wesleyan sense — more than a bare memorial, without defining the mode as precisely as transubstantiation; open to baptized Christians generally ("open table"), consistent with Methodist tradition. |
+| Church government | Connectional; a modified episcopal system with term-limited bishops and a Connectional Council, explicitly designed to increase clergy and laity accountability relative to the UMC's structure. |
+| Eschatology | No specific end-times framework doctrinally mandated; historically Wesleyan traditions have not centered a particular millennial view. |
+| Spiritual gifts | No cessationist/continuationist position specified in its foundational documents; not a defining doctrinal emphasis. |
+| Women's ordination | Fully open — the GMC ordains both women and men as clergy, continuing historic Methodism's comparatively early and consistent practice of women's ordination (a position it did not revise in separating from the UMC). |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed, consistent with the broader traditionalist Methodist coalition that formed the GMC. | Book of Doctrines and Discipline |
+| Homosexuality / same-sex marriage | Marriage affirmed as between one man and one woman; the ordination of non-celibate gay clergy and the performance of same-sex marriages are both the specific points of disagreement that caused the GMC to separate from the UMC in the first place. | Book of Doctrines and Discipline; founding rationale |
+| Alcohol | Historic Methodism carried a strong temperance tradition (John Wesley himself warned against distilled spirits specifically, though not against fermented drink as such); this cultural association persists to some degree, though the GMC's founding documents are primarily focused on the sexuality and ordination questions rather than restating a formal abstinence rule. Drunkenness itself is condemned regardless of the use/abstinence question, consistent with the wider Christian tradition. | Historical/cultural tradition, not confirmed as a current formal GMC rule |
+| Divorce and remarriage | No specific restriction beyond general pastoral care; consistent with the broader Wesleyan tradition's practice of permitting remarriage. | General practice |
+| Contraception | No prohibition; treated as a matter of individual conscience within marriage. | General practice |
+| Gambling | No specific confessional statement identified; the GMC's founding documents focus primarily on the sexuality and ordination questions that caused its separation from the UMC. | Not identified |
+| Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
+| Premarital sex/cohabitation | Opposed, consistent with the GMC's traditionalist sexual ethic generally. | Book of Doctrines and Discipline |
+| War/pacifism | No specific position identified; not a focus of the GMC's founding documents. | Not identified |
+| Death penalty | No specific position identified. | Not identified |
+
+**The UMC/GMC split, side by side:** As of January 1, 2025, the United Methodist Church (the body the GMC separated from) now permits both the ordination of LGBTQ+ clergy and the performance of same-sex marriages — the GMC was formed specifically to continue the position the UMC has since changed. Presenting both bodies (a future entry will cover the UMC itself) side by side is intended to make this live, recent split visible rather than treat "Methodist" as one uniform position.
+
+---
+
 ## 27. United Pentecostal Church International (UPCI)
 
-**U.S. adherents:** figures vary by source; the UPCI itself reports roughly 6.2 million constituents worldwide, while the 2020 U.S. Religion Census and similar sources place U.S.-specific membership considerably lower (on the order of 1–1.5 million) -- the largest predominantly white Oneness Pentecostal body in the country either way, and, doctrinally, the one denomination in this section that departs from Trinitarian orthodoxy shared by every other body profiled here.
+**U.S. adherents:** figures vary by source; the UPCI itself reports roughly 6.2 million constituents worldwide, while other sources place U.S.-specific membership considerably lower (on the order of 1–1.5 million). The 2020 U.S. Religion Census reports its congregations (1,692 counties) but no adherent count, so it has no Census figure to rank by and is placed last -- the largest predominantly white Oneness Pentecostal body in the country either way, and, doctrinally, the one denomination in this section that departs from Trinitarian orthodoxy shared by every other body profiled here.
 **Governance:** Congregational-presbyterian hybrid; local churches are self-governing (electing their own pastors, owning their own property, and setting their own budgets and membership), while ministers also meet in sectional, district, and general conferences.
 **Origin:** Formed in 1945 in St. Louis, Missouri, by the merger of the Pentecostal Church, Inc. and the Pentecostal Assemblies of Jesus Christ, both tracing back to the Oneness ("Jesus' Name") wing of the early Pentecostal movement that emerged from the 1906 Azusa Street Revival.
 
