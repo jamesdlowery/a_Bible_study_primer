@@ -40,3 +40,4 @@ desktop.ini
 
 # --- Build of DOCX/ODT/PDG
 build/full_document_*.md
+build/scripture_index_*.md

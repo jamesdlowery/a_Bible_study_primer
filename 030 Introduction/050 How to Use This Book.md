@@ -26,6 +26,7 @@ The parts of this book, in reading order:
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
 | Major U.S. Christian Denominations | Profiles of 27 prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
 | Prominent English Study Bibles | Profiles of 27 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
+| Scripture Index | Every passage with an entry in either catalog, in canonical order, pointing to the claim number or article that covers it |
 | References for Further Reading | A bibliography for readers who want to go deeper on any section |
 
 

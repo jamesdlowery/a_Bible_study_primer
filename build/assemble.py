@@ -804,6 +804,20 @@ def build_targets():
         lambda: read("120 Top Study Bibles/010 Top Study Bibles.md"))
 
     # ---- Back matter ----
+    def render_scripture_index():
+        import scripture_index
+        md, stats = scripture_index.build_index_md(REPO)
+        # The index computes running claim numbers independently; they must
+        # agree with this build's own count or every "C n" would be wrong.
+        if stats["claims"] != RCP_TOTAL_CLAIMS:
+            raise ValueError(f"Scripture Index counted {stats['claims']} claims but the build has {RCP_TOTAL_CLAIMS}")
+        # Saved so generate_headers.py can parse the index's per-book "##"
+        # headings for running-header guide words, exactly as it does for
+        # the hand-written chapters.
+        with open(os.path.join(REPO, "build", f"scripture_index_{FORMAT}.md"), "w", encoding="utf-8") as f:
+            f.write(md)
+        return md
+    add("scripture_index", "Scripture Index", render_scripture_index)
     add("references", get_heading_text("130 References for Further Reading/010 References for Further Reading.md"),
         lambda: read("130 References for Further Reading/010 References for Further Reading.md"))
 
@@ -1268,6 +1282,7 @@ def build_toc_md(anchors):
     lines.append(f"- {link('top_denominations', 'Major U.S. Christian Denominations')}")
     lines.append(f"- {link('top_study_bibles', 'Prominent English Study Bibles')}")
 
+    lines.append(f"- {link('scripture_index', 'Scripture Index')}")
     lines.append(f"- {link('references', 'References for Further Reading')}")
 
     return "\n".join(lines) + "\n"
@@ -1322,7 +1337,7 @@ meta = [
 # actually lands). Ordinary book chapters flow on, so a one-paragraph
 # book no longer costs a blank verso. detect_pages.py honours the flag.
 # Whole-section targets that follow the last divider still open a part.
-PART_OPENER_IDS = {"top_denominations", "top_study_bibles", "references"}
+PART_OPENER_IDS = {"top_denominations", "top_study_bibles", "scripture_index", "references"}
 seen_divider = False
 pending_opener = False
 for t in targets:
@@ -1420,7 +1435,7 @@ MAIN_SECTIONS = {
     "biblical_source_manuscripts", "character_of_each_tradition",
     "popular_bible_translations", "bible_translations_and_sources",
     "histories_title", "variants_title", "rcp_title",
-    "top_denominations", "top_study_bibles", "references",
+    "top_denominations", "top_study_bibles", "scripture_index", "references",
 }
 
 # One illustration per main section (except Title Page and Table of
