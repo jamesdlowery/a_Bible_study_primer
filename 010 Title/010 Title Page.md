@@ -1,7 +1,7 @@
 # Title Page
 **A Bible Study Primer**
 *A Handbook of Manuscripts, Translations, Disputed Passages, and Traditions*
-v20260928a
+v20260929i
 Dear Reader,
 If you come across any issues with the content, form, and/or function of this aid, please report it as an issue at the project's GitHub repository (https://github.com/jamesdlowery/a_Bible_study_primer/issues) and document the details there for me to address. In particular, please keep an eye out for:
 - (1) Ordering of sections/sub-sections
