@@ -1300,14 +1300,25 @@ meta = [
     {"id": "toc", "search_text": "Table of Contents"},
     {"id": "toc_end_marker", "search_text": TOC_END_MARKER},
 ]
+# Odd-page (recto) starts are forced only for part openers: every
+# front-matter target before the first divider, and the first non-divider
+# target after each divider (which is where the folded divider heading
+# actually lands). Ordinary book chapters flow on, so a one-paragraph
+# book no longer costs a blank verso. detect_pages.py honours the flag.
+seen_divider = False
+pending_opener = False
 for t in targets:
     # Divider targets no longer start a page of their own (see the
     # folding logic below), so there's nothing useful for detect_pages.py
     # to locate or odd-page-enforce for them individually -- they always
     # land wherever the next non-divider target lands.
     if t["is_divider"]:
+        seen_divider = True
+        pending_opener = True
         continue
-    meta.append({"id": t["id"], "search_text": t["search_text"]})
+    force_odd = (not seen_divider) or pending_opener
+    pending_opener = False
+    meta.append({"id": t["id"], "search_text": t["search_text"], "force_odd": force_odd})
 meta_path = f"build/targets_meta_{FORMAT}.json"
 with open(meta_path, "w", encoding="utf-8") as f:
     json.dump(meta, f, indent=2)

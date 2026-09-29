@@ -41,6 +41,8 @@ This section is arranged by book of the Bible, covering {{RCP_COUNT}} distinct c
 
 ## Translation Abbreviations Used Throughout
 
+**Editions.** Unless an entry names a specific edition, a translation's reading is taken from its most recent published edition at the time of this edition -- for example the 2020 text of the NASB, the 2011 text of the NIV, and the 2015 Amplified Bible. Where an earlier edition read differently and the difference matters to the entry, the entry says so and names the edition (for example, "NASB 1995" or "NIV 1984").
+
 All {{TRANSLATION_COUNT}} translations listed below have their own history (see Histories of English Bible Translations) and are surveyed throughout Manuscript and Translation Differences and Reportedly Contradicting Passages. Ten of them — AMP, CSB, ESV, KJV, LSB, NASB, NIV, NKJV, NLT, and RSV2CE — form the core comparison set with the most consistent retail and readership data (see Popular Bible Translations); the other seventeen are cited by name wherever they actually render a passage differently, which is common enough that this book treats all {{TRANSLATION_COUNT}} as tracked translations rather than limiting itself to the core ten.
 
 | Abbreviation | Translation |

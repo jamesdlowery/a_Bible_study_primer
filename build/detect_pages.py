@@ -2,8 +2,8 @@
 """
 Detect the actual rendered page number of each target (from
 targets_meta_<fmt>.json) in a rendered PDF, then compute which targets need
-an extra blank page inserted before them so every target lands on an odd
-page number. Writes blanks_<fmt>.json: a JSON array of target ids.
+an extra blank page inserted before them so every part opener (targets
+flagged force_odd by assemble.py) lands on an odd page number. Writes blanks_<fmt>.json: a JSON array of target ids.
 
 Usage: python3 detect_pages.py <fmt> <pdf_path> <meta_json_path> <out_blanks_json_path>
 """
@@ -201,7 +201,10 @@ def main():
         if m["id"] not in raw_pages:
             continue
         effective = raw_pages[m["id"]] + shift
-        if effective % 2 == 0:
+        # Only part openers (force_odd, set by assemble.py) are pushed to a
+        # recto; other targets flow on. A meta entry without the key is
+        # treated as an opener, so older meta files keep the old behaviour.
+        if effective % 2 == 0 and m.get("force_odd", True):
             needs_blank.append(m["id"])
             shift += 1
 
