@@ -1493,6 +1493,7 @@ ILLUSTRATIONS = {
     "rcp_title": "100 Reportedly Contradicting Passages/005 Illustration.jpg",
     "top_denominations": "110 Top Christian Denominations/005 Illustration.jpg",
     "top_study_bibles": "120 Top Study Bibles/005 Illustration.jpg",
+    "scripture_index": "125 Scripture Index/005 Illustration.jpg",
     "references": "130 References for Further Reading/005 Illustration.jpg",
 }
 

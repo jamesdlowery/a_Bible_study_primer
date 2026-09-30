@@ -1,0 +1,1 @@
+This folder holds only the illustration page for the Scripture Index. The index itself has no source file: it is generated at build time by `build/scripture_index.py` from the two catalogs, so that it can never drift from the entries it points at.
