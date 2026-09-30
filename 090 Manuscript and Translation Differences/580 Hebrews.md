@@ -1,6 +1,6 @@
 # Hebrews: Textual and Translation Differences
 
-A systematic search did not find a case in Hebrews where the tracked translations render a verse with different, meaning-changing wording. The most debated variant in the book, discussed below, is one where the tracked translations agree with each other.
+No entry is recorded for Hebrews: no verse was identified where the 27 tracked translations render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists. The most debated variant in the book, discussed below, is one where the tracked translations agree with each other.
 
 ---
 

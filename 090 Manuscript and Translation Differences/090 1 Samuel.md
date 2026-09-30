@@ -1,6 +1,6 @@
 # 1 Samuel: Textual and Translation Differences
 
-1 Samuel is textually one of the most interesting books in the Old Testament -- the Masoretic Text here is widely regarded as one of the least well-preserved in the Hebrew Bible, and the Dead Sea Scrolls (4QSamᵃ) recover real material. But in the two most-discussed cases below, the tracked translations actually agree with each other, so neither produces a live split. A systematic search did not find a separate case in 1 Samuel where the tracked translations render a verse with different, meaning-changing wording.
+1 Samuel is textually one of the most interesting books in the Old Testament -- the Masoretic Text here is widely regarded as one of the least well-preserved in the Hebrew Bible, and the Dead Sea Scrolls (4QSamᵃ) recover real material. But in the two most-discussed cases below, the tracked translations actually agree with each other, so neither produces a live split. No entry is recorded for 1 Samuel: no verse was identified where the 27 tracked translations render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists.
 
 ---
 

@@ -1,6 +1,6 @@
 # Ezra: Textual and Translation Differences
 
-A systematic search did not find a case in Ezra where the tracked translations render a verse with different, meaning-changing wording. The one well-known puzzle in this book is an internal arithmetic discrepancy in the underlying Hebrew text itself, not a translation difference -- every translation checked renders the numbers exactly as the Hebrew states them.
+No entry is recorded for Ezra: no verse was identified where the 27 tracked translations render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists. The one well-known puzzle in this book is an internal arithmetic discrepancy in the underlying Hebrew text itself, not a translation difference -- every translation checked renders the numbers exactly as the Hebrew states them.
 
 ---
 

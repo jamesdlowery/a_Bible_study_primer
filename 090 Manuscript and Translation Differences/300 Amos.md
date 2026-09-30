@@ -1,6 +1,6 @@
 # Amos: Textual and Translation Differences
 
-A systematic search did not find a case in Amos where the tracked translations render a verse with different, meaning-changing wording. The one well-known variant in this book, discussed below, is a case where the tracked translations agree with each other.
+No entry is recorded for Amos: no verse was identified where the 27 tracked translations render the same words with a different, meaning-changing sense. The absence of an entry marks the limit of the search, not proof that no such variant exists. The one well-known variant in this book, discussed below, is a case where the tracked translations agree with each other.
 
 ---
 
