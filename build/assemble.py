@@ -1481,6 +1481,7 @@ ILLUSTRATIONS = {
     "what_is_an_inerrant_word_of_god": "030 Introduction/035 Illustration (Inerrant Word of God).jpg",
     "how_to_use_this_book": "030 Introduction/045 Illustration (How to Use This Book).jpg",
     "reading_paths": "030 Introduction/055 Illustration (Reading Paths).jpg",
+    "how_to_study_a_passage": "030 Introduction/063 Illustration (How to Study a Passage).jpg",
     "background_on_textual_transmission": "030 Introduction/065 Illustration (Background on Textual Transmission).jpg",
     "note_on_method_and_verification": "030 Introduction/075 Illustration (Method and Verification).jpg",
     "biblical_source_manuscripts": "040 Biblical Source Manuscripts/005 Illustration.jpg",
