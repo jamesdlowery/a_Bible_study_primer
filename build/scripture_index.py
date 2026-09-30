@@ -167,6 +167,7 @@ def collect_variants(repo):
     for fn in _book_files(repo, VAR_DIR):
         text = open(os.path.join(repo, VAR_DIR, fn), encoding="utf-8").read()
         in_side_notes = False
+        ordinal = 0
         for line in text.split("\n"):
             if line.startswith("## "):
                 heading = line[3:].strip()
@@ -175,10 +176,12 @@ def collect_variants(repo):
                 if in_side_notes or low.startswith("summary") or low.startswith("background"):
                     continue
                 articles += 1
+                ordinal += 1
+                anchor = f"var-{fn[:3]}-{ordinal}"      # same rule as assemble.tag_variant_articles
                 heading = re.sub(r"^\d+\.\s+", "", heading)       # "1. Revelation 22:19 -- ..."
                 refs = parse_refs(heading.split("\u2014")[0].split(" -- ")[0])
                 for book, body in refs[:1]:
-                    entries[(book, body)].append(("article", heading))
+                    entries[(book, body)].append(("article", heading, anchor))
             elif in_side_notes and line.startswith("- **"):
                 m = re.match(r"- \*\*([^*]+)\*\*", line)
                 if not m:
@@ -186,11 +189,11 @@ def collect_variants(repo):
                 label = m.group(1).strip()
                 refs = parse_refs(label)
                 for book, body in refs[:1]:
-                    entries[(book, body)].append(("side note", label))
+                    entries[(book, body)].append(("side note", label, None))
     return entries, articles
 
 
-def build_index_md(repo, heading_level=1):
+def build_index_md(repo, heading_level=1, link_anchors=True):
     claims, total_claims = collect_claims(repo)
     variants, total_articles = collect_variants(repo)
     keys = set(claims) | set(variants)
@@ -209,7 +212,7 @@ def build_index_md(repo, heading_level=1):
         "and Translation Differences, found under that book's chapter by its heading; "
         "**V (side note)** is a side note there rather than a full article. A passage "
         "is listed under every reference an entry cites, so a claim comparing two "
-        "passages appears under both."
+        "passages appears under both. In the electronic editions each C and V is a link to its entry."
     )
     out.append("")
     n_passages = 0
@@ -222,10 +225,16 @@ def build_index_md(repo, heading_level=1):
         for body in sorted(bodies, key=_ref_sort_key):
             parts = []
             for g, chapter_book in claims.get((book, body), []):
-                parts.append(f"C {g} ({chapter_book})" if chapter_book != book else f"C {g}")
-            for kind, heading in variants.get((book, body), []):
+                label = f"C {g}"
+                if link_anchors:
+                    label = f"[{label}](#rcp-claim-{g})"
+                parts.append(f"{label} ({chapter_book})" if chapter_book != book else label)
+            for kind, heading, anchor in variants.get((book, body), []):
                 short = heading if len(heading) <= 90 else heading[:87].rstrip() + "..."
-                parts.append(f"V: {short}" if kind == "article" else f"V (side note): {short}")
+                if kind == "article":
+                    parts.append(f"[V: {short}](#{anchor})" if link_anchors and anchor else f"V: {short}")
+                else:
+                    parts.append(f"V (side note): {short}")
             out.append(f"- **{book} {body}** \u2014 " + "; ".join(parts))
             n_passages += 1
         out.append("")

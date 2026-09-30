@@ -8,7 +8,7 @@ passages involved (only where the translation's own wording materially affects h
 resolvable the claim appears in English), and gives the standard scholarly reconciliation or
 harmonization. The question of who killed Goliath -- David, or Elhanan -- turns on a textual variant at 2 Samuel 21:19 rather than on anything in 1 Samuel 17, and is treated once, in the 2 Samuel chapter (and, for the manuscript evidence itself, in the Manuscript and Translation Differences chapter on 2 Samuel).
 
-**A note on candor:** Entry 9 (the witch of Endor) is presented without a single, confident
+**A note on candor:** Entry 18 (the witch of Endor) is presented without a single, confident
 resolution, since serious interpreters have long disagreed about whether Samuel's spirit
 genuinely appeared, a deception occurred, or something else -- consistent with this book's
 practice of flagging live disagreements rather than manufacturing false certainty.

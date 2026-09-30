@@ -291,6 +291,21 @@ def read(path):
         text = fix_column_widths(text)
         return text + "\n"
 
+def tag_variant_articles(body, fn):
+    """Give every variant article heading (a "## " heading that is not a
+    side-note / summary / background heading) an explicit pandoc id,
+    var-<file prefix>-<ordinal>, so the Scripture Index can link to it.
+    build/scripture_index.py derives the same ids by the same rule."""
+    prefix = fn[:3]
+    k = 0
+    out = []
+    for line in body.split("\n"):
+        if line.startswith("## ") and not _VARIANTS_NON_ENTRY_HEADING.match(line[3:].strip()):
+            k += 1
+            line = f"{line.rstrip()} {{#var-{prefix}-{k}}}"
+        out.append(line)
+    return "\n".join(out)
+
 def demote(text, levels):
     """Demote all ATX headings in text by `levels` (add that many '#')."""
     def repl(m):
@@ -524,7 +539,7 @@ def read_rcp_body(path, demote_levels=3):
         global_count = RCP_GLOBAL_COUNTS.get((book_folder, number))
         if global_count is None:
             return m.group(0)
-        return f"### {number}^({global_count})^. {title}"
+        return f"### {number}^({global_count})^. {title} {{#rcp-claim-{global_count}}}"
 
     body = re.sub(r'^### (\d+)\. (.+)$', add_running_count, body, flags=re.MULTILINE)
     body = re.sub(r'\n\n\*Entry ID: [^*]+\*\n\n', '\n\n', body)
@@ -695,14 +710,14 @@ def build_targets():
             prefix = f"### {group_title}\n\n" if idx == 0 else ""
             def render(fn=fn, prefix=prefix):
                 body = read(os.path.join(VARIANTS_DIR, fn))
-                return prefix + demote(body, 3)
+                return prefix + demote(tag_variant_articles(body, fn), 3)
             add(f"ot_{fn}", book_title_text(fn), render)
 
     add("apocrypha_divider", "Apocrypha", lambda: "## Apocrypha\n", is_divider=True)
     for fn in APOCRYPHA:
         def render(fn=fn):
             body = read(os.path.join(VARIANTS_DIR, fn))
-            return demote(body, 3)
+            return demote(tag_variant_articles(body, fn), 3)
         add(f"apoc_{fn}", book_title_text(fn), render)
 
     add("new_testament_divider", "New Testament", lambda: "## New Testament\n", is_divider=True)
@@ -711,7 +726,7 @@ def build_targets():
             prefix = f"### {group_title}\n\n" if idx == 0 else ""
             def render(fn=fn, prefix=prefix):
                 body = read(os.path.join(VARIANTS_DIR, fn))
-                return prefix + demote(body, 3)
+                return prefix + demote(tag_variant_articles(body, fn), 3)
             add(f"nt_{fn}", book_title_text(fn), render)
 
     # ---- Reportedly Contradicting Passages (arranged by claim, one entry
@@ -1337,21 +1352,32 @@ meta = [
 # actually lands). Ordinary book chapters flow on, so a one-paragraph
 # book no longer costs a blank verso. detect_pages.py honours the flag.
 # Whole-section targets that follow the last divider still open a part.
-PART_OPENER_IDS = {"top_denominations", "top_study_bibles", "scripture_index", "references"}
+PART_OPENER_IDS = {"variants_title", "top_denominations", "top_study_bibles", "scripture_index", "references"}
 seen_divider = False
 pending_opener = False
+opener_search_text = None
 for t in targets:
     # Divider targets no longer start a page of their own (see the
     # folding logic below), so there's nothing useful for detect_pages.py
     # to locate or odd-page-enforce for them individually -- they always
-    # land wherever the next non-divider target lands.
+    # land wherever the next non-divider target lands. The folded divider
+    # text (the part heading plus its intro) is emitted at the top of that
+    # target's flow, though, and can be long enough to push the target's
+    # own heading onto the *next* page; so the page detect_pages.py must
+    # force odd is the one carrying the OUTERMOST pending divider's
+    # heading, not the chapter heading. The opener therefore reports the
+    # first pending divider's heading as its search_text.
     if t["is_divider"]:
         seen_divider = True
+        if not pending_opener:
+            opener_search_text = t["search_text"]
         pending_opener = True
         continue
     force_odd = (not seen_divider) or pending_opener or t["id"] in PART_OPENER_IDS
+    search_text = opener_search_text if pending_opener else t["search_text"]
     pending_opener = False
-    meta.append({"id": t["id"], "search_text": t["search_text"], "force_odd": force_odd})
+    opener_search_text = None
+    meta.append({"id": t["id"], "search_text": search_text, "force_odd": force_odd})
 meta_path = f"build/targets_meta_{FORMAT}.json"
 with open(meta_path, "w", encoding="utf-8") as f:
     json.dump(meta, f, indent=2)
