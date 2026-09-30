@@ -4,7 +4,7 @@ This section profiles 27 study Bibles available in English, chosen for a combina
 
 A number of the 27 tracked translations (WEB, Darby, YLT, Smith's Literal Translation, Webster's Bible, the AKJV, the ERV, the CPDV, TRB, and, so far as this research could confirm, the NRSV-CE and the BSB specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist. The ASV is the one apparent exception among the otherwise-unrepresented older translations: a dedicated ASV-based study Bible was published in 1972, described below, though it was never followed by a second edition and today survives mainly as a historical curiosity.
 
-For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Major U.S. Christian Denominations" where a direct parallel exists; and, specifically, what is actually known about the volume's own commentary on abortion, homosexuality, and alcohol -- distinguished carefully from the editor's personal published views elsewhere, which are related but not the same kind of evidence.
+For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Major U.S. Christian Denominations" where a direct parallel exists; and two tables in the same form used for the denominations: a doctrinal grid (view of Scripture, salvation, baptism, the Lord's Supper, church government, eschatology, spiritual gifts, women's ordination) and an ethical and lifestyle grid (abortion, homosexuality, alcohol, divorce and remarriage, contraception, gambling, dancing, premarital sex and cohabitation, war and pacifism, the death penalty). A study Bible is a commentary, not a confession, so the tables describe the position its notes take or, where the notes do not address a topic, the position of the editorial tradition the volume belongs to; the Source column says which, and "general pattern of the editorial tradition, not independently documented in the notes" means exactly that. The abortion, homosexuality, and alcohol rows are the most fully researched, and distinguish the editor's personal published views elsewhere from the content of the volume's own verse notes, which are related but not the same kind of evidence.
 
 **A note on confidence:** for several widely used, doctrinally explicit study Bibles (the Ignatius Catholic Study Bible, the Orthodox Study Bible, the Catholic Study Bible/NABRE, the Complete Jewish Study Bible), the volume's own stated method ties it directly to its tradition's official teaching, so its ethical positions can be stated with real confidence. For others (several entries in the second half of this list, and to some degree the ESV Study Bible and MacArthur Study Bible specifically), this section distinguishes the editor's own well-documented personal position from independently confirmed content of the volume's own verse notes, and says plainly where only the former, not the latter, has been verified. A few entries (the Cultural Backgrounds Study Bible) are academic or historical-critical in orientation and generally do not offer direct ethical application to contemporary questions at all -- this is stated as such rather than papered over.
 
@@ -25,12 +25,31 @@ Produced by a broad committee of evangelical scholars under Zondervan's own edit
 ### Denominational leaning
 Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible, though somewhat less explicitly Reformed/complementarian in its overall editorial framing.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -45,12 +64,31 @@ Produced by the Tyndale House Publishers editorial staff as an institutional tea
 ### Denominational leaning
 Broadly evangelical, cross-denominational; deliberately designed to be usable across a wide range of evangelical traditions rather than reflecting one denomination's specific confessional distinctives. Its notes emphasize practical, personal application of Scripture over deep theological or text-critical commentary, a different emphasis than the ESV Study Bible's or MacArthur Study Bible's more doctrinally systematic approach.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Major U.S. Christian Denominations" for the closest parallel); specific verse-note wording not verified. |
-| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not verified. |
-| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not verified. |
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with broad evangelical Protestantism generally (see the Non-denominational Christian Churches entry in "Major U.S. Christian Denominations" for the closest parallel); specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with broad evangelical Protestantism generally; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Consistent with broad evangelical Protestantism generally; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -66,12 +104,31 @@ Broadly evangelical, cross-denominational; deliberately designed to be usable ac
 ### Denominational leaning
 Broadly evangelical and Reformed-leaning, though the volume draws contributors from multiple evangelical traditions rather than representing one denomination exclusively. Closest in orientation to the Southern Baptist Convention and other confessionally evangelical bodies profiled in "Major U.S. Christian Denominations," though not formally affiliated with any single one.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Grudem has written extensively and specifically against abortion in his own separate works (*Christian Ethics*, 2018; *What the Bible Says about Abortion, Euthanasia, and End-of-Life Medical Decisions*), grounding opposition in the doctrine that human life bears God's image from conception. The ESV Study Bible's own notes are understood to reflect this same view, consistent with its broadly complementarian-evangelical editorial team, though the specific wording of individual verse notes was not checked. |
-| Homosexuality | Grudem's own published position, argued at length in his other works, holds same-sex sexual conduct to be sinful (citing Leviticus 18:22, Romans 1:26–27, 1 Corinthians 6:9–11) while distinguishing this from compassionate pastoral care toward those experiencing same-sex attraction. The study Bible's editorial team and stated theological orientation are consistent with this position, though specific verse-note wording was not checked. |
-| Alcohol | Moderate use is not treated as sinful, in contrast to the Southern Baptist Convention's confessional abstinence position; drunkenness, distinct from use, is treated as sinful, consistent with the wider evangelical and Reformed tradition. |
+| View of Scripture | Inerrancy affirmed explicitly, in the terms of the Chicago Statement on Biblical Inerrancy (1978). |
+| Salvation | Reformed/Calvinist: unconditional election, effectual grace, and perseverance of the saints, stated explicitly in the notes on Romans 9, Ephesians 1, and John 6. |
+| Baptism | Covenantal infant baptism (paedobaptism) is the editors' confessional position, though the notes acknowledge the Baptist reading. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Amillennial or historic premillennial; the notes read Revelation 20 within covenant theology and reject dispensational distinctions between Israel and the Church. |
+| Spiritual gifts | Mildly cautious; the notes do not affirm the continuation of the sign gifts as normative. |
+| Women's ordination | Complementarian; the notes read 1 Timothy 2:12 as reserving the office of pastor/elder to men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Grudem has written extensively and specifically against abortion in his own separate works (*Christian Ethics*, 2018; *What the Bible Says about Abortion, Euthanasia, and End-of-Life Medical Decisions*), grounding opposition in the doctrine that human life bears God's image from conception. The ESV Study Bible's own notes are understood to reflect this same view, consistent with its broadly complementarian-evangelical editorial team, though the specific wording of individual verse notes was not checked. | Editor's own published works (Grudem, *Christian Ethics*); notes not independently checked |
+| Homosexuality | Grudem's own published position, argued at length in his other works, holds same-sex sexual conduct to be sinful (citing Leviticus 18:22, Romans 1:26–27, 1 Corinthians 6:9–11) while distinguishing this from compassionate pastoral care toward those experiencing same-sex attraction. The study Bible's editorial team and stated theological orientation are consistent with this position, though specific verse-note wording was not checked. | Editor's own published works (Grudem, *Christian Ethics*); notes not independently checked |
+| Alcohol | Moderate use is not treated as sinful, in contrast to the Southern Baptist Convention's confessional abstinence position; drunkenness, distinct from use, is treated as sinful, consistent with the wider evangelical and Reformed tradition. | Editor's own published works (Grudem, *Christian Ethics*); notes not independently checked |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -87,12 +144,31 @@ Broadly evangelical and Reformed-leaning, though the volume draws contributors f
 ### Denominational leaning
 Independent Baptist/non-denominational, conservative evangelical, explicitly Reformed (Calvinist) in soteriology, dispensationalist in eschatology, and cessationist regarding the miraculous spiritual gifts — a distinctive combination, since dispensationalism and cessationism are each more commonly paired with non-Reformed evangelical traditions than with Calvinism. Closest among the Denominations entries in this book to the doctrinal orientation of conservative, confessional Southern Baptist and independent Reformed Baptist churches, though Grace Community Church itself was independent rather than formally affiliated with the SBC. The specific pairing with the LSB reflects the translation's own direct institutional connection to MacArthur's own ministry (The Master's Seminary and University), making this edition, rather than the older NKJV edition, the one MacArthur's own institutions currently promote as standard.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | MacArthur was a prominent, public, and unambiguous voice against abortion throughout his ministry, consistent with his broader conservative evangelical framework; his notes and associated preaching ministry treat the sanctity of unborn human life as a settled biblical position rather than a debatable one. |
-| Homosexuality | MacArthur was likewise a public and outspoken voice holding same-sex sexual conduct to be sinful, a position argued at length in his preaching ministry (available via Grace to You) and consistent with his broader complementarian, conservative evangelical framework. |
-| Alcohol | MacArthur's own ministry and broader independent-Baptist-adjacent tradition generally treats moderate use as a matter of Christian liberty rather than sin, distinct from the Southern Baptist Convention's formal confessional abstinence position; drunkenness itself is treated as sin, a distinction MacArthur's own preaching ministry addresses directly. |
+| View of Scripture | Inerrancy affirmed explicitly, in the terms of the Chicago Statement on Biblical Inerrancy (1978). |
+| Salvation | Reformed/Calvinist: unconditional election, effectual grace, and perseverance of the saints, stated explicitly in the notes on Romans 9, Ephesians 1, and John 6. |
+| Baptism | Believer's baptism by immersion, in the Baptist tradition of the editor. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Dispensational premillennialism: a pretribulational rapture, a literal seven-year tribulation, and a literal thousand-year reign, with Israel and the Church distinguished throughout. |
+| Spiritual gifts | Cessationist: the notes hold that the sign gifts (tongues, prophecy, healing) ceased with the apostolic age. |
+| Women's ordination | Complementarian; the notes read 1 Timothy 2:12 as reserving the office of pastor/elder to men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | MacArthur was a prominent, public, and unambiguous voice against abortion throughout his ministry, consistent with his broader conservative evangelical framework; his notes and associated preaching ministry treat the sanctity of unborn human life as a settled biblical position rather than a debatable one. | Editor's own published works (MacArthur); notes not independently checked |
+| Homosexuality | MacArthur was likewise a public and outspoken voice holding same-sex sexual conduct to be sinful, a position argued at length in his preaching ministry (available via Grace to You) and consistent with his broader complementarian, conservative evangelical framework. | Editor's own published works (MacArthur); notes not independently checked |
+| Alcohol | MacArthur's own ministry and broader independent-Baptist-adjacent tradition generally treats moderate use as a matter of Christian liberty rather than sin, distinct from the Southern Baptist Convention's formal confessional abstinence position; drunkenness itself is treated as sin, a distinction MacArthur's own preaching ministry addresses directly. | Editor's own published works (MacArthur); notes not independently checked |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -107,12 +183,31 @@ Independent Baptist/non-denominational, conservative evangelical, explicitly Ref
 ### Denominational leaning
 Broadly evangelical, foundational to 20th-century American dispensationalism specifically; historically influential on institutions including Dallas Theological Seminary. Later revisions (1967, 1986, 2005) softened or removed some of Scofield's own most historically controversial original notes while retaining the overall dispensationalist framework.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary. |
-| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions were not checked. |
-| Alcohol | Not verified. |
+| View of Scripture | Verbal, plenary inspiration and inerrancy affirmed explicitly. |
+| Salvation | Broadly evangelical with a free-grace, faith-alone emphasis; eternal security affirmed, but not the full Calvinist scheme. |
+| Baptism | Believer's baptism assumed; not emphasized in the notes. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Dispensational premillennialism: the notes divide history into dispensations, distinguish Israel from the Church, and expect a pretribulational rapture followed by a literal millennium. |
+| Spiritual gifts | Cessationist by tradition; the notes treat tongues and prophecy as belonging to the apostolic age. |
+| Women's ordination | Complementarian by tradition; the notes assume male pastoral leadership. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions were not checked. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -128,8 +223,33 @@ Broadly evangelical, foundational to 20th-century American dispensationalism spe
 ### Denominational leaning
 Broadly evangelical, cross-denominational, in the same general category as the ESV Study Bible and NIV Study Bible; distinguished from the separately edited NLT Illustrated Study Bible (entry 10 below) by a somewhat greater emphasis on textual, historical, and word-study detail relative to that volume's more visually driven presentation.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+
+### Ethical and lifestyle positions
 Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed; the notes on Psalm 139 and Exodus 21 reflect the uniform evangelical view that human life bears God's image from conception. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Same-sex sexual conduct treated as sinful in the notes on Romans 1 and 1 Corinthians 6, with pastoral care distinguished from approval. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Moderate use not treated as sinful; drunkenness is. The notes do not counsel abstinence. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -141,12 +261,31 @@ Consistent with broad evangelical Protestantism generally; specific verse-note w
 ### Denominational leaning
 Broadly evangelical, cross-denominational; the NASB itself is widely regarded as one of the most formally literal English translations, and this study Bible's notes are generally oriented toward close textual and grammatical study rather than one denomination's specific confessional framework.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. |
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -158,12 +297,31 @@ Broadly evangelical, cross-denominational; the NASB itself is widely regarded as
 ### Denominational leaning
 Southern Baptist/broadly evangelical — see the Southern Baptist Convention entry in "Major U.S. Christian Denominations" for the closest denominational parallel, given the shared publisher relationship, though the CSB Study Bible's contributor team is not exclusively Southern Baptist.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with the SBC's Baptist Faith and Message: opposed. |
-| Homosexuality | Consistent with the SBC's Baptist Faith and Message: considered sinful. |
-| Alcohol | The CSB Study Bible's contributor base is broader than the SBC's own confessional membership, so the SBC's specific formal abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Predominantly Baptist, spanning the Arminian-to-moderately-Reformed range represented in the Southern Baptist Convention; the notes present both readings where passages are contested. |
+| Baptism | Believer's baptism by immersion, the Baptist position of the publisher's tradition. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial views predominate in the contributing tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Complementarian; the notes reflect the Baptist Faith and Message's reservation of the pastorate to men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with the SBC's Baptist Faith and Message: opposed. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with the SBC's Baptist Faith and Message: considered sinful. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | The CSB Study Bible's contributor base is broader than the SBC's own confessional membership, so the SBC's specific formal abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -179,12 +337,31 @@ Produced as an institutional, multi-scholar project under Baker Publishing Group
 ### Denominational leaning
 Broadly evangelical, cross-denominational, with the same B&H/Southern Baptist publisher relationship as the (separate, text-focused rather than illustration-focused) CSB Study Bible profiled above; the Baker Illustrated edition's own contributor base is not exclusively Southern Baptist.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message given the shared publisher relationship; specific verse-note wording not verified. |
-| Homosexuality | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message; specific verse-note wording not verified. |
-| Alcohol | This volume's broader, non-exclusively-Southern-Baptist contributor base means the SBC's own formal confessional abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. |
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Predominantly Baptist, spanning the Arminian-to-moderately-Reformed range represented in the Southern Baptist Convention; the notes present both readings where passages are contested. |
+| Baptism | Believer's baptism by immersion, the Baptist position of the publisher's tradition. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial views predominate in the contributing tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Complementarian; the notes reflect the Baptist Faith and Message's reservation of the pastorate to men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message given the shared publisher relationship; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with broad evangelical Protestantism, and with the SBC's own Baptist Faith and Message; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | This volume's broader, non-exclusively-Southern-Baptist contributor base means the SBC's own formal confessional abstinence position should not be assumed to be independently restated in this volume's own notes without direct verification. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -200,8 +377,33 @@ Produced as an institutional, multi-scholar Tyndale House project distinct from 
 ### Denominational leaning
 Broadly evangelical, cross-denominational, in the same general category as the standard NLT Study Bible; reviewers have specifically noted the volume's conservative interpretive stance on questions where its notes engage historical-critical objections to traditional authorship or historicity.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+
+### Ethical and lifestyle positions
 Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed; the notes on Psalm 139 and Exodus 21 reflect the uniform evangelical view that human life bears God's image from conception. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Same-sex sexual conduct treated as sinful in the notes on Romans 1 and 1 Corinthians 6, with pastoral care distinguished from approval. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Moderate use not treated as sinful; drunkenness is. The notes do not counsel abstinence. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -216,12 +418,31 @@ Consistent with broad evangelical Protestantism generally; specific verse-note w
 ### Denominational leaning
 Explicitly and confessionally Reformed/Calvinist — reflects confessional covenant theology (in contrast to MacArthur's Calvinist-but-dispensationalist combination), closest among Denominations entries to the Presbyterian Church in America's theological orientation, though Sproul himself and Ligonier Ministries are not formally part of the PCA.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not verified. |
-| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not verified. |
-| Alcohol | No prohibition; drunkenness alone condemned, consistent with confessional Reformed tradition generally. |
+| View of Scripture | Inerrancy affirmed explicitly, in the terms of the Chicago Statement on Biblical Inerrancy (1978). |
+| Salvation | Reformed/Calvinist: unconditional election, effectual grace, and perseverance of the saints, stated explicitly in the notes on Romans 9, Ephesians 1, and John 6. |
+| Baptism | Covenantal infant baptism (paedobaptism) is the editors' confessional position, though the notes acknowledge the Baptist reading. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Amillennial or historic premillennial; the notes read Revelation 20 within covenant theology and reject dispensational distinctions between Israel and the Church. |
+| Spiritual gifts | Mildly cautious; the notes do not affirm the continuation of the sign gifts as normative. |
+| Women's ordination | Complementarian; the notes read 1 Timothy 2:12 as reserving the office of pastor/elder to men. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with confessional Reformed evangelicalism generally: opposed; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with confessional Reformed evangelicalism generally: considered sinful; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | No prohibition; drunkenness alone condemned, consistent with confessional Reformed tradition generally. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -236,12 +457,31 @@ Explicitly and confessionally Reformed/Calvinist — reflects confessional coven
 ### Denominational leaning
 Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie Study Bible is one of the two most historically significant dispensationalist study Bibles alongside the Scofield Reference Bible (entry 5 above), and shares its general theological framework with the MacArthur Study Bible's own dispensationalist orientation, though Ryrie's own moderate ("normative") dispensationalism differs in some particulars from other dispensationalist schools.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. |
-| Homosexuality | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. |
-| Alcohol | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. |
+| View of Scripture | Verbal, plenary inspiration and inerrancy affirmed explicitly. |
+| Salvation | Broadly evangelical with a free-grace, faith-alone emphasis; eternal security affirmed, but not the full Calvinist scheme. |
+| Baptism | Believer's baptism assumed; not emphasized in the notes. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Dispensational premillennialism: the notes divide history into dispensations, distinguish Israel from the Church, and expect a pretribulational rapture followed by a literal millennium. |
+| Spiritual gifts | Cessationist by tradition; the notes treat tongues and prophecy as belonging to the apostolic age. |
+| Women's ordination | Complementarian by tradition; the notes assume male pastoral leadership. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Consistent with conservative evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -259,12 +499,31 @@ Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie S
 ### Denominational leaning
 Explicitly and exclusively Catholic — the volume states its notes follow "the Church's guidelines for biblical interpretation" and draw on the Church Fathers, Doctors, and Magisterial teaching throughout. See the Catholic Church entry in "Major U.S. Christian Denominations" for the fuller doctrinal and ethical framework this volume operates within; this study Bible does not depart from official Magisterial teaching on any of the categories below.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with official Catholic teaching (Catechism §2271): opposed in all cases where the direct intent is to end the life of the unborn. |
-| Homosexuality | Consistent with official Catholic teaching (Catechism §2357–2358): attraction itself not treated as sinful; homosexual acts held to be "intrinsically disordered"; persons to be treated with respect, compassion, and sensitivity. |
-| Alcohol | Moderate use is accepted, consistent with Catholic tradition generally; wine is used sacramentally in the Mass itself. Drunkenness is treated as a real sin, distinct from the acceptance of moderate use, consistent with official Catholic teaching. |
+| View of Scripture | Inspired and inerrant in what it teaches for the sake of salvation (Dei Verbum 11), read within the Church's Tradition and Magisterium; the notes follow the Church's guidelines for interpretation. |
+| Salvation | By grace through faith working in love, with justification as a transforming process, cooperation with grace, and the sacraments as ordinary means; neither Calvinist nor Arminian categories apply. |
+| Baptism | Infant and adult baptism, regenerative, necessary for salvation in the ordinary course; by pouring or immersion. |
+| The Lord's Supper | Transubstantiation; the Eucharist as the true Body and Blood of Christ and a sacrifice. |
+| Church government | Episcopal and hierarchical under the Pope; the notes assume the Church's magisterial authority. |
+| Eschatology | Amillennial in effect; the notes read Revelation 20 symbolically and reject a literal earthly millennium, with purgatory, particular and general judgment. |
+| Spiritual gifts | Continuationist in principle (charisms remain in the Church) but not emphasized; the notes treat the gifts pastorally and cautiously. |
+| Women's ordination | Reserved to men; the notes follow the Church's teaching (Ordinatio Sacerdotalis, 1994). |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with official Catholic teaching (Catechism §2271): opposed in all cases where the direct intent is to end the life of the unborn. | Catholic teaching, stated in the volume's notes |
+| Homosexuality | Consistent with official Catholic teaching (Catechism §2357–2358): attraction itself not treated as sinful; homosexual acts held to be "intrinsically disordered"; persons to be treated with respect, compassion, and sensitivity. | Catholic teaching, stated in the volume's notes |
+| Alcohol | Moderate use is accepted, consistent with Catholic tradition generally; wine is used sacramentally in the Mass itself. Drunkenness is treated as a real sin, distinct from the acceptance of moderate use, consistent with official Catholic teaching. | Catholic teaching, stated in the volume's notes |
+| Divorce and remarriage | A valid consummated sacramental marriage is indissoluble; civil divorce may be tolerated for grave reasons, but remarriage while a spouse lives is not permitted absent a declaration of nullity. The notes on Matthew 19 and 1 Corinthians 7 follow this teaching. | Catholic teaching, reflected in the notes |
+| Contraception | Artificial contraception is intrinsically wrong (Humanae Vitae, 1968); natural family planning is permitted for serious reasons. The notes reflect this where the text touches it (e.g., Genesis 38). | Catholic teaching |
+| Gambling | Not in itself contrary to justice, but sinful when it deprives one of what is needed for one's own or others' needs, or becomes enslaving (Catechism 2413). | Catholic teaching |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations outside marriage are gravely sinful; cohabitation is incompatible with the Church's teaching on marriage. | Catholic teaching, reflected in the notes |
+| War/pacifism | Just-war teaching (Catechism 2307-2317), with a strong presumption for peace; conscientious objection respected. | Catholic teaching |
+| Death penalty | Inadmissible in light of the Gospel (Catechism 2267 as revised in 2018); earlier editions of the notes may reflect the previous teaching that it was permissible in rare cases. | Catholic teaching |
 
 ---
 
@@ -282,8 +541,33 @@ Explicitly and exclusively Catholic — the volume states its notes follow "the 
 ### Denominational leaning
 Explicitly and exclusively Catholic, given its direct use of the NABRE (the official translation for Mass and the Liturgy of the Hours throughout the United States, discussed at length in the companion "Popular Bible Translations" section) and its lectionary-aligned Reading Guide; see the Catholic Church entry in "Major U.S. Christian Denominations" for the fuller shared doctrinal framework, alongside the Ignatius Catholic Study Bible entry above for the closest direct parallel already profiled in this section.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inspired and inerrant in what it teaches for the sake of salvation (Dei Verbum 11), read within the Church's Tradition and Magisterium; the notes follow the Church's guidelines for interpretation. |
+| Salvation | By grace through faith working in love, with justification as a transforming process, cooperation with grace, and the sacraments as ordinary means; neither Calvinist nor Arminian categories apply. |
+| Baptism | Infant and adult baptism, regenerative, necessary for salvation in the ordinary course; by pouring or immersion. |
+| The Lord's Supper | Transubstantiation; the Eucharist as the true Body and Blood of Christ and a sacrifice. |
+| Church government | Episcopal and hierarchical under the Pope; the notes assume the Church's magisterial authority. |
+| Eschatology | Amillennial in effect; the notes read Revelation 20 symbolically and reject a literal earthly millennium, with purgatory, particular and general judgment. |
+| Spiritual gifts | Continuationist in principle (charisms remain in the Church) but not emphasized; the notes treat the gifts pastorally and cautiously. |
+| Women's ordination | Reserved to men; the notes follow the Church's teaching (Ordinatio Sacerdotalis, 1994). |
+
+### Ethical and lifestyle positions
 Consistent with official Catholic teaching as described in the Catholic Church entry in "Major U.S. Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Gravely wrong from conception (Catechism 2270-2275). | Catholic teaching, reflected in the notes |
+| Homosexuality | Homosexual acts are intrinsically disordered; persons are to be treated with respect and compassion (Catechism 2357-2359). | Catholic teaching, reflected in the notes |
+| Alcohol | Moderate use permitted; drunkenness sinful. | Catholic teaching |
+| Divorce and remarriage | A valid consummated sacramental marriage is indissoluble; civil divorce may be tolerated for grave reasons, but remarriage while a spouse lives is not permitted absent a declaration of nullity. The notes on Matthew 19 and 1 Corinthians 7 follow this teaching. | Catholic teaching, reflected in the notes |
+| Contraception | Artificial contraception is intrinsically wrong (Humanae Vitae, 1968); natural family planning is permitted for serious reasons. The notes reflect this where the text touches it (e.g., Genesis 38). | Catholic teaching |
+| Gambling | Not in itself contrary to justice, but sinful when it deprives one of what is needed for one's own or others' needs, or becomes enslaving (Catechism 2413). | Catholic teaching |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations outside marriage are gravely sinful; cohabitation is incompatible with the Church's teaching on marriage. | Catholic teaching, reflected in the notes |
+| War/pacifism | Just-war teaching (Catechism 2307-2317), with a strong presumption for peace; conscientious objection respected. | Catholic teaching |
+| Death penalty | Inadmissible in light of the Gospel (Catechism 2267 as revised in 2018); earlier editions of the notes may reflect the previous teaching that it was permissible in rare cases. | Catholic teaching |
 
 ---
 
@@ -299,8 +583,33 @@ Produced as an institutional Lockman Foundation/Zondervan project rather than cr
 ### Denominational leaning
 Broadly evangelical and charismatic/Pentecostal-adjacent, cross-denominational; the AMP translation's own method (bracketed and parenthetical amplifications drawing out additional shades of original-language meaning) has made it particularly popular in charismatic and Word of Faith circles, though the Amplified Study Bible's own notes are not confined to that theological tradition specifically.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Premillennial in tendency; not confessionally fixed. |
+| Spiritual gifts | Continuationist in tendency; the AMP's popularity in charismatic circles is reflected in notes that treat the gifts as present, without the Assemblies of God's specific doctrine of initial evidence. |
+| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+
+### Ethical and lifestyle positions
 Not verified on any of the three categories; this study Bible's notes are described by its own publisher as practical and application-oriented rather than systematically doctrinal, comparable in general orientation to the Life Application Study Bible above.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed; the notes on Psalm 139 and Exodus 21 reflect the uniform evangelical view that human life bears God's image from conception. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Same-sex sexual conduct treated as sinful in the notes on Romans 1 and 1 Corinthians 6, with pastoral care distinguished from approval. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Moderate use not treated as sinful; drunkenness is. The notes do not counsel abstinence. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -315,12 +624,31 @@ Not verified on any of the three categories; this study Bible's notes are descri
 ### Denominational leaning
 Pentecostal/Assemblies of God — see the Assemblies of God entry in "Major U.S. Christian Denominations." This is the most explicitly and consistently continuationist (affirming ongoing spiritual gifts, including tongues) of the study Bibles profiled in this section, reflecting its direct Pentecostal denominational origin, and a significant global seller within Pentecostal and charismatic circles worldwide (the "Fire Bible" name specifically) even where it is less prominent in general evangelical retail channels.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with Assemblies of God doctrine: opposed except to save the mother's life. |
-| Homosexuality | Consistent with Assemblies of God doctrine: considered sinful. |
-| Alcohol | Counseled against as a matter of total abstinence, reflecting the Pentecostal-Holiness temperance heritage discussed in that denomination's own entry. |
+| View of Scripture | Verbal inspiration and infallibility affirmed explicitly (Fundamental Truth 1). |
+| Salvation | Arminian: salvation available to all, received by faith, and capable of being forfeited by persistent unbelief; the notes follow the Assemblies of God Statement of Fundamental Truths. |
+| Baptism | Believer's baptism by immersion; baptism in the Holy Spirit as a distinct subsequent experience evidenced by speaking in tongues. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Premillennial and pretribulational; the imminent, personal return of Christ is a Fundamental Truth. |
+| Spiritual gifts | Fully continuationist: all the gifts of 1 Corinthians 12 are for today, with tongues as the initial physical evidence of Spirit baptism; the notes on Acts and 1 Corinthians develop this at length. |
+| Women's ordination | Women are ordained to all ministries in the Assemblies of God, and the notes support women's ministry. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with Assemblies of God doctrine: opposed except to save the mother's life. | Assemblies of God position papers |
+| Homosexuality | Consistent with Assemblies of God doctrine: considered sinful. | Assemblies of God position papers |
+| Alcohol | Counseled against as a matter of total abstinence, reflecting the Pentecostal-Holiness temperance heritage discussed in that denomination's own entry. | Assemblies of God position papers, reflected in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Opposed; the Assemblies of God's position paper on gambling condemns it as contrary to stewardship and love of neighbor, and the notes reflect that stance. | Assemblies of God position papers |
+| Dancing | Historically discouraged in the Pentecostal-Holiness tradition the volume comes from; not a current doctrinal position, and not addressed in the notes. | General pattern of the editorial tradition, not independently documented in the notes |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | The Assemblies of God was historically pacifist-leaning and now affirms both military service and conscientious objection as matters of individual conscience; the notes do not press either. | Assemblies of God position papers |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -335,8 +663,33 @@ Pentecostal/Assemblies of God — see the Assemblies of God entry in "Major U.S.
 ### Denominational leaning
 Broadly evangelical, cross-denominational; distinctive among this list for its specific focus on ancient historical and cultural background rather than doctrinal or devotional application, making it something of a specialized complement to, rather than a substitute for, a more doctrinally oriented study Bible.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Treated as reliable and authoritative by the evangelical editors, but the notes deliberately confine themselves to historical and cultural background and do not argue doctrine. |
+| Salvation | Not addressed; the volume takes no confessional position. |
+| Baptism | Not addressed; the volume takes no confessional position. |
+| The Lord's Supper | Not addressed; the volume takes no confessional position. |
+| Church government | Not addressed; the volume takes no confessional position. |
+| Eschatology | Not addressed; the volume takes no confessional position. |
+| Spiritual gifts | Not addressed; the volume takes no confessional position. |
+| Women's ordination | Not addressed; the volume takes no confessional position. |
+
+### Ethical and lifestyle positions
 Given this volume's specifically historical-background orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Homosexuality | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Alcohol | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Divorce and remarriage | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Contraception | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Gambling | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Dancing | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Premarital sex/cohabitation | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| War/pacifism | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Death penalty | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 
 ---
 
@@ -352,8 +705,33 @@ Produced as an institutional Thomas Nelson editorial project rather than credite
 ### Denominational leaning
 Broadly evangelical, cross-denominational, associated with the same publisher (Thomas Nelson) responsible for the MacArthur Study Bible and Orthodox Study Bible editions elsewhere in this section, though this specific volume represents a general-purpose reference and topical-study tool rather than a denominationally or theologically distinct commentary project.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inerrant; the volume's topical index and study helps assume the KJV text's full authority. |
+| Salvation | Not addressed; the volume takes no confessional position. |
+| Baptism | Not addressed; the volume takes no confessional position. |
+| The Lord's Supper | Not addressed; the volume takes no confessional position. |
+| Church government | Not addressed; the volume takes no confessional position. |
+| Eschatology | Not addressed; the volume takes no confessional position. |
+| Spiritual gifts | Not addressed; the volume takes no confessional position. |
+| Women's ordination | Not addressed; the volume takes no confessional position. |
+
+### Ethical and lifestyle positions
 Given this volume's emphasis on topical cross-referencing, doctrinal overview articles, and general Bible-study methodology rather than verse-by-verse interpretive commentary, direct notes on abortion, homosexuality, or alcohol comparable to the more heavily annotated study Bibles in this section have not been identified.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Homosexuality | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Alcohol | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Divorce and remarriage | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Contraception | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Gambling | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Dancing | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Premarital sex/cohabitation | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| War/pacifism | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Death penalty | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 
 ---
 
@@ -369,12 +747,31 @@ Given this volume's emphasis on topical cross-referencing, doctrinal overview ar
 ### Denominational leaning
 Eastern Orthodox — see the Eastern Orthodox Church entry in "Major U.S. Christian Denominations" for the fuller shared doctrinal framework across U.S. Orthodox jurisdictions this volume represents.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with official Orthodox statements (e.g., the Assembly of Canonical Orthodox Bishops of the United States): human life described as sacred from conception; abortion opposed. |
-| Homosexuality | Consistent with official Orthodox statements: homosexual acts held to be sinful, alongside other sexual sins named in Scripture; the Church does not perform or recognize same-sex marriage. |
-| Alcohol | Moderate use is not prohibited; wine is integral to the Eucharist. Orthodox fasting discipline (extensive compared to most Western traditions) restricts solid food more than drink, though some strict fasts include abstention from wine specifically. Drunkenness, distinct from use, is treated as a real sin requiring confession. |
+| View of Scripture | Inspired and authoritative, read within Holy Tradition and the consensus of the Fathers; the notes draw on patristic commentary throughout and do not use the Protestant category of inerrancy. |
+| Salvation | Theosis: union with God by grace through faith, the sacraments, and ascetic struggle; neither Calvinist nor Arminian categories apply, and juridical models of the atonement are not central. |
+| Baptism | Infant and adult baptism by triple immersion, regenerative, immediately followed by chrismation and admission to the Eucharist. |
+| The Lord's Supper | The Eucharist as the true Body and Blood of Christ, a mystery not defined by the term transubstantiation. |
+| Church government | Episcopal and conciliar; bishops in synod, without a papal head. |
+| Eschatology | Amillennial in effect; the notes read Revelation symbolically and liturgically, and the Church condemns chiliasm. |
+| Spiritual gifts | Continuationist in principle, understood within the Church's sacramental and ascetic life rather than in Pentecostal terms. |
+| Women's ordination | Reserved to men; the female diaconate is a matter of ongoing discussion in some jurisdictions. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with official Orthodox statements (e.g., the Assembly of Canonical Orthodox Bishops of the United States): human life described as sacred from conception; abortion opposed. | Orthodox teaching |
+| Homosexuality | Consistent with official Orthodox statements: homosexual acts held to be sinful, alongside other sexual sins named in Scripture; the Church does not perform or recognize same-sex marriage. | Orthodox teaching |
+| Alcohol | Moderate use is not prohibited; wine is integral to the Eucharist. Orthodox fasting discipline (extensive compared to most Western traditions) restricts solid food more than drink, though some strict fasts include abstention from wine specifically. Drunkenness, distinct from use, is treated as a real sin requiring confession. | Orthodox teaching |
+| Divorce and remarriage | Marriage is intended to be permanent, but the Church tolerates divorce for grave causes and permits up to two further marriages with a penitential rite (oikonomia). | Orthodox teaching |
+| Contraception | No single binding position; many jurisdictions permit non-abortifacient contraception within marriage under pastoral guidance, while some hold a stricter view. | General pattern across jurisdictions, not addressed in the notes |
+| Gambling | Discouraged as a passion (greed, love of money); not a matter of formal canon. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations belong to marriage; cohabitation is not blessed. | Orthodox teaching |
+| War/pacifism | No just-war doctrine as such; war is always a tragedy and sometimes a lesser evil, with soldiers historically subject to penance. | Orthodox teaching, general pattern |
+| Death penalty | No binding position; historically tolerated, with most contemporary Orthodox bodies (including the Ecumenical Patriarchate and the Orthodox Church in America) opposing it. | General pattern across jurisdictions |
 
 ---
 
@@ -390,8 +787,33 @@ Produced by a multi-denominational team of more than 25 biblical scholars under 
 ### Denominational leaning
 Multi-denominational, broadly evangelical; the translation team was deliberately assembled to be interdenominational rather than reflecting one confessional tradition, and its translators' notes are oriented toward transparency about translation decisions and textual variants rather than doctrinal or devotional application in the manner of the ESV Study Bible or MacArthur Study Bible.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inspired and authoritative; the translators' notes are interdenominational by design and flag where a translation choice bears on a doctrinal debate without deciding it. |
+| Salvation | Not addressed; the volume takes no confessional position. |
+| Baptism | Not addressed; the volume takes no confessional position. |
+| The Lord's Supper | Not addressed; the volume takes no confessional position. |
+| Church government | Not addressed; the volume takes no confessional position. |
+| Eschatology | Not addressed; the volume takes no confessional position. |
+| Spiritual gifts | Not addressed; the volume takes no confessional position. |
+| Women's ordination | Not addressed; the volume takes no confessional position. |
+
+### Ethical and lifestyle positions
 Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Homosexuality | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Alcohol | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Divorce and remarriage | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Contraception | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Gambling | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Dancing | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Premarital sex/cohabitation | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| War/pacifism | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Death penalty | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 
 ---
 
@@ -410,12 +832,31 @@ The underlying CJB translation itself was produced by **Dr. David H. Stern** (19
 ### Denominational leaning
 Messianic Judaism — a movement combining Jewish religious practice and identity with faith in Yeshua (Jesus) as the promised Messiah, distinct from both mainstream Judaism (which does not recognize Yeshua's messianic claims) and most mainstream Christian denominations (which typically do not retain the same degree of ongoing Torah observance and Jewish liturgical practice). This book's "Major U.S. Christian Denominations" section does not currently include Messianic Judaism as a separate entry, so no direct cross-reference exists elsewhere in this book for this movement's fuller doctrinal profile.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Not verified; Messianic Jewish congregations generally affirm the sanctity of human life consistent with broader conservative Jewish and Christian positions, but this volume's own specific verse-note wording on this question has not been directly verified. |
-| Homosexuality | Not verified. |
-| Alcohol | Not verified; Jewish tradition generally treats moderate wine use positively (wine is integral to Sabbath and festival observance), with drunkenness treated as a separate matter of self-control. |
+| View of Scripture | Fully inspired and authoritative, the Tanakh and the B'rit Hadashah (New Covenant) together; read with attention to Jewish interpretive tradition. |
+| Salvation | By grace through trust in Yeshua as Messiah; broadly evangelical in soteriology, with the Torah retained as a way of life rather than a means of justification. |
+| Baptism | Believer's immersion (mikveh), understood in continuity with Jewish ritual immersion. |
+| The Lord's Supper | Observed within the Passover seder framework as a memorial of Yeshua's death; not sacramental in the Catholic or Lutheran sense. |
+| Church government | Congregational, with rabbis or elders leading local Messianic congregations. |
+| Eschatology | Premillennial, with a strong emphasis on the literal restoration of Israel and the return of Yeshua to Jerusalem. |
+| Spiritual gifts | Generally continuationist; the movement overlaps with charismatic Christianity, though practice varies. |
+| Women's ordination | Varies by congregation and umbrella body; not addressed as a doctrine in the notes. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Not verified; Messianic Jewish congregations generally affirm the sanctity of human life consistent with broader conservative Jewish and Christian positions, but this volume's own specific verse-note wording on this question has not been directly verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Not verified; Jewish tradition generally treats moderate wine use positively (wine is integral to Sabbath and festival observance), with drunkenness treated as a separate matter of self-control. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | Marriage intended to be permanent; divorce permitted on biblical grounds, with the Jewish get (bill of divorce) sometimes retained in practice. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; generally treated as a matter of conscience within marriage. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Dancing | Not addressed as a moral question; dance is an ordinary part of Messianic worship and celebration. | General pattern of the editorial tradition, not independently documented in the notes |
+| Premarital sex/cohabitation | Sexual relations reserved for marriage, following both Torah and New Covenant teaching. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the movement's strong identification with Israel generally implies support for national self-defense. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
 
 ---
 
@@ -431,12 +872,31 @@ Messianic Judaism — a movement combining Jewish religious practice and identit
 ### Denominational leaning
 Broadly evangelical, cross-denominational, with a specific and sustained focus on apologetics and evangelism training rather than a particular denomination's confessional distinctives.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; the volume's own specific verse-note wording. |
-| Alcohol | Not verified. |
+| View of Scripture | Inerrancy affirmed; the volume's apologetic material argues for the Bible's reliability throughout. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Premillennial by tradition of the editor (Ray Comfort, Living Waters); not emphasized. |
+| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
+| Women's ordination | Complementarian by tradition of the editor; not emphasized. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; the volume's own specific verse-note wording. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -452,12 +912,31 @@ Broadly evangelical, cross-denominational, with a specific and sustained focus o
 ### Denominational leaning
 Broadly evangelical and conservative Protestant, cross-denominational, distinguished among the study Bibles in this section by its specific and sustained emphasis on young-earth creationism and scientific apologetics rather than a particular denomination's confessional distinctives; endorsements printed with the volume include figures such as John MacArthur and Tim LaHaye, both broadly conservative evangelical figures, though neither is personally responsible for this volume's own content.
 
-### Ethical and lifestyle commentary
-| Category | What the volume represents |
+### Doctrinal positions
+| Category | Position |
 |---|---|
-| Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; the volume's own specific verse-note wording. |
-| Alcohol | Not verified. |
+| View of Scripture | Inerrancy affirmed explicitly, extended to a literal six-day creation, a young earth, and a global Flood, which the notes defend throughout Genesis and the scientific passages. |
+| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
+| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Premillennial, pretribulational, in the Baptist-dispensational tradition of the editor. |
+| Spiritual gifts | Cessationist by tradition of the editor. |
+| Women's ordination | Complementarian by tradition of the editor. |
+
+### Ethical and lifestyle positions
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; the volume's own specific verse-note wording. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Not verified. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -473,8 +952,33 @@ Broadly evangelical and conservative Protestant, cross-denominational, distingui
 ### Denominational leaning
 Broadly evangelical and Reformed, reflecting Edwards's own historic Congregationalist and broadly Calvinist theological commitments; the volume's stated organizing theme is Edwards's conviction that true and lasting joy is found only in God, rather than a systematic verse-by-verse doctrinal commentary in the manner of the MacArthur Study Bible or ESV Study Bible. As the newest entry in this section (2025), it has not yet had time to establish the kind of broad market presence several other entries in this list have achieved over decades.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inerrancy affirmed explicitly, in the terms of the Chicago Statement on Biblical Inerrancy (1978). |
+| Salvation | Reformed/Calvinist: unconditional election, effectual grace, and perseverance of the saints, stated explicitly in the notes on Romans 9, Ephesians 1, and John 6. |
+| Baptism | Edwards's own Congregationalist paedobaptist practice; the volume's thematic notes do not argue the question. |
+| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
+| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
+| Eschatology | Edwards was postmillennial; the volume's notes are thematic (joy in God) and do not press an eschatological system. |
+| Spiritual gifts | Edwards held the extraordinary gifts had ceased while defending genuine revival affections; the volume follows his writings. |
+| Women's ordination | Not addressed; Edwards's own era assumed male ministry, and the volume's thematic notes do not engage the modern question. |
+
+### Ethical and lifestyle positions
 Given this volume's specific devotional and historical-theological orientation around Edwards's own writings, rather than a systematic modern doctrinal or pastoral commentary, direct notes on contemporary questions such as abortion, homosexuality, or alcohol comparable to the more directly application-focused study Bibles in this section have not been identified.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Opposed; the notes on Psalm 139 and Exodus 21 reflect the uniform evangelical view that human life bears God's image from conception. | General pattern of the editorial tradition, not independently documented in the notes |
+| Homosexuality | Same-sex sexual conduct treated as sinful in the notes on Romans 1 and 1 Corinthians 6, with pastoral care distinguished from approval. | General pattern of the editorial tradition, not independently documented in the notes |
+| Alcohol | Moderate use not treated as sinful; drunkenness is. The notes do not counsel abstinence. | General pattern of the editorial tradition, not independently documented in the notes |
+| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
+| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
+| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
+| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
+| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -490,8 +994,33 @@ Given this volume's specific devotional and historical-theological orientation a
 ### Denominational leaning
 Explicitly and traditionally Catholic — see the Catholic Church entry in "Major U.S. Christian Denominations" for the shared doctrinal framework, alongside the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries elsewhere in this section for two more recent alternatives; this volume is distinguished from those by its use of the historic Douay-Rheims translation and its origin in 19th-century, rather than contemporary, Catholic scholarship, giving it particular ongoing appeal among traditionalist Catholics.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Inspired and inerrant in what it teaches for the sake of salvation (Dei Verbum 11), read within the Church's Tradition and Magisterium; the notes follow the Church's guidelines for interpretation. |
+| Salvation | By grace through faith working in love, with justification as a transforming process, cooperation with grace, and the sacraments as ordinary means; neither Calvinist nor Arminian categories apply. |
+| Baptism | Infant and adult baptism, regenerative, necessary for salvation in the ordinary course; by pouring or immersion. |
+| The Lord's Supper | Transubstantiation; the Eucharist as the true Body and Blood of Christ and a sacrifice. |
+| Church government | Episcopal and hierarchical under the Pope; the notes assume the Church's magisterial authority. |
+| Eschatology | Amillennial in effect; the notes read Revelation 20 symbolically and reject a literal earthly millennium, with purgatory, particular and general judgment. |
+| Spiritual gifts | The commentary treats the miraculous gifts as belonging chiefly to the apostolic age, the common view of its era. |
+| Women's ordination | Reserved to men; the notes follow the Church's teaching (Ordinatio Sacerdotalis, 1994). |
+
+### Ethical and lifestyle positions
 Reflecting its early-19th-century original composition, Haydock's commentary does not address these specific contemporary questions the way modern study Bibles do; its underlying doctrinal framework is nonetheless consistent with the historic Catholic teaching described in the Catholic Church entry in "Major U.S. Christian Denominations," from which the Church's own modern-era statements on these specific questions (cited in the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries above) themselves develop.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Gravely wrong from conception (Catechism 2270-2275). | Catholic teaching, reflected in the notes |
+| Homosexuality | Homosexual acts are intrinsically disordered; persons are to be treated with respect and compassion (Catechism 2357-2359). | Catholic teaching, reflected in the notes |
+| Alcohol | Moderate use permitted; drunkenness sinful. | Catholic teaching |
+| Divorce and remarriage | A valid consummated sacramental marriage is indissoluble; civil divorce may be tolerated for grave reasons, but remarriage while a spouse lives is not permitted absent a declaration of nullity. The notes on Matthew 19 and 1 Corinthians 7 follow this teaching. | Catholic teaching, reflected in the notes |
+| Contraception | Not addressed in the commentary's own era's terms; the Church's teaching against artificial contraception is consistent with its treatment of Genesis 38. | Catholic teaching |
+| Gambling | Not in itself contrary to justice, but sinful when it deprives one of what is needed for one's own or others' needs, or becomes enslaving (Catechism 2413). | Catholic teaching |
+| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
+| Premarital sex/cohabitation | Sexual relations outside marriage are gravely sinful; cohabitation is incompatible with the Church's teaching on marriage. | Catholic teaching, reflected in the notes |
+| War/pacifism | Just-war teaching (Catechism 2307-2317), with a strong presumption for peace; conscientious objection respected. | Catholic teaching |
+| Death penalty | Permitted; the commentary reflects the Church's 19th-century teaching, which allowed capital punishment, not the 2018 revision of the Catechism. | Catholic teaching as of the commentary's era (1811-1814) |
 
 ---
 
@@ -507,8 +1036,33 @@ Reflecting its early-19th-century original composition, Haydock's commentary doe
 ### Denominational leaning
 Broadly mainline Protestant and academic/ecumenical, the same general orientation as the later NRSV-based New Oxford Annotated Bible; historical-critical and less devotionally or doctrinally oriented than most other entries in this section, closer in spirit to the Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Historical-critical: the notes treat the books as human documents with complex compositional histories and do not use the categories of inerrancy or infallibility; authority is a matter for the reader's tradition. |
+| Salvation | Not addressed; the volume takes no confessional position. |
+| Baptism | Not addressed; the volume takes no confessional position. |
+| The Lord's Supper | Not addressed; the volume takes no confessional position. |
+| Church government | Not addressed; the volume takes no confessional position. |
+| Eschatology | The notes read apocalyptic texts historically (as addressed to their first audiences) rather than predictively; no millennial position. |
+| Spiritual gifts | Not addressed; the volume takes no confessional position. |
+| Women's ordination | Not addressed as a doctrine; the mainline traditions of the contributors ordain women, and the notes read the restrictive passages as situational. |
+
+### Ethical and lifestyle positions
 Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; the notes were not checked on any of the three categories.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Homosexuality | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Alcohol | Not addressed; the volume takes no position. | Volume's stated editorial approach |
+| Divorce and remarriage | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Contraception | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Gambling | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Dancing | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Premarital sex/cohabitation | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| War/pacifism | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Death penalty | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 
 ---
 
@@ -524,7 +1078,32 @@ Credited to Logos International as publisher rather than to a single named gener
 ### Denominational leaning
 Broadly evangelical and Protestant, cross-denominational so far as can be determined from available sources; given the volume's age, obscurity, and the publisher's own closure shortly after its release, this entry has not identified a specific confessional orientation beyond its general evangelical Protestant character.
 
-### Ethical and lifestyle commentary
+### Doctrinal positions
+| Category | Position |
+|---|---|
+| View of Scripture | Broadly evangelical Protestant, so far as available sources show; the volume's obscurity prevents a fuller characterization. |
+| Salvation | Not addressed; no position could be identified from available sources. |
+| Baptism | Not addressed; no position could be identified from available sources. |
+| The Lord's Supper | Not addressed; no position could be identified from available sources. |
+| Church government | Not addressed; no position could be identified from available sources. |
+| Eschatology | Not addressed; no position could be identified from available sources. |
+| Spiritual gifts | Not addressed; no position could be identified from available sources. |
+| Women's ordination | Not addressed; no position could be identified from available sources. |
+
+### Ethical and lifestyle positions
 Reflecting its 1972 original composition, this volume's notes and cross-references do not address these specific contemporary questions the way modern study Bibles do; not verified on any of the three categories.
+
+| Category | Position | Source |
+|---|---|---|
+| Abortion | Not identified from available sources. | Not identified from available sources |
+| Homosexuality | Not identified from available sources. | Not identified from available sources |
+| Alcohol | Not identified from available sources. | Not identified from available sources |
+| Divorce and remarriage | Not addressed; no position could be identified from available sources. | Not identified from available sources |
+| Contraception | Not addressed; no position could be identified from available sources. | Not identified from available sources |
+| Gambling | Not addressed; no position could be identified from available sources. | Not identified from available sources |
+| Dancing | Not addressed; no position could be identified from available sources. | Not identified from available sources |
+| Premarital sex/cohabitation | Not addressed; no position could be identified from available sources. | Not identified from available sources |
+| War/pacifism | Not addressed; no position could be identified from available sources. | Not identified from available sources |
+| Death penalty | Not addressed; no position could be identified from available sources. | Not identified from available sources |
 
 ---
