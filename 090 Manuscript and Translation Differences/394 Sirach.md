@@ -4,7 +4,7 @@ Sirach is also known as Ecclesiasticus (the name used in the Douay-Rheims Bible 
 
 **Comparison translations:** RSV2CE, NABRE, DR, and CPDV.
 
-A genuine verse-level example does turn up with more targeted searching, resolving what an earlier draft of this entry had left as an open gap.
+One verse-level example does turn up.
 
 ---
 

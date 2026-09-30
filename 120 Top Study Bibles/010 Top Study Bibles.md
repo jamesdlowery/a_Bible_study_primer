@@ -69,8 +69,8 @@ Broadly evangelical and Reformed-leaning, though the volume draws contributors f
 ### Ethical and lifestyle commentary
 | Category | What the volume represents |
 |---|---|
-| Abortion | Grudem has written extensively and specifically against abortion in his own separate works (*Christian Ethics*, 2018; *What the Bible Says about Abortion, Euthanasia, and End-of-Life Medical Decisions*), grounding opposition in the doctrine that human life bears God's image from conception. The ESV Study Bible's own notes are understood to reflect this same view, consistent with its broadly complementarian-evangelical editorial team, though this entry has not independently confirmed the specific wording of individual verse notes. |
-| Homosexuality | Grudem's own published position, argued at length in his other works, holds same-sex sexual conduct to be sinful (citing Leviticus 18:22, Romans 1:26–27, 1 Corinthians 6:9–11) while distinguishing this from compassionate pastoral care toward those experiencing same-sex attraction. The study Bible's editorial team and stated theological orientation are consistent with this position, though again this entry has not independently confirmed specific verse-note wording. |
+| Abortion | Grudem has written extensively and specifically against abortion in his own separate works (*Christian Ethics*, 2018; *What the Bible Says about Abortion, Euthanasia, and End-of-Life Medical Decisions*), grounding opposition in the doctrine that human life bears God's image from conception. The ESV Study Bible's own notes are understood to reflect this same view, consistent with its broadly complementarian-evangelical editorial team, though the specific wording of individual verse notes was not checked. |
+| Homosexuality | Grudem's own published position, argued at length in his other works, holds same-sex sexual conduct to be sinful (citing Leviticus 18:22, Romans 1:26–27, 1 Corinthians 6:9–11) while distinguishing this from compassionate pastoral care toward those experiencing same-sex attraction. The study Bible's editorial team and stated theological orientation are consistent with this position, though specific verse-note wording was not checked. |
 | Alcohol | Moderate use is not treated as sinful, in contrast to the Southern Baptist Convention's confessional abstinence position; drunkenness, distinct from use, is treated as sinful, consistent with the wider evangelical and Reformed tradition. |
 
 ---
@@ -111,7 +111,7 @@ Broadly evangelical, foundational to 20th-century American dispensationalism spe
 | Category | What the volume represents |
 |---|---|
 | Abortion | Reflecting its early-20th-century original composition, the Scofield Reference Bible's original notes do not address this contemporary question the way modern study Bibles do; later revisions have not been independently confirmed to add updated commentary. |
-| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions not independently confirmed. |
+| Homosexuality | Same as above — not addressed by the original notes in the way modern study Bibles address it; later revisions were not checked. |
 | Alcohol | Not verified. |
 
 ---
@@ -435,7 +435,7 @@ Broadly evangelical, cross-denominational, with a specific and sustained focus o
 | Category | What the volume represents |
 |---|---|
 | Abortion | Consistent with broad conservative evangelical Protestantism; Comfort's own ministry has addressed abortion directly in its broader apologetics and evangelism material, though this volume's own specific verse-note wording has not been independently confirmed. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording. |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; the volume's own specific verse-note wording. |
 | Alcohol | Not verified. |
 
 ---
@@ -456,7 +456,7 @@ Broadly evangelical and conservative Protestant, cross-denominational, distingui
 | Category | What the volume represents |
 |---|---|
 | Abortion | Consistent with broad conservative evangelical Protestantism; Morris's own broader body of published apologetic work reflects a conservative, pro-life ethical framework, though this volume's own specific verse-note wording has not been independently confirmed. |
-| Homosexuality | Consistent with broad conservative evangelical Protestantism; not independently confirmed at the level of this volume's own specific verse-note wording. |
+| Homosexuality | Consistent with broad conservative evangelical Protestantism; the volume's own specific verse-note wording. |
 | Alcohol | Not verified. |
 
 ---
@@ -508,7 +508,7 @@ Reflecting its early-19th-century original composition, Haydock's commentary doe
 Broadly mainline Protestant and academic/ecumenical, the same general orientation as the later NRSV-based New Oxford Annotated Bible; historical-critical and less devotionally or doctrinally oriented than most other entries in this section, closer in spirit to the Cultural Backgrounds Study Bible's academic approach than to the ESV Study Bible's or MacArthur Study Bible's confessional-evangelical approach.
 
 ### Ethical and lifestyle commentary
-Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; not independently confirmed on any of the three categories.
+Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; the notes were not checked on any of the three categories.
 
 ---
 
