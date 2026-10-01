@@ -15,7 +15,7 @@
 - **NLT** renders "Christ was revealed in a human body," making the referent explicit rather than leaving "he" ambiguous, while still following the "he/who" textual tradition rather than "God." **ERV** is also in this same explicit-referent pattern: "Christ was shown to us in human form," again naming Christ directly rather than leaving a bare pronoun.
 - **RSV2CE** follows the same general pattern as the modern critical-text translations, rendering "he was manifested" or similar.
 - **AMP** renders in an expanded form that leans toward making the christological referent explicit while working from the "he who" textual base.
-- **Not verified:** NABRE was not checked against its own text for this verse.
+- **NABRE** is in the "He who" camp, checked against its own text: "Undeniably great is the mystery of devotion, Who was manifested in the flesh," with a footnote explaining that "Who" refers to Christ, that some predominantly Western manuscripts read "which," and that many later, predominantly Byzantine manuscripts read "God," possibly for theological reasons.
 
 ---
 
