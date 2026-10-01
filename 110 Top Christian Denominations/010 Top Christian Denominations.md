@@ -759,7 +759,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ## 23. Christian and Missionary Alliance (C&MA)
 
-**U.S. adherents:** est. ~500,000 (denomination-reported; the 2020 U.S. Religion Census places it in the 100,000–999,999 bracket, having counted 428,721 adherents in 2010); founded 1887 by A.B. Simpson.
+**U.S. adherents:** 414,360 in 1,776 congregations per the 2020 U.S. Religion Census (down from 428,721 in 2010; the denomination's own reporting runs higher, around 500,000); founded 1887 by A.B. Simpson.
 **Governance:** Representative, with a General Council as the highest governing body.
 
 ### Doctrinal positions
@@ -792,7 +792,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 
 ## 24. Presbyterian Church in America (PCA)
 
-**U.S. adherents:** 405,634 (PCA's own 2025 report; the 2020 U.S. Religion Census places it in the 100,000–999,999 bracket, having counted 341,431 adherents in 2010); the second-largest Presbyterian body in the U.S. and the largest theologically conservative Reformed/Calvinist denomination in the country.
+**U.S. adherents:** 372,696 in 1,873 congregations per the 2020 U.S. Religion Census (up from 341,431 in 2010; the PCA's own 2025 report gives 405,634); the second-largest Presbyterian body in the U.S. and the largest theologically conservative Reformed/Calvinist denomination in the country.
 **Governance:** Presbyterian, paralleling PC(USA)'s structure (session, presbytery, General Assembly).
 **Origin:** Formed in 1973 by conservative congregations separating from the body that would go on to merge into today's PC(USA), specifically over concerns about theological liberalism.
 
