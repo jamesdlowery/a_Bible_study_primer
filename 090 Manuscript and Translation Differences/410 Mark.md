@@ -26,7 +26,7 @@ ESV, NIV, CSB, NASB, and LSB set the passage off with brackets or a footnote not
 
 **The NABRE**, checked against its official USCCB text, prints verses 9–20 in the main text under its own heading, "The Longer Ending," followed by "The Shorter Ending" as a separately headed paragraph, with a note explaining that the Longer Ending has traditionally been accepted as a canonical part of the gospel and was defined as such by the Council of Trent -- a headed, annotated presentation closest to the NET Bible's among the translations checked.
 
-**Not verified, and not safely predictable from translation family alone:** the CJB was not checked against its own text for this specific passage and is not assigned to a camp here; a prediction would be a guess.
+**The CJB**, checked against its licensed text, prints verses 9–20 as ordinary continuous text ("When Yeshua rose early Sunday, he appeared first to Miryam of Magdala..."), with no brackets, heading, or break setting the passage off from verse 8 -- placing it with the translations that print the longer ending unflagged, a notable choice for a translation otherwise built on the critical Greek text.
 - **TRB** prints verses 9-20 in square brackets, beginning "[9 Early on Sunday morning, after Jesus had risen, he appeared first to Mary Magdalene (from whom he had cast out seven demons)" -- included in the main text, flagged by brackets rather than by a footnote.
 
 ---
