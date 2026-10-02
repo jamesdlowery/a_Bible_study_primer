@@ -9,17 +9,16 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.docx) — 64.9 MB
-- [📄 OpenDocument (.odt)](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.odt) — 1.0 MB
-- [📄 PDF](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.pdf) — 30.8 MB
-- [📊 Remaining verifications (.xlsx)](../../releases/download/v20261002d/A_Bible_Study_Primer_Remaining_Verifications_v20261002d.xlsx) — 0.0 MB
-- [🌐 HTML](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.html) — 3.6 MB
+- [📄 Word (.docx)](../../releases/download/v20261002e/A_Bible_Study_Primer_v20261002e.docx) — 64.9 MB
+- [📄 OpenDocument (.odt)](../../releases/download/v20261002e/A_Bible_Study_Primer_v20261002e.odt) — 1.0 MB
+- [📄 PDF](../../releases/download/v20261002e/A_Bible_Study_Primer_v20261002e.pdf) — 30.8 MB
+- [🌐 HTML](../../releases/download/v20261002e/A_Bible_Study_Primer_v20261002e.html) — 3.6 MB
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
 
 <!-- AUTO-GENERATED-VERIFICATIONS-LINK:START -->
-[📊 **Remaining verifications (.xlsx)**](../../releases/download/v20261002c/A_Bible_Study_Primer_Remaining_Verifications_v20261002c.xlsx) is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
+[📊 **Remaining verifications (.xlsx)**](../../releases/download/v20261002e/A_Bible_Study_Primer_Remaining_Verifications_v20261002e.xlsx) (0.0 MB) is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
 <!-- AUTO-GENERATED-VERIFICATIONS-LINK:END -->
 
 ## Contents
