@@ -18,7 +18,9 @@ These are rebuilt automatically from the current `main` branch every time the so
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
 
-The **Remaining verifications** spreadsheet is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
+<!-- AUTO-GENERATED-VERIFICATIONS-LINK:START -->
+[📊 **Remaining verifications (.xlsx)**](../../releases/download/v20261002c/A_Bible_Study_Primer_Remaining_Verifications_v20261002c.xlsx) is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
+<!-- AUTO-GENERATED-VERIFICATIONS-LINK:END -->
 
 ## Contents
 

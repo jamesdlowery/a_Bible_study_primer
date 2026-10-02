@@ -23,6 +23,13 @@ import sys
 START = "<!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->"
 END = "<!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->"
 
+# A second marked block, the paragraph beneath the download list that
+# describes the remaining-verifications workbook. The workbook's download
+# link lives inside that paragraph rather than in the list above, so this
+# block is rewritten with the versioned filename on every build too.
+VSTART = "<!-- AUTO-GENERATED-VERIFICATIONS-LINK:START -->"
+VEND = "<!-- AUTO-GENERATED-VERIFICATIONS-LINK:END -->"
+
 
 def format_size(path):
     """'2.4 MB', or None if the file isn't there to measure -- e.g. a
@@ -38,15 +45,13 @@ def format_size(path):
 
 def build_block(version, files_dir="."):
     book = f"A_Bible_Study_Primer_{version}"
-    sheet = f"A_Bible_Study_Primer_Remaining_Verifications_{version}"
     # (label, versioned filename) -- in README display order. The
-    # remaining-verifications workbook deliberately sits right below the
-    # PDF, ahead of HTML.
+    # remaining-verifications workbook is linked from its own paragraph
+    # below the list (see build_verifications_block), not from here.
     entries = [
         ("📄 Word (.docx)", f"{book}.docx"),
         ("📄 OpenDocument (.odt)", f"{book}.odt"),
         ("📄 PDF", f"{book}.pdf"),
-        ("📊 Remaining verifications (.xlsx)", f"{sheet}.xlsx"),
         ("🌐 HTML", f"{book}.html"),
     ]
     lines = [START]
@@ -56,6 +61,27 @@ def build_block(version, files_dir="."):
         lines.append(f"- [{label}](../../releases/download/{version}/{filename}){suffix}")
     lines.append(END)
     return "\n".join(lines)
+
+
+def build_verifications_block(version, files_dir="."):
+    filename = f"A_Bible_Study_Primer_Remaining_Verifications_{version}.xlsx"
+    size = format_size(os.path.join(files_dir, filename))
+    suffix = f" ({size})" if size else ""
+    link = f"[📊 **Remaining verifications (.xlsx)**](../../releases/download/{version}/{filename}){suffix}"
+    paragraph = (
+        f"{link} is the book's open-items ledger: every place where a claim "
+        f"about a translation's wording still rests on an expectation or a "
+        f"proxy rather than a direct check of that translation's own text, "
+        f"with what was checked, what remains, and how to close it. It is "
+        f"regenerated on every build from "
+        f"[`build/verifications/remaining_verifications.csv`]"
+        f"(build/verifications/remaining_verifications.csv) (edit that file, "
+        f"not the spreadsheet), carries the same version stamp as the book it "
+        f"was built with, and re-checks each row's marker phrase against the "
+        f"current text so a row whose passage has since been edited is "
+        f"flagged for review."
+    )
+    return "\n".join([VSTART, paragraph, VEND])
 
 
 def main():
@@ -74,6 +100,14 @@ def main():
         return
 
     new_content = pattern.sub(build_block(version, files_dir), content)
+
+    vpattern = re.compile(re.escape(VSTART) + r".*?" + re.escape(VEND), re.DOTALL)
+    if vpattern.search(new_content):
+        new_content = vpattern.sub(build_verifications_block(version, files_dir), new_content)
+    else:
+        print(f"WARNING: could not find {VSTART} / {VEND} markers in "
+              f"{readme_path}; the remaining-verifications paragraph was "
+              f"left unchanged.")
     if new_content == content:
         print("README already up to date for this version; no changes made.")
         return
