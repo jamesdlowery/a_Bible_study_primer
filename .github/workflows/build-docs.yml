@@ -1,4 +1,4 @@
-name: Build Word / ODT / PDF / HTML
+name: Build Word / ODT / PDF / HTML / verifications XLSX
 
 # Runs whenever content changes on main, or manually via the Actions tab.
 on:
@@ -9,7 +9,7 @@ on:
       - '**/*.jpg'
       - '**/*.jpeg'
       - '**/*.png'
-      - 'build/**'
+      - 'build/**'   # includes build/verifications/ (the XLSX source data)
       - '.github/workflows/build-docs.yml'
   workflow_dispatch: {}
 
@@ -29,11 +29,11 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      - name: Install pandoc, LibreOffice, and PyMuPDF
+      - name: Install pandoc, LibreOffice, PyMuPDF, and openpyxl
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc libreoffice python3-uno --no-install-recommends
-          pip install --quiet pymupdf
+          pip install --quiet pymupdf openpyxl
 
       # Version format: vYYYYMMDDx -- YYYY/MM/DD is today's date in US
       # Eastern time, and x is a lowercase letter that increments each time
@@ -165,6 +165,18 @@ jobs:
           python3 build/assemble.py html "$GITHUB_WORKSPACE"
           python3 build/render_html.py build/full_document_html.md build/html_style.html A_Bible_Study_Primer.html
 
+      # --- Remaining-verifications workbook: regenerated from
+      # build/verifications/remaining_verifications.csv (+ _notes.md) on
+      # every build, stamped with this run's version, and with each row's
+      # marker phrase re-checked against the live markdown (see the
+      # script's docstring). Written straight to its versioned name; the
+      # stable copy is made alongside the book's below. ---
+      - name: Generate remaining-verifications XLSX
+        run: |
+          python3 build/generate_verifications_xlsx.py \
+            "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
+            "A_Bible_Study_Primer_Remaining_Verifications_${{ steps.version.outputs.version }}.xlsx"
+
       # Versioned copies (e.g. A_Bible_Study_Primer_v20260823a.docx) are the
       # actual per-run artifacts. Stable, unversioned copies are also kept
       # so the README's fixed "latest" download links never need editing --
@@ -175,6 +187,8 @@ jobs:
           for ext in docx odt pdf html; do
             cp "A_Bible_Study_Primer.$ext" "A_Bible_Study_Primer_${VERSION}.$ext"
           done
+          cp "A_Bible_Study_Primer_Remaining_Verifications_${VERSION}.xlsx" \
+             "A_Bible_Study_Primer_Remaining_Verifications.xlsx"
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
@@ -195,6 +209,8 @@ jobs:
             A_Bible_Study_Primer_${{ steps.version.outputs.version }}.odt
             A_Bible_Study_Primer_${{ steps.version.outputs.version }}.pdf
             A_Bible_Study_Primer_${{ steps.version.outputs.version }}.html
+            A_Bible_Study_Primer_Remaining_Verifications.xlsx
+            A_Bible_Study_Primer_Remaining_Verifications_${{ steps.version.outputs.version }}.xlsx
 
       # Rewrites only the marked block in README.md (see README_snippet.md)
       # to point at this run's exact versioned filenames, each annotated

@@ -2,7 +2,7 @@
 
 A structured study guide covering the transmission history of the Bible: the ancient source manuscripts behind it, the character and relationships of each manuscript tradition, the major English translations and the sources they draw from, and a book-by-book survey of the most significant, well-attested textual variants that affect meaning across the Old and New Testaments (and the Apocrypha).
 
-This repository contains the content in Markdown so it can be read directly on GitHub, along with downloadable DOCX, HTML, ODT, and PDF files.
+This repository contains the content in Markdown so it can be read directly on GitHub, along with downloadable DOCX, HTML, ODT, and PDF files, and a spreadsheet tracking the verification work that remains open.
 
 ## 📥 Download the latest build
 
@@ -16,6 +16,8 @@ These are rebuilt automatically from the current `main` branch every time the so
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
+
+The **Remaining verifications** spreadsheet is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
 
 ## Contents
 

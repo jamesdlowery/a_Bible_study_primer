@@ -1,0 +1,9 @@
+Inventory taken 1 Oct 2026 (repo base v20261001d); updated later on 1 Oct 2026 after the supplied-text batch (v20261001e), the web sweep of CJB/ERV/NABRE/NET/NRSV-CE/RSV at all 13 side-note variants and the Census counts (both against v20261001h). Column L records what changed per row. Updated again 2 Oct 2026 after the supplied-text batch (TRB scan, NET 2005 .doc) and web closure of Leviticus §20 (against v20261001j). Second 2 Oct update: CPDV deuterocanon rows and ERV at Esther closed (against v20261002a). Third 2 Oct update: CJB and RSV at Esther closed (against v20261002b).
+
+Est. lookups = number of individual text checks needed to close the row; 0 where the row is a labelling convention rather than a gap.
+
+Status: Open = a stated gap still in the text and web-checkable; Open – print only = needs a physical TRB or RSV2CE; Closed = checked against the translation's own text; Closed by proxy = verified against the RSV Catholic Edition text RSV2CE carries forward; Closed via NRSV text = NRSV-CE confirmed from NRSV sources; Honest label / Deliberate / Convention = editorial choice, not a queue.
+
+The ten translations checked at every Category C variant are AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT and RSV2CE; the 17 not checked there are AKJV, ASV, BSB, CJB, CPDV, Darby, Douay-Rheims, ERV, NABRE, NET Bible, NRSV-CE, RSV, Smith's Literal Translation, TRB, WEB, Webster's Bible and YLT.
+
+Suggested next session: (1) row 59 — RSV2CE at Ephesians 1:1 (print); (2) row 9 — RSV2CE Sirach 33:1 (print or RSV-CE proxy). Rows 12-25 stay until a print RSV2CE is to hand. Nothing else web-checkable remains.

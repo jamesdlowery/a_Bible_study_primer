@@ -5,7 +5,9 @@ current file size in MB. Safe to run repeatedly -- only replaces content
 between the two marker comments, leaving the rest of the README untouched.
 
 Sizes are read directly from the actual versioned files on disk (e.g.
-A_Bible_Study_Primer_v20260924z.docx in the current working directory),
+A_Bible_Study_Primer_v20260924z.docx or
+A_Bible_Study_Primer_Remaining_Verifications_v20260924z.xlsx in the
+current working directory),
 not hand-maintained, so they can never silently drift out of sync with
 the real file -- recomputed fresh every time this script runs. Depends on
 running after those files already exist in the working directory, which
@@ -35,19 +37,23 @@ def format_size(path):
 
 
 def build_block(version, files_dir="."):
-    base_name = f"A_Bible_Study_Primer_{version}"
-    base_url = f"../../releases/download/{version}/{base_name}"
+    book = f"A_Bible_Study_Primer_{version}"
+    sheet = f"A_Bible_Study_Primer_Remaining_Verifications_{version}"
+    # (label, versioned filename) -- in README display order. The
+    # remaining-verifications workbook deliberately sits right below the
+    # PDF, ahead of HTML.
     entries = [
-        ("📄 Word (.docx)", "docx"),
-        ("📄 OpenDocument (.odt)", "odt"),
-        ("📄 PDF", "pdf"),
-        ("🌐 HTML", "html"),
+        ("📄 Word (.docx)", f"{book}.docx"),
+        ("📄 OpenDocument (.odt)", f"{book}.odt"),
+        ("📄 PDF", f"{book}.pdf"),
+        ("📊 Remaining verifications (.xlsx)", f"{sheet}.xlsx"),
+        ("🌐 HTML", f"{book}.html"),
     ]
     lines = [START]
-    for label, ext in entries:
-        size = format_size(os.path.join(files_dir, f"{base_name}.{ext}"))
+    for label, filename in entries:
+        size = format_size(os.path.join(files_dir, filename))
         suffix = f" — {size}" if size else ""
-        lines.append(f"- [{label}]({base_url}.{ext}){suffix}")
+        lines.append(f"- [{label}](../../releases/download/{version}/{filename}){suffix}")
     lines.append(END)
     return "\n".join(lines)
 
