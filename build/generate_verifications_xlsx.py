@@ -274,9 +274,9 @@ def build(version, repo_root, out_path):
 
     sm = wb.create_sheet("Summary")
     sm.append(["Category", "Items", "Est. lookups",
-               "Open (needs a check; incl. print-only)",
-               "Closed (incl. closed by proxy / via NRSV)",
-               "Deliberate / honest label / convention"])
+               "Open (needs a check; incl. print-only and partly verified)",
+               "Closed (checked against the exact source)",
+               "Unclassified (should be 0)"])
     for cell in sm[1]:
         cell.fill = HEADER_FILL
         cell.font = HEADER_FONT
