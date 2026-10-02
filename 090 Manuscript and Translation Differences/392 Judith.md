@@ -20,5 +20,5 @@
 
 ## Summary observations
 
-- Judith is a strong parallel to Tobit: RSV2CE and NABRE largely agree with each other (both Greek-based), while Douay-Rheims and CPDV would be expected to regularly diverge from both as a pair, being translated from an entirely different ancient textual line (the Vulgate, itself once removed from a lost Aramaic source).
+- Judith is a strong parallel to Tobit: RSV2CE and NABRE largely agree with each other (both Greek-based), while Douay-Rheims and CPDV diverge from both as a pair -- both open the book with Arphaxad fortifying Ecbatana in the Vulgate's twelve-verse first chapter ("And so Arphaxad, king of the Medes, subjugated many nations under his authority, and he built a very powerful city, which he called Ecbatana"), where RSV2CE and NABRE open with the twelfth year of Nebuchadnezzar from the Greek -- being translated from an entirely different ancient textual line (the Vulgate, itself once removed from a lost Aramaic source).
 - If you're comparing Judith across historical Catholic translations, expect the Vulgate-based pair (Douay-Rheims, CPDV) to be the outlier at almost any given point, not RSV2CE or NABRE.
