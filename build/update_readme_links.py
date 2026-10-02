@@ -43,6 +43,16 @@ def format_size(path):
     return f"{size_bytes / (1024 * 1024):.1f} MB"
 
 
+def format_size_kb(path):
+    """Same as format_size, but in whole KB -- for the remaining-verifications
+    workbook, which is a few tens of KB and would otherwise show as '0.0 MB'."""
+    try:
+        size_bytes = os.path.getsize(path)
+    except OSError:
+        return None
+    return f"{max(1, round(size_bytes / 1024))} KB"
+
+
 def build_block(version, files_dir="."):
     book = f"A_Bible_Study_Primer_{version}"
     # (label, versioned filename) -- in README display order. The
@@ -65,7 +75,7 @@ def build_block(version, files_dir="."):
 
 def build_verifications_block(version, files_dir="."):
     filename = f"A_Bible_Study_Primer_Remaining_Verifications_{version}.xlsx"
-    size = format_size(os.path.join(files_dir, filename))
+    size = format_size_kb(os.path.join(files_dir, filename))
     suffix = f" ({size})" if size else ""
     link = f"[📊 **Remaining verifications (.xlsx)**](../../releases/download/{version}/{filename}){suffix}"
     paragraph = (
