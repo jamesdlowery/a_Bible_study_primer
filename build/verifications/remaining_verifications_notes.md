@@ -7,3 +7,5 @@ Status: Open = a stated gap still in the text and web-checkable; Open – print 
 The ten translations checked at every Category C variant are AMP, CSB, ESV, KJV, NKJV, NASB, LSB, NIV, NLT and RSV2CE; the 17 not checked there are AKJV, ASV, BSB, CJB, CPDV, Darby, Douay-Rheims, ERV, NABRE, NET Bible, NRSV-CE, RSV, Smith's Literal Translation, TRB, WEB, Webster's Bible and YLT.
 
 Suggested next session: (1) row 59 — RSV2CE at Ephesians 1:1 (print); (2) row 9 — RSV2CE Sirach 33:1 (print or RSV-CE proxy). Rows 12-25 stay until a print RSV2CE is to hand. Nothing else web-checkable remains.
+
+Categories F and G (added 2 Oct 2026) track the 18 doctrinal, ethical and lifestyle position categories across all 27 denominations and all 27 study Bibles. Their 'What the text currently says' and 'Est. lookups' are refilled by every build from the live tables, less any cell already recorded as verified in build/verifications/position_verifications.csv (one line per entity x category: Section, Entity, Category, Status, Checked against, Date, Notes). The two matrix sheets show every cell's current source label with the verification overlay.

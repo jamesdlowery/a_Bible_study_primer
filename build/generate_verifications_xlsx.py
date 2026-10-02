@@ -29,6 +29,7 @@ Usage: python3 build/generate_verifications_xlsx.py <version> [repo_root] [out_p
 """
 import csv
 import os
+import re
 import sys
 from datetime import datetime, timezone
 
@@ -36,8 +37,12 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import positions_matrix as pm  # noqa: E402
+
 DATA_CSV = os.path.join("build", "verifications", "remaining_verifications.csv")
 NOTES_MD = os.path.join("build", "verifications", "remaining_verifications_notes.md")
+POS_CSV = os.path.join("build", "verifications", "position_verifications.csv")
 
 HEADER_FILL = PatternFill("solid", fgColor="1F3864")
 HEADER_FONT = Font(bold=True, color="FFFFFF")
@@ -52,7 +57,134 @@ WIDTHS = {
     "Marker file": 30, "Marker phrase": 40,
 }
 
-CATEGORY_ORDER = ["A", "B", "C", "D", "E"]
+CATEGORY_ORDER = ["A", "B", "C", "D", "E", "F", "G"]
+
+# Ledger rows for the 18 position categories are identified by their
+# Section (110 = Denominations, 120 = Study Bibles) plus the category
+# name in "Entry / Verse"; the build refills their status text and lookup
+# count from the live tables so they can never go stale by hand.
+SECTION_BY_CODE = {"110": "Denominations", "120": "Study Bibles"}
+VERIFIED_FILL = PatternFill("solid", fgColor="C6EFCE")
+NOSRC_FILL = PatternFill("solid", fgColor="FFEB9C")
+NOPOS_FILL = PatternFill("solid", fgColor="EDEDED")
+
+
+def read_position_checks(repo_root):
+    """{(section, entity, category): row} from position_verifications.csv."""
+    path = os.path.join(repo_root, POS_CSV)
+    checks = {}
+    if not os.path.exists(path):
+        return checks
+    with open(path, encoding="utf-8", newline="") as fh:
+        for r in csv.DictReader(fh):
+            key = (r["Section"].strip(), r["Entity"].strip(), pm._norm(r["Category"]))
+            checks[key] = r
+    return checks
+
+
+def source_class(position, source):
+    """'none' (nothing to verify), 'weak' (claim whose source the text itself
+    marks as not identified / not independently documented), or 'cited'."""
+    if not pm.has_position(position, source):
+        return "none"
+    if re.match(r"^\s*(not identified|general pattern, not independently|not independently)", source or "", re.I):
+        return "weak"
+    return "cited"
+
+
+def refresh_position_row(row, data, checks):
+    """Rewrite the status text and lookup count of an F/G ledger row."""
+    section = SECTION_BY_CODE.get(row.get("Section", "").strip())
+    cat = pm._norm(row.get("Entry / Verse", ""))
+    if not section or cat not in pm.CATEGORIES:
+        return row
+    entities = data[section]
+    counts = {"none": 0, "weak": 0, "cited": 0}
+    open_cells, verified = [], []
+    for ent, cats in entities.items():
+        if cat not in cats:
+            counts["none"] += 1
+            continue
+        cls = source_class(*cats[cat])
+        counts[cls] += 1
+        if cls == "none":
+            continue
+        chk = checks.get((section, ent, cat))
+        if chk and chk.get("Status", "").strip().lower().startswith("verified"):
+            verified.append(ent)
+        else:
+            open_cells.append(ent)
+    row = dict(row)
+    row["What the text currently says"] = (
+        f"{len(entities)} entries: {counts['cited']} "
+        + ("state a position" if cat in pm.DOCTRINAL else "state a position with a cited source")
+        + f", {counts['weak']} make a claim the text itself marks as not independently documented, "
+        f"{counts['none']} take no position. "
+        f"Verified cell-by-cell so far: {len(verified)} of {counts['cited'] + counts['weak']}."
+        + (f" Still open: {', '.join(open_cells)}." if open_cells else " Nothing open.")
+    )
+    row["Est. lookups"] = str(len(open_cells))
+    if not open_cells and (counts["cited"] + counts["weak"]) > 0:
+        row["Status"] = "Closed"
+    elif verified:
+        row["Status"] = f"Open – {len(verified)} of {len(verified) + len(open_cells)} verified"
+    return row
+
+
+def write_matrix(wb, title, section, entities, checks):
+    """Entity x category sheet: each cell shows the source label the text
+    gives for that position (or '—' where no position is taken), colored
+    grey for no position, amber for a claim the text marks as not
+    independently documented, green once position_verifications.csv
+    records it as verified (the cell then also names what it was checked
+    against)."""
+    ws = wb.create_sheet(title)
+    ws.append(["Entity"] + pm.CATEGORIES)
+    for cell in ws[1]:
+        cell.fill = HEADER_FILL
+        cell.font = HEADER_FONT
+        cell.alignment = Alignment(wrap_text=True, vertical="center")
+    for ent, cats in entities.items():
+        row = [ent]
+        fills = [None]
+        for cat in pm.CATEGORIES:
+            if cat not in cats:
+                row.append("—")
+                fills.append(NOPOS_FILL)
+                continue
+            position, source = cats[cat]
+            cls = source_class(position, source)
+            if cls == "none":
+                row.append("—")
+                fills.append(NOPOS_FILL)
+                continue
+            label = (source or "stated").split(";")[0].strip()
+            chk = checks.get((section, ent, cat))
+            if chk and chk.get("Status", "").strip().lower().startswith("verified"):
+                against = chk.get("Checked against", "").strip()
+                row.append("✔ verified" + (f": {against}" if against else ""))
+                fills.append(VERIFIED_FILL)
+            else:
+                row.append(label)
+                fills.append(NOSRC_FILL if cls == "weak" else None)
+        ws.append(row)
+        r = ws.max_row
+        for i, f in enumerate(fills, start=1):
+            c = ws.cell(r, i)
+            c.alignment = WRAP
+            if f:
+                c.fill = f
+    ws.column_dimensions["A"].width = 34
+    for i in range(2, len(pm.CATEGORIES) + 2):
+        ws.column_dimensions[get_column_letter(i)].width = 22
+    ws.freeze_panes = "B2"
+    ws.auto_filter.ref = f"A1:{get_column_letter(len(pm.CATEGORIES) + 1)}{ws.max_row}"
+    legend = ws.max_row + 2
+    ws.cell(legend, 1, "Legend: grey '—' = no position taken (nothing to verify); plain = position with a cited source, "
+                       "not yet checked; amber = claim the text itself marks as not independently documented; "
+                       "green ✔ = recorded as verified in build/verifications/position_verifications.csv.")
+    ws.cell(legend, 1).alignment = Alignment(wrap_text=True, vertical="top")
+    ws.merge_cells(start_row=legend, start_column=1, end_row=legend, end_column=8)
 
 
 def read_rows(repo_root):
@@ -93,6 +225,9 @@ def categories_in_order(rows):
 def build(version, repo_root, out_path):
     fieldnames, rows = read_rows(repo_root)
     notes = read_notes(repo_root)
+    data = pm.parse(repo_root)
+    checks = read_position_checks(repo_root)
+    rows = [refresh_position_row(r, data, checks) for r in rows]
 
     # Output columns: everything from the CSV except the two marker columns,
     # then the auto text-check result, then the marker columns at the far
@@ -182,6 +317,9 @@ def build(version, repo_root, out_path):
     sm.column_dimensions["B"].width = 20
     for c in "CDEF":
         sm.column_dimensions[c].width = 22
+
+    write_matrix(wb, "Denominations x categories", "Denominations", data["Denominations"], checks)
+    write_matrix(wb, "Study Bibles x categories", "Study Bibles", data["Study Bibles"], checks)
 
     wb.move_sheet("Summary", offset=-1)  # Summary first, data second
     wb.save(out_path)
