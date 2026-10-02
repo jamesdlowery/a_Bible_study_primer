@@ -9,10 +9,11 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20261002c/A_Bible_Study_Primer_v20261002c.docx) — 64.9 MB
-- [📄 OpenDocument (.odt)](../../releases/download/v20261002c/A_Bible_Study_Primer_v20261002c.odt) — 1.0 MB
-- [📄 PDF](../../releases/download/v20261002c/A_Bible_Study_Primer_v20261002c.pdf) — 30.8 MB
-- [🌐 HTML](../../releases/download/v20261002c/A_Bible_Study_Primer_v20261002c.html) — 3.6 MB
+- [📄 Word (.docx)](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.docx) — 64.9 MB
+- [📄 OpenDocument (.odt)](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.odt) — 1.0 MB
+- [📄 PDF](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.pdf) — 30.8 MB
+- [📊 Remaining verifications (.xlsx)](../../releases/download/v20261002d/A_Bible_Study_Primer_Remaining_Verifications_v20261002d.xlsx) — 0.0 MB
+- [🌐 HTML](../../releases/download/v20261002d/A_Bible_Study_Primer_v20261002d.html) — 3.6 MB
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
