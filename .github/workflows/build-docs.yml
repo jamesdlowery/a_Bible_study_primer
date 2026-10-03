@@ -106,10 +106,10 @@ jobs:
       - name: Generate final DOCX
         run: |
           pandoc build/full_document_docx.md \
-            -o A_Bible_Study_Primer.docx \
+            -o a_Bible_study_primer.docx \
             -f markdown+raw_attribute-yaml_metadata_block --wrap=none \
             --reference-doc=build/custom-reference.docx
-          python3 build/postprocess_docx.py A_Bible_Study_Primer.docx "${{ steps.version.outputs.version }}"
+          python3 build/postprocess_docx.py a_Bible_study_primer.docx "${{ steps.version.outputs.version }}"
 
       # --- ODT: same two-pass process, independently measured (docx and
       # odt can paginate slightly differently, so blank-page placement is
@@ -139,22 +139,22 @@ jobs:
       - name: Generate final ODT
         run: |
           pandoc build/full_document_odt.md \
-            -o A_Bible_Study_Primer.odt \
+            -o a_Bible_study_primer.odt \
             -f markdown+raw_attribute-yaml_metadata_block --wrap=none \
             --reference-doc=build/custom-reference.odt
-          python3 build/postprocess_odt.py A_Bible_Study_Primer.odt "${{ steps.version.outputs.version }}"
+          python3 build/postprocess_odt.py a_Bible_study_primer.odt "${{ steps.version.outputs.version }}"
 
       - name: Generate PDF (rendered from the final DOCX, so it always matches)
-        run: python3 build/update_fields_and_export.py A_Bible_Study_Primer.docx A_Bible_Study_Primer.pdf
+        run: python3 build/update_fields_and_export.py a_Bible_study_primer.docx a_Bible_study_primer.pdf
 
       - name: Add Front Cover to the PDF's bookmarks panel
-        run: python3 build/add_cover_bookmark.py A_Bible_Study_Primer.pdf
+        run: python3 build/add_cover_bookmark.py a_Bible_study_primer.pdf
 
       - name: Generate per-page running headers for main sections
-        run: python3 build/generate_headers.py A_Bible_Study_Primer.pdf build/targets_meta_docx.json "$GITHUB_WORKSPACE"
+        run: python3 build/generate_headers.py a_Bible_study_primer.pdf build/targets_meta_docx.json "$GITHUB_WORKSPACE"
 
       - name: Remove running-header text from blank pages
-        run: python3 build/blank_page_headers.py A_Bible_Study_Primer.pdf
+        run: python3 build/blank_page_headers.py a_Bible_study_primer.pdf
 
       # --- HTML: single pass, no pagination (page breaks are print-CSS only) ---
 
@@ -163,7 +163,7 @@ jobs:
           BUILD_VERSION: ${{ steps.version.outputs.version }}
         run: |
           python3 build/assemble.py html "$GITHUB_WORKSPACE"
-          python3 build/render_html.py build/full_document_html.md build/html_style.html A_Bible_Study_Primer.html
+          python3 build/render_html.py build/full_document_html.md build/html_style.html a_Bible_study_primer.html
 
       # --- Remaining-verifications workbook: regenerated from
       # build/verifications/remaining_verifications.csv (+ _notes.md) on
@@ -175,9 +175,9 @@ jobs:
         run: |
           python3 build/generate_verifications_xlsx.py \
             "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
-            "A_Bible_Study_Primer_Remaining_Verifications_${{ steps.version.outputs.version }}.xlsx"
+            "a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx"
 
-      # Versioned copies (e.g. A_Bible_Study_Primer_v20260823a.docx) are the
+      # Versioned copies (e.g. a_Bible_study_primer_v20260823a.docx) are the
       # actual per-run artifacts. Stable, unversioned copies are also kept
       # so the README's fixed "latest" download links never need editing --
       # both sets live in the same release.
@@ -185,10 +185,10 @@ jobs:
         run: |
           VERSION="${{ steps.version.outputs.version }}"
           for ext in docx odt pdf html; do
-            cp "A_Bible_Study_Primer.$ext" "A_Bible_Study_Primer_${VERSION}.$ext"
+            cp "a_Bible_study_primer.$ext" "a_Bible_study_primer_${VERSION}.$ext"
           done
-          cp "A_Bible_Study_Primer_Remaining_Verifications_${VERSION}.xlsx" \
-             "A_Bible_Study_Primer_Remaining_Verifications.xlsx"
+          cp "a_Bible_study_primer_remaining_verifications_${VERSION}.xlsx" \
+             "a_Bible_study_primer_remaining_verifications.xlsx"
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
@@ -201,16 +201,16 @@ jobs:
             download links keep working.
           make_latest: true
           files: |
-            A_Bible_Study_Primer.docx
-            A_Bible_Study_Primer.odt
-            A_Bible_Study_Primer.pdf
-            A_Bible_Study_Primer.html
-            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.docx
-            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.odt
-            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.pdf
-            A_Bible_Study_Primer_${{ steps.version.outputs.version }}.html
-            A_Bible_Study_Primer_Remaining_Verifications.xlsx
-            A_Bible_Study_Primer_Remaining_Verifications_${{ steps.version.outputs.version }}.xlsx
+            a_Bible_study_primer.docx
+            a_Bible_study_primer.odt
+            a_Bible_study_primer.pdf
+            a_Bible_study_primer.html
+            a_Bible_study_primer_${{ steps.version.outputs.version }}.docx
+            a_Bible_study_primer_${{ steps.version.outputs.version }}.odt
+            a_Bible_study_primer_${{ steps.version.outputs.version }}.pdf
+            a_Bible_study_primer_${{ steps.version.outputs.version }}.html
+            a_Bible_study_primer_remaining_verifications.xlsx
+            a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx
 
       # Rewrites only the marked block in README.md (see README_snippet.md)
       # to point at this run's exact versioned filenames, each annotated

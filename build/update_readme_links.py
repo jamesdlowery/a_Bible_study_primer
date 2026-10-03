@@ -5,8 +5,8 @@ current file size in MB. Safe to run repeatedly -- only replaces content
 between the two marker comments, leaving the rest of the README untouched.
 
 Sizes are read directly from the actual versioned files on disk (e.g.
-A_Bible_Study_Primer_v20260924z.docx or
-A_Bible_Study_Primer_Remaining_Verifications_v20260924z.xlsx in the
+a_Bible_study_primer_v20260924z.docx or
+a_Bible_study_primer_remaining_verifications_v20260924z.xlsx in the
 current working directory),
 not hand-maintained, so they can never silently drift out of sync with
 the real file -- recomputed fresh every time this script runs. Depends on
@@ -54,7 +54,7 @@ def format_size_kb(path):
 
 
 def build_block(version, files_dir="."):
-    book = f"A_Bible_Study_Primer_{version}"
+    book = f"a_Bible_study_primer_{version}"
     # (label, versioned filename) -- in README display order. The
     # remaining-verifications workbook is linked from its own paragraph
     # below the list (see build_verifications_block), not from here.
@@ -74,7 +74,7 @@ def build_block(version, files_dir="."):
 
 
 def build_verifications_block(version, files_dir="."):
-    filename = f"A_Bible_Study_Primer_Remaining_Verifications_{version}.xlsx"
+    filename = f"a_Bible_study_primer_remaining_verifications_{version}.xlsx"
     size = format_size_kb(os.path.join(files_dir, filename))
     suffix = f" ({size})" if size else ""
     link = f"[📊 **Remaining verifications (.xlsx)**](../../releases/download/{version}/{filename}){suffix}"

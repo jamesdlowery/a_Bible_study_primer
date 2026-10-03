@@ -10,7 +10,7 @@ edited like everything else:
                                                            Summary note
 
 Every build regenerates the workbook as
-A_Bible_Study_Primer_Remaining_Verifications_<version>.xlsx (plus a stable
+a_Bible_study_primer_remaining_verifications_<version>.xlsx (plus a stable
 unversioned copy), attaches both to the release, and update_readme_links.py
 links the versioned one from the README beneath the PDF.
 
@@ -336,7 +336,7 @@ def main():
     version = sys.argv[1]
     repo_root = sys.argv[2] if len(sys.argv) > 2 else "."
     out_path = sys.argv[3] if len(sys.argv) > 3 else \
-        f"A_Bible_Study_Primer_Remaining_Verifications_{version}.xlsx"
+        f"a_Bible_study_primer_remaining_verifications_{version}.xlsx"
     build(version, repo_root, out_path)
 
 
