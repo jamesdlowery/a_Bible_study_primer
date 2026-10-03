@@ -73,11 +73,35 @@ def build_block(version, files_dir="."):
     return "\n".join(lines)
 
 
-def build_verifications_block(version, files_dir="."):
-    filename = f"a_Bible_study_primer_remaining_verifications_{version}.xlsx"
+def _doc_link(label, filename, version, files_dir):
     size = format_size_kb(os.path.join(files_dir, filename))
     suffix = f" ({size})" if size else ""
-    link = f"[📊 **Remaining verifications (.xlsx)**](../../releases/download/{version}/{filename}){suffix}"
+    return f"[{label}](../../releases/download/{version}/{filename}){suffix}"
+
+
+def build_verifications_block(version, files_dir="."):
+    """The 'Release documents' paragraphs beneath the download list: the
+    feature list, the change log and the remaining-verifications workbook,
+    each linked by its versioned filename."""
+    feat = _doc_link("📋 **Feature list (.pdf)**", f"a_Bible_study_primer_feature_list_{version}.pdf", version, files_dir)
+    chg = _doc_link("📝 **Change log (.pdf)**", f"a_Bible_study_primer_change_log_{version}.pdf", version, files_dir)
+    link = _doc_link("📊 **Remaining verifications (.xlsx)**", f"a_Bible_study_primer_remaining_verifications_{version}.xlsx", version, files_dir)
+    feat_para = (
+        f"{feat} is a one- to two-page overview of what the book contains "
+        f"-- each section and what it offers, how the book is delivered, "
+        f"and the headline counts (translations tracked, variants and "
+        f"entries catalogued, denominations and study Bibles profiled), "
+        f"filled in from the text at build time so they are always current."
+    )
+    chg_para = (
+        f"{chg} records what moved since the previous release: the "
+        f"editor's notes (added, corrected, expanded, restructured) kept in "
+        f"[`build/release_docs/changelog.md`](build/release_docs/changelog.md), "
+        f"followed by a measured comparison with the previous release's "
+        f"text -- word counts by section, tracked translations, catalogued "
+        f"variants and entries, denominations and study Bibles, and the "
+        f"titles of entries added or removed."
+    )
     paragraph = (
         f"{link} is the book's open-items ledger: every place where a claim "
         f"about a translation's wording still rests on an expectation or a "
@@ -91,7 +115,7 @@ def build_verifications_block(version, files_dir="."):
         f"current text so a row whose passage has since been edited is "
         f"flagged for review."
     )
-    return "\n".join([VSTART, paragraph, VEND])
+    return "\n".join([VSTART, "### Release documents", "", feat_para, "", chg_para, "", paragraph, VEND])
 
 
 def main():

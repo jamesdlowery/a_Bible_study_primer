@@ -29,11 +29,31 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
+      # The change log compares this build with the previous release's
+      # text, so that release's tree is needed. Tags sort correctly as plain
+      # strings (vYYYYMMDDx), so the highest existing tag is the previous
+      # release. Only that one tag is fetched (shallow), and its tree is
+      # unpacked to /tmp/prev_release for build/generate_release_docs.py.
+      - name: Fetch previous release tree
+        id: prev
+        run: |
+          PREV=$(git ls-remote --tags origin | sed 's#.*refs/tags/##' \
+            | grep -E '^v[0-9]{8}[a-z]$' | sort | tail -1 || true)
+          if [ -n "$PREV" ]; then
+            git fetch --depth=1 origin "refs/tags/$PREV:refs/tags/$PREV"
+            mkdir -p /tmp/prev_release
+            git archive "$PREV" | tar -x -C /tmp/prev_release
+            echo "Previous release: $PREV"
+          else
+            echo "No previous release tag found"
+          fi
+          echo "tag=$PREV" >> "$GITHUB_OUTPUT"
+
       - name: Install pandoc, LibreOffice, PyMuPDF, and openpyxl
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc libreoffice python3-uno --no-install-recommends
-          pip install --quiet pymupdf openpyxl
+          pip install --quiet pymupdf openpyxl reportlab
 
       # Version format: vYYYYMMDDx -- YYYY/MM/DD is today's date in US
       # Eastern time, and x is a lowercase letter that increments each time
@@ -177,6 +197,22 @@ jobs:
             "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
             "a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx"
 
+      # --- Per-release documents: the feature list (what the book contains,
+      # counts filled from the live text) and the change log (editor's notes
+      # from build/release_docs/changelog.md plus a measured comparison with
+      # the previous release's tree fetched above). --promote moves the
+      # changelog's "Unreleased" notes under this version, and that edit is
+      # committed back below with README and the title page. ---
+      - name: Generate feature list and change log PDFs
+        run: |
+          PREV_ARGS=""
+          if [ -n "${{ steps.prev.outputs.tag }}" ]; then
+            PREV_ARGS="--prev /tmp/prev_release --prev-version ${{ steps.prev.outputs.tag }}"
+          fi
+          python3 build/generate_release_docs.py \
+            "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" "$GITHUB_WORKSPACE" \
+            $PREV_ARGS --promote
+
       # Versioned copies (e.g. a_Bible_study_primer_v20260823a.docx) are the
       # actual per-run artifacts. Stable, unversioned copies are also kept
       # so the README's fixed "latest" download links never need editing --
@@ -189,6 +225,8 @@ jobs:
           done
           cp "a_Bible_study_primer_remaining_verifications_${VERSION}.xlsx" \
              "a_Bible_study_primer_remaining_verifications.xlsx"
+          cp "a_Bible_study_primer_feature_list_${VERSION}.pdf" "a_Bible_study_primer_feature_list.pdf"
+          cp "a_Bible_study_primer_change_log_${VERSION}.pdf" "a_Bible_study_primer_change_log.pdf"
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
@@ -211,6 +249,10 @@ jobs:
             a_Bible_study_primer_${{ steps.version.outputs.version }}.html
             a_Bible_study_primer_remaining_verifications.xlsx
             a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx
+            a_Bible_study_primer_feature_list.pdf
+            a_Bible_study_primer_feature_list_${{ steps.version.outputs.version }}.pdf
+            a_Bible_study_primer_change_log.pdf
+            a_Bible_study_primer_change_log_${{ steps.version.outputs.version }}.pdf
 
       # Rewrites only the marked block in README.md (see README_snippet.md)
       # to point at this run's exact versioned filenames, each annotated
@@ -231,15 +273,15 @@ jobs:
       - name: Update title page version
         run: python3 build/update_title_page_version.py "${{ steps.version.outputs.version }}"
 
-      - name: Commit updated README and title page
+      - name: Commit updated README, title page and change log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md "010 Title/010 Title Page.md"
+          git add README.md "010 Title/010 Title Page.md" build/release_docs/changelog.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update download links and title page to ${{ steps.version.outputs.version }}"
+            git commit -m "Update download links, title page and change log to ${{ steps.version.outputs.version }}"
             git fetch origin "${{ github.ref_name }}"
             git rebase "origin/${{ github.ref_name }}"
             git push origin "HEAD:${{ github.ref_name }}"

@@ -2,7 +2,7 @@
 
 A structured study guide covering the transmission history of the Bible: the ancient source manuscripts behind it, the character and relationships of each manuscript tradition, the major English translations and the sources they draw from, and a book-by-book survey of the most significant, well-attested textual variants that affect meaning across the Old and New Testaments (and the Apocrypha).
 
-This repository contains the content in Markdown so it can be read directly on GitHub, along with downloadable DOCX, HTML, ODT, and PDF files, and a spreadsheet tracking the verification work that remains open.
+This repository contains the content in Markdown so it can be read directly on GitHub, along with downloadable DOCX, HTML, ODT, and PDF files, and, for each release, a feature list, a change log, and a spreadsheet tracking the verification work that remains open.
 
 ## 📥 Download the latest build
 
