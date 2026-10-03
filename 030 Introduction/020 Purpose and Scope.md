@@ -2,7 +2,7 @@
 
 ## What This Book Is
 
-*A Bible Study Primer* is a working reference for comparing how the Bible has come down to us — across ancient manuscript traditions and across modern English translations — and for examining, book by book, both the genuine textual variants between translations and the alleged contradictions most commonly raised against Scripture's internal consistency.
+*a Bible study primer* is a working reference for comparing how the Bible has come down to us — across ancient manuscript traditions and across modern English translations — and for examining, book by book, both the genuine textual variants between translations and the alleged contradictions most commonly raised against Scripture's internal consistency.
 
 Concretely, this book:
 

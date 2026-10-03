@@ -137,8 +137,8 @@ def md_to_flowables(md):
 def write_pdf(path, flowables, title):
     doc = SimpleDocTemplate(path, pagesize=letter, leftMargin=0.8 * inch, rightMargin=0.8 * inch,
                             topMargin=0.7 * inch, bottomMargin=0.7 * inch, title=title,
-                            author="A Bible Study Primer")
-    flowables = list(flowables) + [Spacer(1, 8), Paragraph(f"A Bible Study Primer -- {REPO_URL}", ST["sub"])]
+                            author="a Bible study primer")
+    flowables = list(flowables) + [Spacer(1, 8), Paragraph(f"a Bible study primer -- {REPO_URL}", ST["sub"])]
     doc.build(flowables)
 
 
@@ -325,11 +325,11 @@ def main():
         fmd = fh.read()
     fmd = fill_feature_list(fmd, cur, a.version, a.date)
     fpath = os.path.join(a.out_dir, f"a_Bible_study_primer_feature_list_{a.version}.pdf")
-    write_pdf(fpath, md_to_flowables(fmd), f"A Bible Study Primer -- Feature List ({a.version})")
+    write_pdf(fpath, md_to_flowables(fmd), f"a Bible study primer -- Feature List ({a.version})")
 
     # 2. change log
     notes = editor_notes(a.repo_root, a.version)
-    parts = [f"# A Bible Study Primer -- Change Log ({a.version})",
+    parts = [f"# a Bible study primer -- Change Log ({a.version})",
              f"Release of {a.date}. Changes since {a.prev_version}.", ""]
     parts.append("## Editor's notes")
     parts.append(notes if notes else "- No editor's notes were recorded for this release; see the measured changes below.")
@@ -341,7 +341,7 @@ def main():
         parts.append("## Measured changes")
         parts.append("- No previous release was available for comparison.")
     cpath = os.path.join(a.out_dir, f"a_Bible_study_primer_change_log_{a.version}.pdf")
-    write_pdf(cpath, md_to_flowables("\n".join(parts)), f"A Bible Study Primer -- Change Log ({a.version})")
+    write_pdf(cpath, md_to_flowables("\n".join(parts)), f"a Bible study primer -- Change Log ({a.version})")
 
     promoted = promote(a.repo_root, a.version, a.date) if a.promote else False
     print(f"Wrote {fpath} and {cpath}" + ("; changelog.md: Unreleased promoted to " + a.version if promoted else ""))

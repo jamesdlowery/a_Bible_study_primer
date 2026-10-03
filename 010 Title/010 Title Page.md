@@ -1,5 +1,5 @@
 # Title Page
-**A Bible Study Primer**
+**a Bible study primer**
 *A Guide to Manuscripts, Translations, and Difficult Passages*
 v20261003b
 Dear Reader,

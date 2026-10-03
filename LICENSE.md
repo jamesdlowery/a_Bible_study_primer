@@ -1,6 +1,6 @@
 # License
 
-**A Bible Study Primer** © its author. This work is licensed under the [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+**a Bible study primer** © its author. This work is licensed under the [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Summary (not a substitute for the full license)
 

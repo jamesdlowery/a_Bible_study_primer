@@ -1,3 +1,3 @@
 # Cover
 
-![A Bible Study Primer — front cover](front-cover.jpg)
+![a Bible study primer — front cover](front-cover.jpg)

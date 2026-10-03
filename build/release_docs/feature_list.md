@@ -1,8 +1,8 @@
-# A Bible Study Primer -- Feature List ({{VERSION}})
+# a Bible study primer -- Feature List ({{VERSION}})
 
 Release of {{DATE}}. Overview of what the book contains.
 
-**A Bible Study Primer** is a structured study guide to how the Bible reached us: the ancient manuscripts behind it, the character of each manuscript tradition, how the major English translations were made and what they are built on, where those translations differ, how the passages most often called contradictory can be read together, and where the major U.S. denominations and the leading study Bibles stand on doctrine and practice. It is written for lay readers and does not assume knowledge of Hebrew or Greek.
+**a Bible study primer** is a structured study guide to how the Bible reached us: the ancient manuscripts behind it, the character of each manuscript tradition, how the major English translations were made and what they are built on, where those translations differ, how the passages most often called contradictory can be read together, and where the major U.S. denominations and the leading study Bibles stand on doctrine and practice. It is written for lay readers and does not assume knowledge of Hebrew or Greek.
 
 ## What the book contains
 

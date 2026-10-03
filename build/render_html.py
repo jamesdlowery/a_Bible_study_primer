@@ -341,7 +341,7 @@ def main():
     print("Building sidebar navigation from heading structure...")
     sidebar_html = build_sidebar_nav(body_html)
 
-    before, after = build_standalone_shell("A Bible Study Primer", html_style_path)
+    before, after = build_standalone_shell("a Bible study primer", html_style_path)
     # A two-column layout (fixed sidebar + main content), not real HTML
     # frames -- frames are deprecated, require splitting into multiple
     # files, and don't fit this project's one-self-contained-file design.

@@ -921,7 +921,7 @@ def build_title_md():
     with open(os.path.join(REPO, "010 Title/010 Title Page.md"), encoding="utf-8") as f:
         raw_lines = f.read().split("\n")
     lines = [l.strip() for l in raw_lines if l.strip()]
-    # Expected: ["# Title Page", "**A Bible Study Primer**", "v20260823a"]
+    # Expected: ["# Title Page", "**a Bible study primer**", "v20260823a"]
     title_line = next((l for l in lines if l.startswith("**") and l.endswith("**")), None)
     # An optional subtitle line, marked "*...*" (single-asterisk italic)
     # directly after the title line, is rendered under the title.
