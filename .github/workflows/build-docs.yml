@@ -273,16 +273,41 @@ jobs:
       - name: Update title page version
         run: python3 build/update_title_page_version.py "${{ steps.version.outputs.version }}"
 
+      # Two pushes in quick succession are queued by the concurrency group,
+      # so by the time a run reaches this step the branch may already carry
+      # the previous run's version of these same three files (links, title
+      # version, promoted change log). Rebasing a commit prepared against
+      # the run's own checkout onto that conflicts every time (seen on
+      # 6 Oct 2026: run b's commit-back failed against run a's). So instead
+      # of rebasing, this step moves the working tree to the branch's
+      # current tip and regenerates the three files there -- all three
+      # updaters are idempotent -- then commits and pushes, retrying from a
+      # fresh fetch if the push is rejected. The build artifacts in the
+      # working directory are untracked, so the checkout leaves them alone.
       - name: Commit updated README, title page and change log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md "010 Title/010 Title Page.md" build/release_docs/changelog.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update download links, title page and change log to ${{ steps.version.outputs.version }}"
-            git fetch origin "${{ github.ref_name }}"
-            git rebase "origin/${{ github.ref_name }}"
-            git push origin "HEAD:${{ github.ref_name }}"
-          fi
+          VERSION="${{ steps.version.outputs.version }}"
+          BRANCH="${{ github.ref_name }}"
+          DATE=$(python3 -c "import datetime; print(datetime.date.today().strftime('%-d %B %Y'))")
+          # Drop this run's own edits to the three files; they are regenerated below.
+          git checkout -- README.md "010 Title/010 Title Page.md" build/release_docs/changelog.md
+          for attempt in 1 2 3; do
+            git fetch origin "$BRANCH"
+            git checkout -q -B ci-commit "origin/$BRANCH"
+            python3 build/update_readme_links.py "$VERSION"
+            python3 build/update_title_page_version.py "$VERSION"
+            python3 -c "import sys; sys.path.insert(0, 'build'); import generate_release_docs as g; g.promote('.', '$VERSION', '$DATE')"
+            git add README.md "010 Title/010 Title Page.md" build/release_docs/changelog.md
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              break
+            fi
+            git commit -m "Update download links, title page and change log to $VERSION"
+            if git push origin "HEAD:$BRANCH"; then
+              break
+            fi
+            echo "Push rejected (attempt $attempt); refetching and regenerating"
+            git reset -q --hard
+          done
