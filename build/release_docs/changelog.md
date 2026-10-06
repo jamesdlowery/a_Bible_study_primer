@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Added
+- Major U.S. Christian Denominations: a third table, "Other divisive positions," in every one of the 27 entries, covering 13 further questions that have split churches (Scripture and Tradition; the Trinity and the person of Christ; predestination and free will; sanctification and holiness; hell and the fate of the lost; Mary, the saints and prayer for the dead; the day, style and liturgy of worship; church and state; race and the church; creation and the age of the earth; tithing and the prosperity gospel; Bible translations and KJV-onlyism; and marriage roles), each with a source label -- 351 new position cells, bringing the tracked positions per body to 31.
+- Remaining-verifications workbook: the "Denominations x categories" sheet gains the 13 new columns, and the ledger gains rows 97-109 (one per new category), filled by the build from the live tables.
+
+### Also
+- Section introduction for the Denominations section now describes all three tables and all 31 positions.
+
 ## v20261003a -- 3 October 2026
 
 ### Added

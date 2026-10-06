@@ -59,7 +59,7 @@ WIDTHS = {
 
 CATEGORY_ORDER = ["A", "B", "C", "D", "E", "F", "G"]
 
-# Ledger rows for the 18 position categories are identified by their
+# Ledger rows for the 31 position categories are identified by their
 # Section (110 = Denominations, 120 = Study Bibles) plus the category
 # name in "Entry / Verse"; the build refills their status text and lookup
 # count from the live tables so they can never go stale by hand.

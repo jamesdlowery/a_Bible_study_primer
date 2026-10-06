@@ -16,7 +16,7 @@ Release of {{DATE}}. Overview of what the book contains.
 | Histories of Various Bible Translations ({{HISTORIES}}) | A history for each major translation family, from the Vulgate and KJV traditions to the RSV-ESV line and the newest translations. |
 | Manuscript and Translation Differences ({{RCP_BOOKS}} book pages) | {{VARIANTS}} catalogued places where the manuscripts or the translations diverge, each explained and compared across all {{TRANSLATIONS}} tracked translations by name, plus {{SIDE_NOTES}} side-note variants where the tracked translations agree but the wider manuscript tradition does not. |
 | Reportedly Contradicting Passages ({{RCP_BOOKS}} book chapters) | {{RCP}} commonly cited "Bible contradictions," arranged by book: the references, the claim stated fairly, how the {{TRANSLATIONS}} translations render the passages, and a reconciliation. Every entry carries a stable ID. |
-| Top Christian Denominations | The {{DENOMINATIONS}} largest U.S. Christian bodies, each with doctrinal and ethical-and-lifestyle position tables and the source for each position. |
+| Top Christian Denominations | The {{DENOMINATIONS}} largest U.S. Christian bodies, each with three position tables (doctrinal, ethical-and-lifestyle, and other divisive positions -- 31 positions in all) and the source for each position. |
 | Top Study Bibles | {{STUDY_BIBLES}} prominent English study Bibles: base translation, editorial credit, denominational leaning, and doctrinal and ethical-and-lifestyle position tables. |
 | Scripture Index | Every verse cited in the two catalogs, generated from the entries so it cannot drift from them. |
 | References for Further Reading | A statement of how the book was checked, and standard reference works keyed to each section. |

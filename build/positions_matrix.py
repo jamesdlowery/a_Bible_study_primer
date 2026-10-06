@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Extract the doctrinal / ethical-and-lifestyle position tables from the
-Denominations and Study Bibles sections into an entity x category matrix.
+"""Extract the doctrinal, ethical-and-lifestyle and other-divisive position
+tables from the Denominations and Study Bibles sections into an entity x
+category matrix (8 + 10 + 13 = 31 categories).
 
 Shared by generate_verifications_xlsx.py (which writes the matrices into
 the workbook) and usable standalone for a quick console summary.
@@ -14,9 +15,21 @@ CATEGORIES = [
     "Abortion", "Homosexuality", "Alcohol", "Divorce and remarriage",
     "Contraception", "Gambling", "Dancing", "Premarital sex/cohabitation",
     "War/pacifism", "Death penalty",
+    # Other divisive positions (added 6 Oct 2026)
+    "Scripture and Tradition", "The Trinity and the person of Christ",
+    "Predestination and free will", "Sanctification and holiness",
+    "Hell, judgment and the fate of the lost", "Mary, the saints and prayer for the dead",
+    "Worship: day, style and liturgy", "Church and state / political engagement",
+    "Race, ethnicity and the church", "Creation and the age of the earth",
+    "Tithing and the prosperity gospel", "Bible translations and KJV-onlyism",
+    "Marriage roles: complementarian and egalitarian",
 ]
 DOCTRINAL = CATEGORIES[:8]
-ETHICAL = CATEGORIES[8:]
+ETHICAL = CATEGORIES[8:18]
+OTHER = CATEGORIES[18:]
+GROUPS = {"Doctrinal positions": DOCTRINAL,
+          "Ethical and lifestyle positions": ETHICAL,
+          "Other divisive positions": OTHER}
 
 SECTIONS = {
     "Denominations": os.path.join("110 Top Christian Denominations", "010 Top Christian Denominations.md"),
