@@ -11,10 +11,14 @@ with the previous release after these notes.
 
 ### Added
 - Major U.S. Christian Denominations: a third table, "Other divisive positions," in every one of the 27 entries, covering 13 further questions that have split churches (Scripture and Tradition; the Trinity and the person of Christ; predestination and free will; sanctification and holiness; hell and the fate of the lost; Mary, the saints and prayer for the dead; the day, style and liturgy of worship; church and state; race and the church; creation and the age of the earth; tithing and the prosperity gospel; Bible translations and KJV-onlyism; and marriage roles), each with a source label -- 351 new position cells, bringing the tracked positions per body to 31.
-- Remaining-verifications workbook: the "Denominations x categories" sheet gains the 13 new columns, and the ledger gains rows 97-109 (one per new category), filled by the build from the live tables.
+- Prominent English Study Bibles: the same "Other divisive positions" table in every one of the 27 entries, recording what each volume's notes say or assume on the 13 questions (most visibly at Genesis 1, Romans 9, Ephesians 5, Matthew 25 and Revelation 20) and, for the translations row, the volume's own base text -- a further 351 cells.
+- Remaining-verifications workbook: both matrix sheets gain the 13 new columns, and the ledger gains rows 97-109 (denominations) and 110-122 (study Bibles), one per new category, filled by the build from the live tables.
+
+### Corrected
+- Remaining-verifications workbook: the amber "not independently documented" flag now also catches the study-Bible label "General pattern of the editorial tradition, not independently documented in the notes", which the earlier pattern missed, so those cells are no longer shown as if they had a cited source.
 
 ### Also
-- Section introduction for the Denominations section now describes all three tables and all 31 positions.
+- Section introductions for the Denominations and Study Bibles sections now describe all three tables and all 31 positions.
 
 ## v20261003a -- 3 October 2026
 

@@ -4,7 +4,7 @@ This section profiles 27 study Bibles available in English, chosen for a combina
 
 A number of the 27 tracked translations (WEB, Darby, YLT, Smith's Literal Translation, Webster's Bible, the AKJV, the ERV, the CPDV, TRB, and, so far as this research could confirm, the NRSV-CE and the BSB specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist. The ASV is the one apparent exception among the otherwise-unrepresented older translations: a dedicated ASV-based study Bible was published in 1972, described below, though it was never followed by a second edition and today survives mainly as a historical curiosity.
 
-For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Major U.S. Christian Denominations" where a direct parallel exists; and two tables in the same form used for the denominations: a doctrinal grid (view of Scripture, salvation, baptism, the Lord's Supper, church government, eschatology, spiritual gifts, women's ordination) and an ethical and lifestyle grid (abortion, homosexuality, alcohol, divorce and remarriage, contraception, gambling, dancing, premarital sex and cohabitation, war and pacifism, the death penalty). A study Bible is a commentary, not a confession, so the tables describe the position its notes take or, where the notes do not address a topic, the position of the editorial tradition the volume belongs to; the Source column says which, and "general pattern of the editorial tradition, not independently documented in the notes" means exactly that. The abortion, homosexuality, and alcohol rows are the most fully researched, and distinguish the editor's personal published views elsewhere from the content of the volume's own verse notes, which are related but not the same kind of evidence.
+For each entry, this section documents: the translation the study Bible is built on; the general editor's (or lead commentator's) biography, independently verified rather than assumed from the volume's own promotional material; the volume's denominational leaning, cross-referenced to the fuller doctrinal and ethical treatment in "Major U.S. Christian Denominations" where a direct parallel exists; and three tables in the same form used for the denominations, 31 positions in all: a doctrinal grid (view of Scripture, salvation, baptism, the Lord's Supper, church government, eschatology, spiritual gifts, women's ordination); an ethical and lifestyle grid (abortion, homosexuality, alcohol, divorce and remarriage, contraception, gambling, dancing, premarital sex and cohabitation, war and pacifism, the death penalty); and a grid of other divisive positions (Scripture and Tradition; the Trinity and the person of Christ; predestination and free will; sanctification and holiness; hell and the fate of the lost; Mary, the saints and prayer for the dead; the day, style and liturgy of worship; church and state; race and the church; creation and the age of the earth; tithing and the prosperity gospel; Bible translations and KJV-onlyism; and marriage roles). For a study Bible the last grid records what the notes themselves say or assume on each question -- most visibly at Genesis 1, Romans 9, Ephesians 5, Matthew 25 and Revelation 20 -- and, for the translations row, the volume's own base text and what its preface claims for it. A study Bible is a commentary, not a confession, so the tables describe the position its notes take or, where the notes do not address a topic, the position of the editorial tradition the volume belongs to; the Source column says which, and "general pattern of the editorial tradition, not independently documented in the notes" means exactly that. The abortion, homosexuality, and alcohol rows are the most fully researched, and distinguish the editor's personal published views elsewhere from the content of the volume's own verse notes, which are related but not the same kind of evidence.
 
 **A note on confidence:** for several widely used, doctrinally explicit study Bibles (the Ignatius Catholic Study Bible, the Orthodox Study Bible, the Catholic Study Bible/NABRE, the Complete Jewish Study Bible), the volume's own stated method ties it directly to its tradition's official teaching, so its ethical positions can be stated with real confidence. For others (several entries in the second half of this list, and to some degree the ESV Study Bible and MacArthur Study Bible specifically), this section distinguishes the editor's own well-documented personal position from independently confirmed content of the volume's own verse notes, and says plainly where only the former, not the latter, has been verified. A few entries (the Cultural Backgrounds Study Bible) are academic or historical-critical in orientation and generally do not offer direct ethical application to contemporary questions at all -- this is stated as such rather than papered over.
 
@@ -51,6 +51,23 @@ Broadly evangelical, cross-denominational, in the same general category as the E
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 notes lay out the literal-day, day-age and literary-framework readings and decline to rule, stating that the text's concern is who created rather than how long it took. | Volume's notes at Genesis 1 (general pattern; wording not independently verified) |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the New International Version; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
+
 ---
 
 ## 2. NIV Life Application Study Bible
@@ -89,6 +106,23 @@ Broadly evangelical, cross-denominational; deliberately designed to be usable ac
 | Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 application notes say the Bible does not settle whether creation took six literal days or long ages, and that the point is God as Creator. | Volume's notes at Genesis 1 (general pattern; wording not independently verified) |
+| Tithing and the prosperity gospel | The application notes at Malachi 3 and 2 Corinthians 9 commend tithing as a starting principle of generous giving; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the New International Version; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -130,6 +164,23 @@ Broadly evangelical and Reformed-leaning, though the volume draws contributors f
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone is the final authority; the volume's doctrinal articles treat the ecumenical creeds and Reformation confessions as faithful summaries subordinate to Scripture. | Volume's articles ("Biblical Doctrine: An Overview"; "The Bible and Christian Theology") |
+| The Trinity and the person of Christ | Trinitarian and Chalcedonian, set out at length in the doctrinal overview article and the notes on John 1 and Philippians 2. | Volume's articles and notes |
+| Predestination and free will | Reformed-leaning: the notes on Romans 9 and Ephesians 1 read election as unconditional while acknowledging the Arminian alternative; the general editor's own systematic theology is Calvinist. | Volume's notes; editor's own published works (Grudem, *Systematic Theology*) |
+| Sanctification and holiness | Progressive sanctification that is never complete in this life, as the doctrinal overview states; no second-blessing teaching. | Volume's article ("Biblical Doctrine: An Overview") |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, defended explicitly against annihilationism in the doctrinal overview and the notes on Matthew 25:46 and Revelation 20:10–15. | Volume's articles and notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored, not venerated; the notes read Matthew 12:46 as literal siblings and reject invocation of saints and prayers for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday assumed as the Lord's Day; the notes on Colossians 2:16 treat the Sabbath as fulfilled in Christ, and the article on worship favors Word-centered, reverent worship without a fixed liturgy. | Volume's notes and article on worship |
+| Church and state / political engagement | An article on "The Bible and Government" teaches limited government, the legitimacy of civil authority (Romans 13) and Christian participation in public life; the general editor's later *Politics According to the Bible* (2010) takes conservative positions on specific issues. | Volume's article; editor's own published works (Grudem) |
+| Race, ethnicity and the church | The notes on Genesis 10–11, Acts 17:26 and Galatians 3:28 affirm the unity of humanity and the church across ethnic lines; no social program is advocated. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis notes (C. John Collins) read the "days" as God's workdays analogically, treat the age of the earth as a question Scripture does not settle, and the article "The Bible and Science" argues that old-earth views are compatible with inerrancy while rejecting naturalistic evolution. | Volume's notes at Genesis 1 and article ("The Bible and Science") |
+| Tithing and the prosperity gospel | The notes treat the tithe as Mosaic law and New Testament giving as generous, cheerful and proportionate; the article on wealth and poverty rejects prosperity teaching. | Volume's notes and article on wealth and poverty |
+| Bible translations and KJV-onlyism | Built on the ESV, an "essentially literal" revision of the RSV; the preface and the article on Bible translation defend formal-equivalence translation from the critical texts. KJV-onlyism is rejected by implication. | Volume's preface and article ("The Bible and Translation") |
+| Marriage roles: complementarian and egalitarian | Complementarian: the notes on Ephesians 5, 1 Corinthians 11 and 1 Timothy 2 teach male headship in home and church; the general editor co-founded the Council on Biblical Manhood and Womanhood. | Volume's notes; editor's own published works (Grudem) |
+
 ---
 
 ## 4. MacArthur Study Bible (LSB edition)
@@ -170,6 +221,23 @@ Independent Baptist/non-denominational, conservative evangelical, explicitly Ref
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone; the notes and the introductory articles treat creeds and tradition as having no authority over the text. | Volume's notes and introductory material |
+| The Trinity and the person of Christ | Trinitarian and Chalcedonian; the notes defend Christ's full deity at John 1, Colossians 1 and Hebrews 1. | Volume's notes |
+| Predestination and free will | Reformed: unconditional election and the perseverance of the saints taught explicitly in the notes on Romans 8–9 and Ephesians 1, with free will described as bound by sin. | Volume's notes; editor's own published works (MacArthur) |
+| Sanctification and holiness | Progressive sanctification as the necessary fruit of saving faith ("lordship salvation"); the notes deny any second work of grace and reject perfectionism. | Volume's notes; editor's own published works (MacArthur, *The Gospel According to Jesus*) |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, taught unambiguously in the notes on Matthew 25:46, Luke 16 and Revelation 20; annihilationism rejected. | Volume's notes |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead; the notes on Luke 1 and Matthew 12:46 reject perpetual virginity and Marian intercession. | Volume's notes |
+| Worship: day, style and liturgy | Sunday as the Lord's Day; the notes on Colossians 2:16 treat the Sabbath as abrogated. Worship is to be Word-centered and expository; the notes on 1 Corinthians 14 commend order and reject charismatic practice. | Volume's notes |
+| Church and state / political engagement | Submission to government (Romans 13) and a deliberately non-political pulpit; the editor's own writings argue the church's task is the gospel rather than political activism. | Volume's notes; editor's own published works (MacArthur, *Why Government Can't Save You*) |
+| Race, ethnicity and the church | The notes affirm the unity of all people in Christ (Galatians 3:28; Ephesians 2); the editor was the lead signer of the 2018 *Statement on Social Justice and the Gospel*, which rejects social-justice framing of racial questions. | Volume's notes; editor's own public statements (2018) |
+| Creation and the age of the earth | Literal six-day, young-earth creation and a global Flood, stated in the Genesis 1–11 notes and defended against old-earth readings. | Volume's notes at Genesis 1–11; editor's own published works (MacArthur, *The Battle for the Beginning*) |
+| Tithing and the prosperity gospel | Tithing is not a New Testament requirement; giving is to be free, proportionate and generous (2 Corinthians 9). The prosperity gospel is condemned in the notes on the relevant passages. | Volume's notes; editor's own published works (MacArthur) |
+| Bible translations and KJV-onlyism | Built on the Legacy Standard Bible, a formal-equivalence revision of the NASB from the critical texts; earlier editions used the NKJV and NASB. The editor rejects KJV-onlyism. | Volume's preface; editor's own published statements |
+| Marriage roles: complementarian and egalitarian | Firmly complementarian: male headship in the home (Ephesians 5), male-only elders and pastors (1 Timothy 2–3), and submission of wives taught in the notes. | Volume's notes; editor's own published works (MacArthur) |
+
 ---
 
 ## 5. Scofield Reference Bible / Scofield Study Bible
@@ -209,6 +277,23 @@ Broadly evangelical, foundational to 20th-century American dispensationalism spe
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone, read dispensationally; the notes treat the text as self-interpreting through the system of "rightly dividing" the dispensations and give tradition no authority. | Volume's notes and introduction |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the person of Christ in the notes. | Volume's notes |
+| Predestination and free will | Moderately Calvinist: election affirmed in the notes on Romans 9 and 1 Peter 1 while preserving human responsibility; eternal security taught firmly. | Volume's notes |
+| Sanctification and holiness | Threefold: positional, progressive and ultimate sanctification, set out in the notes (e.g., 1 Corinthians 1:2; 1 Thessalonians 5:23); the Keswick "deeper life" influence is evident. | Volume's notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, taught in the notes on Matthew 25:46 and Revelation 20. | Volume's notes |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday as the Lord's Day, distinguished sharply from the Jewish Sabbath (notes at Matthew 12:1 and Colossians 2:16); worship style is not addressed. | Volume's notes |
+| Church and state / political engagement | Pessimistic premillennialism: civil government and culture are expected to decline until Christ's return; the notes on Romans 13 teach submission, and political reform is not presented as the church's task. | Volume's notes |
+| Race, ethnicity and the church | The 1909 and 1917 editions' note at Genesis 9:24–27 described a "servile" posterity for Ham's descendants, language later used to defend segregation and removed in the 1967 New Scofield; current editions carry no such note. | Volume's notes (1909/1917 editions); removal in 1967 edition |
+| Creation and the age of the earth | The 1917 notes allowed a "gap" between Genesis 1:1 and 1:2 and did not require literal 24-hour days; the 1967 and later editions soften this and leave the age of the earth open. | Volume's notes at Genesis 1 (1917 and 1967 editions) |
+| Tithing and the prosperity gospel | The tithe belongs to the dispensation of law; the notes teach that Christian giving is a matter of grace, proportionate and voluntary (2 Corinthians 8–9). | Volume's notes |
+| Bible translations and KJV-onlyism | Published on the KJV (1909, 1917, and the lightly modernized 1967 New Scofield); later editions appear in the NIV, NASB, NKJV and ESV. The notes never claim the KJV as the only valid translation. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Traditional male headship assumed in the notes on Ephesians 5 and 1 Timothy 2; the question is not treated at length. | General pattern of the editorial tradition, not independently documented in the notes |
+
 ---
 
 ## 6. NLT Study Bible
@@ -236,6 +321,23 @@ Broadly evangelical, cross-denominational, in the same general category as the E
 | Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 notes and theme articles present the literal-day and figurative readings without ruling, emphasizing that the text affirms God as Creator. | Volume's notes at Genesis 1 (general pattern; wording not independently verified) |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the New Living Translation; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
 Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
 
 | Category | Position | Source |
@@ -287,6 +389,23 @@ Broadly evangelical, cross-denominational; the NASB itself is widely regarded as
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | Notes adapted from the NIV Study Bible: the Genesis 1 notes present the literal-day, day-age and framework readings and decline to rule. | Volume's notes at Genesis 1, adapted from the NIV Study Bible (general pattern; wording not independently verified) |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the New American Standard Bible; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
+
 ---
 
 ## 8. CSB Study Bible
@@ -322,6 +441,23 @@ Southern Baptist/broadly evangelical — see the Southern Baptist Convention ent
 | Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 notes present a literal-day reading as the most natural while acknowledging other evangelical views; consistent with the Southern Baptist publishing context. | Volume's notes at Genesis 1 (general pattern; wording not independently verified) |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the Christian Standard Bible; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Complementarian in tone: the notes on Ephesians 5 and 1 Timothy 2 reflect the Southern Baptist publisher's position on male headship and male pastoral leadership. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -363,6 +499,23 @@ Broadly evangelical, cross-denominational, with the same B&H/Southern Baptist pu
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 notes present the main evangelical readings without ruling on the age of the earth. | General pattern of the editorial tradition, not independently documented in the notes |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the Christian Standard Bible; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
+
 ---
 
 ## 10. NLT Illustrated Study Bible
@@ -390,6 +543,23 @@ Broadly evangelical, cross-denominational, in the same general category as the s
 | Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 notes and infographics present the literal-day and figurative readings without ruling; the volume defends the historicity of Genesis 1–11 against critical objections. | Volume's notes at Genesis 1 (general pattern; wording not independently verified) |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the New Living Translation; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
 Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
 
 | Category | Position | Source |
@@ -444,6 +614,23 @@ Explicitly and confessionally Reformed/Calvinist — reflects confessional coven
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone is the final authority; the Reformed confessions (Westminster, Belgic, Heidelberg) are cited in the theological notes as faithful subordinate summaries. | Volume's theological notes and articles |
+| The Trinity and the person of Christ | Trinitarian and Chalcedonian, set out in theological notes on the doctrine of God and the person of Christ. | Volume's theological notes |
+| Predestination and free will | Confessionally Reformed: unconditional election and reprobation (Romans 9; Ephesians 1), total depravity and the bondage of the will, taught explicitly in the notes and theological articles. | Volume's notes and theological articles; editor's own published works (Sproul, *Chosen by God*) |
+| Sanctification and holiness | Progressive sanctification as the fruit of justification, imperfect in this life; perfectionism rejected. | Volume's theological notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, taught in the notes on Matthew 25 and Revelation 20 and in the theological notes on hell; annihilationism rejected. | Volume's notes and theological notes |
+| Mary, the saints and prayer for the dead | Protestant: invocation of Mary and the saints and prayer for the dead are rejected, consistent with the Westminster Standards the notes follow. | Volume's theological notes (Reformed confessional position) |
+| Worship: day, style and liturgy | Sunday as the Christian Sabbath, in Westminster's terms; the Regulative Principle of worship is commended in the theological notes. | Volume's theological notes; editor's own published works (Sproul) |
+| Church and state / political engagement | Romans 13 read as establishing legitimate civil authority under God; Christians are to engage public life as citizens, and the editor's own writings opposed abortion and defended religious liberty. | Volume's notes; editor's own published works (Sproul) |
+| Race, ethnicity and the church | Unity of humanity in Adam and of the church in Christ affirmed (Acts 17:26; Galatians 3:28); racial questions are not treated as a separate doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The notes on Genesis 1 present the literal-day and other confessionally permitted readings; the editor publicly held a six-day view later in life while treating the age of the earth as a secondary matter. | Volume's notes at Genesis 1; editor's own public statements |
+| Tithing and the prosperity gospel | The tithe is treated as Old Testament law and Christian giving as proportionate and generous; prosperity teaching is rejected. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the ESV (earlier editions on the NKJV and, as the *New Geneva Study Bible*, the NKJV); the preface commends formal-equivalence translation. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Complementarian: male headship in the home and male-only ordained office, in line with the Westminster tradition the notes follow. | Volume's notes on Ephesians 5 and 1 Timothy 2; Reformed confessional position |
+
 ---
 
 ## 12. Ryrie Study Bible
@@ -482,6 +669,23 @@ Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie S
 | Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone, read dispensationally; the notes and the appended *Synopsis of Bible Doctrine* give tradition no authority. | Volume's notes and *Synopsis of Bible Doctrine* |
+| The Trinity and the person of Christ | Trinitarian and Chalcedonian, set out in the *Synopsis of Bible Doctrine*. | Volume's *Synopsis of Bible Doctrine* |
+| Predestination and free will | Moderately Calvinist (election affirmed, limited atonement denied) with firm eternal security; the editor's "free grace" position opposes making ongoing obedience a condition of assurance. | Volume's notes and *Synopsis*; editor's own published works (Ryrie, *So Great Salvation*) |
+| Sanctification and holiness | Progressive sanctification; the editor argued against both perfectionism and "lordship salvation," holding that a believer may be carnal yet saved. | Volume's notes; editor's own published works (Ryrie, *Balancing the Christian Life*) |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, taught in the notes and the *Synopsis*. | Volume's *Synopsis of Bible Doctrine* |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday as the Lord's Day; the Sabbath is treated as part of the Mosaic economy no longer binding (notes at Colossians 2:16); worship style not addressed. | Volume's notes |
+| Church and state / political engagement | Submission to government (Romans 13); the church's calling is spiritual rather than political, consistent with dispensational expectations of cultural decline. | Volume's notes |
+| Race, ethnicity and the church | Not addressed as a doctrine; the notes affirm the unity of believers in Christ. | Not addressed by the volume; no confessional position taken |
+| Creation and the age of the earth | The Genesis notes favor a recent creation in six literal days while noting that the text does not date the earth; the editor's own works defend a young earth. | Volume's notes at Genesis 1; editor's own published works (Ryrie) |
+| Tithing and the prosperity gospel | The tithe belongs to the law; Christian giving is grace giving, proportionate and voluntary. | Volume's notes |
+| Bible translations and KJV-onlyism | Published in the KJV, NASB, NIV and ESV; the notes make no claim for any one translation. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Traditional male headship in home and church assumed in the notes on Ephesians 5 and 1 Timothy 2. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -525,6 +729,23 @@ Explicitly and exclusively Catholic — the volume states its notes follow "the 
 | War/pacifism | Just-war teaching (Catechism 2307-2317), with a strong presumption for peace; conscientious objection respected. | Catholic teaching |
 | Death penalty | Inadmissible in light of the Gospel (Catechism 2267 as revised in 2018); earlier editions of the notes may reflect the previous teaching that it was permissible in rare cases. | Catholic teaching |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture and Tradition together form the one deposit of faith, interpreted by the Magisterium; the notes cite the Catechism, councils and the Fathers as authorities alongside the text. | Catholic teaching, reflected in the notes |
+| The Trinity and the person of Christ | Nicene-Constantinopolitan Trinity with the *filioque*; Chalcedonian Christology. | Catholic teaching, reflected in the notes |
+| Predestination and free will | Grace is primary and free will cooperates; God predestines no one to hell (Catechism §1037). The notes on Romans 9 read election in terms of God's plan for Israel and the Gentiles rather than individual reprobation. | Catholic teaching, reflected in the notes |
+| Sanctification and holiness | Justification and sanctification are one continuous work of grace, growing through the sacraments and cooperation with grace; purgatory completes it. | Catholic teaching, reflected in the notes |
+| Hell, judgment and the fate of the lost | Hell is real and eternal; the notes on Matthew 25 and Revelation 20 affirm it, with the Church's hope for those outside the visible Church who seek God (Catechism §847). | Catholic teaching, reflected in the notes |
+| Mary, the saints and prayer for the dead | Marian doctrine (Immaculate Conception, perpetual virginity, Assumption), the intercession of the saints and prayer for the dead are affirmed; the notes read Luke 1:28, John 19:26–27 and 2 Maccabees 12:44–45 accordingly and treat Jesus' "brothers" as kinsmen. | Catholic teaching, stated in the volume's notes |
+| Worship: day, style and liturgy | Sunday Mass is the center of worship; the notes read John 6 and 1 Corinthians 11 eucharistically and treat the liturgy as the Church's public worship. | Catholic teaching, reflected in the notes |
+| Church and state / political engagement | Religious liberty and the Church's right to speak to public morality (Romans 13 read with the Church's social teaching); not developed at length in the notes. | Catholic teaching; not developed in the notes |
+| Race, ethnicity and the church | The unity of the human family in Adam and in Christ is affirmed (Acts 17:26; Galatians 3:28); racism is contrary to Catholic teaching, though the notes do not treat it separately. | Catholic teaching; not treated separately in the notes |
+| Creation and the age of the earth | The Genesis notes read the creation account as theological rather than scientific narrative, in line with Catechism §283–289 and §390; no age of the earth is asserted and evolution is treated as compatible with faith. | Volume's notes at Genesis 1–3; Catholic teaching |
+| Tithing and the prosperity gospel | No fixed tithe; the faithful support the Church according to their means (Catechism §2043); prosperity teaching is absent. | Catholic teaching; not treated separately in the notes |
+| Bible translations and KJV-onlyism | Built on the RSV, Second Catholic Edition — a lightly revised RSV approved for Catholic use (imprimatur); the editors favor it as a formal, traditional rendering. KJV-onlyism has no standing. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Equal dignity and mutual self-giving of husband and wife, with Ephesians 5 read as mutual subjection and the husband's headship as servant love. | Catholic teaching, reflected in the notes on Ephesians 5 |
+
 ---
 
 ## 14. Catholic Study Bible
@@ -554,6 +775,23 @@ Explicitly and exclusively Catholic, given its direct use of the NABRE (the offi
 | Women's ordination | Reserved to men; the notes follow the Church's teaching (Ordinatio Sacerdotalis, 1994). |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture and Tradition together form the one deposit of faith, interpreted by the Magisterium; the notes cite the Catechism, councils and the Fathers as authorities alongside the text. | Catholic teaching, reflected in the notes |
+| The Trinity and the person of Christ | Nicene-Constantinopolitan Trinity with the *filioque*; Chalcedonian Christology. | Catholic teaching, reflected in the notes |
+| Predestination and free will | Grace is primary and free will cooperates; God predestines no one to hell (Catechism §1037). The notes on Romans 9 read election in terms of God's plan for Israel and the Gentiles rather than individual reprobation. | Catholic teaching, reflected in the notes |
+| Sanctification and holiness | Justification and sanctification are one continuous work of grace, growing through the sacraments and cooperation with grace; purgatory completes it. | Catholic teaching, reflected in the notes |
+| Hell, judgment and the fate of the lost | Hell is real and eternal; the notes on Matthew 25 and Revelation 20 affirm it, with the Church's hope for those outside the visible Church who seek God (Catechism §847). | Catholic teaching, reflected in the notes |
+| Mary, the saints and prayer for the dead | Marian doctrine (Immaculate Conception, perpetual virginity, Assumption), the intercession of the saints and prayer for the dead are affirmed; the notes read Luke 1:28, John 19:26–27 and 2 Maccabees 12:44–45 accordingly and treat Jesus' "brothers" as kinsmen. | Catholic teaching, stated in the volume's notes |
+| Worship: day, style and liturgy | Sunday Mass is the center of worship; the notes read John 6 and 1 Corinthians 11 eucharistically and treat the liturgy as the Church's public worship. | Catholic teaching, reflected in the notes |
+| Church and state / political engagement | Religious liberty and the Church's right to speak to public morality (Romans 13 read with the Church's social teaching); not developed at length in the notes. | Catholic teaching; not developed in the notes |
+| Race, ethnicity and the church | The unity of the human family in Adam and in Christ is affirmed (Acts 17:26; Galatians 3:28); racism is contrary to Catholic teaching, though the notes do not treat it separately. | Catholic teaching; not treated separately in the notes |
+| Creation and the age of the earth | The reading guide and notes present Genesis 1–11 as theological narrative shaped by ancient Near Eastern genres, consistent with Catholic teaching that the age of the earth and the mechanism of creation are open questions. | Volume's reading guides and notes at Genesis 1–11; Catholic teaching |
+| Tithing and the prosperity gospel | No fixed tithe; the faithful support the Church according to their means (Catechism §2043); prosperity teaching is absent. | Catholic teaching; not treated separately in the notes |
+| Bible translations and KJV-onlyism | Built on the New American Bible Revised Edition, the translation of the U.S. bishops' conference and the basis of the U.S. lectionary; the reading guides reflect mainstream Catholic biblical scholarship. KJV-onlyism has no standing. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Equal dignity and mutual self-giving of husband and wife, with Ephesians 5 read as mutual subjection and the husband's headship as servant love. | Catholic teaching, reflected in the notes on Ephesians 5 |
 Consistent with official Catholic teaching as described in the Catholic Church entry in "Major U.S. Christian Denominations" and the Ignatius Catholic Study Bible entry above; this volume's own specific academic, historical-critical orientation (contributed by university and seminary faculty across a range of institutions) means its individual verse notes on these specific contemporary questions have not been independently confirmed.
 
 | Category | Position | Source |
@@ -596,6 +834,23 @@ Broadly evangelical and charismatic/Pentecostal-adjacent, cross-denominational; 
 | Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox; the bracketed amplifications in the base text itself make Christ's deity explicit at John 1:1 and Philippians 2:6. | Volume's own base translation and notes |
+| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | The Genesis 1 notes affirm God as Creator and do not rule on the age of the earth. | General pattern of the editorial tradition, not independently documented in the notes |
+| Tithing and the prosperity gospel | Giving is treated as generous and proportionate; despite the AMP's popularity in Word of Faith circles, the study notes themselves do not teach the prosperity gospel. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the 2015 Amplified Bible, an expanded-rendering translation from the critical texts whose preface explains the amplification method. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
 Not verified on any of the three categories; this study Bible's notes are described by its own publisher as practical and application-oriented rather than systematically doctrinal, comparable in general orientation to the Life Application Study Bible above.
 
 | Category | Position | Source |
@@ -650,6 +905,23 @@ Pentecostal/Assemblies of God — see the Assemblies of God entry in "Major U.S.
 | War/pacifism | The Assemblies of God was historically pacifist-leaning and now affirms both military service and conscientious objection as matters of individual conscience; the notes do not press either. | Assemblies of God position papers |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is verbally inspired and infallible, the sole authority; creeds are not appealed to. | Assemblies of God Statement of Fundamental Truths, Art. 1, reflected in the notes |
+| The Trinity and the person of Christ | Trinitarian, explicitly against Oneness Pentecostalism; the notes defend Christ's full deity and humanity. | Assemblies of God Statement of Fundamental Truths, Art. 2, reflected in the notes |
+| Predestination and free will | Arminian: the notes and theme articles teach that salvation is kept by faith and can be forfeited through persistent sin; unconditional security is rejected. | Volume's theme articles; Assemblies of God position paper *The Security of the Believer* |
+| Sanctification and holiness | Progressive sanctification with a strong call to separation from the world; the Spirit's baptism is distinct from sanctification and is not the Holiness "second work." | Assemblies of God Statement of Fundamental Truths, Art. 9, reflected in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment in the lake of fire, taught in the notes and theme articles. | Assemblies of God Statement of Fundamental Truths, Art. 15, reflected in the notes |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship, Spirit-led and expressive; the theme articles on spiritual gifts and the baptism in the Holy Spirit expect tongues and the gifts in worship. | Volume's theme articles; Assemblies of God doctrine |
+| Church and state / political engagement | Submission to government (Romans 13) with Christian citizenship encouraged; the notes do not advocate a political program. | General pattern of the editorial tradition, not independently documented in the notes |
+| Race, ethnicity and the church | Unity of believers across ethnic lines affirmed (Acts 2; Galatians 3:28); not treated as a separate doctrine in the notes. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | God created directly and Adam and Eve were historical; the notes favor a literal reading of Genesis 1 while the sponsoring fellowship's position paper allows differing views on the age of the earth. | Volume's notes at Genesis 1; Assemblies of God position paper *The Doctrine of Creation* (2010) |
+| Tithing and the prosperity gospel | Tithing is taught as the biblical standard of giving; the theme articles warn against the "positive confession" and prosperity teaching of the Word of Faith movement. | Volume's theme articles; Assemblies of God position paper *The Believer and Positive Confession* (1980) |
+| Bible translations and KJV-onlyism | Published in the NIV, KJV, ESV, NKJV and other versions; the notes make no claim for one translation. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Women are affirmed in ministry, consistent with Assemblies of God practice; the notes on Ephesians 5 present husband headship as loving leadership. | Volume's notes; Assemblies of God position paper *The Role of Women in Ministry* |
+
 ---
 
 ## 17. Cultural Backgrounds Study Bible
@@ -676,6 +948,23 @@ Broadly evangelical, cross-denominational; distinctive among this list for its s
 | Women's ordination | Not addressed; the volume takes no confessional position. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | The notes confine themselves to ancient historical and cultural context and do not adjudicate between Scripture and church tradition. | Volume's stated editorial approach |
+| The Trinity and the person of Christ | Orthodox Trinitarian editors; the notes explain the first-century background of titles like "Son of God" and "Lord" rather than developing doctrine. | Volume's stated editorial approach |
+| Predestination and free will | Not addressed as doctrine; the notes on Romans 9 explain the Jewish background of election language without ruling on Calvinist and Arminian readings. | Volume's stated editorial approach |
+| Sanctification and holiness | Not addressed as doctrine; holiness language is explained in its ancient context. | Volume's stated editorial approach |
+| Hell, judgment and the fate of the lost | Not addressed as doctrine; the notes explain Second Temple Jewish and Greco-Roman conceptions of the afterlife (Gehenna, Hades, Sheol) as background. | Volume's stated editorial approach |
+| Mary, the saints and prayer for the dead | Not addressed; the notes explain first-century kinship terms (relevant to Jesus' "brothers") and ancient attitudes to the dead as background only. | Volume's stated editorial approach |
+| Worship: day, style and liturgy | Not addressed as doctrine; the notes describe synagogue and early-church worship practices historically. | Volume's stated editorial approach |
+| Church and state / political engagement | Not addressed as doctrine; the notes explain the Roman imperial context of Romans 13 and Revelation. | Volume's stated editorial approach |
+| Race, ethnicity and the church | Not addressed as doctrine; the notes explain ancient ethnic categories (Jew, Gentile, Samaritan, barbarian) as background. | Volume's stated editorial approach |
+| Creation and the age of the earth | The Old Testament editor's own works read Genesis 1 as an ancient cosmology about function and temple rather than material origins, and the notes present Genesis 1–11 against its ancient Near Eastern parallels without asserting an age of the earth. | Volume's notes at Genesis 1; editor's own published works (Walton, *The Lost World of Genesis One*) |
+| Tithing and the prosperity gospel | Not addressed as doctrine; the notes explain ancient tithing and patronage systems historically. | Volume's stated editorial approach |
+| Bible translations and KJV-onlyism | Built on the NIV; the volume's approach is background commentary applicable to any translation. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Not addressed as doctrine; the notes explain Greco-Roman household codes behind Ephesians 5 and 1 Peter 3 as background, and the New Testament editor's own works argue an egalitarian reading. | Volume's notes; editor's own published works (Keener, *Paul, Women and Wives*) |
 Given this volume's specifically historical-background orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; specific verse-note wording on abortion, homosexuality, or alcohol has not been identified.
 
 | Category | Position | Source |
@@ -718,6 +1007,23 @@ Broadly evangelical, cross-denominational, associated with the same publisher (T
 | Women's ordination | Not addressed; the volume takes no confessional position. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone; the doctrinal guide treats the Bible as the sole and sufficient authority. | Volume's doctrinal guide ("The Christian's Guide to the New Life") |
+| The Trinity and the person of Christ | Trinitarian and orthodox, set out in the doctrinal guide. | Volume's doctrinal guide |
+| Predestination and free will | Not confessionally fixed; the doctrinal guide affirms God's sovereignty and human responsibility without ruling on election. | Volume's stated editorial approach |
+| Sanctification and holiness | Progressive growth in holiness, set out in the doctrinal guide's chapters on the Christian life. | Volume's doctrinal guide |
+| Hell, judgment and the fate of the lost | Eternal punishment of the lost, affirmed in the doctrinal guide and topical index entries. | Volume's doctrinal guide and topical index |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; style not addressed. | Volume's stated editorial approach |
+| Church and state / political engagement | Not addressed beyond topical-index entries on government and citizenship. | Volume's stated editorial approach |
+| Race, ethnicity and the church | Not addressed as doctrine. | Not addressed by the volume; no confessional position taken |
+| Creation and the age of the earth | God as Creator affirmed; the age of the earth is not addressed in the helps. | Volume's stated editorial approach |
+| Tithing and the prosperity gospel | Tithing and stewardship appear as topical-index entries without a doctrinal ruling; prosperity teaching is absent. | Volume's stated editorial approach |
+| Bible translations and KJV-onlyism | Built on the KJV as a matter of edition (the Open Bible also appears in the NKJV and NASB); the helps make no claim that the KJV is the only valid translation. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Traditional male headship reflected in the topical and doctrinal helps. | General pattern of the editorial tradition, not independently documented in the notes |
 Given this volume's emphasis on topical cross-referencing, doctrinal overview articles, and general Bible-study methodology rather than verse-by-verse interpretive commentary, direct notes on abortion, homosexuality, or alcohol comparable to the more heavily annotated study Bibles in this section have not been identified.
 
 | Category | Position | Source |
@@ -773,6 +1079,23 @@ Eastern Orthodox — see the Eastern Orthodox Church entry in "Major U.S. Christ
 | War/pacifism | No just-war doctrine as such; war is always a tragedy and sometimes a lesser evil, with soldiers historically subject to penance. | Orthodox teaching, general pattern |
 | Death penalty | No binding position; historically tolerated, with most contemporary Orthodox bodies (including the Ecumenical Patriarchate and the Orthodox Church in America) opposing it. | General pattern across jurisdictions |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture lives within Holy Tradition; the notes cite the Fathers and the Councils as the authoritative interpreters of the text and reject *sola scriptura* in the introductory articles. | Orthodox teaching, stated in the volume's notes and articles |
+| The Trinity and the person of Christ | Nicene-Constantinopolitan Creed without the *filioque*; Chalcedonian Christology; set out in the articles and notes. | Orthodox teaching, stated in the volume's notes and articles |
+| Predestination and free will | Synergy of grace and free will; the notes on Romans 9 and Ephesians 1 read election through God's foreknowledge and reject Augustinian and Calvinist predestination. | Orthodox teaching, stated in the volume's notes |
+| Sanctification and holiness | *Theosis*: growth into the likeness of God through the sacraments, prayer and ascetic life, developed in the articles and notes (2 Peter 1:4). | Orthodox teaching, stated in the volume's notes and articles |
+| Hell, judgment and the fate of the lost | Hell is real and eternal, understood as the experience of God's presence by those who reject him; universalism is not taught. | Orthodox teaching, reflected in the notes |
+| Mary, the saints and prayer for the dead | Mary as Theotokos and Ever-Virgin, the intercession of the saints, veneration of icons and prayer for the dead are affirmed; the notes read Luke 1, John 19 and the "brothers" of Jesus accordingly. | Orthodox teaching, stated in the volume's notes |
+| Worship: day, style and liturgy | The Divine Liturgy is the center of worship; the volume includes the Morning and Evening Prayers and a lectionary, and the notes read John 6 and 1 Corinthians 11 eucharistically. | Volume's liturgical apparatus and notes |
+| Church and state / political engagement | Not developed; the notes on Romans 13 teach honor to civil authority. | Orthodox teaching; not developed in the notes |
+| Race, ethnicity and the church | Unity of all nations in Christ affirmed (Acts 2; Galatians 3:28); not treated separately in the notes. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | No dogmatic position; the Genesis notes draw on the Fathers, who read the creation days both literally and spiritually, and do not assert an age of the earth. | Volume's notes at Genesis 1; Orthodox teaching |
+| Tithing and the prosperity gospel | No required tithe; stewardship encouraged; prosperity teaching absent. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | The Old Testament is a fresh translation of the Septuagint (St. Athanasius Academy Septuagint) and the New Testament the NKJV; the preface explains the Septuagint as the Church's canonical text. KJV-onlyism has no standing. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Husband as head of the wife within mutual love and self-sacrifice (Ephesians 5), and a male priesthood, in the notes and articles. | Orthodox teaching, reflected in the notes |
+
 ---
 
 ## 20. NET Bible, Full-Notes Edition
@@ -800,6 +1123,23 @@ Multi-denominational, broadly evangelical; the translation team was deliberately
 | Women's ordination | Not addressed; the volume takes no confessional position. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | The translators' notes explain translation and textual decisions and do not appeal to church tradition for doctrine. | Volume's stated editorial approach |
+| The Trinity and the person of Christ | Orthodox Trinitarian translators; the notes defend renderings that bear on Christ's deity (e.g., John 1:1, 1:18; Titus 2:13) on grammatical grounds. | Volume's translators' notes |
+| Predestination and free will | Not addressed as doctrine; the notes on Romans 9 and Ephesians 1 discuss grammar and lexicon without ruling. | Volume's stated editorial approach |
+| Sanctification and holiness | Not addressed as doctrine. | Volume's stated editorial approach |
+| Hell, judgment and the fate of the lost | Not addressed as doctrine; the notes explain Gehenna, Hades and "eternal" lexically. | Volume's stated editorial approach |
+| Mary, the saints and prayer for the dead | Not addressed as doctrine; the notes on Luke 1:28 and Matthew 12:46 discuss translation options. | Volume's stated editorial approach |
+| Worship: day, style and liturgy | Not addressed as doctrine. | Volume's stated editorial approach |
+| Church and state / political engagement | Not addressed as doctrine. | Volume's stated editorial approach |
+| Race, ethnicity and the church | Not addressed as doctrine. | Volume's stated editorial approach |
+| Creation and the age of the earth | Not addressed as doctrine; the Genesis 1 notes discuss the Hebrew of "day" and "beginning" without asserting an age of the earth. | Volume's translators' notes at Genesis 1 |
+| Tithing and the prosperity gospel | Not addressed as doctrine; the notes explain the tithing texts lexically. | Volume's stated editorial approach |
+| Bible translations and KJV-onlyism | The NET is an original translation from the critical texts whose notes document every significant decision and textual variant; the preface explains the "ministry first" licensing. KJV-onlyism is rejected by implication of the textual notes. | Volume's preface and translators' notes |
+| Marriage roles: complementarian and egalitarian | Not addressed as doctrine; the notes on Ephesians 5:22 and 1 Timothy 2:12 lay out the translation options on both sides. | Volume's stated editorial approach |
 Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified.
 
 | Category | Position | Source |
@@ -858,6 +1198,23 @@ Messianic Judaism — a movement combining Jewish religious practice and identit
 | War/pacifism | Not addressed as a doctrine; the movement's strong identification with Israel generally implies support for national self-defense. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture (Tanakh and B'rit Hadashah) is the final authority, read with respect for Jewish tradition and rabbinic commentary as illuminating but not authoritative. | Volume's introduction and notes |
+| The Trinity and the person of Christ | Trinitarian in substance while preferring Hebrew categories; Yeshua is affirmed as fully divine Messiah and the notes avoid the term "Trinity" where possible. | Volume's notes and theme articles |
+| Predestination and free will | Not confessionally fixed; the Messianic Jewish contributors range across the question. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Holiness pursued through Torah-shaped living in the Messiah; the notes commend observance of the commandments as response to grace. | Volume's notes and theme articles |
+| Hell, judgment and the fate of the lost | Eternal judgment affirmed; the fate of the lost is not treated at length. | General pattern of the editorial tradition, not independently documented in the notes |
+| Mary, the saints and prayer for the dead | Mary (Miryam) is honored as the mother of Yeshua but not venerated; no prayer to or for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Saturday Shabbat observance and the biblical festivals are commended in the notes and articles as the Messianic Jewish pattern; worship follows synagogue forms with Messianic content. | Volume's notes and theme articles |
+| Church and state / political engagement | Not addressed as doctrine; support for the Jewish people and Israel is a recurring theme of the articles. | Volume's theme articles |
+| Race, ethnicity and the church | The unity of Jew and Gentile in the Messiah without erasing Jewish identity (Romans 11; Ephesians 2) is a central theme of the notes. | Volume's notes and theme articles |
+| Creation and the age of the earth | God as Creator affirmed; the age of the earth is not addressed. | Not addressed by the volume; no confessional position taken |
+| Tithing and the prosperity gospel | Tithing is explained from Torah and commended as a principle; prosperity teaching is absent. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on David Stern's Complete Jewish Bible (1998), which restores Hebrew names and terms; the introduction explains the approach. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Traditional roles reflected in the notes on Ephesians 5; not treated at length. | General pattern of the editorial tradition, not independently documented in the notes |
+
 ---
 
 ## 22. The Evidence Study Bible
@@ -897,6 +1254,23 @@ Broadly evangelical, cross-denominational, with a specific and sustained focus o
 | Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
+| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
+| Predestination and free will | Not confessionally fixed; the editor's own emphasis on the Law as schoolmaster is compatible with both Reformed and Arminian readings and the notes do not rule. | General pattern of the editorial tradition, not independently documented in the notes |
+| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment is central to the volume's evangelism method ("Hell's Best Kept Secret"); the notes press the reality of judgment at Matthew 25 and Revelation 20. | Volume's notes and articles; editor's own published works (Comfort) |
+| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
+| Church and state / political engagement | Submission to government (Romans 13); the editor's own public work includes pro-life advocacy (the film *180*, 2011). | Volume's notes; editor's own public work |
+| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
+| Creation and the age of the earth | Young-earth creationism and rejection of evolution, argued in more than two dozen articles and in the Genesis notes. | Volume's articles and notes at Genesis 1 |
+| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the New King James Version; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
 
 ---
 
@@ -938,6 +1312,23 @@ Broadly evangelical and conservative Protestant, cross-denominational, distingui
 | War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
 | Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
 
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone, read literally; the notes give tradition no authority and treat Genesis as the foundation for the rest of the Bible. | Volume's notes and introduction |
+| The Trinity and the person of Christ | Trinitarian and orthodox; the notes defend Christ's deity and see Trinitarian hints in Genesis 1. | Volume's notes |
+| Predestination and free will | Election affirmed alongside genuine human responsibility; the notes do not adopt a full Calvinist system. | Volume's notes |
+| Sanctification and holiness | Progressive sanctification; no second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, taught in the notes on Matthew 25 and Revelation 20. | Volume's notes |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
+| Worship: day, style and liturgy | Sunday as the Lord's Day, with the creation week as the pattern for the seven-day week (Genesis 2:2–3 notes); style not addressed. | Volume's notes |
+| Church and state / political engagement | Submission to government (Romans 13); the notes oppose the teaching of evolution in public education as a cultural matter. | Volume's notes and appendices |
+| Race, ethnicity and the church | The notes read Genesis 9–11 as the origin of all nations from Noah's sons and affirm one human race; the editor's own works rejected racist readings of Genesis 9. | Volume's notes at Genesis 9–11; editor's own published works (Morris) |
+| Creation and the age of the earth | Literal six-day creation roughly 6,000 years ago, a global Flood and a young earth, argued throughout the notes and appendices — the volume's defining emphasis. | Volume's notes and appendices; editor's own published works (Morris, *The Genesis Flood*) |
+| Tithing and the prosperity gospel | Tithing commended as a principle of giving; prosperity teaching absent. | General pattern of the editorial tradition, not independently documented in the notes |
+| Bible translations and KJV-onlyism | Built on the KJV, which the editor preferred for its textual base and literary standing; the notes defend the KJV without asserting that it alone is God's Word. | Volume's introduction and notes |
+| Marriage roles: complementarian and egalitarian | Complementarian: male headship in home and church taught in the notes on Genesis 2–3, Ephesians 5 and 1 Timothy 2. | Volume's notes |
+
 ---
 
 ## 24. Jonathan Edwards Study Bible
@@ -965,6 +1356,23 @@ Broadly evangelical and Reformed, reflecting Edwards's own historic Congregation
 | Women's ordination | Not addressed; Edwards's own era assumed male ministry, and the volume's thematic notes do not engage the modern question. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone as the final authority, with Edwards's Reformed and Puritan heritage shaping the reading; the Westminster and Savoy confessions are the implicit standard. | Edwards's own writings as excerpted in the volume |
+| The Trinity and the person of Christ | Trinitarian and Chalcedonian; Edwards's *Discourse on the Trinity* and sermons on Christ's excellency are drawn on. | Edwards's own writings as excerpted in the volume |
+| Predestination and free will | Confessionally Reformed: unconditional election and the bondage of the will, from Edwards's *Freedom of the Will* and sermons on Romans 9. | Edwards's own writings as excerpted in the volume |
+| Sanctification and holiness | Progressive sanctification evidenced by "religious affections"; Edwards's *Religious Affections* is a principal source of the notes. | Edwards's own writings as excerpted in the volume |
+| Hell, judgment and the fate of the lost | Eternal conscious punishment, in the vivid terms of Edwards's *Sinners in the Hands of an Angry God* and related sermons. | Edwards's own writings as excerpted in the volume |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints and no prayer for the dead; Edwards regarded the papacy as antichrist, a view the volume reports as his. | Edwards's own writings as excerpted in the volume |
+| Worship: day, style and liturgy | Sunday as the Christian Sabbath, strictly kept, from Edwards's sermons on the Sabbath; Puritan plain worship. | Edwards's own writings as excerpted in the volume |
+| Church and state / political engagement | Edwards's colonial context: civil government ordained by God, with the church's primary task spiritual; the volume does not apply this to modern politics. | Edwards's own writings as excerpted in the volume |
+| Race, ethnicity and the church | Edwards held enslaved persons, a fact the volume's biographical material acknowledges; his theology of the unity of humanity and his mission to Native Americans are also presented. | Volume's biographical essays |
+| Creation and the age of the earth | Edwards assumed a recent creation in the terms of his age; the volume presents his typological reading of creation rather than a position on the age of the earth. | Edwards's own writings as excerpted in the volume |
+| Tithing and the prosperity gospel | Not addressed as doctrine beyond Edwards's sermons on charity; prosperity teaching absent. | Not addressed by the volume; no confessional position taken |
+| Bible translations and KJV-onlyism | Published in the NKJV; Edwards himself used the KJV. The volume makes no claim for one translation. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Edwards's own household and sermons reflect traditional male headship; the volume presents this historically rather than prescriptively. | Edwards's own writings as excerpted in the volume |
 Given this volume's specific devotional and historical-theological orientation around Edwards's own writings, rather than a systematic modern doctrinal or pastoral commentary, direct notes on contemporary questions such as abortion, homosexuality, or alcohol comparable to the more directly application-focused study Bibles in this section have not been identified.
 
 | Category | Position | Source |
@@ -1007,6 +1415,23 @@ Explicitly and traditionally Catholic — see the Catholic Church entry in "Majo
 | Women's ordination | Reserved to men; the notes follow the Church's teaching (Ordinatio Sacerdotalis, 1994). |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture and Tradition, with the Fathers and the Church's definitions as the authoritative interpreters; the commentary is polemically Catholic against Protestant *sola scriptura*. | Catholic teaching as of the commentary's era (1811-1814), stated in the notes |
+| The Trinity and the person of Christ | Nicene Trinity with the *filioque*; Chalcedonian Christology, defended against Unitarian readings of the period. | Catholic teaching, stated in the notes |
+| Predestination and free will | Grace primary and free will cooperating; the notes reject Calvinist predestination explicitly and reflect post-Tridentine (often Thomist) teaching. | Catholic teaching as of the commentary's era, stated in the notes |
+| Sanctification and holiness | Justification as inherent righteousness increased by good works and the sacraments; purgatory completes it. | Catholic teaching, stated in the notes |
+| Hell, judgment and the fate of the lost | Hell is real and eternal; the notes press it against universalist readings and hold a narrower view of salvation outside the Church than the modern Catechism. | Catholic teaching as of the commentary's era (1811-1814), stated in the notes |
+| Mary, the saints and prayer for the dead | Marian doctrine, the intercession of the saints and prayer for the dead are affirmed and defended at length (Luke 1:28; 2 Maccabees 12; 1 Corinthians 3:15). | Catholic teaching, stated in the notes |
+| Worship: day, style and liturgy | The Latin Mass as the Church's worship; the notes read John 6 and 1 Corinthians 11 eucharistically and defend the sacrifice of the Mass. | Catholic teaching as of the commentary's era, stated in the notes |
+| Church and state / political engagement | Submission to lawful authority (Romans 13) and defense of the Church's rights, in the context of English penal laws against Catholics then recently relaxed. | Catholic teaching as of the commentary's era, stated in the notes |
+| Race, ethnicity and the church | Not addressed; the notes on Genesis 9–10 reflect the ethnology of the period. | Not addressed by the volume; no confessional position taken |
+| Creation and the age of the earth | A literal reading of Genesis 1 with a recent creation, as was standard in 1811; the Church had not yet addressed modern geology. | Volume's notes at Genesis 1 (as of the commentary's era) |
+| Tithing and the prosperity gospel | Tithes as owed to the Church under natural and divine law, in the terms of the period; prosperity teaching absent. | Catholic teaching as of the commentary's era, stated in the notes |
+| Bible translations and KJV-onlyism | Built on the Douay-Rheims (Challoner revision), translated from the Latin Vulgate, which the notes defend as the Church's authentic text against the Protestant versions. KJV-onlyism has no standing. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Husband as head of the wife (Ephesians 5), in the terms of the period. | Catholic teaching as of the commentary's era, stated in the notes |
 Reflecting its early-19th-century original composition, Haydock's commentary does not address these specific contemporary questions the way modern study Bibles do; its underlying doctrinal framework is nonetheless consistent with the historic Catholic teaching described in the Catholic Church entry in "Major U.S. Christian Denominations," from which the Church's own modern-era statements on these specific questions (cited in the Ignatius Catholic Study Bible and Catholic Study Bible/NABRE entries above) themselves develop.
 
 | Category | Position | Source |
@@ -1049,6 +1474,23 @@ Broadly mainline Protestant and academic/ecumenical, the same general orientatio
 | Women's ordination | Not addressed as a doctrine; the mainline traditions of the contributors ordain women, and the notes read the restrictive passages as situational. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Historical-critical: the notes treat Scripture as human literature with compositional histories and appeal neither to *sola scriptura* nor to church tradition as authorities. | Volume's stated editorial approach |
+| The Trinity and the person of Christ | The notes describe the development of Trinitarian and Christological language historically without affirming or denying the doctrines. | Volume's stated editorial approach |
+| Predestination and free will | Not addressed as doctrine; Pauline election language is explained in its first-century setting. | Volume's stated editorial approach |
+| Sanctification and holiness | Not addressed as doctrine. | Volume's stated editorial approach |
+| Hell, judgment and the fate of the lost | Not addressed as doctrine; the notes describe Second Temple Jewish and early Christian conceptions of judgment and the afterlife historically. | Volume's stated editorial approach |
+| Mary, the saints and prayer for the dead | Not addressed as doctrine; the notes report the historical development of Marian and saint traditions where the text touches them. | Volume's stated editorial approach |
+| Worship: day, style and liturgy | Not addressed as doctrine; early Christian worship is described historically. | Volume's stated editorial approach |
+| Church and state / political engagement | Not addressed as doctrine. | Volume's stated editorial approach |
+| Race, ethnicity and the church | Not addressed as doctrine. | Volume's stated editorial approach |
+| Creation and the age of the earth | Genesis 1–11 is read as myth and legend of ancient Israel with Mesopotamian parallels; no scientific claim is made for the text. | Volume's notes at Genesis 1–11 |
+| Tithing and the prosperity gospel | Not addressed as doctrine. | Volume's stated editorial approach |
+| Bible translations and KJV-onlyism | Built on the RSV (1952/1971), a mainline Protestant committee translation from the critical texts that drew conservative Protestant criticism on its release. KJV-onlyism is rejected by implication. | Volume's own base translation and preface |
+| Marriage roles: complementarian and egalitarian | Not addressed as doctrine; the household codes are explained as reflecting ancient social structure. | Volume's stated editorial approach |
 Given this volume's academic, historical-critical orientation, it is less oriented toward direct ethical application on contemporary questions than most other entries in this section; the notes were not checked on any of the three categories.
 
 | Category | Position | Source |
@@ -1091,6 +1533,23 @@ Broadly evangelical and Protestant, cross-denominational so far as can be determ
 | Women's ordination | Not addressed; no position could be identified from available sources. |
 
 ### Ethical and lifestyle positions
+
+### Other divisive positions
+| Category | Position | Source |
+|---|---|---|
+| Scripture and Tradition | Scripture alone, as far as the volume's Protestant cross-reference apparatus shows; tradition is not appealed to. | Not identified from available sources |
+| The Trinity and the person of Christ | Trinitarian and orthodox, so far as available sources show. | Not identified from available sources |
+| Predestination and free will | Not identified from available sources. | Not identified from available sources |
+| Sanctification and holiness | Not identified from available sources. | Not identified from available sources |
+| Hell, judgment and the fate of the lost | Not identified from available sources. | Not identified from available sources |
+| Mary, the saints and prayer for the dead | Protestant: no veneration of Mary or the saints, so far as the apparatus shows. | Not identified from available sources |
+| Worship: day, style and liturgy | Not identified from available sources. | Not identified from available sources |
+| Church and state / political engagement | Not identified from available sources. | Not identified from available sources |
+| Race, ethnicity and the church | Not identified from available sources. | Not identified from available sources |
+| Creation and the age of the earth | Not identified from available sources. | Not identified from available sources |
+| Tithing and the prosperity gospel | Not identified from available sources. | Not identified from available sources |
+| Bible translations and KJV-onlyism | Built on the American Standard Version (1901), reprinting the 1910 Cross-Reference Bible; the volume predates and makes no claim regarding KJV-onlyism. | Volume's own base translation |
+| Marriage roles: complementarian and egalitarian | Not identified from available sources. | Not identified from available sources |
 Reflecting its 1972 original composition, this volume's notes and cross-references do not address these specific contemporary questions the way modern study Bibles do; not verified on any of the three categories.
 
 | Category | Position | Source |

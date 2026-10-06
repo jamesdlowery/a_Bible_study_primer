@@ -87,7 +87,7 @@ def source_class(position, source):
     marks as not identified / not independently documented), or 'cited'."""
     if not pm.has_position(position, source):
         return "none"
-    if re.match(r"^\s*(not identified|general pattern, not independently|not independently)", source or "", re.I):
+    if re.match(r"^\s*(not identified|general pattern\b.*not (independently|confirmed)|not independently)", source or "", re.I):
         return "weak"
     return "cited"
 
