@@ -24,8 +24,9 @@ The parts of this book, in reading order:
 | Histories of English Bible Translations | A history for each of {{TRANSLATION_COUNT}} major translations |
 | Manuscript and Translation Differences | A dedicated page for every one of the 73 books, comparing all {{TRANSLATION_COUNT}} tracked translations, including the most famous individual cases (e.g. Isaiah 7:14, Mark 16:9-20) alongside less well-known ones |
 | Reportedly Contradicting Passages | Commonly cited "Bible contradiction" claims, with harmonizations |
-| Major U.S. Christian Denominations | Profiles of 27 prominent U.S. denominations — core doctrine and ethical/lifestyle positions |
+| Major U.S. Christian Denominations | Profiles of 27 prominent U.S. denominations — core doctrine, ethical/lifestyle positions, and other divisive positions |
 | Prominent English Study Bibles | Profiles of 27 prominent study Bibles — general editor, translation, denominational leaning, and ethical/lifestyle commentary |
+| Major Dividing Issues Among Believers | A chapter for each of the 31 positions tracked in the two sections above — what divides, the main answers, the passages each side rests on, where every body and volume in this book falls, and the dated splits |
 | Scripture Index | Every passage with an entry in either catalog, in canonical order, pointing to the claim number or article that covers it |
 | References for Further Reading | A bibliography for readers who want to go deeper on any section |
 

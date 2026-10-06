@@ -391,6 +391,8 @@ def generate_headers(pdf_path, meta_path, repo_root):
             os.path.join(repo_root, "110 Top Christian Denominations", "010 Top Christian Denominations.md"),
         "Prominent English Study Bibles":
             os.path.join(repo_root, "120 Top Study Bibles", "010 Top Study Bibles.md"),
+        "Major Dividing Issues Among Believers":
+            os.path.join(repo_root, "130 Major Dividing Issues Among Believers", "010 Major Dividing Issues Among Believers.md"),
     }
     # Sections with plain "## Title" sub-headings (not the numbered-list
     # pattern above) -- parsed with parse_section_headings(), which also
@@ -426,7 +428,7 @@ def generate_headers(pdf_path, meta_path, repo_root):
         "Popular Bible Translations":
             os.path.join(repo_root, "060 Popular Bible Translations", "010 Popular Bible Translations.md"),
         "References for Further Reading":
-            os.path.join(repo_root, "130 References for Further Reading", "010 References for Further Reading.md"),
+            os.path.join(repo_root, "140 References for Further Reading", "010 References for Further Reading.md"),
     }
     # The remaining front-matter (and similar) sections: no per-entry
     # target data and no numbered-list structure, but each has its own
@@ -463,7 +465,7 @@ def generate_headers(pdf_path, meta_path, repo_root):
         "Popular Bible Translations":
             os.path.join(repo_root, "060 Popular Bible Translations", "010 Popular Bible Translations.md"),
         "References for Further Reading":
-            os.path.join(repo_root, "130 References for Further Reading", "010 References for Further Reading.md"),
+            os.path.join(repo_root, "140 References for Further Reading", "010 References for Further Reading.md"),
     }
 
     touched = 0

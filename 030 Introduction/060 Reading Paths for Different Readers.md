@@ -24,7 +24,7 @@ Go straight to **Manuscript and Translation Differences**, find the book, and lo
 
 ## "I want to know what a specific denomination or study Bible actually teaches."
 
-Go to **Major U.S. Christian Denominations** for a specific denomination's core doctrine and its positions on abortion, homosexuality, and alcohol, sourced and distinguished from mere cultural practice. Go to **Prominent English Study Bibles** if you're specifically evaluating a study Bible edition — it covers the same ethical/lifestyle questions where the volume's own commentary addresses them, the general editor's background, and cross-references back to the closest matching entry in Major U.S. Christian Denominations.
+Go to **Major U.S. Christian Denominations** for a specific denomination's core doctrine and its ethical, lifestyle and other divisive positions, sourced and distinguished from mere cultural practice. Go to **Major Dividing Issues Among Believers** if your question is the issue rather than the body -- each of the 31 tracked positions has a chapter there showing where every denomination and study Bible in this book falls. Go to **Prominent English Study Bibles** if you're specifically evaluating a study Bible edition — it covers the same ethical/lifestyle questions where the volume's own commentary addresses them, the general editor's background, and cross-references back to the closest matching entry in Major U.S. Christian Denominations.
 
 ## "I want to read this book start to finish."
 

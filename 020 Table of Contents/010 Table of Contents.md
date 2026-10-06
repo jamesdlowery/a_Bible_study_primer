@@ -209,4 +209,5 @@
       - [Revelation](../100%20Reportedly%20Contradicting%20Passages/015%20Reportedly%20Contradicting%20Passages%20By%20Claim/660%20Revelation.md)
 - [Major U.S. Christian Denominations](../110%20Top%20Christian%20Denominations/010%20Top%20Christian%20Denominations.md)
 - [Prominent English Study Bibles](../120%20Top%20Study%20Bibles/010%20Top%20Study%20Bibles.md)
-- [References for Further Reading](../130%20References%20for%20Further%20Reading/010%20References%20for%20Further%20Reading.md)
+- [Major Dividing Issues Among Believers](../130%20Major%20Dividing%20Issues%20Among%20Believers/010%20Major%20Dividing%20Issues%20Among%20Believers.md)
+- [References for Further Reading](../140%20References%20for%20Further%20Reading/010%20References%20for%20Further%20Reading.md)

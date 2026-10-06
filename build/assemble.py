@@ -818,6 +818,15 @@ def build_targets():
     add("top_study_bibles", get_heading_text("120 Top Study Bibles/010 Top Study Bibles.md"),
         lambda: read("120 Top Study Bibles/010 Top Study Bibles.md"))
 
+    # The "where the bodies in this book fall" tables in this section are
+    # generated here from the live position tables of the two sections
+    # above -- see build/dividing_issues.py.
+    DIVIDING = "130 Major Dividing Issues Among Believers/010 Major Dividing Issues Among Believers.md"
+    def render_dividing_issues():
+        import dividing_issues
+        return dividing_issues.fill(read(DIVIDING), REPO)
+    add("dividing_issues", get_heading_text(DIVIDING), render_dividing_issues)
+
     # ---- Back matter ----
     def render_scripture_index():
         import scripture_index
@@ -833,8 +842,8 @@ def build_targets():
             f.write(md)
         return md
     add("scripture_index", "Scripture Index", render_scripture_index)
-    add("references", get_heading_text("130 References for Further Reading/010 References for Further Reading.md"),
-        lambda: read("130 References for Further Reading/010 References for Further Reading.md"))
+    add("references", get_heading_text("140 References for Further Reading/010 References for Further Reading.md"),
+        lambda: read("140 References for Further Reading/010 References for Further Reading.md"))
 
     return targets
 
@@ -1296,6 +1305,7 @@ def build_toc_md(anchors):
 
     lines.append(f"- {link('top_denominations', 'Major U.S. Christian Denominations')}")
     lines.append(f"- {link('top_study_bibles', 'Prominent English Study Bibles')}")
+    lines.append(f"- {link('dividing_issues', 'Major Dividing Issues Among Believers')}")
 
     lines.append(f"- {link('scripture_index', 'Scripture Index')}")
     lines.append(f"- {link('references', 'References for Further Reading')}")
@@ -1461,7 +1471,7 @@ MAIN_SECTIONS = {
     "biblical_source_manuscripts", "character_of_each_tradition",
     "popular_bible_translations", "bible_translations_and_sources",
     "histories_title", "variants_title", "rcp_title",
-    "top_denominations", "top_study_bibles", "scripture_index", "references",
+    "top_denominations", "top_study_bibles", "dividing_issues", "scripture_index", "references",
 }
 
 # One illustration per main section (except Title Page and Table of
@@ -1472,7 +1482,7 @@ MAIN_SECTIONS = {
 # depending on odd/even-page enforcement; the illustration always takes
 # the one closest to the content, never an earlier one). Confirmed by
 # direct inspection of a real build which blank page that is for each of
-# these 18 sections. DOCX only, matching every other illustration/cover
+# these main sections. DOCX only, matching every other illustration/cover
 # feature in this file -- ODT and HTML don't get these.
 ILLUSTRATIONS = {
     "preface": "030 Introduction/005 Illustration (Preface).jpg",
@@ -1494,8 +1504,12 @@ ILLUSTRATIONS = {
     "top_denominations": "110 Top Christian Denominations/005 Illustration.jpg",
     "top_study_bibles": "120 Top Study Bibles/005 Illustration.jpg",
     "scripture_index": "125 Scripture Index/005 Illustration.jpg",
-    "references": "130 References for Further Reading/005 Illustration.jpg",
+    "dividing_issues": "130 Major Dividing Issues Among Believers/005 Illustration.jpg",
+    "references": "140 References for Further Reading/005 Illustration.jpg",
 }
+# A main section whose illustration file is not (yet) in the tree simply
+# keeps its blank page, exactly as Title Page and Table of Contents do.
+ILLUSTRATIONS = {k: v for k, v in ILLUSTRATIONS.items() if os.path.exists(os.path.join(REPO, v))}
 
 
 def illustration_md(image_path):
