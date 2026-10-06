@@ -273,6 +273,22 @@ def parse_h2_h3_headings(source_path):
     return entries
 
 
+def parse_book_headings(source_path):
+    """Extract the "#### Book" headings, in order, from the generated
+    Scripture Index (build/scripture_index_docx.md). Since 6 Oct 2026 the
+    index nests its books under testament ("##") and group ("###")
+    headings exactly as the two catalogs' bookmarks do, but the running
+    header guide word should stay the book name, as it is for the
+    catalogs themselves -- so only the book level is parsed here."""
+    headings = []
+    with open(source_path, encoding="utf-8") as f:
+        for line in f:
+            m = re.match(r"^#### (.+)$", line.rstrip("\n"))
+            if m:
+                headings.append(m.group(1))
+    return headings
+
+
 def parse_section_headings(source_path):
     """Extract "## Title" sub-section headings, in document order, from a
     source markdown file -- for sections with plain (non-numbered) H2
@@ -402,6 +418,12 @@ def generate_headers(pdf_path, meta_path, repo_root):
     # Source Manuscripts" is deliberately not listed here -- confirmed
     # directly it has no "##"/"###" headings of its own at all (a single
     # flat table), so it gets no guide word, same as before.
+    # The generated Scripture Index: guide words are its "####" book
+    # headings (see parse_book_headings()).
+    BOOK_HEADING_SOURCES = {
+        "Scripture Index":
+            os.path.join(repo_root, "build", "scripture_index_docx.md"),
+    }
     PLAIN_HEADING_SOURCES = {
         "Purpose & Scope":
             os.path.join(repo_root, "030 Introduction", "020 Purpose and Scope.md"),
@@ -411,8 +433,6 @@ def generate_headers(pdf_path, meta_path, repo_root):
             os.path.join(repo_root, "030 Introduction", "060 Reading Paths for Different Readers.md"),
         "How to Study a Passage":
             os.path.join(repo_root, "030 Introduction", "064 How to Study a Passage.md"),
-        "Scripture Index":
-            os.path.join(repo_root, "build", "scripture_index_docx.md"),
         "What Is Meant by the \u201cWord of God\u201d?":
             os.path.join(repo_root, "030 Introduction", "030 What Is Meant by the Word of God.md"),
         "What Is Meant by an \u201cInerrant\u201d Word of God?":
@@ -448,8 +468,6 @@ def generate_headers(pdf_path, meta_path, repo_root):
             os.path.join(repo_root, "030 Introduction", "060 Reading Paths for Different Readers.md"),
         "How to Study a Passage":
             os.path.join(repo_root, "030 Introduction", "064 How to Study a Passage.md"),
-        "Scripture Index":
-            os.path.join(repo_root, "build", "scripture_index_docx.md"),
         "What Is Meant by the \u201cWord of God\u201d?":
             os.path.join(repo_root, "030 Introduction", "030 What Is Meant by the Word of God.md"),
         "What Is Meant by an \u201cInerrant\u201d Word of God?":
@@ -483,6 +501,9 @@ def generate_headers(pdf_path, meta_path, repo_root):
             sub_entries = build_sub_entries(doc, meta, STRUCTURED[title], start, end)
         elif title in NUMBERED_HEADING_SOURCES:
             headings = parse_numbered_headings(NUMBERED_HEADING_SOURCES[title])
+            sub_entries = build_sub_entries_from_headings(doc, headings, start, end)
+        elif title in BOOK_HEADING_SOURCES:
+            headings = parse_book_headings(BOOK_HEADING_SOURCES[title])
             sub_entries = build_sub_entries_from_headings(doc, headings, start, end)
         elif title in PLAIN_HEADING_SOURCES:
             headings = parse_section_headings(PLAIN_HEADING_SOURCES[title])

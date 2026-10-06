@@ -193,6 +193,36 @@ def collect_variants(repo):
     return entries, articles
 
 
+# The index's book headings are grouped exactly as the two catalogs'
+# bookmarks are (assemble.py's OT_GROUPS / APOCRYPHA / NT_GROUPS): a
+# testament heading, a group heading under it, then the book. Display
+# names here must match BOOKS above; build_index_md() checks that every
+# book in BOOKS is placed exactly once.
+TESTAMENTS = [
+    ("Old Testament", [
+        ("Pentateuch/Law/Torah", ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"]),
+        ("Historical Books", ["Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings",
+                              "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther"]),
+        ("Wisdom/Poetic Books", ["Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon"]),
+        ("Major Prophets", ["Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel"]),
+        ("Minor Prophets", ["Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk",
+                            "Zephaniah", "Haggai", "Zechariah", "Malachi"]),
+    ]),
+    ("Apocrypha", [
+        ("Apocrypha", ["Tobit", "Judith", "Wisdom of Solomon", "Sirach", "Baruch", "1 Maccabees", "2 Maccabees"]),
+    ]),
+    ("New Testament", [
+        ("Gospels", ["Matthew", "Mark", "Luke", "John"]),
+        ("Acts of the Apostles", ["Acts"]),
+        ("Pauline Epistles", ["Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians",
+                              "Colossians", "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus",
+                              "Philemon"]),
+        ("General Epistles", ["Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude"]),
+        ("Apocalyptic", ["Revelation"]),
+    ]),
+]
+
+
 def build_index_md(repo, heading_level=1, link_anchors=True):
     claims, total_claims = collect_claims(repo)
     variants, total_articles = collect_variants(repo)
@@ -215,29 +245,44 @@ def build_index_md(repo, heading_level=1, link_anchors=True):
         "passages appears under both. In the electronic editions each C and V is a link to its entry."
     )
     out.append("")
+    placed = [b for _, groups in TESTAMENTS for _, books in groups for b in books]
+    canonical = [b for b, _ in BOOKS]
+    if sorted(placed) != sorted(canonical) or len(placed) != len(set(placed)):
+        raise ValueError("scripture_index.TESTAMENTS does not place every book in BOOKS exactly once: "
+                         f"missing {sorted(set(canonical) - set(placed))}, extra {sorted(set(placed) - set(canonical))}")
     n_passages = 0
-    for book, _ in BOOKS:
-        bodies = by_book.get(book)
-        if not bodies:
+    for testament, groups in TESTAMENTS:
+        if not any(by_book.get(b) for _, books in groups for b in books):
             continue
-        out.append(f"{h}# {book}")
+        out.append(f"{h}# {testament}")
         out.append("")
-        for body in sorted(bodies, key=_ref_sort_key):
-            parts = []
-            for g, chapter_book in claims.get((book, body), []):
-                label = f"C {g}"
-                if link_anchors:
-                    label = f"[{label}](#rcp-claim-{g})"
-                parts.append(f"{label} ({chapter_book})" if chapter_book != book else label)
-            for kind, heading, anchor in variants.get((book, body), []):
-                short = heading if len(heading) <= 90 else heading[:87].rstrip() + "..."
-                if kind == "article":
-                    parts.append(f"[V: {short}](#{anchor})" if link_anchors and anchor else f"V: {short}")
-                else:
-                    parts.append(f"V (side note): {short}")
-            out.append(f"- **{book} {body}** \u2014 " + "; ".join(parts))
-            n_passages += 1
-        out.append("")
+        for group, books in groups:
+            if not any(by_book.get(b) for b in books):
+                continue
+            out.append(f"{h}## {group}")
+            out.append("")
+            for book in books:
+                bodies = by_book.get(book)
+                if not bodies:
+                    continue
+                out.append(f"{h}### {book}")
+                out.append("")
+                for body in sorted(bodies, key=_ref_sort_key):
+                    parts = []
+                    for g, chapter_book in claims.get((book, body), []):
+                        label = f"C {g}"
+                        if link_anchors:
+                            label = f"[{label}](#rcp-claim-{g})"
+                        parts.append(f"{label} ({chapter_book})" if chapter_book != book else label)
+                    for kind, heading, anchor in variants.get((book, body), []):
+                        short = heading if len(heading) <= 90 else heading[:87].rstrip() + "..."
+                        if kind == "article":
+                            parts.append(f"[V: {short}](#{anchor})" if link_anchors and anchor else f"V: {short}")
+                        else:
+                            parts.append(f"V (side note): {short}")
+                    out.append(f"- **{book} {body}** \u2014 " + "; ".join(parts))
+                    n_passages += 1
+                out.append("")
     return "\n".join(out).rstrip("\n") + "\n", {"claims": total_claims, "articles": total_articles, "passages": n_passages}
 
 
