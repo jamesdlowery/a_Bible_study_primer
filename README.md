@@ -9,10 +9,10 @@ This repository contains the content in Markdown so it can be read directly on G
 These are rebuilt automatically from the current `main` branch every time the source changes — always in sync with the Markdown in this repo. The links below are rewritten by each build to point at that exact version's files.
 
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:START -->
-- [📄 Word (.docx)](../../releases/download/v20261006c/a_Bible_study_primer_v20261006c.docx) — 65.1 MB
-- [📄 OpenDocument (.odt)](../../releases/download/v20261006c/a_Bible_study_primer_v20261006c.odt) — 1.2 MB
-- [📄 PDF](../../releases/download/v20261006c/a_Bible_study_primer_v20261006c.pdf) — 34.8 MB
-- [🌐 HTML](../../releases/download/v20261006c/a_Bible_study_primer_v20261006c.html) — 4.3 MB
+- [📄 Word (.docx)](../../releases/download/v20261006e/a_Bible_study_primer_v20261006e.docx) — 65.1 MB
+- [📄 OpenDocument (.odt)](../../releases/download/v20261006e/a_Bible_study_primer_v20261006e.odt) — 1.2 MB
+- [📄 PDF](../../releases/download/v20261006e/a_Bible_study_primer_v20261006e.pdf) — 34.8 MB
+- [🌐 HTML](../../releases/download/v20261006e/a_Bible_study_primer_v20261006e.html) — 4.3 MB
 <!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->
 
 Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases page](../../releases) as well, if you want a specific past version.
@@ -20,11 +20,11 @@ Every build is archived under its own version (`vYYYYMMDDx`) on the [Releases pa
 <!-- AUTO-GENERATED-VERIFICATIONS-LINK:START -->
 ### Release documents
 
-[📋 **Feature list (.pdf)**](../../releases/download/v20261006c/a_Bible_study_primer_feature_list_v20261006c.pdf) (6 KB) is a one- to two-page overview of what the book contains -- each section and what it offers, how the book is delivered, and the headline counts (translations tracked, variants and entries catalogued, denominations and study Bibles profiled), filled in from the text at build time so they are always current.
+[📋 **Feature list (.pdf)**](../../releases/download/v20261006e/a_Bible_study_primer_feature_list_v20261006e.pdf) (6 KB) is a one- to two-page overview of what the book contains -- each section and what it offers, how the book is delivered, and the headline counts (translations tracked, variants and entries catalogued, denominations and study Bibles profiled), filled in from the text at build time so they are always current.
 
-[📝 **Change log (.pdf)**](../../releases/download/v20261006c/a_Bible_study_primer_change_log_v20261006c.pdf) (5 KB) records what moved since the previous release: the editor's notes (added, corrected, expanded, restructured) kept in [`build/release_docs/changelog.md`](build/release_docs/changelog.md), followed by a measured comparison with the previous release's text -- word counts by section, tracked translations, catalogued variants and entries, denominations and study Bibles, and the titles of entries added or removed.
+[📝 **Change log (.pdf)**](../../releases/download/v20261006e/a_Bible_study_primer_change_log_v20261006e.pdf) (3 KB) records what moved since the previous release: the editor's notes (added, corrected, expanded, restructured) kept in [`build/release_docs/changelog.md`](build/release_docs/changelog.md), followed by a measured comparison with the previous release's text -- word counts by section, tracked translations, catalogued variants and entries, denominations and study Bibles, and the titles of entries added or removed.
 
-[📊 **Remaining verifications (.xlsx)**](../../releases/download/v20261006c/a_Bible_study_primer_remaining_verifications_v20261006c.xlsx) (38 KB) is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
+[📊 **Remaining verifications (.xlsx)**](../../releases/download/v20261006e/a_Bible_study_primer_remaining_verifications_v20261006e.xlsx) (38 KB) is the book's open-items ledger: every place where a claim about a translation's wording still rests on an expectation or a proxy rather than a direct check of that translation's own text, with what was checked, what remains, and how to close it. It is regenerated on every build from [`build/verifications/remaining_verifications.csv`](build/verifications/remaining_verifications.csv) (edit that file, not the spreadsheet), carries the same version stamp as the book it was built with, and re-checks each row's marker phrase against the current text so a row whose passage has since been edited is flagged for review.
 <!-- AUTO-GENERATED-VERIFICATIONS-LINK:END -->
 
 ## Contents
