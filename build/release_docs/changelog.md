@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261006c -- 6 October 2026
+
 ### Added
 - Major U.S. Christian Denominations: a third table, "Other divisive positions," in every one of the 27 entries, covering 13 further questions that have split churches (Scripture and Tradition; the Trinity and the person of Christ; predestination and free will; sanctification and holiness; hell and the fate of the lost; Mary, the saints and prayer for the dead; the day, style and liturgy of worship; church and state; race and the church; creation and the age of the earth; tithing and the prosperity gospel; Bible translations and KJV-onlyism; and marriage roles), each with a source label -- 351 new position cells, bringing the tracked positions per body to 31.
 - Prominent English Study Bibles: the same "Other divisive positions" table in every one of the 27 entries, recording what each volume's notes say or assume on the 13 questions (most visibly at Genesis 1, Romans 9, Ephesians 5, Matthew 25 and Revelation 20) and, for the translations row, the volume's own base text -- a further 351 cells.
