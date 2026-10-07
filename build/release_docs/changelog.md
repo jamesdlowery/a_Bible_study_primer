@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261007a -- 7 October 2026
+
 ### Added
 - Remaining-verifications workbook: a "Divisive Issues x categories" sheet, one row per chapter of Major Dividing Issues Among Believers, tracking each chapter's position attributions, catalog cross-references (checked automatically by the build), dated splits and generated tables; and a category H on the Summary sheet with one ledger row per chapter (IDs 124-154, replacing the single row 123).
 
