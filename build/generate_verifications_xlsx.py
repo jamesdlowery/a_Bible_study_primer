@@ -38,7 +38,8 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import positions_matrix as pm  # noqa: E402
+import positions_matrix as pm
+import dividing_issues as di  # noqa: E402
 
 DATA_CSV = os.path.join("build", "verifications", "remaining_verifications.csv")
 NOTES_MD = os.path.join("build", "verifications", "remaining_verifications_notes.md")
@@ -57,7 +58,7 @@ WIDTHS = {
     "Marker file": 30, "Marker phrase": 40,
 }
 
-CATEGORY_ORDER = ["A", "B", "C", "D", "E", "F", "G"]
+CATEGORY_ORDER = ["A", "B", "C", "D", "E", "F", "G", "H"]
 
 # Ledger rows for the 31 position categories are identified by their
 # Section (110 = Denominations, 120 = Study Bibles) plus the category
@@ -129,6 +130,108 @@ def refresh_position_row(row, data, checks):
     elif verified:
         row["Status"] = f"Open – {len(verified)} of {len(verified) + len(open_cells)} verified"
     return row
+
+
+def refresh_dividing_row(row, chapter_checks, checks):
+    """Rewrite the status text and lookup count of a category H ledger row
+    (Section 130, one per chapter of Major Dividing Issues Among Believers)
+    from the chapter's own checkable parts and position_verifications.csv
+    (Section 130, Entity = component name, Category = chapter)."""
+    if row.get("Section", "").strip() != "130":
+        return row
+    cat = pm._norm(row.get("Entry / Verse", ""))
+    comps = chapter_checks.get(cat)
+    if not comps:
+        return row
+    bits, open_lookups, verified, manual_open = [], 0, [], []
+    for name, kind in di.COMPONENTS:
+        auto, n = comps[name]
+        chk = checks.get(("130", name, cat))
+        done = bool(chk and chk.get("Status", "").strip().lower().startswith("verified"))
+        if kind == "auto":
+            bits.append(f"passages: {'all catalog references resolve' if auto == 'ok' else auto}")
+            open_lookups += n
+        elif kind == "generated":
+            bits.append("where-they-fall tables: generated at build, nothing to check")
+        else:
+            short = name.split(" (")[0].lower()
+            if done:
+                verified.append(short)
+                bits.append(f"{short}: verified ({chk.get('Checked against', '').strip() or 'source not named'})")
+            else:
+                manual_open.append(short)
+                open_lookups += n
+                bits.append(f"{short}: {n} to check")
+    row = dict(row)
+    text = "; ".join(bits)
+    row["What the text currently says"] = text[:1].upper() + text[1:] + "."
+    row["Est. lookups"] = str(open_lookups)
+    if not manual_open and open_lookups == 0:
+        row["Status"] = "Closed"
+    elif verified:
+        row["Status"] = f"Open – {len(verified)} of {len(verified) + len(manual_open)} verified"
+    else:
+        row["Status"] = "Open"
+    return row
+
+
+def write_divisive_sheet(wb, title, repo_root, chapter_checks, checks):
+    """Chapter x checkable-component sheet for Major Dividing Issues Among
+    Believers: plain = open manual check with its count; amber = a catalog
+    cross-reference that does not resolve; grey = generated at build;
+    green ✔ = recorded as verified in position_verifications.csv
+    (Section 130, Entity = component, Category = chapter) or passed the
+    automatic cross-reference check."""
+    ws = wb.create_sheet(title)
+    ws.append(["Chapter"] + [name for name, _ in di.COMPONENTS])
+    for cell in ws[1]:
+        cell.fill = HEADER_FILL
+        cell.font = HEADER_FONT
+        cell.alignment = Alignment(wrap_text=True, vertical="center")
+    for ch in di.chapters(repo_root):
+        cat = ch["category"]
+        row, fills = [f"{ch['number']}. {ch['title']}"], [None]
+        for name, kind in di.COMPONENTS:
+            auto, n = chapter_checks[cat][name]
+            chk = checks.get(("130", name, cat))
+            if chk and chk.get("Status", "").strip().lower().startswith("verified"):
+                against = chk.get("Checked against", "").strip()
+                row.append("✔ verified" + (f": {against}" if against else ""))
+                fills.append(VERIFIED_FILL)
+            elif kind == "auto":
+                refs = len(ch["ids"]) + len(ch["variant_refs"])
+                if auto == "ok":
+                    row.append(f"✔ auto: all {refs} catalog references resolve")
+                    fills.append(VERIFIED_FILL)
+                else:
+                    row.append(auto)
+                    fills.append(NOSRC_FILL)
+            elif kind == "generated":
+                row.append("— generated at build from the position tables")
+                fills.append(NOPOS_FILL)
+            else:
+                row.append(f"Open: {n} to check")
+                fills.append(None)
+        ws.append(row)
+        r = ws.max_row
+        for i, f in enumerate(fills, start=1):
+            c = ws.cell(r, i)
+            c.alignment = WRAP
+            if f:
+                c.fill = f
+    ws.column_dimensions["A"].width = 44
+    for i in range(2, len(di.COMPONENTS) + 2):
+        ws.column_dimensions[get_column_letter(i)].width = 34
+    ws.freeze_panes = "B2"
+    ws.auto_filter.ref = f"A1:{get_column_letter(len(di.COMPONENTS) + 1)}{ws.max_row}"
+    legend = ws.max_row + 2
+    ws.cell(legend, 1, "Legend: plain = open manual check, with the number of separate attributions or dates to confirm; "
+                       "amber = a catalog cross-reference (entry ID or variant §) that does not resolve; "
+                       "grey = generated at build, nothing to verify; green ✔ = passed the automatic cross-reference "
+                       "check, or recorded as verified in build/verifications/position_verifications.csv "
+                       "(Section 130, Entity = column name, Category = chapter name).")
+    ws.cell(legend, 1).alignment = Alignment(wrap_text=True, vertical="top")
+    ws.merge_cells(start_row=legend, start_column=1, end_row=legend, end_column=5)
 
 
 def write_matrix(wb, title, section, entities, checks):
@@ -228,6 +331,8 @@ def build(version, repo_root, out_path):
     data = pm.parse(repo_root)
     checks = read_position_checks(repo_root)
     rows = [refresh_position_row(r, data, checks) for r in rows]
+    chapter_checks = di.chapter_checks(repo_root)
+    rows = [refresh_dividing_row(r, chapter_checks, checks) for r in rows]
 
     # Output columns: everything from the CSV except the two marker columns,
     # then the auto text-check result, then the marker columns at the far
@@ -320,6 +425,7 @@ def build(version, repo_root, out_path):
 
     write_matrix(wb, "Denominations x categories", "Denominations", data["Denominations"], checks)
     write_matrix(wb, "Study Bibles x categories", "Study Bibles", data["Study Bibles"], checks)
+    write_divisive_sheet(wb, "Divisive Issues x categories", repo_root, chapter_checks, checks)
 
     wb.move_sheet("Summary", offset=-1)  # Summary first, data second
     wb.save(out_path)

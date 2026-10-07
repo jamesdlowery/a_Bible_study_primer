@@ -124,3 +124,114 @@ if __name__ == "__main__":
     root = sys.argv[1] if len(sys.argv) > 1 else "."
     cat = sys.argv[2] if len(sys.argv) > 2 else pm.CATEGORIES[0]
     print(render_category(pm.parse(root), pm._norm(cat)))
+
+
+# ---------------------------------------------------------------------------
+# Verification view of the section: what each chapter claims that can be
+# checked, used by generate_verifications_xlsx.py for the "Divisive Issues
+# x categories" sheet and the category H ledger rows.
+
+SECTION_MD = os.path.join("130 Major Dividing Issues Among Believers",
+                          "010 Major Dividing Issues Among Believers.md")
+RCP_DIR = os.path.join("100 Reportedly Contradicting Passages",
+                       "015 Reportedly Contradicting Passages By Claim")
+VARIANTS_DIR = "090 Manuscript and Translation Differences"
+
+# The checkable parts of every chapter, in sheet-column order, with how
+# each one is checked.
+COMPONENTS = [
+    ("Main positions (attributions)", "manual"),
+    ("Passages (catalog cross-references)", "auto"),
+    ("Dated splits (dates and events)", "manual"),
+    ("Where the bodies fall (generated)", "generated"),
+]
+
+_CHAPTER = re.compile(r"^## (\d+)\. (.+?)\s*$", re.M)
+_LABEL = re.compile(r"^\*\*(What divides|The main positions|Passages each side rests on|"
+                    r"Where the bodies in this book fall|Dated splits|How to study it)\.\*\*", re.M)
+_RCP_ID = re.compile(r"\b([1-3]?[A-Z]{2,6}-\d{3})\b")
+_VARIANT_REF = re.compile(r"\b((?:[1-3] )?[A-Z][a-z]+(?: [A-Z][a-z]+)*) §(\d+)\b")
+_YEAR = re.compile(r"\b(1[0-9]{3}|20[0-9]{2})\b")
+
+
+def _rcp_ids(repo_root):
+    ids = set()
+    d = os.path.join(repo_root, RCP_DIR)
+    if not os.path.isdir(d):
+        return ids
+    for fn in os.listdir(d):
+        if fn.endswith(".md"):
+            with open(os.path.join(d, fn), encoding="utf-8") as fh:
+                ids.update(re.findall(r"^\*Entry ID: ([A-Z0-9]+-\d+)\*", fh.read(), re.M))
+    return ids
+
+
+def _variant_counts(repo_root):
+    """{book display name: number of '## N.' articles} for the variants catalog."""
+    counts = {}
+    d = os.path.join(repo_root, VARIANTS_DIR)
+    if not os.path.isdir(d):
+        return counts
+    for fn in os.listdir(d):
+        if not fn.endswith(".md"):
+            continue
+        book = re.sub(r"^\d+\s+", "", fn[:-3])
+        with open(os.path.join(d, fn), encoding="utf-8") as fh:
+            counts[book] = len(re.findall(r"^## \d+\.\s", fh.read(), re.M))
+    return counts
+
+
+def chapters(repo_root):
+    """[{category, number, title, positions: n bullets, ids: [...], missing_ids: [...],
+        variant_refs: [(book, n)], bad_variant_refs: [...], years: sorted set}] in order."""
+    path = os.path.join(repo_root, SECTION_MD)
+    with open(path, encoding="utf-8") as fh:
+        md = fh.read()
+    heads = list(_CHAPTER.finditer(md))
+    rcp_ids = _rcp_ids(repo_root)
+    vcounts = _variant_counts(repo_root)
+    out = []
+    for k, m in enumerate(heads):
+        body = md[m.end():heads[k + 1].start() if k + 1 < len(heads) else len(md)]
+        parts = {}
+        labels = list(_LABEL.finditer(body))
+        for i, lm in enumerate(labels):
+            end = labels[i + 1].start() if i + 1 < len(labels) else len(body)
+            parts[lm.group(1)] = body[lm.end():end]
+        positions = parts.get("The main positions", "")
+        passages = parts.get("Passages each side rests on", "")
+        splits = parts.get("Dated splits", "")
+        ids = sorted(set(_RCP_ID.findall(passages)))
+        vrefs = sorted(set((b, int(n)) for b, n in _VARIANT_REF.findall(passages)))
+        bad = [f"{b} §{n}" for b, n in vrefs if b not in vcounts or n > vcounts[b]]
+        out.append({
+            "category": pm._norm(m.group(2)),
+            "number": int(m.group(1)),
+            "title": m.group(2).strip(),
+            "positions": len(re.findall(r"^- ", positions, re.M)),
+            "ids": ids,
+            "missing_ids": [i for i in ids if i not in rcp_ids],
+            "variant_refs": vrefs,
+            "bad_variant_refs": bad,
+            "years": sorted(set(_YEAR.findall(splits))),
+        })
+    return out
+
+
+def chapter_checks(repo_root):
+    """{category: {component: (auto_status, est_lookups)}} where auto_status is
+    'ok' / 'FLAG: ...' for the auto component, 'generated' for the build-made
+    tables, and None for the manual components; est_lookups is the number of
+    separate checks the component needs."""
+    res = {}
+    for ch in chapters(repo_root):
+        comp = {}
+        comp["Main positions (attributions)"] = (None, ch["positions"])
+        problems = ch["missing_ids"] + ch["bad_variant_refs"]
+        comp["Passages (catalog cross-references)"] = (
+            ("ok" if not problems else "FLAG: " + ", ".join(problems)),
+            len(problems))
+        comp["Dated splits (dates and events)"] = (None, len(ch["years"]))
+        comp["Where the bodies fall (generated)"] = ("generated", 0)
+        res[ch["category"]] = comp
+    return res
