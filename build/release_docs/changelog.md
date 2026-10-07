@@ -9,6 +9,12 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: 14 position cells corrected after checking against the primary documents -- Catholic Church (support of the Church is a duty stated alongside the five precepts, not "the fifth precept"; Catechism §390 concerns Genesis 3, not Genesis 1-3; Assumption cited to §966; an unsupported sentence on hell removed; sprinkling per Canon 854; §676's rejection of millenarianism added), Southern Baptist Convention (sanctity of life "from conception", not "fertilization"; total abstinence rests on Convention resolutions, not the BF&M; the BF&M does not state grounds for divorce; the BF&M's Peace and War article recorded; the 2025 sports-betting resolution named), Seventh-day Adventist Church (Fundamental Belief 1 says "infallible", not inerrant; the abortion cell now reflects the 2019 statement rather than the 1992 guidelines; the ten-percent tithe is Church Manual practice, not in Belief 21).
+
+### Also
+- Remaining-verifications workbook: 82 position cells recorded as verified against their primary sources (all 31 Catholic and 31 Southern Baptist cells, 20 Seventh-day Adventist cells), with the document and paragraph checked named in each cell.
+
 ## v20261007a -- 7 October 2026
 
 ### Added
