@@ -9,6 +9,14 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: National Baptist Convention, USA (the homosexuality cell now records the 2012 presidential statement that marriage is "a sacred biblical covenant between a man and a woman" and the 2014 chaplaincy policy, in place of a bare "general pattern"); Churches of Christ (the war cell had said the tradition was "historically closer to a just-war orientation" and omitted the Lipscomb pacifist strand that lasted until the Second World War; it now describes both).
+- Prominent English Study Bibles, NET Bible: four "other divisive positions" cells checked against the translators' notes themselves -- the Genesis 1:5 study note concludes that "day" is a literal twenty-four-hour day (the cell had implied the notes do not rule); the 1 Timothy 2:12 note gives only the BDAG gloss, not "both sides," while 2:15 lays out six views; the Luke 1:28 note takes a side against "full of grace"; the John 1:1 and 1:18 notes are quoted and the unchecked Titus 2:13 and Matthew 12:46 references removed.
+- Major Dividing Issues Among Believers, chapter 17: Churches of Christ in the Lipscomb tradition added to the historic pacifist group.
+
+### Also
+- Remaining-verifications workbook: 6 further position cells recorded as verified (2 denominations, 4 NET Bible), bringing the total to 277.
+
 ## v20261008e -- 8 October 2026
 
 ### Corrected

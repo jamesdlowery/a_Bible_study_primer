@@ -1128,18 +1128,18 @@ Multi-denominational, broadly evangelical; the translation team was deliberately
 | Category | Position | Source |
 |---|---|---|
 | Scripture and Tradition | The translators' notes explain translation and textual decisions and do not appeal to church tradition for doctrine. | Volume's stated editorial approach |
-| The Trinity and the person of Christ | Orthodox Trinitarian translators; the notes defend renderings that bear on Christ's deity (e.g., John 1:1, 1:18; Titus 2:13) on grammatical grounds. | Volume's translators' notes |
+| The Trinity and the person of Christ | Orthodox Trinitarian translators; the notes defend renderings that bear on Christ's deity on grammatical and textual grounds — at John 1:1 the anarthrous *theos* is read qualitatively ("the Word was fully God"), and at John 1:18 "the external evidence thus strongly supports *monogenēs theos*" — while drawing also on wider Johannine usage (John 8:58, 10:30). | Volume's translators' notes at John 1:1, 1:18 |
 | Predestination and free will | Not addressed as doctrine; the notes on Romans 9 and Ephesians 1 discuss grammar and lexicon without ruling. | Volume's stated editorial approach |
 | Sanctification and holiness | Not addressed as doctrine. | Volume's stated editorial approach |
 | Hell, judgment and the fate of the lost | Not addressed as doctrine; the notes explain Gehenna, Hades and "eternal" lexically. | Volume's stated editorial approach |
-| Mary, the saints and prayer for the dead | Not addressed as doctrine; the notes on Luke 1:28 and Matthew 12:46 discuss translation options. | Volume's stated editorial approach |
+| Mary, the saints and prayer for the dead | Not addressed as doctrine, but the Luke 1:28 note rules on the translation: "favored one" "points to Mary as the recipient of God's grace, not a bestower of it," and the Vulgate's "full of grace" "does not make sense here contextually." | Volume's translators' note at Luke 1:28 |
 | Worship: day, style and liturgy | Not addressed as doctrine. | Volume's stated editorial approach |
 | Church and state / political engagement | Not addressed as doctrine. | Volume's stated editorial approach |
 | Race, ethnicity and the church | Not addressed as doctrine. | Volume's stated editorial approach |
-| Creation and the age of the earth | Not addressed as doctrine; the Genesis 1 notes discuss the Hebrew of "day" and "beginning" without asserting an age of the earth. | Volume's translators' notes at Genesis 1 |
+| Creation and the age of the earth | Not addressed as doctrine, but the Genesis 1 notes do rule on the Hebrew: the study note at 1:5 says "the exegetical evidence suggests the word 'day' in this chapter refers to a literal twenty-four hour day," while the note at 1:1 leaves open whether verse 1 describes the original creation or summarizes what follows; no age of the earth is asserted and the gap theory is not named. | Volume's translators' notes at Genesis 1:1–5 |
 | Tithing and the prosperity gospel | Not addressed as doctrine; the notes explain the tithing texts lexically. | Volume's stated editorial approach |
 | Bible translations and KJV-onlyism | The NET is an original translation from the critical texts whose notes document every significant decision and textual variant; the preface explains the "ministry first" licensing. KJV-onlyism is rejected by implication of the textual notes. | Volume's preface and translators' notes |
-| Marriage roles: complementarian and egalitarian | Not addressed as doctrine; the notes on Ephesians 5:22 and 1 Timothy 2:12 lay out the translation options on both sides. | Volume's stated editorial approach |
+| Marriage roles: complementarian and egalitarian | Not addressed as doctrine; the Ephesians 5:21–22 notes treat "submitting" as a result of being filled by the Spirit and discuss the textual question of whether "submit" appears in 5:22, the 1 Timothy 2:12 note gives the BDAG gloss of *authentein* ("to assume a stance of independent authority, give orders to, dictate to") without a rival reading, and the 2:15 note lays out six interpretations. | Volume's translators' notes at Ephesians 5 and 1 Timothy 2 |
 Given this edition's specific focus on textual and translation transparency rather than doctrinal or pastoral application, direct commentary on abortion, homosexuality, or alcohol comparable to the more devotionally oriented study Bibles in this section has not been identified.
 
 | Category | Position | Source |
