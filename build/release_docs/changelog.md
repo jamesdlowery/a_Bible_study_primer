@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008c -- 8 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Episcopal Church (the 1982 General Convention affirmed the tithe as "the standard of giving," not "the minimum standard," which is the wording of later reaffirmations such as 2009-D055; Resolution 2006-A123 is quoted; the full Canon II.2 list of authorized translations is given; the 1976 ordination vote and the 1989 consecration of Barbara Harris are dated), Evangelical Lutheran Church in America (the Scripture and Trinity cells now quote Constitution 2.01–2.06 in full), Presbyterian Church (U.S.A.) (the 2002 General Assembly resolution on science does not mention creationism or intelligent design, so the Creation cell no longer says it "opposed teaching creationism as science"; the women's-ordination dates are identified as the northern predecessor's, with the southern dates added), United Church of Christ (the Preamble and the "testimonies, but not tests" sentence are quoted; Antoinette Brown's ordination is dated and the UCC's own "any major Protestant denomination" wording used).
 - Major Dividing Issues Among Believers, chapter 29: the Episcopal tithe wording adjusted to match.
