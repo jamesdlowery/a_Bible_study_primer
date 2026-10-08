@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Presbyterian Church (U.S.A.) (the gambling cell had said the General Assembly never asked individuals to abstain, but the 2000 Assembly called Presbyterians "to refuse to participate in such gambling as a matter of faith"; the war cell now cites *Peacemaking: The Believers' Calling* and the 2016 peacemaking affirmations in their own terms; baptism quotes the Directory for Worship), Episcopal Church (the *Book of Common Prayer* rubric provides for immersion or pouring only, so "sprinkling" is removed from the baptism cell; the Catechism's Eucharist answer and the church's "differing views on how that occurs" are quoted; the 1976 and 1977 dates are set out), Evangelical Lutheran Church in America (baptism and the Lord's Supper now quote Augsburg Confession IX and X; the 1970 votes of both predecessor bodies and Elizabeth Platz's ordination date are given).
+- Major Dividing Issues Among Believers, chapter 14: PC(USA) and ABCUSA added to the bodies opposed to gambling on stewardship grounds.
+
+### Also
+- Remaining-verifications workbook: 9 further denomination position cells recorded as verified (3 PC(USA), 3 Episcopal, 3 ELCA), bringing the total to 271.
+
 ## v20261008d -- 8 October 2026
 
 ### Corrected

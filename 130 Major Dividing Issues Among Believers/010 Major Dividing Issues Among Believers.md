@@ -309,7 +309,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Neutral in itself, sinful when excessive or harmful*: Catholic (Catechism §2413), Orthodox, Lutheran, Episcopal.
-- *Opposed as poor stewardship and covetousness*: Southern Baptist resolutions, Methodist Social Principles, Assemblies of God, Nazarene, Seventh-day Adventist, Latter-day Saint (official opposition, including to lotteries), most Holiness and Pentecostal bodies.
+- *Opposed as poor stewardship and covetousness*: Southern Baptist resolutions, Methodist Social Principles, PC(USA) General Assembly statements (2000: "refuse to participate ... as a matter of faith"), American Baptist General Board resolution against state-sponsored gambling (1996), Assemblies of God, Nazarene, Seventh-day Adventist, Latter-day Saint (official opposition, including to lotteries), most Holiness and Pentecostal bodies.
 - *Not addressed*: many congregational bodies.
 
 **Passages each side rests on.** The Bible's approving use of casting lots (Proverbs 16:33; Acts 1:26) against its warnings about wealth (1 Timothy 6:9--10, 1TIM-003 on the misquotation; Proverbs 13:11; Ecclesiastes 5:10) -- the catalog's PROV-017 is devoted to exactly this question. Exodus 20:17 on covetousness and Ephesians 4:28 on honest work are the stewardship texts.

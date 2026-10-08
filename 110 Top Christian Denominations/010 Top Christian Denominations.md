@@ -279,12 +279,12 @@ Because this category spans thousands of independent congregations, no single do
 |---|---|
 | View of Scripture | Authoritative and "the Word of God," interpreted through the historic Lutheran confessions (Augsburg Confession), not affirmed as inerrant in the stricter evangelical sense. |
 | Salvation | Historic Lutheran doctrine of justification by grace through faith alone. |
-| Baptism | Infant baptism is the norm. **Mode:** pouring is customary, though not exclusively required. |
-| The Lord's Supper | Sacramental union — a real, though not transubstantiated, presence of Christ in, with, and under the bread and wine. |
+| Baptism | Infant baptism is the norm: the Augsburg Confession (IX) teaches that "Baptism is necessary for salvation," that "God's grace is offered through Baptism," and that "children are to be baptized," condemning those "who reject the Baptism of children." **Mode:** pouring is customary, though not exclusively required. |
+| The Lord's Supper | Sacramental union — "the body and blood of Christ are truly present and distributed to those who eat the Lord's Supper" (Augsburg Confession X): a real, though not transubstantiated, presence of Christ in, with, and under the bread and wine. |
 | Church government | Episcopal/synodical; the Churchwide Assembly is the highest legislative body. |
 | Eschatology | No specific end-times framework doctrinally mandated. |
 | Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
-| Women's ordination | Fully open; women ordained since 1970. |
+| Women's ordination | Fully open; both predecessor bodies (the Lutheran Church in America and the American Lutheran Church) voted to ordain women in 1970, and Elizabeth Platz, ordained 22 November 1970, was the first woman ordained by a Lutheran church body in North America. |
 
 ### Ethical and lifestyle positions
 | Category | Position | Source |
@@ -532,12 +532,12 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 |---|---|
 | View of Scripture | Holds Scripture, tradition, and reason together as sources of authority (the "three-legged stool" often associated with Anglican theological method), a notably different framework from the "Scripture alone" emphasis found in most evangelical bodies profiled in this section. |
 | Salvation | Broadly Reformed/Anglican in heritage, with wide latitude across the theological breadth of the Anglican Communion (from Anglo-Catholic to evangelical wings). |
-| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion. |
-| The Lord's Supper | The Eucharist, understood sacramentally, though without the doctrinal precision of transubstantiation; central to Sunday worship. |
+| Baptism | Both infant and adult baptism practiced; infants and younger children are presented by parents and godparents, who answer for them. **Mode:** the *Book of Common Prayer* rubric has the celebrant "immerse, or pour water upon, the candidate" — pouring is the usual practice, and sprinkling is not named in the rite. |
+| The Lord's Supper | The Eucharist, understood sacramentally: the Catechism calls its inward and spiritual grace "the Body and Blood of Christ given to his people, and received by faith," and the church "affirms that Christ is really present in the Eucharist" while allowing "differing views on how that occurs" — without the doctrinal precision of transubstantiation; central to Sunday worship. |
 | Church government | Episcopal; the U.S. member church of the worldwide Anglican Communion. |
 | Eschatology | No specific end-times framework doctrinally mandated. |
 | Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
-| Women's ordination | Fully open; women have been ordained as priests since 1976 (the last of the major mainline Protestant traditions to do so) and consecrated as bishops since 1989. |
+| Women's ordination | Fully open; the 1976 General Convention opened the priesthood and episcopate to women (the first regular ordinations followed in January 1977, after the irregular "Philadelphia Eleven" ordinations of 1974) — the last of the seven large mainline Protestant bodies to do so — and Barbara Harris was consecrated the first woman bishop in 1989. |
 
 ### Ethical and lifestyle positions
 | Category | Position | Source |
@@ -633,7 +633,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 |---|---|
 | View of Scripture | Scripture is authoritative and "the Word of God," interpreted through the lens of Reformed confessional standards (the Book of Confessions) rather than affirmed as inerrant in the term's stricter evangelical sense. |
 | Salvation | Reformed/Calvinist theological heritage (God's sovereign grace in salvation), though practice and preaching vary by congregation. |
-| Baptism | Both infant and believer's baptism are practiced and considered valid; infant baptism is the historic Reformed norm. **Mode:** the Book of Order permits pouring, sprinkling, or immersion, all equally valid; in practice, pouring or sprinkling is by far the most common mode, consistent with the tradition's own historic confession (the Westminster Confession states "dipping of the person into the water is not necessary"). |
+| Baptism | Both infant and believer's baptism are practiced and considered valid, and "baptism is received only once"; infant baptism is the historic Reformed norm. **Mode:** the Directory for Worship says the water "shall be applied to the person by pouring, sprinkling, or immersion," all equally valid; in practice, pouring or sprinkling is by far the most common mode, consistent with the tradition's own historic confession (the Westminster Confession states "dipping of the person into the water is not necessary"). |
 | The Lord's Supper | Spiritual/real presence in the Reformed (Calvinist) sense — Christ is spiritually present to faith in the meal, distinct from both a bare memorial and from transubstantiation. |
 | Church government | Presbyterian — representative, through elected elders and a connectional structure of governing bodies. |
 | Eschatology | No confessionally mandated position; historically amillennial in Reformed tradition, but not treated as a defining or tested doctrine today. |
@@ -648,10 +648,10 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Alcohol | Moderate use is broadly accepted, consistent with mainline Reformed practice generally; drunkenness is not condoned, consistent with the near-universal Christian position that overuse (as opposed to use itself) is sinful. | General practice, not a specific doctrinal statement |
 | Divorce and remarriage | Permitted; PC(USA) does not treat divorce as categorically sinful or remarriage as barred, consistent with its broader pastoral, discernment-oriented approach to personal and family matters. | General practice, consistent with Book of Order |
 | Contraception | No prohibition; treated as a matter of conscience within marriage. | General practice |
-| Gambling | No single confessional position; General Assembly statements have raised concerns about the social effects of gambling (particularly state lotteries) without categorically prohibiting it for individuals. | General Assembly statements, not a categorical prohibition |
+| Gambling | No confessional position, but a line of General Assembly statements: the 1950 Assembly called gambling "an unchristian attempt to get something for nothing or at another's expense"; the 1975 (PCUS), 1992 and 1994 Assemblies opposed legalized and state-sponsored gambling; and the 2000 Assembly reaffirmed opposition to "organized and institutional forms of gambling" and called Presbyterians "to refuse to participate in such gambling as a matter of faith." | General Assembly statements 1950–2000 (PC(USA) "Gambling" resource page) |
 | Dancing | No doctrinal position; not treated as a moral category. | Not addressed |
 | Premarital sex/cohabitation | No single mandated position; PC(USA)'s approach generally emphasizes pastoral discernment over a categorical rule, consistent with its broader approach to personal ethical questions. | General pattern, not a single confessional rule |
-| War/pacifism | Historically Reformed just-war tradition, though PC(USA) General Assembly statements have at times leaned toward strong presumptions against war and support for conscientious objection. | General Assembly statements |
+| War/pacifism | Historically Reformed just-war tradition held together with a strong peacemaking emphasis: *Peacemaking: The Believers' Calling* (1980) made peacemaking a churchwide priority, and the 222nd General Assembly's five peacemaking affirmations (2016) draw on "the traditions of Just War, Christian pacifism, and Just Peacemaking," commit the church to "studying and practicing nonviolent means of conflict resolution," and reject violence used to advance "selfish national interests," while supporting members of the armed forces and their families. No single position is mandated. | *Peacemaking: The Believers' Calling* (1980); five peacemaking affirmations, 222nd General Assembly (2016) |
 | Death penalty | Opposed since the 171st General Assembly (1959), which held that "capital punishment cannot be condoned"; reaffirmed in 1977, 1978 ("an expression of vengeance which contradicts the justice of God on the cross"), 1985, and with calls for a moratorium on all executions in 2010 and 2018 — one of the earliest and most consistent such denominational positions. | Official General Assembly actions, 1959 onward (as listed in the church's statement on the federal death penalty) |
 
 ### Other divisive positions
