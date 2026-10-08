@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008h -- 8 October 2026
+
 ### Corrected
 - Prominent English Study Bibles, Haydock's Catholic Bible and Commentary: ten position cells checked against the 1859 notes themselves and rewritten to quote them -- Luke 1:28 ("full of grace" kept against the Protestant "highly favoured"), 2 Machabees 12:46 ("so clear, that our adversaries judge it best to deny the book to be canonical"), 1 Corinthians 3:15 (the purgatory note is Calmet's, now attributed), Matthew 19:9 (separation for adultery only; no remarriage), Apocalypse 20 (the Millenarian "error, and heresy"), Genesis 9:6 (capital punishment), Genesis 9:25–27 (the curse confined to Chanaan, with no extension to other peoples -- the cell's "ethnology of the period" is withdrawn), Genesis 1 (the 4004 B.C. footnote), Romans 13:1 (the notes do not mention the English penal laws, so the cell now separates note from context), John 6, Romans 9 (the notes reject reprobation without naming Calvin) and Matthew 25 (Origen, not "universalist readings," is the target).
 
