@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008i -- 8 October 2026
+
 ### Corrected
 - Prominent English Study Bibles, Scofield Reference Bible: five cells checked against the 1917 notes -- the 1 Thessalonians 5:23 note concerns the trichotomy of spirit, soul and body, not sanctification, so the sanctification cell now rests on the 1 Corinthians 1:2 note ("he grows in grace, not into grace"); the Romans 13 notes are three brief glosses, so "the notes on Romans 13 teach submission" is withdrawn; the 1 Peter 1:2 election summary, the Revelation 20:14 argument that the second death "is not annihilation," and the Matthew 12:1 Sabbath summary are quoted.
 - Prominent English Study Bibles, Haydock's Catholic Bible and Commentary: three further cells quote the notes -- 2 Timothy 3:14 ("not with Protestants, that Scripture alone is necessary and sufficient") and 2 Thessalonians 2:14 on tradition; 1 Corinthians 11:20–28 on the real presence and the chalice; Ephesians 5:23–24 (there are no notes at 5:22 or 5:25).
