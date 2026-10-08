@@ -28,7 +28,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: View of Scripture -->
 
-**Dated splits.** The Fundamentalist--Modernist controversy in the Presbyterian Church in the U.S.A. (1920s; Machen's departure and the founding of the Orthodox Presbyterian Church, 1936); the Southern Baptist "Conservative Resurgence" (1979--1990s), fought explicitly over inerrancy; the Lutheran Church--Missouri Synod's Seminex walkout (1974), which produced the body that later joined the ELCA; the Chicago Statement itself (1978) as the rallying document of the inerrantist side.
+**Dated splits.** The Fundamentalist--Modernist controversy in the Presbyterian Church in the U.S.A. (1920s; Machen's departure and the founding of the Orthodox Presbyterian Church, 1936); the Southern Baptist "Conservative Resurgence" (1979--1990s), fought explicitly over inerrancy; the Lutheran Church--Missouri Synod's Seminex walkout (19 February 1974), which led to the Association of Evangelical Lutheran Churches (1976), a founding partner in the ELCA merger of 1988; the Chicago Statement itself (1978) as the rallying document of the inerrantist side.
 
 **How to study it.** Read the inspiration texts in context before deciding what they claim; then take a handful of the catalog's hardest entries and ask what each view of Scripture would have to say about them. The Introduction's chapter "What Is Meant by an 'Inerrant' Word of God?" sets out the vocabulary.
 
@@ -74,7 +74,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Baptism -->
 
-**Dated splits.** The Anabaptist rebaptisms in Zurich (1525); the English Baptists (1609, 1638); the "Christian Baptist" break of Alexander Campbell from the Baptists over baptism's purpose (1830s); the Oneness Pentecostal "New Issue" at Arroyo Seco (1913) and the Assemblies of God's expulsion of Oneness ministers (1916).
+**Dated splits.** The Anabaptist rebaptisms in Zurich (1525); the English Baptists (1609, 1638); the "Christian Baptist" break of Alexander Campbell from the Baptists over baptism's purpose (1830s); the Oneness Pentecostal "New Issue" at the Arroyo Seco camp meeting (April 1913) and the Assemblies of God's Trinitarian *Statement of Fundamental Truths* (October 1916), after which about a third of its ministers left to form Oneness bodies.
 
 **How to study it.** Lay every New Testament baptism narrative side by side (there are about a dozen) and record who was baptized, when, and what was said; the pattern you find is the pattern each tradition is appealing to.
 
@@ -120,7 +120,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Church government -->
 
-**Dated splits.** The Great Schism between Rome and Constantinople (1054), with papal primacy at its center; the Church of England's break with Rome (1534); the Westminster Assembly's presbyterian settlement (1640s) and the ejection of its ministers (1662); the Methodist Episcopal Church's organization with bishops (1784) and later splits over episcopal power (Methodist Protestant Church, 1830); the First Vatican Council's definition of papal infallibility (1870) and the Old Catholic separation that followed.
+**Dated splits.** The Great Schism between Rome and Constantinople (1054), with papal primacy at its center; the Church of England's break with Rome (1534); the Westminster Assembly's presbyterian settlement (1640s) and the ejection of its ministers (1662); the Methodist Episcopal Church's organization with bishops (1784) and later splits over episcopal power and lay representation (Methodist Protestant Church, organized 1828--1830); the First Vatican Council's definition of papal infallibility (1870) and the Old Catholic separation that followed.
 
 **How to study it.** Trace every use of *episkopos*, *presbyteros* and *diakonos* in the New Testament before reading any church's polity into them; a concordance does most of the work.
 
@@ -143,7 +143,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Eschatology -->
 
-**Dated splits.** The Millerite "Great Disappointment" (1844) and the Seventh-day Adventist Church that grew from it (1863); Darby's dispensationalism carried to America (1860s--1870s) and the Scofield Reference Bible (1909); the Jehovah's Witnesses' 1914 expectation and its reinterpretation; the Niagara and prophecy conferences (1875--1900) that made premillennialism an evangelical marker.
+**Dated splits.** The Millerite "Great Disappointment" (1844) and the Seventh-day Adventist Church that grew from it (1863); Darby's dispensationalism carried to America (1860s--1870s) and the Scofield Reference Bible (1909); the Jehovah's Witnesses' 1914 expectation and its reinterpretation; the Niagara Bible Conference (1875--1897) and the prophecy conferences that made premillennialism an evangelical marker.
 
 **How to study it.** Read Revelation 20 in the context of chapters 19--22 before consulting any chart, and settle for yourself how the book is to be read as a whole (REV-001) before deciding what any one passage of it means.
 
@@ -186,7 +186,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Women's ordination -->
 
-**Dated splits.** Antoinette Brown's Congregational ordination (1853); AME Zion's ordination of Julia Foote (1894) and Mary Small as elder (1898); full clergy rights in the Methodist Church (1956) and PC(USA) predecessors (1956); the Episcopal "Philadelphia Eleven" (1974) and regularization (1976); the Southern Baptist Convention's 2000 confession and its 2023 expulsion of churches with women pastors; the Seventh-day Adventist General Conference vote (2015).
+**Dated splits.** Antoinette Brown's Congregational ordination (1853); AME Zion's ordination of Julia Foote as deacon (1894) and Mary J. Small as the first woman elder (1898); full clergy rights in the Methodist Church (1956) and PC(USA) predecessors (1956); the Episcopal "Philadelphia Eleven" (1974) and regularization (1976); the Southern Baptist Convention's 2000 confession and its 2023 expulsion of churches with women pastors; the Seventh-day Adventist General Conference vote (2015).
 
 **How to study it.** Read 1 Timothy 2 and 1 Corinthians 14 alongside Romans 16 and Acts 18, and decide what each passage is addressing -- a local situation, a creation order, or both -- before deciding which governs the others.
 
@@ -210,7 +210,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Abortion -->
 
-**Dated splits.** The Southern Baptist Convention's resolutions shifting from a 1971 position allowing exceptions to its post-1980 opposition; the Episcopal Church's resolutions from 1967 onward; the UCC's 1971 resolution; *Roe v. Wade* (1973) and *Dobbs* (2022) as the civil dates around which the denominational statements cluster; the Catholic Church's teaching restated at every stage (Catechism §2270--2275).
+**Dated splits.** The Southern Baptist Convention's resolutions shifting from the 1971 resolution, which asked for legislation allowing abortion in cases "such as rape, incest, clear evidence of severe fetal deformity" and danger to the mother's health, to the 1980 resolution seeking a prohibition "except to save the life of the mother"; the Episcopal Church's resolutions from 1967 onward; the UCC's 1971 resolution; *Roe v. Wade* (1973) and *Dobbs* (2022) as the civil dates around which the denominational statements cluster; the Catholic Church's teaching restated at every stage (Catechism §2270--2275).
 
 **How to study it.** Begin with Exodus 21:22--25 in several translations and note how the rendering decides the reading; then read the womb passages as poetry and prophecy, asking what each genre can and cannot establish.
 
@@ -252,7 +252,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Alcohol -->
 
-**Dated splits.** The American temperance movement (1826 onward) and the Methodist and Baptist embrace of total abstinence; Welch's unfermented grape juice for Communion (1869); Prohibition (1920--1933); the Southern Baptist Convention's reaffirmation of abstinence (2006 resolution) against the Convention's younger ministers' drift.
+**Dated splits.** The American temperance movement (1826 onward) and the Methodist and Baptist embrace of total abstinence; Welch's unfermented grape juice for Communion (1869); Prohibition (1920--1933); the Southern Baptist Convention's 2006 resolution expressing "total opposition to the manufacturing, advertising, distributing, and consuming of alcoholic beverages," against the Convention's younger ministers' drift.
 
 **How to study it.** Read the wine passages in both testaments without deciding in advance whether *yayin* and *oinos* are fermented; the lexical evidence settles that, and the ethical question (Romans 14) remains after it does.
 
