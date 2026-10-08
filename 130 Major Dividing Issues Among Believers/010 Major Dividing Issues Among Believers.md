@@ -223,7 +223,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **The main positions.**
 - *Same-sex acts sinful; persons to be treated with respect*: Catholic (Catechism §2357--2359), Orthodox, Southern Baptist, LCMS, PCA, Assemblies of God, Nazarene, COGIC, Latter-day Saints, Jehovah's Witnesses, Seventh-day Adventists, most Black Baptist and Methodist bodies, the Global Methodist Church.
 - *Full inclusion, including marriage and ordination*: UCC (2005), Episcopal Church (2003 onward), ELCA (2009), PC(USA) (2011, 2014), UMC (2024), ABCUSA in some regions.
-- *Divided*: the AME, AME Zion and National Baptist bodies hold traditional teaching with acknowledged internal discussion; the ABCUSA leaves it to regions.
+- *Divided*: the AME, AME Zion and National Baptist bodies hold traditional teaching with acknowledged internal discussion; the ABCUSA's General Board resolution (1992) calls the practice incompatible with Christian teaching but binds no congregation or region.
 
 **Passages each side rests on.** Genesis 19 and the question of Sodom's sin (ISA-011; GEN-042; JUDG-013 on Gibeah); Leviticus 18:22 and 20:13 and the question of which Levitical laws continue (LEV-015 on the dietary laws is the parallel case); Romans 1:26--27; 1 Corinthians 6:9--10 and 1 Timothy 1:10 and the meaning of *arsenokoitai*; Matthew 19:4--6 on the creation pattern; and, on the inclusive side, Acts 10--15 on the Gentile precedent and Galatians 3:28.
 
@@ -351,7 +351,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Chastity outside marriage required; cohabitation incompatible with membership in good standing*: Catholic, Orthodox, Southern Baptist, LCMS, PCA, Pentecostal and Holiness bodies, Latter-day Saints, Jehovah's Witnesses, Seventh-day Adventists.
-- *The same norm, held pastorally with acknowledged accommodation*: most mainline bodies; the ELCA's 2009 statement distinguishes committed from casual relationships.
+- *The same norm, held pastorally with acknowledged accommodation*: most mainline bodies; the ELCA's 2009 statement says the church "does not favor cohabitation arrangements outside of marriage" while asking pastors to accompany such couples.
 - *Not addressed as doctrine*: a few congregational bodies and the background study Bibles.
 
 **Passages each side rests on.** 1 Corinthians 6:12--20 and 7:1--9, 1 Thessalonians 4:3--8, Hebrews 13:4 and the New Testament's *porneia* vocabulary; Deuteronomy 22:13--29 on the Old Testament's treatment of premarital relations; Genesis 2:24 and Matthew 19:5 on the one-flesh union; John 4:16--18 on the Samaritan woman's "husband." The catalog's GEN-014 (Lamech's two wives) and GEN-048 (Jacob's two sisters) are where the Old Testament's marriage practice is examined.

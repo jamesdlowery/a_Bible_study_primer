@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Episcopal Church (abortion now lists the General Convention resolutions from the 1967 statement to 2022-D083 with their wording; homosexuality gives the 2012, 2015 and 2018 resolution numbers and dates, and "ordained" becomes "consecrated" for Bishop Robinson; divorce adds the 1804/1868 background and the bishop's-consent requirement; contraception cites Lambeth 1930 Resolution 15 and its vote; the death-penalty cell quotes the 1958 Journal), Evangelical Lutheran Church in America (the 1991 *Abortion* statement is quoted; divorce, contraception and cohabitation now cite *Human Sexuality: Gift and Trust* -- the cohabitation cell had said "no single mandated position," but the statement says the church "does not favor cohabitation arrangements outside of marriage"; war cites *For Peace in God's World*), American Baptist Churches USA (the death-penalty cell had said "significant reservations without a categorical position," but the General Board resolution recommends abolition; the homosexuality cell now records the 1992 General Board resolution and the 2005 *We Are American Baptists* amendment alongside the non-binding character of Board resolutions; abortion and gambling quote the 1987 and 1996 resolutions), United Church of Christ (the abortion cell no longer says the 1971 action "well predates" the other mainline bodies, since the Episcopal Church's 1967 statement is earlier; the death-penalty cell cites the 1969 resolution).
+- Major Dividing Issues Among Believers, chapters 10 and 16: the ABCUSA and ELCA descriptions adjusted to match the corrected cells.
+
+### Also
+- Remaining-verifications workbook: 16 further denomination position cells recorded as verified (5 Episcopal, 5 ELCA, 4 ABCUSA, 2 UCC), bringing the total to 238.
+
 ## v20261007i -- 8 October 2026
 
 ### Corrected
