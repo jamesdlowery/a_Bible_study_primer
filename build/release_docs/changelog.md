@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008n -- 8 October 2026
+
 ### Corrected
 - Major Dividing Issues Among Believers, "The main positions" of chapters 9–18 cross-checked against the denomination entries' own cells -- chapter 9 (UPCI and the Global Methodist Church added to the opposed group), chapter 17 (the Latter-day Saints no longer sit in the pacifism bullet; a new "left to individual conscience" bullet holds them with the Nazarene, Christian and Missionary Alliance and Global Methodist bodies, and COGIC's pacifism is dated to its founding generation), chapter 18 (the Orthodox, AME and Seventh-day Adventist bodies are removed from "opposed in all cases," since their cells record no unified position; the Assemblies of God and Latter-day Saints are removed from "permitted," the latter now placed as neutral by its own statement; the opposed and permitting bodies carry their dates).
 
