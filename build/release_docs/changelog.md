@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations, United Methodist Church: position cells brought up to the Social Principles adopted in 2024 and checked against the doctrinal standards -- alcohol (abstinence is still commended by the Social Principles and the Book of Resolutions as "a faithful witness," so the cell no longer calls it merely cultural), premarital sex (the "fidelity in marriage and celibacy in singleness" formula is pre-2024; the 2024 text honors "celibacy, marriage and singleness" and sets no explicit rule), war (the 2024 text "deplores war"; "incompatible with the teachings and example of Christ" is the earlier wording), race (the 2024 text "condemns" racism), divorce ("divorce does not preclude remarriage"), contraception, death penalty and gender equality quoted; Scripture and Tradition quotes ¶105.4; the Trinity, sanctification, judgment and purgatory cells quote Articles I, II and XIV and Confession of Faith XI and XII (Article XIV does not name prayers for the dead, so that cell is reworded).
+- Major Dividing Issues Among Believers, chapters 11 and 17: the Methodist descriptions of alcohol and war adjusted to match.
+
+### Also
+- Remaining-verifications workbook: 13 further denomination position cells recorded as verified (all UMC), bringing the total to 262.
+
 ## v20261008c -- 8 October 2026
 
 ### Corrected

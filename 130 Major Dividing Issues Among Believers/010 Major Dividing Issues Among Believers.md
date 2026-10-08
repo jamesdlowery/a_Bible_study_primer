@@ -244,7 +244,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **The main positions.**
 - *Sacramental and moderate use accepted*: Catholic, Orthodox, Lutheran, Episcopal, Presbyterian, most mainline bodies.
 - *Abstinence as an official expectation*: Southern Baptist resolutions, Assemblies of God, Church of the Nazarene, Seventh-day Adventists (health doctrine), Latter-day Saints (Word of Wisdom), COGIC and UPCI (Holiness tradition).
-- *Historic temperance, now a matter of conscience*: Methodist bodies (unfermented grape juice remains customary at Communion), Churches of Christ, most Baptist bodies outside the SBC.
+- *Historic temperance, now a matter of conscience*: Methodist bodies (abstinence still commended as "a faithful witness" in the UMC Book of Resolutions; unfermented grape juice remains customary at Communion), Churches of Christ, most Baptist bodies outside the SBC.
 
 **Passages each side rests on.** Psalm 104:15 and John 2:1--11 (Cana) on wine as gift; Numbers 15:5--10 on wine in the drink offerings (EXOD-026); Proverbs 20:1 and 23:29--35 (PROV-015); Ephesians 5:18; 1 Timothy 5:23; Romans 14:21 on not causing a brother to stumble, the key text for voluntary abstinence; and the "two-wine" theory that New Testament *oinos* could mean grape juice, which the abstinence side has sometimes argued and most lexicons reject.
 
@@ -373,7 +373,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **The main positions.**
 - *Just war*: Catholic (Catechism §2309), Orthodox (with a stronger reluctance), Lutheran, Reformed, Anglican, Baptist, most evangelical bodies.
 - *Pacifism or non-combatancy*: Jehovah's Witnesses (absolute); Seventh-day Adventists (non-combatancy as the recommended position); COGIC historically; the Assemblies of God (1917) and the UPCI's conscientious-scruples article, each now leaving it to individual conscience; the Latter-day Saints, who teach obedience to the state in war.
-- *Conscience with strong peace emphasis*: Methodist Social Principles ("war is incompatible with the teachings of Christ"), UCC, Episcopal Church, PC(USA).
+- *Conscience with strong peace emphasis*: Methodist Social Principles (the 2024 text "deplores war and all other forms of violent conflict"; the earlier wording called war "incompatible with the teachings and example of Christ"), UCC, Episcopal Church, PC(USA).
 
 **Passages each side rests on.** Matthew 5:38--48 (turn the other cheek; love your enemies) and Romans 12:17--21 against Romans 13:1--4 (the sword) and Luke 3:14 (soldiers not told to leave the army); Exodus 15:3 against Isaiah 9:6 (EXOD-015 on a warlike God and a God of peace; ISA-017); Exodus 20:13 and the Levites' killing (EXOD-022); the conquest commands (DEUT-010) and Isaiah 2:4's swords into plowshares (ISA-002); Luke 22:36--38 on the two swords; Luke 9:55--56 is itself a textual variant (Manuscript and Translation Differences, Luke §3).
 
