@@ -9,6 +9,12 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- United Methodist Church (abortion and gambling now quote the Social Principles; the creation cell cites the Social Principles' "Science and Technology" section rather than a 2008 resolution), Evangelical Lutheran Church in America (no social message on gambling exists, so that cell no longer cites one; the 1991 death-penalty statement is quoted; the 2025 Churchwide Assembly's amendment of *Human Sexuality: Gift and Trust* is noted), Episcopal Church (Resolution 2006-A129 affirms evolution but does not mention creationism or intelligent design, as the cell had claimed).
+
+### Also
+- Remaining-verifications workbook: 9 further denomination position cells recorded as verified (5 UMC, 3 ELCA, 1 Episcopal), bringing the total to 176.
+
 ## v20261007f -- 8 October 2026
 
 ### Corrected
