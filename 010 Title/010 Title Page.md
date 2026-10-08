@@ -1,7 +1,7 @@
 # Title Page
 **a Bible study primer**
 *A Guide to Manuscripts, Translations, and Difficult Passages*
-v20261007d
+v20261007e
 Dear Reader,
 If you come across any issues with the content, form, and/or function of this aid, please report it as an issue at the project's GitHub repository (https://github.com/jamesdlowery/a_Bible_study_primer/issues) and document the details there for me to address. In particular, please keep an eye out for:
 - (1) Ordering of sections/sub-sections
