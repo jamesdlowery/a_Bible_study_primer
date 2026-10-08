@@ -1015,7 +1015,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Scripture and Tradition | The Bible is the inspired, infallible Word of God and sole rule of faith; the *Official Manual* summarizes doctrine. | Official (*Official Manual*, 1973, Statement of Faith) |
 | The Trinity and the person of Christ | Trinitarian; Christ fully God and fully man — distinguishing COGIC from Oneness Pentecostal bodies. | Official (*Official Manual*, Statement of Faith) |
 | Predestination and free will | Arminian/Wesleyan: free response to grace; a believer may fall from grace. | Official (*Official Manual*) |
-| Sanctification and holiness | Holiness-Pentecostal "three-stage" pattern: justification, entire sanctification as a second definite work of grace, then baptism in the Holy Spirit evidenced by tongues. | Official (*Official Manual*, Statement of Faith) |
+| Sanctification and holiness | Holiness-Pentecostal three-stage pattern: sanctification, "that gracious and continuous operation of the Holy Ghost," follows conversion and precedes baptism in the Holy Ghost, which is "an experience subsequent to conversion and sanctification" with tongue-speaking as its consequence; the church's statement does not itself use the Wesleyan phrase "entire sanctification." | Official (cogic.org, "What We Believe"; *Official Manual*) |
 | Hell, judgment and the fate of the lost | Eternal punishment of the wicked is affirmed. | Official (*Official Manual*) |
 | Mary, the saints and prayer for the dead | Mary is not venerated or invoked and the dead are not prayed for. | General pattern, not independently documented |
 | Worship: day, style and liturgy | Sunday worship in the Pentecostal and Black-church tradition: expressive, Spirit-led, with gospel music central (COGIC has shaped American gospel music); the annual Holy Convocation is the denominational gathering. | General pattern; gifts doctrine is official (*Official Manual*) |
@@ -1144,9 +1144,9 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Baptism | Baptism by immersion is the C&MA's stated preference, though not always treated as absolutely exclusive. |
 | The Lord's Supper | Observed as an ordinance, consistent with broad evangelical practice. |
 | Church government | Representative, with a General Council as the highest governing body. |
-| Eschatology | Historically premillennial, consistent with the "Coming King" element of the Fourfold Gospel. |
+| Eschatology | Premillennial by confession: the second coming "is imminent and will be personal, visible, and premillennial," the "Coming King" element of the Fourfold Gospel. |
 | Spiritual gifts | Generally continuationist, with a strong continuing emphasis on divine healing (the "Healer" element of the Fourfold Gospel), though less central to identity than in explicitly Pentecostal bodies in this section. |
-| Women's ordination | Women may serve in licensed ministry roles, though ordination to the senior pastorate has historically been reserved to men in most C&MA contexts, placing this body closer to a complementarian position than a fully egalitarian one. |
+| Women's ordination | Women may be ordained for pastoral roles and, since the 2023 General Council (Spokane; over 60% in favor), may use the title "pastor" at the discretion of local church leadership, but senior or lead pastor roles "require male eldership" and remain limited to men — placing this body closer to a complementarian position than the egalitarian bodies in this section. |
 
 ### Ethical and lifestyle positions
 | Category | Position | Source |
@@ -1169,7 +1169,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | The Trinity and the person of Christ | Trinitarian; Christ fully God and fully man. | Official (Statement of Faith, Art. 1, 3) |
 | Predestination and free will | No position taken: the Alliance deliberately accommodates both Reformed and Arminian members, and its Statement of Faith is silent on election and perseverance. | Official silence (Statement of Faith); range is a general pattern |
 | Sanctification and holiness | "Christ our Sanctifier": a crisis of full surrender followed by progressive growth — the "deeper life" emphasis of founder A. B. Simpson's Fourfold Gospel (Savior, Sanctifier, Healer, Coming King). | Official (Statement of Faith, Art. 7) |
-| Hell, judgment and the fate of the lost | Resurrection of the unjust "to judgment and punishment" and "everlasting conscious punishment" for the lost. | Official (Statement of Faith, Art. 10–11) |
+| Hell, judgment and the fate of the lost | "The portion of the unrepentant and unbelieving is existence forever in conscious torment"; there will be "a bodily resurrection of the just and of the unjust," the latter "unto judgment." | Official (Statement of Faith, articles on man and on the resurrection) |
 | Mary, the saints and prayer for the dead | Not addressed; Mary is not venerated or invoked and the dead are not prayed for. | Not addressed |
 | Worship: day, style and liturgy | Sunday worship, non-liturgical and contemporary evangelical in style. | General pattern, not independently documented |
 | Church and state / political engagement | Not formally addressed; members engage in mainstream evangelical fashion, and the denomination does not endorse candidates. | Not addressed |
@@ -1357,15 +1357,15 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Ethical and lifestyle positions
 | Category | Position | Source |
 |---|---|---|
-| Abortion | Opposed except to save the life of the mother, consistent with broad Pentecostal-evangelical practice. | General denominational pattern |
+| Abortion | Opposed: the General Conference went "on record as being opposed to legalized abortion" in 1974 and, in 1988, "as opposing abortion on demand," affirming that "a woman is with child at conception" and that the church has "a responsibility in protecting the rights of the unborn"; the position paper names no exceptions. | Official position paper (*Abortion*, General Conference 1974 and 1988; Sanctity of Life Sunday resolution, 2009) |
 | Homosexuality | Considered sinful; same-sex marriage not recognized, consistent with broad Pentecostal-evangelical practice. | General denominational pattern |
 | Alcohol | Total abstinence expected, reflecting the broader Pentecostal-Holiness movement's historical temperance heritage and this denomination's own holiness-code emphasis (see below), though (as throughout this section) this is distinguished from the near-universal Christian condemnation of drunkenness specifically. | General denominational pattern |
-| Divorce and remarriage | Historically treated more restrictively than much of broad evangelicalism, particularly for ministry leadership, consistent with the wider Pentecostal-Holiness movement's traditional emphasis on marital permanence. | General pattern, not independently documented in detail |
+| Divorce and remarriage | The Articles of Faith quote Matthew 19:9's exception for fornication as the only ground; the innocent party "may be free to remarry only in the Lord," and ministers are recommended not to remarry — a more restrictive position than much of broad evangelicalism. | Official (Articles of Faith, "Marriage and Divorce", 2023 text) |
 | Contraception | Not independently documented for this specific denomination. | Not identified |
-| Gambling | Opposed, consistent with the wider Pentecostal-Holiness movement's stewardship emphasis. | General denominational pattern |
-| Dancing | Historically and, in many congregations, still discouraged as part of a wider "holiness code" also addressing modest dress, jewelry, and entertainment standards (including social/secular dancing, attending movies, and mixed public swimming) -- a distinctive of the UPCI's continuing Pentecostal-Holiness heritage that has relaxed in some congregations but remains more visibly maintained than in most other bodies in this section. | Historical/cultural denominational pattern |
+| Gambling | Opposed; the UPCI publishes a position paper titled *Gambling*, and the wider Pentecostal-Holiness stewardship emphasis applies. | Official position paper (*Gambling*, listed in the 2019 *Manual*); its text not independently read |
+| Dancing | Disapproved by the Articles of Faith themselves, which name "theaters, dances, mixed bathing or swimming, women cutting their hair, make-up," immodest apparel, "all worldly sports and amusements" and unwholesome media among the practices members are to avoid — the most explicit holiness code of any body in this section, enforced with varying strictness by congregation. | Official (Articles of Faith, "Holiness", 2023 text) |
 | Premarital sex/cohabitation | Opposed, consistent with broad Pentecostal-evangelical sexual ethics. | General denominational pattern |
-| War/pacifism | No mandated pacifism identified; individual conscience generally respected regarding military service, consistent with much of the wider Pentecostal movement. | General pattern, not independently documented in detail |
+| War/pacifism | Not pacifist, but the Articles of Faith "honor the right of our members to serve as conscientious objectors and not bear arms," while encouraging members who serve to show loyalty to their country. | Official (Articles of Faith, "Conscientious Scruples", 2023 text) |
 | Death penalty | Not independently documented for this specific denomination. | Not identified |
 
 ### Other divisive positions
