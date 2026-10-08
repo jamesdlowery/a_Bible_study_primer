@@ -199,7 +199,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **What divides.** Whether abortion is always, sometimes or never morally permissible, and what the church should say to the state about it. Every body in this book takes a position, and the positions range from "intrinsically evil in all cases" to "a matter of conscience."
 
 **The main positions.**
-- *Opposed in all cases where the direct intent is to end the unborn life*: Catholic, Orthodox, LCMS, PCA, Southern Baptist, Assemblies of God, Nazarene, Latter-day Saints (with stated exceptions), most evangelical bodies.
+- *Opposed in all cases where the direct intent is to end the unborn life*: Catholic, Orthodox, LCMS, PCA, Southern Baptist, Assemblies of God, Nazarene, UPCI, Global Methodist (life-against-life exception), Latter-day Saints (with stated exceptions), most evangelical bodies.
 - *Opposed in principle with exceptions and pastoral latitude*: the ELCA's 1991 social statement; the Seventh-day Adventist guidelines (revised 2019); the UMC's 2024 Social Principles.
 - *Support for legal access as a matter of conscience*: PC(USA), Episcopal Church, UCC, ABCUSA resolutions.
 - *Internal division acknowledged*: the historically Black Baptist and Methodist bodies, where official statements are few and congregational practice varies.
@@ -372,7 +372,8 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Just war*: Catholic (Catechism §2309), Orthodox (with a stronger reluctance), Lutheran, Reformed, Anglican, Baptist, most evangelical bodies.
-- *Pacifism or non-combatancy*: Jehovah's Witnesses (absolute); Seventh-day Adventists (non-combatancy as the recommended position); COGIC historically; Churches of Christ in the Lipscomb tradition until the Second World War; the Assemblies of God (1917) and the UPCI's conscientious-scruples article, each now leaving it to individual conscience; the Latter-day Saints, who teach obedience to the state in war.
+- *Pacifism or non-combatancy*: Jehovah's Witnesses (absolute); Seventh-day Adventists (non-combatancy as the recommended position); COGIC in its founding generation (no current statement); Churches of Christ in the Lipscomb tradition until the Second World War; the Assemblies of God (1917) and the UPCI's conscientious-scruples article, each now leaving it to individual conscience.
+- *Left to individual conscience, with military service accepted*: the Latter-day Saints, Nazarene, Christian and Missionary Alliance, Global Methodist (whose inherited Confession still calls war "contrary to the gospel").
 - *Conscience with strong peace emphasis*: Methodist Social Principles (the 2024 text "deplores war and all other forms of violent conflict"; the earlier wording called war "incompatible with the teachings and example of Christ"), UCC, Episcopal Church, PC(USA).
 
 **Passages each side rests on.** Matthew 5:38--48 (turn the other cheek; love your enemies) and Romans 12:17--21 against Romans 13:1--4 (the sword) and Luke 3:14 (soldiers not told to leave the army); Exodus 15:3 against Isaiah 9:6 (EXOD-015 on a warlike God and a God of peace; ISA-017); Exodus 20:13 and the Levites' killing (EXOD-022); the conquest commands (DEUT-010) and Isaiah 2:4's swords into plowshares (ISA-002); Luke 22:36--38 on the two swords; Luke 9:55--56 is itself a textual variant (Manuscript and Translation Differences, Luke §3).
@@ -392,9 +393,10 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **What divides.** Whether the state may rightly execute, and whether the church should oppose it. The Catholic revision of 2018 moved the largest body in this book from permission to opposition, and the Protestant bodies are split along familiar lines.
 
 **The main positions.**
-- *Opposed in all cases*: Catholic (Catechism §2267, 2018), Orthodox statements in the United States, ELCA, UMC, Episcopal, PC(USA), UCC, ABCUSA, AME, most mainline bodies; Seventh-day Adventists discourage it.
-- *Permitted as within the state's authority, without advocacy*: Southern Baptist (2000 resolution supports it), LCMS, PCA, Assemblies of God, Latter-day Saints, most evangelical study Bibles.
-- *Not addressed*: several congregational and Pentecostal bodies.
+- *Opposed in all cases*: Catholic (Catechism §2267, 2018), ELCA (1991), UMC, Episcopal (since 1958), PC(USA) (since 1959), UCC (1969), ABCUSA (1958/1966), most mainline bodies.
+- *Permitted as within the state's authority*: Southern Baptist (the 2000 resolution supports its "fair and equitable use"), LCMS (1967), PCA (by the Westminster Confession's language on the magistrate), most evangelical study Bibles.
+- *Neutral or cautious by official statement*: the Latter-day Saints ("neither promote nor oppose"); Orthodox statements in the United States, which treat it with more caution than support without a unified position.
+- *Not addressed*: the Assemblies of God, Seventh-day Adventists, Nazarene, COGIC, UPCI, the AME bodies and the congregational bodies, none of which has a formal statement identified.
 
 **Passages each side rests on.** Genesis 9:6 ("whoever sheds the blood of man"), Romans 13:4 (the sword) and the Mosaic capital statutes (LEV-005 on the Levitical death penalties against the woman caught in adultery; MATT-056 on Jesus' citation of the penalty for cursing parents) against Matthew 5:38--39, John 8:1--11 (JOHN-001, a disputed text), Ezekiel 33:11 ("no pleasure in the death of the wicked") and the mark of Cain (GEN-013). Joshua 7 (JOSH-007 on Achan's children) is where the Old Testament's practice is hardest.
 
