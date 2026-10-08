@@ -645,7 +645,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Tithe required as doctrine or membership expectation*: Latter-day Saints (a condition of temple recommend), Seventh-day Adventists, Nazarene ("storehouse tithing"), COGIC, UPCI, AME and AME Zion (membership expectations), Assemblies of God (expected of ministers).
-- *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe as "minimum standard" by resolution, 1982), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (the tithe as law, Christian giving as grace), MacArthur (tithing not a New Testament requirement).
+- *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe affirmed as "the standard of giving" in 1982 and as the "minimum standard" in later reaffirmations), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (the tithe as law, Christian giving as grace), MacArthur (tithing not a New Testament requirement).
 - *No tithing, voluntary contributions only*: Jehovah's Witnesses.
 - *Prosperity teaching*: no body in this book holds it officially; the Assemblies of God formally criticized it in 1980, and the AME, COGIC, National Baptist and non-denominational entries acknowledge its presence in some congregations.
 

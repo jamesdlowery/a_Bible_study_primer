@@ -9,7 +9,19 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Episcopal Church (the 1982 General Convention affirmed the tithe as "the standard of giving," not "the minimum standard," which is the wording of later reaffirmations such as 2009-D055; Resolution 2006-A123 is quoted; the full Canon II.2 list of authorized translations is given; the 1976 ordination vote and the 1989 consecration of Barbara Harris are dated), Evangelical Lutheran Church in America (the Scripture and Trinity cells now quote Constitution 2.01–2.06 in full), Presbyterian Church (U.S.A.) (the 2002 General Assembly resolution on science does not mention creationism or intelligent design, so the Creation cell no longer says it "opposed teaching creationism as science"; the women's-ordination dates are identified as the northern predecessor's, with the southern dates added), United Church of Christ (the Preamble and the "testimonies, but not tests" sentence are quoted; Antoinette Brown's ordination is dated and the UCC's own "any major Protestant denomination" wording used).
+- Major Dividing Issues Among Believers, chapter 29: the Episcopal tithe wording adjusted to match.
+
+### Also
+- Remaining-verifications workbook: 11 further denomination position cells recorded as verified (5 Episcopal, 2 ELCA, 2 PC(USA), 2 UCC), bringing the total to 249.
+
 ## v20261008b -- 8 October 2026
+
+### Also
+- Rebuild only: the previous batch's files were applied a second time, which re-attached its release notes to "Unreleased"; those notes are restored under v20261008a, where that work shipped. No text, position or verification changes in this release.
+
+## v20261008a -- 8 October 2026
 
 ### Corrected
 - Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Episcopal Church (abortion now lists the General Convention resolutions from the 1967 statement to 2022-D083 with their wording; homosexuality gives the 2012, 2015 and 2018 resolution numbers and dates, and "ordained" becomes "consecrated" for Bishop Robinson; divorce adds the 1804/1868 background and the bishop's-consent requirement; contraception cites Lambeth 1930 Resolution 15 and its vote; the death-penalty cell quotes the 1958 Journal), Evangelical Lutheran Church in America (the 1991 *Abortion* statement is quoted; divorce, contraception and cohabitation now cite *Human Sexuality: Gift and Trust* -- the cohabitation cell had said "no single mandated position," but the statement says the church "does not favor cohabitation arrangements outside of marriage"; war cites *For Peace in God's World*), American Baptist Churches USA (the death-penalty cell had said "significant reservations without a categorical position," but the General Board resolution recommends abolition; the homosexuality cell now records the 1992 General Board resolution and the 2005 *We Are American Baptists* amendment alongside the non-binding character of Board resolutions; abortion and gambling quote the 1987 and 1996 resolutions), United Church of Christ (the abortion cell no longer says the 1971 action "well predates" the other mainline bodies, since the Episcopal Church's 1967 statement is earlier; the death-penalty cell cites the 1969 resolution).
