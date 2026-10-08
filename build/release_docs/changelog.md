@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008g -- 8 October 2026
+
 ### Corrected
 - Prominent English Study Bibles, Scofield Reference Bible: the 1917 edition's "inferior and servile posterity" language about Ham stands in the Noahic Covenant note at Genesis 9:1, not at 9:24–27, and is now quoted in place; the Creation cell quotes the 1917 notes at Genesis 1:1 ("the dateless past ... all the geologic ages"), 1:2 (divine judgment) and 1:5 ("day" as "a period of time, long or short") rather than paraphrasing them.
 - Major Dividing Issues Among Believers, chapters 27 and 28: the Scofield note is cited at Genesis 9:1 with its wording, and the 1917 "gap" reading is placed among the old-earth positions.
