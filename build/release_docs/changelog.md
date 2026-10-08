@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008k -- 8 October 2026
+
 ### Corrected
 - Major Dividing Issues Among Believers, "Dated splits" paragraphs of chapters 1–12 checked against reference sources -- chapter 1 (the Seminex walkout led to the Association of Evangelical Lutheran Churches, 1976, a founding partner in the 1988 ELCA merger, not a body that "later joined" the ELCA; the walkout dated 19 February 1974), chapter 3 (the Assemblies of God adopted its Trinitarian *Statement of Fundamental Truths* in October 1916 and about a third of its ministers then left; there was no formal "expulsion"), chapter 5 (the Methodist Protestant Church organized 1828–1830, not 1830), chapter 6 (the Niagara Bible Conference met 1875–1897, not to 1900), chapter 8 (Julia Foote's 1894 ordination was as deacon; Mary J. Small named as the first woman elder, 1898), chapter 9 (the 1971 and 1980 Southern Baptist resolutions are now quoted), chapter 11 (the 2006 Southern Baptist resolution is quoted).
 
