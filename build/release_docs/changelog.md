@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008j -- 8 October 2026
+
 ### Corrected
 - Prominent English Study Bibles, NET Bible: four more cells checked against the translators' notes and preface -- the Romans 9:22 note does rule on the grammar ("vessels destined for wrath," passive), so "without ruling" is refined; the Gehenna note at Matthew 5:22 is quoted; the base texts are stated precisely (*Biblia Hebraica Stuttgartensia*, which the preface says is not a critical text, and an eclectic Greek text), with the preface's 60,237-note count, its stated goal and its "ministry first" wording; the View of Scripture cell carries the preface's own "interdenominational and evangelical" and "sectarian bias" language.
 
