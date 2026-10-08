@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Lutheran Church--Missouri Synod (the *Brief Statement* §42 rejects every form of millennialism, so the Eschatology cell is no longer "no framework mandated"; §42 is not about hell, so that cell now cites Augsburg Confession XVII; the "in any and all situations" wording on homosexuality is a 2010 CTCR paper, not 2006/2010 resolutions; abortion, gambling and the death penalty now cite the 1979 resolution, the 1996 CTCR report and the 1967 statement), Presbyterian Church in America (the 1978 and 1980 Assemblies allowed no exception on abortion, so "limited exception for the mother's life" is removed; the Human Sexuality report's statements are quoted; the Creation Study Committee's own words replace a stronger summary; Overtures 43 and 45 of 2016 are quoted), Assemblies of God (the 2010 reproductive-issues paper does address contraception; the 2024 divorce paper's grounds include domestic violence; the 2014 revision of the creation paper does not allow differing views on evolution and is silent on the earth's age; the current *Assurance of Salvation* (2017) and *Women in Ministerial Leadership* (2025) papers replace citations of retired papers; war, race and alcohol now quote the 2015, 2023 and 1985 papers).
+- Major Dividing Issues Among Believers, chapter 28: the Assemblies of God moved out of the "mechanism open" group to match its corrected cell.
+
+### Also
+- Remaining-verifications workbook: 46 further denomination position cells recorded as verified against their primary sources (13 LCMS, 13 PCA, 20 Assemblies of God), bringing the total to 128.
+
 ## v20261007d -- 7 October 2026
 
 ### Corrected

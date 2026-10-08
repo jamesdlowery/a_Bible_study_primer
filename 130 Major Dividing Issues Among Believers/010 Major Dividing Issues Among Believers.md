@@ -622,7 +622,8 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Young earth, six literal days, global Flood*: LCMS, Seventh-day Adventists (as doctrine since 2015), the Henry Morris and MacArthur study Bibles, the Evidence Study Bible, most Churches of Christ, many Baptists and Pentecostals.
-- *Old earth, special creation of humanity, mechanism open*: Catholic (evolution compatible if God creates each soul), Assemblies of God (2010 paper), Nazarene (*Manual*), PCA (2000 report permits several views), the ESV Study Bible, Jehovah's Witnesses (long "days," no evolution).
+- *Old earth, special creation of humanity, mechanism open*: Catholic (evolution compatible if God creates each soul), Nazarene (*Manual*), PCA (the 2000 report describes four views held in the church), the ESV Study Bible, Jehovah's Witnesses (long "days," no evolution).
+- *Six-day format and a historical Adam affirmed, evolution rejected, the earth's age not addressed*: Assemblies of God (2010 paper as revised in 2014).
 - *Evolution accepted as compatible with faith*: UMC, Episcopal (2006), UCC (2008), PC(USA), ELCA in practice, the Cultural Backgrounds and Oxford Annotated readings.
 - *No position*: Orthodox, Latter-day Saints, most Black Baptist and Methodist bodies, and the eleven denominations whose cells read "not addressed."
 
