@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261007i -- 8 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Presbyterian Church (U.S.A.) (abortion, death penalty and homosexuality now give the General Assembly actions and years: the 1970/1983/1992/2018 abortion policy line, the 1959-onward death-penalty statements, and Amendments 10-A and 14-F with their ratification votes), Eastern Orthodox Church (the abortion cell uses the 2016 Assembly of Bishops/USCCB joint statement's own words rather than "inviolable," and the homosexuality cell quotes the Assembly's 2013 statement and 2015 response to *Obergefell*), Global Methodist Church (the 2024 Book of Doctrines and Discipline's Social Witness ¶302 is now cited for abortion, sexuality and peace; the retained General Rules do name spirituous liquors, so the alcohol cell no longer says abstinence is unconfirmed; Confession of Faith Article XVI's "war and bloodshed" sentence is added), African Methodist Episcopal Church (the homosexuality cell now gives the 2004 General Conference ban and the 2024 General Conference vote not to reopen it, in place of a generalization), AME Zion (the 1996 "morally wrong" statement is attributed to the Board of Bishops' episcopal address and dated).
 - Two "Homosexuality / same-sex marriage" row labels (PC(USA) and GMC) normalized to the standard "Homosexuality" label so they are picked up by the positions matrix and the Divisive Issues tables.
