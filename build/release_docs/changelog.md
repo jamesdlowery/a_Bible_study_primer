@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261007f -- 8 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- Church of Jesus Christ of Latter-day Saints (the death-penalty cell now gives the Church's own "we neither promote nor oppose" statement; abortion, same-sex attraction, birth control, gambling, divorce and the Word of Wisdom now quote the official statements and Gospel Topics pages), Jehovah's Witnesses (political neutrality and divorce rewritten in jw.org's own words), Church of the Nazarene (Article IV's own definition of inerrancy replaces "inerrancy affirmed"; dancing is still named in the current Covenant of Christian Conduct in qualified form; the hell cell uses Article XVI's wording; abortion, alcohol, gambling, homosexuality and race now cite the Covenant paragraphs).
 
