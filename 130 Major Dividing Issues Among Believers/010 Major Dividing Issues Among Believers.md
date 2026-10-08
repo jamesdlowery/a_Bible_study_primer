@@ -17,7 +17,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **What divides.** Every body profiled in this book calls the Bible the Word of God; they divide over what that commits them to. Is Scripture *inerrant* -- without error in everything it affirms, including history and the natural world -- or *infallible* only in what it teaches for salvation, or authoritative as the church's normative witness without either claim? And is its meaning fixed by the text alone, or read rightly only within a living tradition (chapter 19 takes up that second question on its own)?
 
 **The main positions.**
-- *Full inerrancy* in the terms of the Chicago Statement (1978): the autographs are without error in all they affirm. Held by the Southern Baptist Convention, the Lutheran Church--Missouri Synod, the Presbyterian Church in America, the Assemblies of God and most of the evangelical study Bibles.
+- *Full inerrancy* in the terms of the Chicago Statement (1978): the autographs are without error in all they affirm. Held by the Southern Baptist Convention, the Lutheran Church--Missouri Synod, the Presbyterian Church in America, the Assemblies of God, COGIC, the Christian and Missionary Alliance, the UPCI and most of the evangelical study Bibles.
 - *Infallibility in matters of faith and practice* (soteriological inerrancy): Scripture "inerrantly reveals the will of God concerning us in all things necessary to our salvation" (Church of the Nazarene); the Catholic formula of *Dei Verbum* 11 is similar in effect.
 - *Normative witness*: Scripture is the authoritative source and norm of the church's proclamation, read critically; the mainline bodies (ELCA, PC(USA), Episcopal Church, UCC, UMC) and the historical-critical study Bibles.
 - *Scripture plus further revelation*: the Latter-day Saints' additional scriptures and living prophets; Jehovah's Witnesses' Governing Body as the sole authorized interpreter; Seventh-day Adventists' reception of Ellen G. White's writings as a subordinate but authoritative source.
@@ -88,6 +88,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 - *Transubstantiation*: the substance of bread and wine becomes Christ's body and blood (Catholic).
 - *Real presence without a defined mechanism*: Orthodox (a "mystery"); Lutheran ("in, with and under" the elements, often called sacramental union).
 - *Spiritual presence*: Christ truly received by faith, the elements unchanged (Reformed, Presbyterian; Anglican formularies).
+- *Means of grace without a defined mode*: the Wesleyan bodies (UMC, Global Methodist, AME, AME Zion, Nazarene) -- more than a memorial, the manner of Christ's presence left undefined.
 - *Memorial*: an ordinance remembering Christ's death (Baptist, Pentecostal, Churches of Christ, most non-denominational); the Churches of Christ add weekly observance as a command.
 - *Latter-day Saint sacrament*: bread and water, weekly, in remembrance.
 - *Jehovah's Witnesses*: an annual Memorial at which only the "anointed" partake.
@@ -133,7 +134,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **The main positions.**
 - *Amillennial*: Catholic, Orthodox, Lutheran, Reformed, most mainline bodies.
 - *Historic premillennial*: many Baptists and evangelicals; the Christian and Missionary Alliance.
-- *Dispensational premillennial* with a pretribulation rapture: the Assemblies of God, many Southern Baptists and non-denominational churches, the Scofield, Ryrie and MacArthur study Bibles.
+- *Dispensational premillennial* with a pretribulation rapture: the Assemblies of God, the UPCI, many Southern Baptists and non-denominational churches, the Scofield, Ryrie and MacArthur study Bibles.
 - *Postmillennial*: a minority in Reformed circles, historically dominant in American Puritanism (Jonathan Edwards).
 - *Distinctive systems*: Seventh-day Adventists' investigative judgment and premillennial return; Jehovah's Witnesses' 1914 chronology and earthly paradise; the Latter-day Saints' premillennial expectation with a Zion in America.
 
@@ -157,7 +158,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 - *Classical Pentecostal*: the gifts continue and tongues are the initial evidence of Spirit baptism (Assemblies of God, COGIC, UPCI).
 - *Charismatic / continuationist*: the gifts continue; no required evidence (the Catholic Charismatic Renewal, the Christian and Missionary Alliance's "seek not, forbid not," many non-denominational churches, the ESV Study Bible's general editor).
 - *Open but cautious*: the gifts are not denied in principle but not expected or emphasized (Catholic and Orthodox mainstream, most mainline bodies, Nazarenes).
-- *Cessationist*: the sign gifts ceased with the apostles or the completed canon (LCMS, PCA, Reformed tradition broadly, MacArthur Study Bible, Churches of Christ).
+- *Cessationist*: the sign gifts ceased with the apostles or the completed canon (PCA and the Reformed tradition broadly, the MacArthur Study Bible, Churches of Christ); the LCMS has no cessationist decree but does not expect the gifts.
 
 **Passages each side rests on.** 1 Corinthians 12--14, and especially 13:8--10 ("when the perfect comes") and 14:5, 39 (1COR-011); Acts 2 (JOEL-002 on Joel's promise), 8, 10 and 19 as the Pentecostal pattern texts; Mark 16:17--18 inside the disputed ending (Manuscript and Translation Differences, Mark §1); Ephesians 2:20 on apostles and prophets as foundation; 1 Maccabees 4:46 and 9:27 on the "ceasing" of prophets (1MACC-004) as an Old Testament analogue.
 
@@ -467,7 +468,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 - *Single predestination*: Lutheran (elect by grace, none predestined to damnation).
 - *Prevenient grace and free response*: Methodist bodies, Nazarene, Assemblies of God, Pentecostal and Holiness bodies, Seventh-day Adventists, Churches of Christ (strongly), Latter-day Saints (moral agency).
 - *Grace primary, free will cooperating, the mechanism undecided*: Catholic; Orthodox synergy.
-- *Deliberately unsettled*: Southern Baptist Convention (*BF&M* Art. V), Christian and Missionary Alliance, most non-denominational churches.
+- *Deliberately unsettled or no binding position*: Southern Baptist Convention (*BF&M* Art. V), Christian and Missionary Alliance, American Baptist Churches USA, the Episcopal Church (Article XVII retained only as a historical document), UCC, most non-denominational churches.
 
 **Passages each side rests on.** Romans 9 (ROM-002, which the catalog treats as the center of the question), Ephesians 1:4--11, John 6:44 and 10:26--29 on the Reformed side; 1 Timothy 2:4, 2 Peter 3:9 (2PET-002), John 3:16, Deuteronomy 30:19 (DEUT-023) and Joshua 24:15 on the other; Malachi 1:2--3 on Jacob and Esau (MAL-001) and Exodus 4--14 on Pharaoh's heart (EXOD-010) as the Old Testament sources of Romans 9; Philippians 2:12--13 (PHIL-003) and Hebrews 6:4--6 (HEB-002) on perseverance. Romans 8:1's qualifying clause is a textual variant that bears on assurance (Manuscript and Translation Differences, Romans §1).
 
@@ -487,7 +488,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Progressive, imperfect in this life*: Lutheran, Reformed, Baptist, most evangelical bodies; "lordship" versus "free grace" is a dispute within this camp over how much obedience assurance requires (the MacArthur and Ryrie study Bibles are its two poles).
-- *Entire sanctification as a second work*: Church of the Nazarene (its defining doctrine), the Methodist bodies formally, COGIC (as the second of three stages).
+- *Entire sanctification as a second work*: Church of the Nazarene (its defining doctrine), the Methodist bodies formally, COGIC (as the second of three stages); the Christian and Missionary Alliance's Keswick-style "crisis of full surrender" followed by progressive growth stands close to it.
 - *Spirit baptism without a prior sanctification crisis*: Assemblies of God ("finished work" Pentecostalism).
 - *Theosis*: Orthodox.
 - *Continuous with justification; purgatory completes it*: Catholic.
@@ -556,7 +557,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Sunday, fixed liturgy*: Catholic (the Mass), Orthodox (the Divine Liturgy), Lutheran, Episcopal, with Methodist and Presbyterian orders of worship that are standard but not mandatory.
-- *Sunday, free order*: Baptist, Pentecostal, Holiness, non-denominational, Restorationist bodies; the Churches of Christ add *a cappella* singing as a command.
+- *Sunday, free order*: Baptist, Pentecostal, Holiness, non-denominational, Restorationist bodies, and the Latter-day Saints' lay-led sacrament meeting; the Churches of Christ add *a cappella* singing as a command.
 - *Saturday Sabbath*: Seventh-day Adventists; the Complete Jewish Study Bible's Messianic Jewish setting; the Jehovah's Witnesses' meetings fall on neither principle.
 - *Sunday with the Sabbath command retained*: the Reformed "Christian Sabbath" (PCA; Westminster Confession XXI).
 
@@ -603,6 +604,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 - *Racism as sin with formal repentance and structural commitments*: Episcopal (2006 apology; reparations in some dioceses), ELCA (2019 declaration), PC(USA) (Belhar, 2016), UMC (2000 act of repentance), UCC, ABCUSA, Catholic (two pastoral letters).
 - *Racism as sin with formal repentance but caution toward structural frameworks*: Southern Baptist (1995 apology; 2019--2021 CRT resolutions), PCA (2016 repentance; 2018 report), Assemblies of God (1989; the 1994 "Memphis Miracle"), LCMS (1994).
 - *Racial justice as foundational identity*: AME, AME Zion, National Baptist bodies, COGIC.
+- *Racism condemned by statement without a repentance process*: Orthodox (Assembly of Bishops, 2020), Seventh-day Adventist (1985), Nazarene (*Manual*), Global Methodist (Social Witness).
 - *Past exclusion disavowed*: Latter-day Saints (1978 revelation; 2013 essay).
 - *Not formally addressed*: several congregational and Pentecostal bodies.
 
@@ -646,7 +648,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **What divides.** Whether the Old Testament tithe binds Christians, whether giving should be mandated or free, and -- the sharper question -- whether God promises material prosperity to the faithful giver (the "prosperity gospel" or Word of Faith teaching), which every body in this book that addresses it rejects, while several acknowledge that it is taught in some of their own congregations.
 
 **The main positions.**
-- *Tithe required as doctrine or membership expectation*: Latter-day Saints (a condition of temple recommend), Seventh-day Adventists, Nazarene ("storehouse tithing"), COGIC, UPCI, AME and AME Zion (membership expectations), Assemblies of God (expected of ministers).
+- *Tithe required as doctrine or membership expectation*: Latter-day Saints (a condition of temple recommend), Seventh-day Adventists, Nazarene ("storehouse tithing"), COGIC, UPCI, AME and AME Zion (membership expectations), the National Baptist conventions (taught as a biblical obligation), Assemblies of God (expected of ministers).
 - *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe affirmed as "the standard of giving" in 1982 and as the "minimum standard" in later reaffirmations), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (the tithe as law, Christian giving as grace), MacArthur (tithing not a New Testament requirement).
 - *No tithing, voluntary contributions only*: Jehovah's Witnesses.
 - *Prosperity teaching*: no body in this book holds it officially; the Assemblies of God formally criticized it in 1980, and the AME, COGIC, National Baptist and non-denominational entries acknowledge its presence in some congregations.
