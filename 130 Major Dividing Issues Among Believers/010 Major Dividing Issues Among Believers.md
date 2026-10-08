@@ -297,7 +297,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Contraception -->
 
-**Dated splits.** Lambeth 1930; the Federal Council of Churches' endorsement (1931); *Casti Connubii* (1930) and *Humanae Vitae* (1968); the Winnipeg Statement of the Canadian bishops (1968) as the most prominent episcopal dissent; the Protestant "Quiverfull" reaction (1985 onward).
+**Dated splits.** Lambeth 1930; the Federal Council of Churches' endorsement (1931); *Casti Connubii* (1930) and *Humanae Vitae* (1968); the Winnipeg Statement of the Canadian bishops (27 September 1968) as the most prominent episcopal response; the Protestant "Quiverfull" reaction (Mary Pride's *The Way Home*, 1985, onward).
 
 **How to study it.** Read Genesis 38 within Deuteronomy 25:5--10's levirate law before deciding what Onan was condemned for; then ask what, if anything, the New Testament adds.
 
@@ -381,7 +381,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: War/pacifism -->
 
-**Dated splits.** The Anabaptist Schleitheim Confession (1527) and the peace churches; the Assemblies of God's 1917 pacifist statement and 1967 revision; the Seventh-day Adventist non-combatancy position (Civil War era, 1864); Jehovah's Witnesses' refusals and the Supreme Court cases of the 1940s; the Methodist "incompatible with the teachings of Christ" language (1972 onward).
+**Dated splits.** The Anabaptist Schleitheim Confession (1527) and the peace churches; the Assemblies of God's 1917 pacifist statement and 1967 revision; the Seventh-day Adventist non-combatancy position (recognized by state governors and the Provost Marshal General in 1864); Jehovah's Witnesses' refusals and the Supreme Court cases of the 1940s; the Methodist "incompatible with the teachings of Christ" language (1972 onward).
 
 **How to study it.** Read the Sermon on the Mount and Romans 12--13 as a single stretch of teaching about enemies, then the Old Testament war narratives on their own terms; the question is how the two testaments relate, not what either says by itself.
 
@@ -520,7 +520,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Hell, judgment and the fate of the lost -->
 
-**Dated splits.** The condemnation of Origen's *apokatastasis* (553); the Reformation's rejection of purgatory (1517 onward; Luther's *Ninety-five Theses* begin with it); the Adventist adoption of conditional immortality (1840s--1860s); Russell's rejection of hell (1870s); the evangelical annihilationism debate after John Stott's statement (1988); Rob Bell's *Love Wins* (2011) as the popular flashpoint.
+**Dated splits.** The condemnation of Origen's *apokatastasis* (553); the Reformation's rejection of purgatory (1517 onward; the indulgence traffic that Luther's *Ninety-five Theses* attack rested on it); the Adventist adoption of conditional immortality (1840s--1860s); Russell's rejection of hell (1870s); the evangelical annihilationism debate after John Stott's statement (1988); Rob Bell's *Love Wins* (2011) as the popular flashpoint.
 
 **How to study it.** List every word the Bible uses for the fate of the lost (*Sheol*, *Hades*, *Gehenna*, "destruction," "eternal," "fire") and where each appears; much of the debate is about whether "eternal" modifies the punishing or the punishment, and whether "destroy" means end or ruin.
 
@@ -633,7 +633,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Creation and the age of the earth -->
 
-**Dated splits.** *The Genesis Flood* (1961) and the Creation Research Society (1963), which revived young-earth creationism; the Seventh-day Adventist amendment of Fundamental Belief 6 (2015); the Southern Baptist 1982 resolution; the Assemblies of God's 2010 revision of its 1977 statement; the PCA Creation Study Committee (2000); the Catholic *Humani Generis* (1950) and John Paul II's 1996 address; the Episcopal and UCC resolutions (2006, 2008).
+**Dated splits.** *The Genesis Flood* (1961) and the Creation Research Society (1963), which revived young-earth creationism; the Seventh-day Adventist amendment of Fundamental Belief 6 (2015); the Southern Baptist 1982 resolution; the Assemblies of God's 2010 revision of its 1977 statement (itself revised in 2014); the PCA Creation Study Committee (2000); the Catholic *Humani Generis* (1950) and John Paul II's 1996 address; the Episcopal and UCC resolutions (2006, 2008).
 
 **How to study it.** Read Genesis 1 and Genesis 2 as two accounts and settle the catalog's GEN-001 through GEN-006 for yourself before asking about geology; the literary question of how the two chapters relate is prior to every scientific one, and the study Bibles that commit on Genesis 1 do so there.
 
@@ -677,7 +677,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 <!-- POSITIONS: Bible translations and KJV-onlyism -->
 
-**Dated splits.** The Vulgate declared authentic at Trent (1546); the KJV (1611) and the Revised Version (1881--1885), with Burgon's defense of the Received Text (1881 onward); the RSV controversy (1952), including public burnings over Isaiah 7:14; the Latter-day Saint KJV edition (1979) and First Presidency statement (1992); the *New World Translation* (1950--1961); the TNIV and NIV 2011 gender-language controversy and the LCMS's and SBC's responses (2011); the ESV (2001) as the conservative Protestant alternative.
+**Dated splits.** The Vulgate declared authentic at Trent (1546); the KJV (1611) and the Revised Version (1881--1885), with Burgon's defense of the Received Text (1881 onward); the RSV controversy (1952), including public burnings over Isaiah 7:14; the Latter-day Saint KJV edition (1979) and First Presidency statement (1992); the *New World Translation* (1950--1961); the TNIV and NIV 2011 gender-language controversy, the Southern Baptist resolution against the NIV 2011 (2011) and the LCMS commission staff's judgment that it was "inappropriate" as a lectionary Bible (2012); the ESV (2001) as the conservative Protestant alternative.
 
 **How to study it.** Pick five variants from the Manuscript and Translation Differences catalog and read the manuscript evidence for each before reading any argument about translations; the question of which text to translate is prior to the question of how to translate it.
 
