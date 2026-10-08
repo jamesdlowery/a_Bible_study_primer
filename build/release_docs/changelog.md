@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261007h -- 8 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: position cells corrected after checking against the primary documents -- United Pentecostal Church International (abortion is an official position paper of 1974/1988 with no stated exception, not a "general pattern"; divorce, dancing and war now quote the Articles of Faith, whose Holiness article itself names "dances"), Christian and Missionary Alliance (the Statement of Faith's "existence forever in conscious torment" replaces a misquoted phrase; eschatology is premillennial by confession; the 2023 General Council's women-in-ministry decision is stated in its own terms), Church of God in Christ (the sanctification cell no longer attributes the phrase "entire sanctification" to the church's own statement).
 
