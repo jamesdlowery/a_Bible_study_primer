@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008m -- 8 October 2026
+
 ### Corrected
 - Major Dividing Issues Among Believers, "Dated splits" paragraphs of chapters 13–31 checked -- chapter 13 (the Winnipeg Statement dated 27 September 1968 and described as a response rather than a "dissent," since it accepted *Humanae Vitae* while allowing for conscience; the Quiverfull date tied to Mary Pride's *The Way Home*), chapter 17 (the 1864 Adventist non-combatancy recognition made specific), chapter 23 (Luther's *Ninety-five Theses* do not "begin with" purgatory -- the first thesis is on repentance -- so the sentence now says the indulgence traffic the theses attack rested on it), chapter 28 (the Assemblies of God's 2010 creation paper was itself revised in 2014), chapter 30 (the Lutheran Church--Missouri Synod's judgment on the NIV 2011 came from its commission staff in 2012, not 2011, and is quoted).
 
