@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: Church of the Nazarene cells checked against the Articles of Faith and the *Manual* -- the apostasy clause ("all persons may fall from grace and apostatize") is in Article VIII, not VII; Article II's own "very God and very man, the God-man" replaces "truly God and truly man"; Article X on entire sanctification and *Manual* ¶501 on women's leadership are quoted; the Creation cell no longer claims the *Manual* "explicitly accepts" that members differ on the earth's age (the statement affirms the biblical account, opposes "any godless interpretation" and says nothing of the age). Episcopal Church cells on Scripture and the Trinity now cite the *Book of Common Prayer*'s Historical Documents (pp. 863–878) and quote the Chicago-Lambeth Quadrilateral.
+- Major Dividing Issues Among Believers, chapter 28: the Nazarene entry moved from the old-earth bullet to the "biblical account affirmed, age not addressed" bullet beside the Assemblies of God.
+
+### Also
+- Remaining-verifications workbook: 7 further denomination position cells recorded as verified (5 Nazarene, 2 Episcopal), bringing the ledger to 412 verified entries.
+
 ## v20261009b -- 9 October 2026
 
 ### Corrected
