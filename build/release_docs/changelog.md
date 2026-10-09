@@ -9,6 +9,16 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, Eastern Orthodox: five cells (Scripture, baptism, Eucharist, Scripture and Tradition, hell) now quote the OCA's *The Orthodox Faith*; the Eucharist cell no longer implies the OCA text names transubstantiation, and the hell cell marks the 553 condemnation as cited from general history.
+- Section 110, COGIC: the salvation cell quotes *What We Believe*, which calls sanctification a "continuous operation" rather than using the phrase "entire sanctification".
+- Section 110, Church of the Nazarene: baptism, Lord's Supper and eschatology cells quote the *Manual* Articles of Faith XII, XIII and XVI.
+- Section 110, PCA: baptism, Lord's Supper and eschatology cells quote Westminster XXVIII, XXIX, XXXII–XXXIII; women's ordination and marriage-roles cells quote BCO 7-2 ("open to men only"); the unsupported remark that the BCO permits immersion only "under specific conditions" was removed.
+- Section 110, GMC: salvation, baptism, Lord's Supper and eschatology cells quote the Confession of Faith (Arts. VI, IX, XII) and Articles of Religion; the claim that the founding documents "explicitly permit sprinkling, pouring, or immersion" was not found there and is reworded.
+
+### Also
+- Verification ledger: 18 more Section 110 cells verified (477 rows).
+
 ## v20261009i -- 9 October 2026
 
 ### Corrected
