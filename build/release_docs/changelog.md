@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009d -- 9 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: Eastern Orthodox cells now quote the Orthodox Church in America on remarriage ("a second and even a third time" by economy, with a rite that "bears a penitential character"), the *Confession of Dositheus* (1672) on predestination grounded in foreknowledge, and the Assembly of Bishops' Executive Committee statement of 1 June 2020 on racism (identified and dated); American Baptist cells quote the *We Are American Baptists* identity statement ("the final written authority and trustworthy for faith and practice"; "the triune God ... eternally one God in three persons"; "committed to religious liberty and to the separation of church and state") -- "soul freedom" is not the statement's own term and is now so marked.
 
