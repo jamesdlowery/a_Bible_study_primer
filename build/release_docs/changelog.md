@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009g -- 9 October 2026
+
 ### Corrected
 - Section 110: 152 Source cells relabelled for honesty. Every unverified label that rested on a general pattern, local custom or an unnamed "official teaching" now ends "not independently documented"; "Official teaching" / "Official position" labels with no document behind them now read "no document identified; not independently documented", and "Official publishing practice" is now "Publishing practice, not independently documented". Labels that name a document are unchanged. No position text was altered.
 
