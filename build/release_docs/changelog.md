@@ -9,7 +9,17 @@ with the previous release after these notes.
 
 ## Unreleased
 
-## v20261009h -- 9 October 2026
+### Corrected
+- Section 110, LDS: nine cells now quote the Articles of Faith, Doctrine and Covenants (20, 27, 68, 76, 128, 130) and *Gospel Principles*; "equally authoritative" standard works reworded to what the Church's own manual says; the rejection of the creeds is sourced to Joseph Smith—History 1:19.
+- Section 110, PCA and PC(USA): Westminster Confession cells quote ch. II.3, VIII.2, III.3 and XXIII.3 (American revision); the PC(USA) predestination cell quotes the Declaratory Statement; its Source cell no longer cites the Confession of 1967 (not read).
+- Section 110, ELCA: the Hell cell quotes Augsburg XVII; the Race cell quotes *Freed in Christ* and the 2019 Declaration and replaces the unsourced "least racially diverse" remark with the 2019 diversity strategy.
+- Section 110, C&MA: the Scripture article is Art. 4, not Art. 2, and the cell now quotes the current wording; the predestination cell records that none of the eleven articles addresses election.
+- Section 110, Jehovah's Witnesses: the predestination cell quotes the *Insight* article, which questions rather than flatly denies the predestinarian view.
+
+### Also
+- Verification ledger: 17 more Section 110 cells verified (458 rows).
+
+## v20261009g -- 9 October 2026
 
 ### Corrected
 - Section 110: 152 Source cells relabelled for honesty. Every unverified label that rested on a general pattern, local custom or an unnamed "official teaching" now ends "not independently documented"; "Official teaching" / "Official position" labels with no document behind them now read "no document identified; not independently documented", and "Official publishing practice" is now "Publishing practice, not independently documented". Labels that name a document are unchanged. No position text was altered.
