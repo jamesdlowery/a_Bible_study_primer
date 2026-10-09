@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009f -- 9 October 2026
+
 ### Corrected
 - Section 110, Episcopal Church: six cells (Scripture, salvation, church government, eschatology, sanctification, Mary/saints) now quote the Prayer Book Catechism; the "three-legged stool" is noted as not a Prayer Book formula, and the Mary cell no longer calls August 15 a "major feast" (the source consulted says only that Mary is commemorated that day).
 - Section 110, UCC: salvation, Trinity and sanctification cells quote the Statement of Faith (which, the Trinity cell now notes, does not use the word "Trinity"); the Race cell cites the 1993 pronouncement (93-GS-33) and the 2003 anti-racism addendum and labels the Amistad/Lemuel Haynes heritage a general pattern.
