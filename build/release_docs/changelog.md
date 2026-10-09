@@ -9,6 +9,12 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Major U.S. Christian Denominations: Seventh-day Adventist cells now quote the General Conference statements *Gambling* (2000) and *Racism* (1985), give the 2015 San Antonio vote on women's ordination (1,381–977) with the question put, and state the *Church Manual* ground for divorce in its own terms; Assemblies of God cells quote the 2015 position paper *Gambling — A Biblical Perspective* and the Statement of Fundamental Truths (Art. 1's wording corrected to "the infallible, authoritative rule of faith and conduct"; Arts. 7–8 quoted).
+
+### Also
+- Remaining-verifications workbook: 7 further denomination position cells recorded as verified (4 Seventh-day Adventist, 3 Assemblies of God), bringing the ledger to 370 verified entries.
+
 ## v20261008p -- 9 October 2026
 
 ### Corrected
