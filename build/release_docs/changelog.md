@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009e -- 9 October 2026
+
 ### Corrected
 - Section 110, AME: the Scripture, Trinity, predestination and Mary/saints cells now quote the AME Articles of Religion (Articles I, II, V, XIV); the Mary cell no longer says the Articles reject prayer for the dead, which Article XIV does not mention.
 - Section 110, AME Zion: the Scripture and Trinity cells now quote the AME Zion Articles of Religion (Articles I, II, V).
