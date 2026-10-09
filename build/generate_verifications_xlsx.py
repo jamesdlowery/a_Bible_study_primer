@@ -54,6 +54,7 @@ WIDTHS = {
     "ID": 5, "Category": 34, "Section": 8, "File": 30, "Entry / Verse": 22,
     "Translation(s) or Subject": 28, "What the text currently says": 60,
     "Status": 16, "How to close": 48, "Priority": 10, "Est. lookups": 10,
+    "Cells verified": 10, "Cells total": 10,
     "Change since 1 Oct inventory": 60, "Text check (auto)": 24,
     "Marker file": 30, "Marker phrase": 40,
 }
@@ -125,6 +126,8 @@ def refresh_position_row(row, data, checks):
         + (f" Still open: {', '.join(open_cells)}." if open_cells else " Nothing open.")
     )
     row["Est. lookups"] = str(len(open_cells))
+    row["Cells verified"] = str(len(verified))
+    row["Cells total"] = str(counts["cited"] + counts["weak"])
     if not open_cells and (counts["cited"] + counts["weak"]) > 0:
         row["Status"] = "Closed"
     elif verified:
@@ -166,6 +169,8 @@ def refresh_dividing_row(row, chapter_checks, checks):
     text = "; ".join(bits)
     row["What the text currently says"] = text[:1].upper() + text[1:] + "."
     row["Est. lookups"] = str(open_lookups)
+    row["Cells verified"] = str(len(verified))
+    row["Cells total"] = str(len(verified) + len(manual_open))
     if not manual_open and open_lookups == 0:
         row["Status"] = "Closed"
     elif verified:
@@ -339,6 +344,17 @@ def build(version, repo_root, out_path):
     # right (kept visible so the check is auditable).
     marker_cols = ["Marker file", "Marker phrase"]
     main_cols = [c for c in fieldnames if c not in marker_cols]
+    # Two build-computed columns for the position categories (F, G) and the
+    # Major Dividing Issues chapters (H): how many of the row's checkable
+    # cells (or chapter components) are recorded as verified, out of how
+    # many there are. Blank for the translation rows (A-E), whose unit of
+    # work is the row itself.
+    cell_cols = ["Cells verified", "Cells total"]
+    if "Est. lookups" in main_cols:
+        k = main_cols.index("Est. lookups") + 1
+        main_cols = main_cols[:k] + cell_cols + main_cols[k:]
+    else:
+        main_cols = main_cols + cell_cols
     out_cols = main_cols + ["Text check (auto)"] + marker_cols
 
     wb = Workbook()
@@ -357,7 +373,7 @@ def build(version, repo_root, out_path):
                 values.append(text_check(repo_root, r))
             else:
                 v = r.get(c, "")
-                if c in ("ID", "Est. lookups") and v.strip().lstrip("-").isdigit():
+                if c in ("ID", "Est. lookups", "Cells verified", "Cells total") and v.strip().lstrip("-").isdigit():
                     v = int(v)
                 values.append(v)
         ws.append(values)
@@ -376,12 +392,17 @@ def build(version, repo_root, out_path):
     cat_rng = f"'Residual verifications'!${col['Category']}$2:${col['Category']}${n}"
     st_rng = f"'Residual verifications'!${col['Status']}$2:${col['Status']}${n}"
     lk_rng = f"'Residual verifications'!${col['Est. lookups']}$2:${col['Est. lookups']}${n}"
+    cv_rng = f"'Residual verifications'!${col['Cells verified']}$2:${col['Cells verified']}${n}"
+    ct_rng = f"'Residual verifications'!${col['Cells total']}$2:${col['Cells total']}${n}"
 
     sm = wb.create_sheet("Summary")
     sm.append(["Category", "Items", "Est. lookups",
                "Open (needs a check; incl. print-only and partly verified)",
                "Closed (checked against the exact source)",
-               "Unclassified (should be 0)"])
+               "Unclassified (should be 0)",
+               "Cells verified (F, G: position cells; H: chapter components)",
+               "Cells total",
+               "Cells verified %"])
     for cell in sm[1]:
         cell.fill = HEADER_FILL
         cell.font = HEADER_FONT
@@ -395,12 +416,18 @@ def build(version, repo_root, out_path):
             f'=COUNTIFS({cat_rng},A{i},{st_rng},"Open*")',
             f'=COUNTIFS({cat_rng},A{i},{st_rng},"Closed*")',
             f"=B{i}-D{i}-E{i}",
+            f"=SUMIF({cat_rng},A{i},{cv_rng})",
+            f"=SUMIF({cat_rng},A{i},{ct_rng})",
+            f'=IF(H{i}=0,"",G{i}/H{i})',
         ])
     first, last = 2, 1 + len(cats)
     tot = last + 1
-    sm.append(["Total"] + [f"=SUM({c}{first}:{c}{last})" for c in "BCDEF"])
+    sm.append(["Total"] + [f"=SUM({c}{first}:{c}{last})" for c in "BCDEFGH"]
+              + [f'=IF(H{tot}=0,"",G{tot}/H{tot})'])
     for cell in sm[tot]:
         cell.font = Font(bold=True)
+    for rr in range(first, tot + 1):
+        sm.cell(rr, 9).number_format = "0%"
 
     r = tot + 2
     sm.cell(r, 1, "Generated").font = Font(bold=True)
@@ -422,6 +449,8 @@ def build(version, repo_root, out_path):
     sm.column_dimensions["B"].width = 20
     for c in "CDEF":
         sm.column_dimensions[c].width = 22
+    for c in "GHI":
+        sm.column_dimensions[c].width = 16
 
     write_matrix(wb, "Denominations x categories", "Denominations", data["Denominations"], checks)
     write_matrix(wb, "Study Bibles x categories", "Study Bibles", data["Study Bibles"], checks)

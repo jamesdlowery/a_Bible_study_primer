@@ -197,6 +197,16 @@ jobs:
             "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
             "a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx"
 
+      # --- The manual checklist: the checks that need a reader with the
+      # book in hand (study-Bible notes not available online, the print
+      # RSV2CE), regenerated from the same sources so rows drop off as
+      # checks are recorded in position_verifications.csv. ---
+      - name: Generate manual checklist XLSX
+        run: |
+          python3 build/generate_manual_checklist.py \
+            "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
+            "a_Bible_study_primer_manual_checklist_${{ steps.version.outputs.version }}.xlsx"
+
       # --- Per-release documents: the feature list (what the book contains,
       # counts filled from the live text) and the change log (editor's notes
       # from build/release_docs/changelog.md plus a measured comparison with
@@ -225,6 +235,8 @@ jobs:
           done
           cp "a_Bible_study_primer_remaining_verifications_${VERSION}.xlsx" \
              "a_Bible_study_primer_remaining_verifications.xlsx"
+          cp "a_Bible_study_primer_manual_checklist_${VERSION}.xlsx" \
+             "a_Bible_study_primer_manual_checklist.xlsx"
           cp "a_Bible_study_primer_feature_list_${VERSION}.pdf" "a_Bible_study_primer_feature_list.pdf"
           cp "a_Bible_study_primer_change_log_${VERSION}.pdf" "a_Bible_study_primer_change_log.pdf"
 
@@ -249,6 +261,8 @@ jobs:
             a_Bible_study_primer_${{ steps.version.outputs.version }}.html
             a_Bible_study_primer_remaining_verifications.xlsx
             a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx
+            a_Bible_study_primer_manual_checklist.xlsx
+            a_Bible_study_primer_manual_checklist_${{ steps.version.outputs.version }}.xlsx
             a_Bible_study_primer_feature_list.pdf
             a_Bible_study_primer_feature_list_${{ steps.version.outputs.version }}.pdf
             a_Bible_study_primer_change_log.pdf

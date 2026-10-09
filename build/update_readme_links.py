@@ -86,6 +86,7 @@ def build_verifications_block(version, files_dir="."):
     feat = _doc_link("📋 **Feature list (.pdf)**", f"a_Bible_study_primer_feature_list_{version}.pdf", version, files_dir)
     chg = _doc_link("📝 **Change log (.pdf)**", f"a_Bible_study_primer_change_log_{version}.pdf", version, files_dir)
     link = _doc_link("📊 **Remaining verifications (.xlsx)**", f"a_Bible_study_primer_remaining_verifications_{version}.xlsx", version, files_dir)
+    chk = _doc_link("🧾 **Manual checklist (.xlsx)**", f"a_Bible_study_primer_manual_checklist_{version}.xlsx", version, files_dir)
     feat_para = (
         f"{feat} is a one- to two-page overview of what the book contains "
         f"-- each section and what it offers, how the book is delivered, "
@@ -115,7 +116,18 @@ def build_verifications_block(version, files_dir="."):
         f"current text so a row whose passage has since been edited is "
         f"flagged for review."
     )
-    return "\n".join([VSTART, "### Release documents", "", feat_para, "", chg_para, "", paragraph, VEND])
+    chk_para = (
+        f"{chk} is the part of that ledger that needs a reader with the "
+        f"book in hand rather than a web page: every study-Bible position "
+        f"not yet checked against the volume's own notes (with the verses "
+        f"to open and the sentence to confirm), for the volumes whose notes "
+        f"are not available online, and the verses that need the print RSV "
+        f"Second Catholic Edition. Rows drop off as checks are recorded in "
+        f"[`build/verifications/position_verifications.csv`]"
+        f"(build/verifications/position_verifications.csv), so each release's "
+        f"copy is the current to-do list."
+    )
+    return "\n".join([VSTART, "### Release documents", "", feat_para, "", chg_para, "", paragraph, "", chk_para, VEND])
 
 
 def main():
