@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009b -- 9 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: fourteen confessional cells now quote the confessions they cite -- Presbyterian Church in America and Presbyterian Church (U.S.A.) from the Westminster Confession (I.6 and I.10 on Scripture; XIII.2 "imperfect in this life"; XXI.2 and 4 on worship "not to angels, saints, or any other creature" and prayer "not for the dead"; XXI.7–8 on the Christian Sabbath; XXXIII.2 "cast into eternal torments" -- the Confession's word is "eternal," not "everlasting"), and the Evangelical Lutheran Church in America and Lutheran Church--Missouri Synod from the Book of Concord (Formula of Concord Epitome XI on election "only over the godly" with the rejection of election to condemnation; Augsburg Confession XII.8 against perfectionism; Augsburg Confession XXI on the saints).
 
