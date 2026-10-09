@@ -9,6 +9,14 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, Episcopal Church: six cells (Scripture, salvation, church government, eschatology, sanctification, Mary/saints) now quote the Prayer Book Catechism; the "three-legged stool" is noted as not a Prayer Book formula, and the Mary cell no longer calls August 15 a "major feast" (the source consulted says only that Mary is commemorated that day).
+- Section 110, UCC: salvation, Trinity and sanctification cells quote the Statement of Faith (which, the Trinity cell now notes, does not use the word "Trinity"); the Race cell cites the 1993 pronouncement (93-GS-33) and the 2003 anti-racism addendum and labels the Amistad/Lemuel Haynes heritage a general pattern.
+- Section 110, UMC: Scripture and salvation cells quote ¶105 and "Distinctive Wesleyan Emphases" (noting that ¶105 names neither the "Quadrilateral" nor "inerrant"); the Lord's Supper cell quotes Article XVIII and the liturgy's invitation; the women's-ordination date is given as 4 May 1956.
+
+### Also
+- Verification ledger: 14 more Section 110 cells verified (442 rows).
+
 ## v20261009e -- 9 October 2026
 
 ### Corrected
