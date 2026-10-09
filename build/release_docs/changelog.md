@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008s -- 9 October 2026
+
 ### Added
 - Release documents: a manual-checklist workbook (`a_Bible_study_primer_manual_checklist_vYYYYMMDDx.xlsx`) generated with every build and linked from the README -- the study-Bible positions not yet checked against the volumes' own notes, with verses to open, and the verses that need the print RSV Second Catholic Edition; rows drop off as checks are recorded. (This pipeline change was prepared on 7 October but did not reach the repository with that day's push; it ships now.)
 - Remaining-verifications workbook: two build-computed columns, "Cells verified" and "Cells total," on the Residual verifications sheet for the position-category rows (F, G -- checkable cells recorded as verified, out of all cells stating a position) and the Major Dividing Issues rows (H -- chapter components), with matching totals and a percentage on the Summary sheet, so progress is visible while a row stays Open (an F or G row closes only when every one of its cells is verified). The notes file explains the columns.
