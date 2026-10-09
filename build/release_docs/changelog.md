@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008p -- 9 October 2026
+
 ### Corrected
 - Major Dividing Issues Among Believers, "The main positions" of chapters 1–8 and 19–31 cross-checked against the denomination entries' own cells -- chapter 1 (COGIC, the Christian and Missionary Alliance and the UPCI added to the full-inerrancy group), chapter 4 (the Wesleyan "means of grace" position had no bullet; one added for the UMC, Global Methodist, AME, AME Zion and Nazarene bodies), chapter 6 (UPCI added to the dispensational group), chapter 7 (the LCMS removed from the cessationist bullet, its cell recording no cessationist decree), chapter 21 (ABCUSA, the Episcopal Church and UCC added to the no-binding-position bullet), chapter 22 (the Alliance's crisis-of-surrender teaching noted), chapter 25 (the Latter-day Saint sacrament meeting added), chapter 27 (a new bullet for bodies that condemn racism by statement without a repentance process -- Orthodox, Seventh-day Adventist, Nazarene, Global Methodist), chapter 29 (the National Baptist conventions added to the tithe-expectation bullet).
 
