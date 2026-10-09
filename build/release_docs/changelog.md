@@ -9,6 +9,14 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, AME: the Scripture, Trinity, predestination and Mary/saints cells now quote the AME Articles of Religion (Articles I, II, V, XIV); the Mary cell no longer says the Articles reject prayer for the dead, which Article XIV does not mention.
+- Section 110, AME Zion: the Scripture and Trinity cells now quote the AME Zion Articles of Religion (Articles I, II, V).
+- Section 110, LCMS: the Baptism and Lord's Supper cells now quote Augsburg Confession IX and X; the Trinity cell quotes Constitution Art. II (which names the three Ecumenical Creeds but not the Chalcedonian definition or the *filioque*, so those were removed); the Race cell quotes 2019 Res. 11-04A and drops an unsourced remark about the Synod's membership.
+
+### Also
+- Verification ledger: 10 more Section 110 cells verified (428 rows).
+
 ## v20261009d -- 9 October 2026
 
 ### Corrected
