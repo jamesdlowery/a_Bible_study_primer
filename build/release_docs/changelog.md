@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009a -- 9 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: ten Global Methodist cells now cite the 2024 *Book of Doctrines and Discipline* by paragraph (¶104 Scripture as primary rule; ¶105 the three normative creeds; ¶106 Articles of Religion and Confession of Faith; Articles V, VIII and XIV and Confession of Faith VII, XI, XII and XVI quoted; ¶302.1 "we denounce as sin racism, sexism"; ¶406 on leadership without discrimination); two Presbyterian Church in America cells quote Westminster Confession XXIII (the death-penalty cell now notes that the Confession speaks of "the power of the sword" and just war without naming capital punishment; the church-state cell quotes the 1788 American revision of XXIII.3).
 
