@@ -89,7 +89,16 @@ def source_class(position, source):
     marks as not identified / not independently documented), or 'cited'."""
     if not pm.has_position(position, source):
         return "none"
-    if re.match(r"^\s*(not identified|general pattern\b.*not (independently|confirmed)|not independently)", source or "", re.I):
+    src = source or ""
+    # A label that opens with "Official" and names a document stays 'cited'
+    # even if a clause of it is marked not independently documented; one that
+    # admits no document was identified is 'weak' like any other such label.
+    if re.match(r"^\s*official", src, re.I) and not re.search(r"no (document|text) identified|none identified", src, re.I):
+        return "cited"
+    # "not independently read/checked" names a place still to be read and stays
+    # 'cited' (it feeds the manual checklist); "not independently documented"
+    # admits there is no document, and is 'weak'.
+    if re.search(r"not independently (documented|confirmed)|not identified|none identified", src, re.I):
         return "weak"
     return "cited"
 
