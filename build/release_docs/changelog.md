@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009i -- 9 October 2026
+
 ### Corrected
 - Section 110, LDS: nine cells now quote the Articles of Faith, Doctrine and Covenants (20, 27, 68, 76, 128, 130) and *Gospel Principles*; "equally authoritative" standard works reworded to what the Church's own manual says; the rejection of the creeds is sourced to Joseph Smith—History 1:19.
 - Section 110, PCA and PC(USA): Westminster Confession cells quote ch. II.3, VIII.2, III.3 and XXIII.3 (American revision); the PC(USA) predestination cell quotes the Declaratory Statement; its Source cell no longer cites the Confession of 1967 (not read).
