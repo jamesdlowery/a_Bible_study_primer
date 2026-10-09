@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261008r -- 9 October 2026
+
 ### Corrected
 - Major U.S. Christian Denominations: Jehovah's Witnesses cells now quote jw.org -- abortion (the article's sanctity-of-life reasoning from Genesis 9:6, Psalm 139 and Exodus 21:22–23, with its single stated exception, replaces the "commandment against murder" framing), homosexuality, gambling (the "all forms, including lotteries" wording softened to the article's own reasoning), Scripture and the Governing Body, the 144,000 and baptism; Latter-day Saint cells quote the Gospel Topics entry on war, the 1909 First Presidency statement *The Origin of Man* (which, the cell now notes, rejects human descent from lower animals while saying nothing of the earth's age; the unchecked 1925 statement is dropped) and the 1992 First Presidency letter on the King James Version.
 - Major Dividing Issues Among Believers, chapter 28: the Latter-day Saint entry in the "no position" bullet qualified accordingly.
