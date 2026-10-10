@@ -99,3 +99,55 @@ The 31 position categories tabulated for each of the 27 denominations and 27 stu
 **Major Dividing Issues Among Believers.** The attributions in each chapter's "main positions" were cross-checked against the denomination cells above; the "dated splits" were checked against the denomination entries where a date belongs to one of the 27 bodies, and otherwise against the Augsburg Confession, the Thirty-nine Articles, the Council of Trent, the Synod of Dort and the Ninety-five Theses in the texts named above, SBC and LCMS records, the Ellen G. White Estate's military-service page, Baylor University's 1996 news release, Johnston's Archive, First Things, and Wikipedia for the civil and secondary dates (the Marburg Colloquy, the Leuenberg Agreement, the Methodist Protestant Church, the Niagara Bible Conference, Oneness Pentecostalism, Seminex, the Orthodox Presbyterian Church, the Winnipeg Statement, Julia Foote and Mary Small, Welch's, the Joint Declaration on Justification). Dates marked "common knowledge" in the ledger -- the great councils, 1054, 1517, 1611 and the like -- were not re-fetched.
 
 **Secondary sources used where the primary text was unreachable.** Wikipedia; Religion News Service, Associated Press, Christian Post, Christianity Today, Baptist Press, UM News, Living Lutheran, Adventist Review, Adventist Today, Presbyterian Outlook, The Aquila Report, byFaith, OrthoChristian, Juicy Ecumenism and the Human Rights Campaign, each named in the ledger where used. These are reports of a body's action, not the action itself, and a cell resting on one says so.
+
+## Sources Cited but Not Yet Read (Pending)
+
+The entries in this section are printed in a different color because they have **not** yet been checked. They are the documents the position tables cite, or will need, that could not be read for this edition -- most because they exist only in print, a few because the body's own website could not be reached by the tools used for the October 2026 checks. Each will move up into the list above, in ordinary type, once it has been read and the cells that rest on it have been recorded as verified in the ledger. The Remaining Verifications workbook and the manual checklist published with each release carry the cell-by-cell detail.
+
+**Study Bibles in print only.** The 23 volumes below have no searchable online edition of their notes; every position cell for them is still open, and the manual checklist lists, volume by volume, the passages whose notes need to be read. (The *Jonathan Edwards Study Bible* has its notes online but had not been read at the time of writing.)
+
+- [*NIV Study Bible*. Zondervan, 1985 and later editions.]{custom-style="Pending"}
+- [*NIV Life Application Study Bible*. Tyndale House, 1986 and later editions.]{custom-style="Pending"}
+- [*ESV Study Bible*. Crossway, 2008.]{custom-style="Pending"}
+- [*MacArthur Study Bible*, LSB edition. Thomas Nelson, with The Master's Seminary and The Lockman Foundation, 2nd ed. 2024.]{custom-style="Pending"}
+- [*NLT Study Bible*. Tyndale House.]{custom-style="Pending"}
+- [*NASB Study Bible*. The Lockman Foundation / Zondervan.]{custom-style="Pending"}
+- [*CSB Study Bible*. Holman Bible Publishers (Lifeway/B&H).]{custom-style="Pending"}
+- [*Baker CSB Illustrated Study Bible*. Baker Publishing Group with B&H.]{custom-style="Pending"}
+- [*NLT Illustrated Study Bible*. Tyndale House, 2015.]{custom-style="Pending"}
+- [*Reformation Study Bible*. Reformation Trust (Ligonier Ministries).]{custom-style="Pending"}
+- [*Ryrie Study Bible*. Moody Publishers, 1976; rev. 1994, 1995.]{custom-style="Pending"}
+- [*Ignatius Catholic Study Bible*. Ignatius Press.]{custom-style="Pending"}
+- [*Catholic Study Bible*. 3rd ed. Oxford University Press.]{custom-style="Pending"}
+- [*Amplified Study Bible*. Zondervan with The Lockman Foundation.]{custom-style="Pending"}
+- [*Full Life Study Bible* / *Fire Bible*. Zondervan; Life Publishers International.]{custom-style="Pending"}
+- [*Cultural Backgrounds Study Bible*. Zondervan.]{custom-style="Pending"}
+- [*KJV Open Bible*, Expanded Edition. Thomas Nelson.]{custom-style="Pending"}
+- [*The Orthodox Study Bible*. Thomas Nelson, 2008. (Its text and publisher were confirmed online; its notes were not read.)]{custom-style="Pending"}
+- [*The Complete Jewish Study Bible*. Messianic Jewish Publishers / Hendrickson, 2016.]{custom-style="Pending"}
+- [*The Evidence Study Bible*. Bridge-Logos / Living Waters.]{custom-style="Pending"}
+- [*Henry Morris KJV Study Bible*. Master Books.]{custom-style="Pending"}
+- [*Oxford Annotated Bible* (RSV). Oxford University Press, 1962.]{custom-style="Pending"}
+- [*Logos Complete Study Bible*. Logos International, 1972.]{custom-style="Pending"}
+- [*Jonathan Edwards Study Bible*. Thomas Nelson, 2025. (Notes available online; not yet read.)]{custom-style="Pending"}
+
+**Translation text in print only.** [*The Holy Bible, Revised Standard Version, Second Catholic Edition* (Ignatius Press, 2006): twelve verses in the catalogs were checked only by proxy against the 1966 RSV Catholic Edition and still need to be read in the RSV2CE itself (Category B in the Remaining Verifications workbook).]{custom-style="Pending"}
+
+**Denominational documents cited but not reached.** Each is named in a Source cell or in the ledger as the authority behind a position; none could be read for this edition, so the cells that rest on them remain open.
+
+- [*Articles of Faith* of the National Baptist Convention, USA, Inc. (nationalbaptist.com, behind a CAPTCHA throughout the checks).]{custom-style="Pending"}
+- [*Official Manual with the Doctrines and Discipline of the Church of God in Christ* (1973; later printings). Not online.]{custom-style="Pending"}
+- [*The Doctrines and Discipline of the African Methodist Episcopal Zion Church* (current quadrennial edition), for Articles of Religion VI--XXV and its teaching on sanctification; only Articles I--V were available online.]{custom-style="Pending"}
+- [*The Doctrine and Discipline of the African Methodist Episcopal Church* (current quadrennial edition) and the *AME Book of Worship*, for the worship, church-and-state and tithing cells.]{custom-style="Pending"}
+- [Lutheran Church--Missouri Synod, Commission on Theology and Church Relations: *Racism and the Church* (1994); *Women in the Church* (1985); *The Creator's Tapestry* (2009); the second half of *Render unto Caesar . . . and unto God* (1995). The CTCR's plain-text files could not be read.]{custom-style="Pending"}
+- [United Pentecostal Church International, position paper *Gambling* (listed in the 2019 *Manual*).]{custom-style="Pending"}
+- [Presbyterian Church (U.S.A.), *Book of Order*, Directory for Worship (W-1 to W-5), and *Book of Common Worship* (2018); *Book of Confessions*, Confession of 1967. The PDFs could be read only in part.]{custom-style="Pending"}
+- [*The United Methodist Hymnal* (1989) and *The United Methodist Book of Worship* (1992), for the UMC worship cell.]{custom-style="Pending"}
+- [United Church of Christ, *Book of Worship* (1986; Pilgrim Press), for the UCC worship cell.]{custom-style="Pending"}
+- [The Episcopal Church, *Constitution and Canons* (current edition), for the worship cell; *Book of Common Prayer* (1979), Articles of Religion (Historical Documents, Art. XVII), for the predestination cell.]{custom-style="Pending"}
+- [Evangelical Lutheran Church in America, social statements *The Church in Society: A Lutheran Perspective* (1991) and *Human Sexuality: Gift and Trust* (2009) on marriage roles; only summary pages could be reached for these cells.]{custom-style="Pending"}
+- [Church of the Nazarene, *Manual*, the Covenant of Christian Conduct paragraph on the Lord's Day and the paragraphs on citizenship, for the worship and church-and-state cells.]{custom-style="Pending"}
+- [Global Methodist Church, *Book of Doctrines and Discipline*, Part Five (The Ministry of the Called) on who may be ordained, and any paragraph on tithing; the PDFs truncated before them.]{custom-style="Pending"}
+- [Assemblies of God, minutes of the 1967 General Council (military service) and the 1980 position paper on stewardship.]{custom-style="Pending"}
+- [Assembly of Canonical Orthodox Bishops of the United States, statements page (robots-blocked); the Synodal decisions of 1351 (Palamite councils) and the Fifth Ecumenical Council (553), in a standard edition such as Tanner, *Decrees of the Ecumenical Councils*.]{custom-style="Pending"}
+- [The Church of Jesus Christ of Latter-day Saints, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*, for the worship cell.]{custom-style="Pending"}

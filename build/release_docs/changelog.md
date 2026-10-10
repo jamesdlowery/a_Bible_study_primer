@@ -9,6 +9,12 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Added
+- Section 140, References for Further Reading: new subsection "Sources Cited but Not Yet Read (Pending)", printed in a distinct amber color, listing the 23 study Bibles whose notes exist only in print (with the *Jonathan Edwards Study Bible*, online but unread), the RSV Second Catholic Edition still to be read for twelve catalog verses, and the denominational documents cited in the position tables that could not be reached for this edition. Entries move into the ordinary-type list above once read.
+
+### Also
+- Build: a "Pending" character style (amber) added to the DOCX and ODT reference templates and the HTML stylesheet; assemble.py rewrites the span as raw OpenDocument markup for the ODT, whose pandoc writer ignores custom-style spans.
+
 ## v20261010b -- 10 October 2026
 
 ### Also

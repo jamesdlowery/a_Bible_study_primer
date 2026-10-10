@@ -1649,6 +1649,22 @@ if FORMAT == "html":
     )
 
 final = "\n".join(out)
+
+# Character-style spans. The sources write `[text]{custom-style="Pending"}`
+# (References for Further Reading uses it for sources cited but not yet
+# read). pandoc's docx and html writers honour custom-style on a span
+# (character style "Pending" in custom-reference.docx; the
+# span[data-custom-style="Pending"] rule in html_style.html), but the odt
+# writer in pandoc 3.1.x silently drops it, so for odt the span is rewritten
+# here as raw OpenDocument markup naming the "Pending" text style defined
+# in custom-reference.odt. The span text itself is left as markdown.
+if FORMAT == "odt":
+    final = re.sub(
+        r'\[([^\[\]]+)\]\{custom-style="Pending"\}',
+        lambda m: ('`<text:span text:style-name="Pending">`{=opendocument}'
+                   + m.group(1) + '`</text:span>`{=opendocument}'),
+        final)
+
 outpath = f"build/full_document_{FORMAT}.md"
 with open(outpath, "w", encoding="utf-8") as f:
     f.write(final)
