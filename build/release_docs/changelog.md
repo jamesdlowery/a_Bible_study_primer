@@ -9,6 +9,17 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, UMC: baptism cell quotes *By Water and the Spirit* (1996); church-government cell quotes Constitution ¶17 and ¶20; tithing cell quotes the Discipline's "minimum goal of giving" language and says tithing is not a condition of membership.
+- Section 110, ELCA: Scripture and salvation cells quote the Confession of Faith (2.03–2.05) and statement of purpose (4.02).
+- Section 110, Episcopal Church: the Office of Government Relations is quoted from its own page; "in Washington" was not stated there and was dropped.
+- Section 110, Seventh-day Adventist: the church-state cell now quotes the 2002 *Church-State Relations* guidelines and drops the unsupported claim that church employees may not run for partisan office; the church-government cell quotes a union-conference explainer of the representative structure.
+- Section 110, LCMS: the church-state cell quotes *Render unto Caesar* on the two governments and drops "does not maintain a lobbying office", which the readable portion of the report did not support.
+- Section 110, UCC: the creation cell quotes *A New Voice Arising* (2008) and notes it is the General Minister's pastoral letter, not a Synod action.
+
+### Also
+- Verification ledger: 10 more Section 110 cells verified (487 rows).
+
 ## v20261009j -- 10 October 2026
 
 ### Corrected
