@@ -9,6 +9,9 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Also
+- Section 140, References for Further Reading: new subsection "Primary Sources Consulted for the Position Tables", listing by denomination the documents actually read in the October 2026 cell-by-cell checks (and the reproduction used where a body's own site was unreachable), the three study Bibles checked online, the sources behind the Major Dividing Issues dates, and the secondary sources relied on where a primary text could not be fetched. The "How the Entries Were Sourced" bullet on denominations now points to it and to the verification ledger; the closing bullet no longer says the documents are "not separately listed".
+
 ## v20261010a -- 10 October 2026
 
 ### Corrected
