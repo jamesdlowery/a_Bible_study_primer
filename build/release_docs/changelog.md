@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261010d -- 10 October 2026
+
 ### Corrected
 - Section 110, National Baptist Convention, USA: ten cells now quote the Convention's Articles of Faith (I, II, IV–VI, IX–XI, XIII, XIV, XVIII), read in a member congregation's reproduction since the Convention's own site stayed behind a CAPTCHA.
 - Section 110, Episcopal Church: the predestination cell quotes Article XVII and places it among the Prayer Book's Historical Documents.
