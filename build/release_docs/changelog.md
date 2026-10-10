@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261010h -- 10 October 2026
+
 ### Corrected
 - Section 110, LDS: the worship cell quotes *General Handbook* ch. 29 on sacrament meeting and the two-hour Sunday schedule (and the Handbook leaves the pending list in Section 140).
 - Section 110, GMC: the worship cell quotes the Confession of Faith on the Lord's Day and public worship.
