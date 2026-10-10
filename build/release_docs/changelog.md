@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009k -- 10 October 2026
+
 ### Corrected
 - Section 110, UMC: baptism cell quotes *By Water and the Spirit* (1996); church-government cell quotes Constitution ¶17 and ¶20; tithing cell quotes the Discipline's "minimum goal of giving" language and says tithing is not a condition of membership.
 - Section 110, ELCA: Scripture and salvation cells quote the Confession of Faith (2.03–2.05) and statement of purpose (4.02).
