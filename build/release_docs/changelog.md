@@ -9,6 +9,15 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, Episcopal Church: the alcohol cell quotes the 2015 General Convention policy (A158); the war/pacifism cell now says the Convention urges study of both just-war and pacifist traditions rather than holding to one.
+- Section 110, PC(USA): the alcohol cell quotes the 1986 General Assembly policy's graded principles.
+- Section 110, UCC: the war/pacifism cell is rewritten around the 1985 "Just Peace Church" pronouncement.
+- Section 110, AME: the abortion cell's "moderate, sanctity-of-life" characterization was not supported; the church's International Health Commission (2023) affirms "reproductive justice" and opposition to *Dobbs*, and the cell now says so.
+
+### Also
+- Verification ledger: 6 more Section 110 cells verified (548 rows); References updated.
+
 ## v20261010e -- 10 October 2026
 
 ### Corrected
