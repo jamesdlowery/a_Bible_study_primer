@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261010e -- 10 October 2026
+
 ### Corrected
 - Section 110, Jehovah's Witnesses: six cells that had carried "no document identified" (alcohol, contraception, premarital sex, race, Bible translations, marriage roles) now quote jw.org's own pages; "1950–1961" for the New World Translation becomes the page's "from 1950".
 - Section 110, Christian and Missionary Alliance: the Board of Directors' statements on Sanctity of Human Life, Sexuality and Racial Justice were located; the abortion cell no longer claims an exception for the mother's life (the statement says "without exception"), and the race cell no longer says the topic is "not formally addressed".
