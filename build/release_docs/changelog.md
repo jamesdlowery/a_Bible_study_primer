@@ -9,6 +9,15 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, COGIC: the homosexuality and premarital-sex cells quote the General Assembly's 2014 resolution on marriage; the church-and-state cell quotes the Office of Public Policy's 2014 voter-mobilization call.
+- Section 110, Church of the Nazarene: the war/pacifism cell quotes *Manual* ¶922 on military service, replacing an unsourced remark about a "peace-church-adjacent strand".
+- Section 110, LCMS: the tithing cell quotes the Stewardship Ministry's guidance that tithing be taught "not out of obligation".
+- Section 110, Eastern Orthodox: the premarital-sex cell quotes *The Orthodox Faith* on sexuality; the contraception cell now cites an OCA parish-study paper for the restrictive position and says the paper is not an official document.
+
+### Also
+- Verification ledger: 7 more Section 110 cells verified (555 rows); References updated.
+
 ## v20261010f -- 10 October 2026
 
 ### Corrected
