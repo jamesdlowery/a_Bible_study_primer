@@ -9,6 +9,16 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, LDS: predestination, sanctification and Mary/dead cells quote 2 Nephi 2:27, Abraham 3:23, D&C 132:19–20 and D&C 128:18; the Source cell for Mary notes the statements about Mary herself are not cited to a text.
+- Section 110, Church of the Nazarene: the premarital-sex cell quotes Covenant of Christian Conduct ¶31, and the label "Covenant of Christian Character" is corrected to "Covenant of Christian Conduct".
+- Section 110, Seventh-day Adventist: the war/pacifism cell quotes the 1954/1972 General Conference noncombatancy statement (via the GC president's 2018 article) and notes the stance "is not a test of church membership".
+- Section 110, PC(USA): the Trinity cell now says the 2006 paper was *received* (282–212), not adopted; the race cell quotes *Facing Racism* (2016) and drops the unsupported "formally apologized for its historical complicity".
+- Section 110, UMC: the predestination cell quotes "Distinctive Wesleyan Emphases" and softens "rejected" to "not taught", since the Discipline never uses the word.
+
+### Also
+- Verification ledger: 8 more Section 110 cells verified (495 rows).
+
 ## v20261009k -- 10 October 2026
 
 ### Corrected
