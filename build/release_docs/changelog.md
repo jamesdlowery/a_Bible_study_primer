@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261010g -- 10 October 2026
+
 ### Corrected
 - Section 110, COGIC: the homosexuality and premarital-sex cells quote the General Assembly's 2014 resolution on marriage; the church-and-state cell quotes the Office of Public Policy's 2014 voter-mobilization call.
 - Section 110, Church of the Nazarene: the war/pacifism cell quotes *Manual* ¶922 on military service, replacing an unsourced remark about a "peace-church-adjacent strand".
