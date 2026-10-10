@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261010a -- 10 October 2026
+
 ### Corrected
 - Section 110, ABCUSA: Scripture, salvation, baptism, Lord's Supper and church-government cells now quote the *We Are American Baptists* identity statement.
 - Section 110, UCC: the church-government cell quotes the Constitution (Art. IV) on the inherent autonomy of the Local Church and the advisory status of General Synod resolutions.
