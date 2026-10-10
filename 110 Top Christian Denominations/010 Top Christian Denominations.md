@@ -631,10 +631,10 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Doctrinal positions
 | Category | Position |
 |---|---|
-| View of Scripture | Scripture is authoritative and "the Word of God," interpreted through the lens of Reformed confessional standards (the Book of Confessions) rather than affirmed as inerrant in the term's stricter evangelical sense. |
+| View of Scripture | Scripture is authoritative: its authority "dependeth not upon the testimony of any man or Church, but wholly upon God," and "the supreme judge" in controversies "can be no other but the Holy Spirit speaking in the Scripture" (Westminster Confession ch. I.4, I.10, in the *Book of Confessions*); it is read through the Reformed confessional standards, which are themselves "subordinate standards in the church, subject to the authority of Jesus Christ, the Word of God, as the Scriptures bear witness to him" (*Book of Order* F-2.01), and is not affirmed as inerrant in the term's stricter evangelical sense. |
 | Salvation | Reformed/Calvinist theological heritage (God's sovereign grace in salvation), though practice and preaching vary by congregation. |
 | Baptism | Both infant and believer's baptism are practiced and considered valid, and "baptism is received only once"; infant baptism is the historic Reformed norm. **Mode:** the Directory for Worship says the water "shall be applied to the person by pouring, sprinkling, or immersion," all equally valid; in practice, pouring or sprinkling is by far the most common mode, consistent with the tradition's own historic confession (the Westminster Confession states "dipping of the person into the water is not necessary"). |
-| The Lord's Supper | Spiritual/real presence in the Reformed (Calvinist) sense — Christ is spiritually present to faith in the meal, distinct from both a bare memorial and from transubstantiation. |
+| The Lord's Supper | Spiritual presence in the Reformed sense: worthy receivers "really and indeed, yet not carnally and corporally, but spiritually, receive and feed upon Christ" (Westminster Confession ch. XXIX.7, in the *Book of Confessions*) — distinct from both a bare memorial and from transubstantiation, which the same chapter rejects (XXIX.6). |
 | Church government | Presbyterian — representative, through elected elders and a connectional structure of governing bodies. |
 | Eschatology | No confessionally mandated position; historically amillennial in Reformed tradition, but not treated as a defining or tested doctrine today. |
 | Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
@@ -657,7 +657,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Other divisive positions
 | Category | Position | Source |
 |---|---|---|
-| Scripture and Tradition | Scripture is the authoritative witness to Christ; the *Book of Confessions* (eleven confessions and creeds, from Nicaea to the Belhar Confession of 2016) is a "subordinate standard" that guides but does not override it. | Official (*Book of Order*, F-2.01–F-2.02) |
+| Scripture and Tradition | Scripture is the authoritative witness to Christ; the *Book of Confessions* (twelve creeds, confessions and catechisms, from the Nicene Creed to the Confession of Belhar, 2016) consists of "subordinate standards in the church, subject to the authority of Jesus Christ, the Word of God, as the Scriptures bear witness to him" (*Book of Order* F-2.01). | Official (*Book of Order*, F-2.01) |
 | The Trinity and the person of Christ | Trinitarian, in the terms of the Nicene Creed and the Westminster Confession ("in the unity of the Godhead there be three Persons of one substance, power, and eternity," ch. II.3), both in the *Book of Confessions*; the 2006 General Assembly *received* (282–212), without adopting, the study paper *The Trinity: God's Love Overflowing*, which keeps "Father, Son and Holy Spirit" as the "anchor" for Trinitarian language while allowing other biblical images. | Official (*Book of Confessions*; *The Trinity: God's Love Overflowing*, 2006, as received by the General Assembly) |
 | Predestination and free will | The Westminster Confession's doctrine that "some men and angels are predestinated unto everlasting life, and others foreordained to everlasting death" (ch. III.3) remains in the *Book of Confessions*, qualified since 1903 by a Declaratory Statement that the decree is "held in harmony with the doctrine of his love to all mankind" and that "no man is condemned except on the ground of his sin"; in practice the denomination's teaching is broadly grace-centered and non-dogmatic on the point. | Official (*Book of Confessions*: Westminster Confession ch. III with 1903 Declaratory Statement); the in-practice remark is a general pattern |
 | Sanctification and holiness | Reformed: progressive sanctification, "throughout in the whole man, yet imperfect in this life" (Westminster Confession XIII.2); perfectionism is rejected. | Official (*Book of Confessions*: Westminster Confession ch. XIII.2) |
@@ -835,11 +835,11 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Doctrinal positions
 | Category | Position |
 |---|---|
-| View of Scripture | Broadly evangelical to moderate, consistent with Baptist doctrine generally; no single confessional statement binds all member churches given congregational governance, similar to the other Baptist conventions in this section. |
-| Salvation | Broadly evangelical; varies by congregation. |
-| Baptism | Believer's baptism by immersion. |
-| The Lord's Supper | Memorial view, consistent with Baptist doctrine generally. |
-| Church government | Congregational, cooperating through a national denominational structure. |
+| View of Scripture | The denomination's identity statement calls Scripture "the divinely inspired Word of God" and "the final written authority," whose "primary purpose" is to point to Jesus Christ (*We Are American Baptists*); beyond that, no single confessional statement binds all member churches given congregational governance, and views range from evangelical to moderate, similar to the other Baptist conventions in this section. |
+| Salvation | Broadly evangelical: salvation and eternal life "are granted in grace to all who trust Jesus Christ as Savior and Lord," and "this Gospel is the central message of the Bible" (*We Are American Baptists*); emphasis varies by congregation. |
+| Baptism | Believer's baptism — American Baptists are those "who follow the Lord in believer's baptism" (*We Are American Baptists*) — by immersion, in Baptist practice. |
+| The Lord's Supper | Memorial view, consistent with Baptist doctrine generally; the identity statement names those "who share in the meal of the kingdom known as the Lord's Supper" (*We Are American Baptists*). |
+| Church government | Congregational: the church is "a gathered fellowship of regenerated believers," and American Baptists "live and work together 'in association'" (*We Are American Baptists*), honoring "the autonomy of local churches while embracing interdependence, collaboration, and shared ministry" (abc-usa.org). |
 | Eschatology | No single mandated position; varies by congregation. |
 | Spiritual gifts | No single mandated position; varies by congregation. |
 | Women's ordination | Fully open; women have been ordained since the 19th century (considerably earlier than most other Baptist bodies in this section) and serve widely as pastors. |
@@ -885,12 +885,12 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 ### Doctrinal positions
 | Category | Position |
 |---|---|
-| View of Scripture | Scripture authoritative, interpreted within the Wesleyan theological tradition, closely paralleling the UMC. |
-| Salvation | Wesleyan-Arminian theology, closely paralleling the UMC. |
-| Baptism | Both infant and believer's baptism practiced. **Mode:** sprinkling, pouring, or immersion all valid. |
-| The Lord's Supper | A "means of grace" in the Wesleyan sense, closely paralleling the UMC's own practice. |
+| View of Scripture | Scripture "containeth all things necessary to salvation," so that nothing not read in or proved from it may be required as an article of faith (Articles of Religion, Art. V); interpreted within the Wesleyan theological tradition, closely paralleling the UMC. |
+| Salvation | Wesleyan-Arminian: "we are accounted righteous before God only for the merit of our Lord and Savior, Jesus Christ, by faith, and not by our own works or deservings" (Articles of Religion, Art. IX), closely paralleling the UMC. |
+| Baptism | Both infant and believer's baptism: "the baptism of young children is to be retained in the church" (Articles of Religion, Art. XVII). **Mode:** sprinkling, pouring, or immersion all valid, in Methodist practice; the Articles do not prescribe a mode. |
+| The Lord's Supper | A "means of grace" in the Wesleyan sense: the sacraments are "certain signs of grace, and God's good will towards us" (Art. XVI); transubstantiation "cannot be proved by Holy Writ," and the body of Christ is received "only after a heavenly and spiritual manner" (Articles of Religion, Art. XVIII), closely paralleling the UMC. |
 | Church government | Episcopal/connectional, closely paralleling United Methodist structure. |
-| Eschatology | No specific end-times framework doctrinally mandated, consistent with the wider Wesleyan tradition. |
+| Eschatology | No specific end-times framework doctrinally mandated; the Articles affirm only that Christ "sitteth until he returns to judge all men at last day" (Art. III), consistent with the wider Wesleyan tradition. |
 | Spiritual gifts | No official cessationist or continuationist position; not a defining doctrinal emphasis. |
 | Women's ordination | Fully open; women have been ordained since 1948, and the AME Church elected its first female bishop in 2000. |
 
@@ -915,7 +915,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | The Trinity and the person of Christ | Trinitarian — "there is but one living and true God, everlasting, without body or parts" in three persons (Article I) — and Christ is "very God and very man" (Article II). | Official (Articles of Religion I–II) |
 | Predestination and free will | Arminian/Wesleyan: man "cannot turn and prepare himself by his own natural strength and works to faith" without God's grace (Article VIII), yet grace enables a free response; after justification a believer may fall into sin and "rise again" (Article XII); predestination to damnation is rejected. | Official (Articles of Religion VIII, XII; Wesleyan standards) |
 | Sanctification and holiness | Wesleyan entire sanctification is affirmed as a work of grace following justification. | Official (*Book of Discipline*, doctrinal statements) |
-| Hell, judgment and the fate of the lost | Judgment and the eternal destiny of the righteous and the wicked are affirmed; the Articles give little detail, and the subject is preached in the Black-church tradition. | Official (Articles of Religion); emphasis is a general pattern |
+| Hell, judgment and the fate of the lost | Judgment is affirmed — Christ "returns to judge all men at last day" (Articles of Religion, Art. III) — but the Articles say nothing further about the destiny of the lost; the subject is preached in the Black-church tradition. | Official (Articles of Religion, Art. III); emphasis is a general pattern |
 | Mary, the saints and prayer for the dead | The Roman doctrine of purgatory, with pardons, veneration of images and relics and invocation of saints, is rejected as "a fond thing, vainly invented, and grounded upon no warrant of Scripture" (Article XIV); prayers for the dead are not practiced. | Official (Articles of Religion XIV) |
 | Worship: day, style and liturgy | Sunday worship following the AME order (Decalogue, Apostles' Creed, hymns from the *AME Hymnal*) combined with expressive Black-church preaching and music. | Official (*AME Book of Worship*); style is a general pattern |
 | Church and state / political engagement | Founded in 1816 in protest against racial discrimination; political and social engagement is central to its identity, carried today through the Social Action Commission, voter mobilization and public advocacy. | Official (*Book of Discipline*; Social Action Commission) |
@@ -939,7 +939,7 @@ Jehovah's Witnesses hold beliefs distinct enough from every other body in this s
 | Salvation | Broadly Reformed, with wide latitude across congregations; the Statement of Faith (1959; doxology form 1981) confesses "Jesus Christ, the man of Nazareth, our crucified and risen Savior" and God's promise "to all who trust you forgiveness of sins and fullness of grace … and eternal life in your realm which has no end," but salvation is not affirmed in a single confessionally mandated form. |
 | Baptism | Both infant and believer's baptism practiced. |
 | The Lord's Supper | Open to all, consistent with the UCC's strong emphasis on inclusion; specific theological framing (memorial vs. real presence) varies by congregation. |
-| Church government | Congregational, with a national General Synod that sets denominational positions but cannot bind individual congregations. |
+| Church government | Congregational: "the autonomy of the Local Church is inherent and modifiable only by its own action," and nothing in the Constitution gives the General Synod, a Conference or an Association "the power to abridge or impair the autonomy of any Local Church in the management of its own affairs," though their decisions are to be "held in the highest regard by every Local Church" (UCC Constitution, Art. IV); General Synod resolutions are "commended to all members of the United Church of Christ for consideration," not binding. |
 | Eschatology | No single mandated framework; wide latitude across congregations. |
 | Spiritual gifts | No single mandated position; not a defining doctrinal emphasis for this body. |
 | Women's ordination | Fully open; women's ordination has been practiced since the denomination's founding (and within its predecessor bodies considerably earlier). |

@@ -9,6 +9,15 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, ABCUSA: Scripture, salvation, baptism, Lord's Supper and church-government cells now quote the *We Are American Baptists* identity statement.
+- Section 110, UCC: the church-government cell quotes the Constitution (Art. IV) on the inherent autonomy of the Local Church and the advisory status of General Synod resolutions.
+- Section 110, PC(USA): Scripture and Lord's Supper cells quote Westminster I and XXIX; the *Book of Confessions* is now counted as twelve documents, not eleven; F-2.01 quoted and F-2.02 dropped from the Source cell.
+- Section 110, AME: six doctrinal cells now quote the Articles of Religion (III, V, IX, XVI, XVII, XVIII); the hell cell no longer says the Articles affirm "the eternal destiny of the righteous and the wicked", which they do not.
+
+### Also
+- Verification ledger: 15 more Section 110 cells verified (515 rows).
+
 ## v20261009n -- 10 October 2026
 
 ### Corrected
