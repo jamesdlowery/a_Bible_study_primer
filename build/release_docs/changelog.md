@@ -9,6 +9,14 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, UMC, ELCA and Seventh-day Adventist: the Bible-translations cells now cite the publishers' own listings (the CEB's five mainline sponsors; the *Lutheran Study Bible* in the NRSV; the *Andrews Study Bible* in the NKJV with an NIV edition).
+- Section 110, UCC: the gambling cell no longer claims General Synod statements; the only action found is a 1996 interim policy of the Office for Church and Society's board, now quoted.
+- Section 110, AME Zion: the church-and-state and race cells quote Board of Bishops statements of 2025 and 2026, the first AME Zion documents reached beyond the Articles.
+
+### Also
+- Verification ledger: 6 more Section 110 cells verified (566 rows); References updated.
+
 ## v20261010h -- 10 October 2026
 
 ### Corrected
