@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009j -- 10 October 2026
+
 ### Corrected
 - Section 110, Eastern Orthodox: five cells (Scripture, baptism, Eucharist, Scripture and Tradition, hell) now quote the OCA's *The Orthodox Faith*; the Eucharist cell no longer implies the OCA text names transubstantiation, and the hell cell marks the 553 condemnation as cited from general history.
 - Section 110, COGIC: the salvation cell quotes *What We Believe*, which calls sanctification a "continuous operation" rather than using the phrase "entire sanctification".
