@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009n -- 10 October 2026
+
 ### Corrected
 - Section 110, ELCA: the worship cell quotes *The Use of the Means of Grace* (1997) Principles 6, 34 and 35; weekly Communion is now described as the statement's "norm for our practice" rather than merely "encouraged".
 - Section 110, Eastern Orthodox: the Trinity cell quotes the OCA on the *filioque* and Chalcedon (and marks the Palamite distinction as not cited to a text); the Mary/saints cell quotes the OCA on *Theotokos*, icons and prayer for the dead; the Bible-translations cell quotes the OCA's "uses primarily" the Septuagint and gives the *Orthodox Study Bible*'s publisher and texts.
