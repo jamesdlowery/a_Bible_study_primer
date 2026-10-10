@@ -9,6 +9,15 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, LDS: the worship cell quotes *General Handbook* ch. 29 on sacrament meeting and the two-hour Sunday schedule (and the Handbook leaves the pending list in Section 140).
+- Section 110, GMC: the worship cell quotes the Confession of Faith on the Lord's Day and public worship.
+- Section 110, ABCUSA: the premarital-sex cell cites the 1993 resolution calling for dialogue on human sexuality; the war/pacifism cell quotes the 1944 resolution on conscientious objectors and the 1967 peacemaking resolution.
+- Section 110, Episcopal Church: the premarital-sex cell cites General Convention 2000-D039 and its expectation of "fidelity, monogamy, mutual affection and respect" in committed relationships.
+
+### Also
+- Verification ledger: 5 more Section 110 cells verified (560 rows); References updated.
+
 ## v20261010g -- 10 October 2026
 
 ### Corrected
