@@ -36,8 +36,12 @@ ONLINE_VOLUMES = {
     "NET Bible, Full-Notes Edition",
     "Haydock's Catholic Bible and Commentary",
     "Scofield Reference Bible / Scofield Study Bible",
-    "Jonathan Edwards Study Bible",
 }
+# The Jonathan Edwards Study Bible (Thomas Nelson, 2025) was listed here
+# until 10 Oct 2026 on the assumption that its notes, being excerpts of
+# Edwards's own works, could be checked in the Yale edition online. They
+# cannot: the cells claim what the volume excerpts, which only the volume
+# shows. It is print-only like the other 23.
 
 # Where to open a volume for a category when the entry itself names no verse.
 DEFAULT_PLACES = {

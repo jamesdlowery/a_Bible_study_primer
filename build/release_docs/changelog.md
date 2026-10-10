@@ -9,6 +9,17 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- Section 110, National Baptist Convention, USA: ten cells now quote the Convention's Articles of Faith (I, II, IV–VI, IX–XI, XIII, XIV, XVIII), read in a member congregation's reproduction since the Convention's own site stayed behind a CAPTCHA.
+- Section 110, Episcopal Church: the predestination cell quotes Article XVII and places it among the Prayer Book's Historical Documents.
+- Section 110, UMC: the worship cell quotes the *Book of Worship*'s "Basic Pattern of Worship".
+- Section 110, Church of the Nazarene: the worship cell is re-sourced to the Covenant of Christian Character (¶27), which is where the Lord's Day is addressed — not the Covenant of Christian Conduct as previously labelled; the premarital-sex cell now cites both covenants (¶27.2 and ¶31), correcting last release's note that "Covenant of Christian Character" was a wrong label.
+- Section 140: the *Jonathan Edwards Study Bible* is print-only after all (its notes are excerpts of Edwards, but which excerpts only the volume shows); the pending list now says so and counts 24 print-only study Bibles. Entries read this release (NBC USA Articles, UMC Basic Pattern, Nazarene ¶27, Episcopal Art. XVII) moved out of the pending list into the sources-consulted list.
+
+### Also
+- Manual checklist: the *Jonathan Edwards Study Bible* is now included (24 volumes, 391 rows) instead of being treated as checkable online.
+- Verification ledger: 14 more Section 110 cells verified (529 rows).
+
 ## v20261010c -- 10 October 2026
 
 ### Added
