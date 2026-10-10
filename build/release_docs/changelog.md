@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261010j -- 10 October 2026
+
 ### Corrected
 - Section 110, PCA: the alcohol cell quotes the 8th General Assembly's 1980 refusal of a total-abstinence overture; the tithing cell quotes the 1981 *Theology of Stewardship*.
 - Section 110, Church of the Nazarene: the church-and-state cell quotes the Covenant of Christian Conduct (¶28.3, 28.6) and ¶922; "statements on current issues" dropped from its Source cell.
