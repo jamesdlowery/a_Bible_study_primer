@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261009m -- 10 October 2026
+
 ### Corrected
 - Section 110, LDS: predestination, sanctification and Mary/dead cells quote 2 Nephi 2:27, Abraham 3:23, D&C 132:19–20 and D&C 128:18; the Source cell for Mary notes the statements about Mary herself are not cited to a text.
 - Section 110, Church of the Nazarene: the premarital-sex cell quotes Covenant of Christian Conduct ¶31, and the label "Covenant of Christian Character" is corrected to "Covenant of Christian Conduct".
