@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261011a -- 11 October 2026
+
 ### Corrected
 - Section 110, ELCA: the marriage-roles cell quotes *Human Sexuality: Gift and Trust* (2009), which speaks of marriage as "a covenant of mutual promises" and assigns no distinct roles to husband and wife but never uses the word "equality"; "covenant of equals" is therefore reworded. The statement leaves the pending list in Section 140.
 
