@@ -9,6 +9,11 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 110: six more denomination cells checked against documents that had been on the pending list. ELCA church and state rewritten from the 1991 social statement *The Church in Society* (the "two-kingdoms" label and the Washington-office claim are not in the statement; the latter is now labelled a general pattern). Assemblies of God church and state now quotes the 1967 General Council's Bylaws article on military service from the Council minutes. LCMS women's ordination and marriage roles now quote the CTCR's *Women in the Church* (1985), including its reaffirmation of the 1969 finding that women may vote in voters' assemblies. Global Methodist tithing corrected: the *Book of Doctrines and Discipline* does not use the word "tithe" in ¶101–436, so the cell now rests on the membership vow (¶419), "systematic giving" (¶420) and stewardship (¶422.1); the GMC women's-ordination cell quotes ¶406.
+- Section 140: the four documents read moved from "Sources Cited but Not Yet Read (Pending)" into the consulted list; four stale pending entries removed because the cells no longer rest on them (Nazarene *Manual* citizenship paragraphs, Episcopal *Constitution and Canons*, *United Methodist Hymnal*, Confession of 1967); the PC(USA), GMC, LCMS and Assemblies of God pending entries narrowed to what is still unread.
+
 ## v20261011b -- 11 October 2026
 
 ### Corrected
