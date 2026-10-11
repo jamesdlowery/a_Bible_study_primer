@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261011b -- 11 October 2026
+
 ### Corrected
 
 - Section 130, "The main positions" bullets re-checked against the 206 denomination cells corrected 9–11 October (the bullets had been verified on 8 October, before those corrections). Five chapters adjusted: Abortion (the Christian and Missionary Alliance named in the opposed group, since its statement allows no exception; the AME Health Commission's 2023 "reproductive justice" commitment noted), War/pacifism (UCC as a Just Peace Church, 1985; the Episcopal Church as urging study of both traditions; ABCUSA's 1944 resolution added to the conscience bullet), Death penalty (the Adventist BRI 2017 opinion noted as unofficial), Race (the Alliance moved from "not formally addressed" to the repentance bullet; LCMS 2019 resolution added) and Marriage roles (ELCA egalitarian "in substance"). The other 26 chapters needed no change; all 31 ledger rows re-dated.
