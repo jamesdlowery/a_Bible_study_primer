@@ -144,7 +144,7 @@ The entries in this section are printed in a different color because they have *
 - [*The United Methodist Hymnal* (1989), for the UMC worship cell.]{custom-style="Pending"}
 - [United Church of Christ, *Book of Worship* (1986; Pilgrim Press), for the UCC worship cell.]{custom-style="Pending"}
 - [The Episcopal Church, *Constitution and Canons* (current edition), for the worship cell.]{custom-style="Pending"}
-- [Evangelical Lutheran Church in America, social statements *The Church in Society: A Lutheran Perspective* (1991) and *Human Sexuality: Gift and Trust* (2009) on marriage roles; only summary pages could be reached for these cells.]{custom-style="Pending"}
+- [Evangelical Lutheran Church in America, social statement *The Church in Society: A Lutheran Perspective* (1991); only a summary page could be reached for this cell.]{custom-style="Pending"}
 - [Church of the Nazarene, *Manual*, the paragraphs on citizenship and current issues, for the church-and-state cell.]{custom-style="Pending"}
 - [Global Methodist Church, *Book of Doctrines and Discipline*, Part Five (The Ministry of the Called) on who may be ordained, and any paragraph on tithing; the PDFs truncated before them.]{custom-style="Pending"}
 - [Assemblies of God, minutes of the 1967 General Council (military service) and the 1980 position paper on stewardship.]{custom-style="Pending"}
