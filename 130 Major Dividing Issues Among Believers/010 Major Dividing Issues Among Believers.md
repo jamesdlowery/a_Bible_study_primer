@@ -158,7 +158,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 - *Classical Pentecostal*: the gifts continue and tongues are the initial evidence of Spirit baptism (Assemblies of God, COGIC, UPCI).
 - *Charismatic / continuationist*: the gifts continue; no required evidence (the Catholic Charismatic Renewal, the Christian and Missionary Alliance's "seek not, forbid not," many non-denominational churches, the ESV Study Bible's general editor).
 - *Open but cautious*: the gifts are not denied in principle but not expected or emphasized (Catholic and Orthodox mainstream, most mainline bodies, Nazarenes).
-- *Cessationist*: the sign gifts ceased with the apostles or the completed canon (PCA and the Reformed tradition broadly, the MacArthur Study Bible, Churches of Christ); the LCMS has no cessationist decree but does not expect the gifts.
+- *Cessationist*: the sign gifts ceased with the apostles or the completed canon (PCA and the Reformed tradition broadly, the MacArthur Study Bible, Churches of Christ, Jehovah's Witnesses, for whom the gifts ended with the apostolic generation); the LCMS has no cessationist decree but does not expect the gifts.
 
 **Passages each side rests on.** 1 Corinthians 12--14, and especially 13:8--10 ("when the perfect comes") and 14:5, 39 (1COR-011); Acts 2 (JOEL-002 on Joel's promise), 8, 10 and 19 as the Pentecostal pattern texts; Mark 16:17--18 inside the disputed ending (Manuscript and Translation Differences, Mark §1); Ephesians 2:20 on apostles and prophets as foundation; 1 Maccabees 4:46 and 9:27 on the "ceasing" of prophets (1MACC-004) as an Old Testament analogue.
 
@@ -309,7 +309,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **What divides.** Whether games of chance for money are sinful in themselves, sinful by their effects, or morally neutral. Few bodies treat it as doctrine; several treat it as a serious matter of stewardship.
 
 **The main positions.**
-- *Neutral in itself, sinful when excessive or harmful*: Catholic (Catechism §2413), Orthodox, Lutheran, Episcopal.
+- *Neutral in itself, sinful when excessive or harmful*: Catholic (Catechism §2413), Orthodox, Lutheran, Episcopal (whose 2000 General Convention nonetheless urged members to "work to end state-sponsored gambling and gaming").
 - *Opposed as poor stewardship and covetousness*: Southern Baptist resolutions, Methodist Social Principles, PC(USA) General Assembly statements (2000: "refuse to participate ... as a matter of faith"), American Baptist General Board resolution against state-sponsored gambling (1996), Assemblies of God, Nazarene, Seventh-day Adventist, Latter-day Saint (official opposition, including to lotteries), most Holiness and Pentecostal bodies.
 - *Not addressed*: many congregational bodies.
 
