@@ -9,6 +9,10 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 110: three ELCA "not addressed" cells (Alcohol, Dancing, Gambling) are now verified by absence — the church's complete list of fourteen social statements and eighteen social messages (elca.org) contains nothing on any of the three — and say so in their Source cells.
+
 ## v20261012c -- 12 October 2026
 
 ### Corrected
