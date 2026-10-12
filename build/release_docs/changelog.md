@@ -9,6 +9,10 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 110, Church government row: eleven cells that had carried one-line labels now quote the governing documents — PCA *Book of Church Order* 3-1 and 10-1/10-2; PC(USA) *Book of Order* F-3.02; LCMS *Guidelines for Constitutions and Bylaws* (congregations "the basic units," "self-governing (Constitution, Art. VII)"); ELCA constitution's required provisions on the three expressions, Synod Assembly and bishop; Nazarene *Manual* ¶22 ("a representative form of government"); C&MA *Uniform Constitution for Districts*; LDS *General Handbook* ch. 5; AME "Our Structure"; COGIC "General Board"; GMC Constitution ¶206–209; jw.org on the Governing Body. Two corrections: the GMC cell's "term-limited bishops … designed to increase accountability" is not in the Constitution and is now flagged as unread; the Nazarene cell's "connectional" gives way to the *Manual*'s own "representative."
+
 ## v20261011c -- 11 October 2026
 
 ### Corrected
