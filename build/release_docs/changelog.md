@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261012e -- 12 October 2026
+
 ### Corrected
 
 - Section 110: ABCUSA Worship now cites the General Board's *Resolution on Worship* (1929, modified to 1999), which prescribes no order; Orthodox Tithing now cites the OCA's 2015 stewardship reflection on the All-American Council's move to proportional giving.
