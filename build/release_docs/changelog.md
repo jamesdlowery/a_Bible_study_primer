@@ -9,6 +9,11 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 110, Women's ordination row: seven cells now quote their sources — LDS *General Handbook* ch. 3 ("worthy male Church members"); PC(USA) *Book of Order* F-1.0403 and G-2.0104; American Baptist Women in Ministry on the first ordinations (1892, 1894) and the 10 percent of senior pastors who are women; the AME sequence of 1948 (local deacons), 1956 (local elders) and 1960 (itinerant orders) with Vashti McKenzie's 2000 election; the UCC's Antoinette Brown (15 September 1853); Nazarene *Manual* ¶501 with *Holiness Today*'s figures; the *Star of Zion* on Julia Foote and Mary J. Small. Two corrections: the AME Zion cell's claim to be the first Black denomination to ordain a woman deacon is removed (the AME ordained Sarah Hughes in 1885), and the AME cell's bare "ordained since 1948" is made specific.
+- Section 110, Eschatology and Spiritual gifts rows: five eschatology cells (UMC, ELCA, PC(USA), UCC, AME Zion) and the PCA spiritual-gifts cell now quote the confessional text they rest on (Confession of Faith XII, Augsburg XVII, Westminster I and XXXIII, the UCC Statement of Faith, AME Zion Art. III).
+
 ## v20261012a -- 12 October 2026
 
 ### Corrected
