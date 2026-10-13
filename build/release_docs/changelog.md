@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261013b -- 13 October 2026
+
 ### Corrected
 
 - Section 120, Haydock's Catholic Bible and Commentary: fifteen cells re-checked against the commentary itself, bringing the volume to 26 of 29 cells verified. Cells that had leaned on the modern Catechism or *Dei Verbum* (abortion, homosexuality, war, Scripture) now quote the 1811 notes — e.g., the Exodus 21:22 note that wilful miscarriage "would expose himself to incur the guilt of murder," and Luke 3:14's soldiers who "are not murderers, but ministers of the law." Two claims corrected: the notes do not confine the miraculous gifts to the apostolic age (Calmet cites Justin, Irenaeus and Origen for their continuance, and Paul "is far from condemning the gift of speaking tongues"); and nothing in the notes read says tithes are owed to the Church under natural and divine law.
