@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261013d -- 13 October 2026
+
 ### Corrected
 
 - Section 120, Scofield Reference Bible: the Mary and Abortion cells are verified by absence — the 1917 notes have no entry on Mary at Luke 1 and none at Exodus 21:22–25 — bringing the volume to 26 of 29 cells verified.
