@@ -1114,13 +1114,13 @@ Multi-denominational, broadly evangelical; the translation team was deliberately
 | Category | Position |
 |---|---|
 | View of Scripture | Inspired and authoritative (the preface calls the text "God's word" without a formal doctrine of inspiration); the translators were "interdenominational and evangelical," and the project was designed to avoid "doctrinal peculiarities or sectarian bias," so the notes flag where a translation choice bears on a doctrinal debate without deciding it. |
-| Salvation | Not addressed; the volume takes no confessional position. |
-| Baptism | Not addressed; the volume takes no confessional position. |
+| Salvation | Not addressed as doctrine, but the Romans 3 notes rule on the text: "justified" may be "declared righteous" (3:24 tn); "faith in Jesus Christ" at 3:22 and 3:26 is read as a subjective genitive, "Christ's faithfulness," which the note says "does not deny faith in Christ as a Pauline concept"; "mercy seat" at 3:25 "most likely refers to the covering of the ark where the blood was sprinkled"; and "works of the law" (3:20, 3:28) is taken, with Cranfield, as obedience to the Mosaic law in general rather than circumcision and food laws only. The notes at 10:9–10 are lexical. |
+| Baptism | Not addressed: the Romans 6:3–4 notes say nothing about what baptism signifies, water or Spirit, or its mode (the only note is grammatical, on "newness of life"); the volume takes no confessional position. Matthew 28:19 and Acts 2:38 not yet checked. |
 | The Lord's Supper | Not addressed; the volume takes no confessional position. |
 | Church government | Not addressed; the volume takes no confessional position. |
 | Eschatology | Not addressed; the volume takes no confessional position. |
-| Spiritual gifts | Not addressed; the volume takes no confessional position. |
-| Women's ordination | Not addressed; the volume takes no confessional position. |
+| Spiritual gifts | Not addressed: the Romans 12:6 note glosses "gifts" as "things graciously given, grace-gifts" and says nothing on their continuance; the volume takes no confessional position. 1 Corinthians 12–14 not yet checked. |
+| Women's ordination | Not addressed as doctrine, but the Romans 16 notes rule on two contested texts: Phoebe's *diakonos* is rendered "servant," "not a deaconess," with the note calling the choice tentative (16:1), and Junia is "well known to the apostles" rather than "among" them (16:7); the 1 Timothy 2:12 note (see Marriage roles) gives the BDAG gloss of *authentein*. |
 
 ### Ethical and lifestyle positions
 
@@ -1130,11 +1130,11 @@ Multi-denominational, broadly evangelical; the translation team was deliberately
 | Scripture and Tradition | The translators' notes explain translation and textual decisions and do not appeal to church tradition for doctrine. | Volume's stated editorial approach |
 | The Trinity and the person of Christ | Orthodox Trinitarian translators; the notes defend renderings that bear on Christ's deity on grammatical and textual grounds — at John 1:1 the anarthrous *theos* is read qualitatively ("the Word was fully God"), and at John 1:18 "the external evidence thus strongly supports *monogenēs theos*" — while drawing also on wider Johannine usage (John 8:58, 10:30). | Volume's translators' notes at John 1:1, 1:18 |
 | Predestination and free will | Not addressed as doctrine; the Romans 9 notes gloss the Greek ("God's purpose according to election," 9:11; "he hardens whom he desires," 9:18) and at 9:22 argue grammatically for a passive "vessels destined for wrath," and the Ephesians 1:4–5 notes weigh syntax ("by predestining" read instrumentally) — exegetical rulings on the text without naming Calvinist or Arminian positions. | Volume's translators' notes at Romans 9:11–22 and Ephesians 1:4–11 |
-| Sanctification and holiness | Not addressed as doctrine. | Volume's stated editorial approach |
+| Sanctification and holiness | Not addressed as doctrine: the Romans 6 notes on "holiness" (6:19, 6:22) are grammatical and lexical only. | Volume's notes at Romans 6:19, 6:22 (none doctrinal) |
 | Hell, judgment and the fate of the lost | Not addressed as doctrine; the Matthew 5:22 note explains Gehenna as the Greek transliteration of *ge hinnom*, the valley south of Jerusalem where "human sacrifices to the pagan god Molech" were offered, later a rubbish dump and, in the intertestamental period, a symbol of divine punishment; Hades and "eternal" are likewise explained lexically. | Volume's translators' note at Matthew 5:22 and parallels |
 | Mary, the saints and prayer for the dead | Not addressed as doctrine, but the Luke 1:28 note rules on the translation: "favored one" "points to Mary as the recipient of God's grace, not a bestower of it," and the Vulgate's "full of grace" "does not make sense here contextually." | Volume's translators' note at Luke 1:28 |
 | Worship: day, style and liturgy | Not addressed as doctrine. | Volume's stated editorial approach |
-| Church and state / political engagement | Not addressed as doctrine. | Volume's stated editorial approach |
+| Church and state / political engagement | Not addressed as doctrine: the Romans 13:1–7 notes are confined to Greek wording ("by God," the referent of "its wrath," "devoted to this very thing") and take no position on the state. | Volume's notes at Romans 13:1–7 (none doctrinal) |
 | Race, ethnicity and the church | Not addressed as doctrine. | Volume's stated editorial approach |
 | Creation and the age of the earth | Not addressed as doctrine, but the Genesis 1 notes do rule on the Hebrew: the study note at 1:5 says "the exegetical evidence suggests the word 'day' in this chapter refers to a literal twenty-four hour day," while the note at 1:1 leaves open whether verse 1 describes the original creation or summarizes what follows; no age of the earth is asserted and the gap theory is not named. | Volume's translators' notes at Genesis 1:1–5 |
 | Tithing and the prosperity gospel | Not addressed as doctrine; the notes explain the tithing texts lexically. | Volume's stated editorial approach |
@@ -1145,15 +1145,15 @@ Given this edition's specific focus on textual and translation transparency rath
 | Category | Position | Source |
 |---|---|---|
 | Abortion | Not addressed; the volume takes no position. | Volume's stated editorial approach |
-| Homosexuality | Not addressed; the volume takes no position. | Volume's stated editorial approach |
-| Alcohol | Not addressed; the volume takes no position. | Volume's stated editorial approach |
-| Divorce and remarriage | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| Homosexuality | Not addressed as doctrine, but the Romans 1:26–27 notes render the Greek plainly: the women "exchanged the natural function for that which is contrary to nature," where *chrēsis* "has the force of 'sexual relations' here," and the men abandoned "the natural function of the female" and "burned with intense desire"; the notes are lexical and draw no ethical conclusion. | Volume's notes at Romans 1:26–27 (nn. 54–57) |
+| Alcohol | Not addressed: the Romans 14:21 note is textual only ("the shorter reading is therefore preferred"), with nothing on wine; the volume takes no position. Ephesians 5:18 not yet checked. | Volume's note at Romans 14:21 (textual only) |
+| Divorce and remarriage | Not addressed as doctrine: the Romans 7:2 note says the marriage illustration "illustrates that death frees a person from obligation to the law," without a ruling on divorce. Matthew 19 and 1 Corinthians 7 not yet checked. | Volume's note at Romans 7:2 |
 | Contraception | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 | Gambling | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 | Dancing | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
 | Premarital sex/cohabitation | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
-| War/pacifism | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
-| Death penalty | Not addressed; the volume takes no confessional position. | Volume's stated editorial approach |
+| War/pacifism | Not addressed: the Romans 13:4 "sword" carries no note; the volume takes no confessional position. | Volume's notes at Romans 13 (none on the sword) |
+| Death penalty | Not addressed: the Romans 13:4 "sword" carries no note; the volume takes no confessional position. Genesis 9:6 not yet checked. | Volume's notes at Romans 13 (none on the sword) |
 
 ---
 
