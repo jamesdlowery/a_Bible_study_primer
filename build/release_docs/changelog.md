@@ -9,6 +9,10 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 120, Scofield Reference Bible: eighteen cells re-checked against the 1917 notes themselves (sacred-texts.com), bringing the volume to 24 of 29 cells verified. Four claims were wrong and are corrected: the notes do not read Matthew 19:9 or 1 Corinthians 7:15 as permitting divorce (they have no note on divorce at all); the 2 Corinthians 8:1 note says the tithe "antedates the law," not that it belongs to the dispensation of law; there are no notes on church offices at 1 Timothy 3:1–13; and Ephesians 5 and 1 Timothy 2 carry no headship notes (the headship language is at 1 Corinthians 11:3, 11:10). "Verbal, plenary inspiration and inerrancy affirmed explicitly" is replaced by what the Introduction says ("the unanswerable proof of the divine inspiration of the Bible"), and "cessationist by tradition" is strengthened to the 14:1 note's own "tongues and the sign gifts are to cease."
+
 ## v20261012e -- 12 October 2026
 
 ### Corrected
