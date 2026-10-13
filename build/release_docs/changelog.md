@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261013e -- 13 October 2026
+
 ### Corrected
 
 - Section 120, NET Bible: eleven cells re-checked against the translators' notes on Romans (classic.net.bible.org). Where the notes rule on a contested rendering the cell now says so — "Christ's faithfulness" at Romans 3:22, "mercy seat" at 3:25, Phoebe as "servant, not a deaconess" (16:1), Junia "well known to the apostles" (16:7), the plain glosses at 1:26–27 — and where they are silent (baptism at 6:3–4, the sword at 13:4, wine at 14:21) the "not addressed" claim is now confirmed rather than assumed. Passages outside Romans remain to be read.
