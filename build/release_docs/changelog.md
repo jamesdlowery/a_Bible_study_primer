@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261014b -- 14 October 2026
+
 ### Also
 
 - Every release now carries a study-Bible sources workbook (`a_Bible_study_primer_study_bible_sources_vYYYYMMDDx.xlsx`, built by `build/generate_study_bible_sources.py` from `build/verifications/study_bible_sources.csv`): for each of the 24 volumes the manual checklist still needs, links to the volume on Amazon and Christianbook, which electronic editions exist, and how many of its cells remain open -- the row turns green when the volume is finished. Linked from README beneath the manual checklist.
