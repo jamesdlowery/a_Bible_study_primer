@@ -9,6 +9,10 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 120, NET Bible: twelve cells re-checked against the translators' notes at Matthew 28, Genesis 9, Exodus 21, Malachi 3, 1 Corinthians 11–14, 1 Timothy 3 and Revelation 20, bringing the volume to 27 of 29 cells verified. The cells now report the notes' own rulings — the premature-birth reading of Exodus 21:22, "the curse is pronounced on Canaan, not Ham," 1 Corinthians 14:34–35 judged original and tied to the evaluation of prophets, the 1 Timothy 3:11 "women" probably wives — and confirm by reading that the notes say nothing on the millennium, eternal punishment, the manner of Christ's presence in the Supper, or the cessation of the gifts.
+
 ## v20261013e -- 13 October 2026
 
 ### Corrected
