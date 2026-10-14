@@ -87,6 +87,7 @@ def build_verifications_block(version, files_dir="."):
     chg = _doc_link("📝 **Change log (.pdf)**", f"a_Bible_study_primer_change_log_{version}.pdf", version, files_dir)
     link = _doc_link("📊 **Remaining verifications (.xlsx)**", f"a_Bible_study_primer_remaining_verifications_{version}.xlsx", version, files_dir)
     chk = _doc_link("🧾 **Manual checklist (.xlsx)**", f"a_Bible_study_primer_manual_checklist_{version}.xlsx", version, files_dir)
+    srcs = _doc_link("📚 **Study-Bible sources (.xlsx)**", f"a_Bible_study_primer_study_bible_sources_{version}.xlsx", version, files_dir)
     feat_para = (
         f"{feat} is a one- to two-page overview of what the book contains "
         f"-- each section and what it offers, how the book is delivered, "
@@ -127,7 +128,20 @@ def build_verifications_block(version, files_dir="."):
         f"(build/verifications/position_verifications.csv), so each release's "
         f"copy is the current to-do list."
     )
-    return "\n".join([VSTART, "### Release documents", "", feat_para, "", chg_para, "", paragraph, "", chk_para, VEND])
+    srcs_para = (
+        f"{srcs} is the companion to that checklist: one row per study Bible "
+        f"it still needs, with links to the volume on Amazon and "
+        f"Christianbook, which electronic editions exist (Kindle, Logos, "
+        f"Olive Tree, Accordance, the publisher's own app or ebook, any free "
+        f"text) and how many of its cells are still open. A row turns green "
+        f"once its count reaches zero and the volume is no longer needed. "
+        f"The links and notes come from "
+        f"[`build/verifications/study_bible_sources.csv`]"
+        f"(build/verifications/study_bible_sources.csv) (edit that file, not "
+        f"the spreadsheet); the counts are recomputed on every build."
+    )
+    return "\n".join([VSTART, "### Release documents", "", feat_para, "", chg_para, "", paragraph, "",
+                      chk_para, "", srcs_para, VEND])
 
 
 def main():

@@ -1,4 +1,4 @@
-name: Build Word / ODT / PDF / HTML / verifications XLSX
+name: Build Word / ODT / PDF / HTML / verifications, checklist and sources XLSX
 
 # Runs whenever content changes on main, or manually via the Actions tab.
 on:
@@ -207,6 +207,18 @@ jobs:
             "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
             "a_Bible_study_primer_manual_checklist_${{ steps.version.outputs.version }}.xlsx"
 
+      # --- The study-Bible sources workbook: for each volume the manual
+      # checklist still needs, where to buy it, which electronic editions
+      # exist, and how many of its cells are still open -- a row turns
+      # green when its count reaches zero. Links and notes come from
+      # build/verifications/study_bible_sources.csv; the counts from the
+      # same open-cell logic as the checklist above, so the two agree. ---
+      - name: Generate study-Bible sources XLSX
+        run: |
+          python3 build/generate_study_bible_sources.py \
+            "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
+            "a_Bible_study_primer_study_bible_sources_${{ steps.version.outputs.version }}.xlsx"
+
       # --- Per-release documents: the feature list (what the book contains,
       # counts filled from the live text) and the change log (editor's notes
       # from build/release_docs/changelog.md plus a measured comparison with
@@ -237,6 +249,8 @@ jobs:
              "a_Bible_study_primer_remaining_verifications.xlsx"
           cp "a_Bible_study_primer_manual_checklist_${VERSION}.xlsx" \
              "a_Bible_study_primer_manual_checklist.xlsx"
+          cp "a_Bible_study_primer_study_bible_sources_${VERSION}.xlsx" \
+             "a_Bible_study_primer_study_bible_sources.xlsx"
           cp "a_Bible_study_primer_feature_list_${VERSION}.pdf" "a_Bible_study_primer_feature_list.pdf"
           cp "a_Bible_study_primer_change_log_${VERSION}.pdf" "a_Bible_study_primer_change_log.pdf"
 
@@ -263,6 +277,8 @@ jobs:
             a_Bible_study_primer_remaining_verifications_${{ steps.version.outputs.version }}.xlsx
             a_Bible_study_primer_manual_checklist.xlsx
             a_Bible_study_primer_manual_checklist_${{ steps.version.outputs.version }}.xlsx
+            a_Bible_study_primer_study_bible_sources.xlsx
+            a_Bible_study_primer_study_bible_sources_${{ steps.version.outputs.version }}.xlsx
             a_Bible_study_primer_feature_list.pdf
             a_Bible_study_primer_feature_list_${{ steps.version.outputs.version }}.pdf
             a_Bible_study_primer_change_log.pdf

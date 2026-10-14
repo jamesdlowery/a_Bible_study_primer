@@ -112,17 +112,15 @@ def _style(ws, widths):
     ws.auto_filter.ref = f"A1:{chr(64 + len(widths))}{max(ws.max_row, 2)}"
 
 
-def build(version, repo_root, out_path):
+def open_cells(repo_root):
+    """The study-Bible cells still to be checked by hand: a list of
+    (volume, category, position, source) in table order, for every volume
+    not in ONLINE_VOLUMES, every cell that cites a source and is not yet
+    recorded as verified. Shared with generate_study_bible_sources.py so the
+    per-volume counts there always equal the rows here."""
     data = pm.parse(repo_root)["Study Bibles"]
     checks = gv.read_position_checks(repo_root)
-
-    wb = Workbook()
-    ws = wb.active
-    ws.title = "Study Bibles - notes to check"
-    ws.append(["Volume", "Table", "Category", "Verses / place to open",
-               "What the entry says the notes say", "Source label in the entry",
-               "Your finding (confirmed / differs - quote the note)", "Edition and page checked", "Date"])
-    n_rows, per_volume = 0, {}
+    cells = []
     for vol, cats in data.items():
         if vol in ONLINE_VOLUMES:
             continue
@@ -135,11 +133,24 @@ def build(version, repo_root, out_path):
             chk = checks.get(("Study Bibles", vol, cat))
             if chk and chk.get("Status", "").strip().lower().startswith("verified"):
                 continue
-            refs = sorted(set(_REF.findall(position)))
-            where = "; ".join(refs) if refs else DEFAULT_PLACES[cat]
-            ws.append([vol, _group(cat), cat, where, position, source, "", "", ""])
-            n_rows += 1
-            per_volume[vol] = per_volume.get(vol, 0) + 1
+            cells.append((vol, cat, position, source))
+    return cells
+
+
+def build(version, repo_root, out_path):
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Study Bibles - notes to check"
+    ws.append(["Volume", "Table", "Category", "Verses / place to open",
+               "What the entry says the notes say", "Source label in the entry",
+               "Your finding (confirmed / differs - quote the note)", "Edition and page checked", "Date"])
+    n_rows, per_volume = 0, {}
+    for vol, cat, position, source in open_cells(repo_root):
+        refs = sorted(set(_REF.findall(position)))
+        where = "; ".join(refs) if refs else DEFAULT_PLACES[cat]
+        ws.append([vol, _group(cat), cat, where, position, source, "", "", ""])
+        n_rows += 1
+        per_volume[vol] = per_volume.get(vol, 0) + 1
     _style(ws, [30, 22, 26, 34, 70, 34, 40, 24, 12])
 
     ws2 = wb.create_sheet("RSV2CE - verses to read")
