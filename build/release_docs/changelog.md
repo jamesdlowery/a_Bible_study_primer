@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261014d -- 14 October 2026
+
 ### Corrected
 
 - Section 130 re-checked against the 60 study-Bible cells corrected 12–14 October: the Spiritual gifts chapter now names the 1917 Scofield notes among the cessationists ("tongues and the sign gifts are to cease") and notes Haydock's citation of the Fathers for the gifts' continuance; the Tithing chapter's parenthetical on the dispensational study Bibles ("the tithe as law") is replaced by Scofield's own words (the tithe "antedates the law"; giving "voluntary" and "proportioned to income"). The other chapters' study-Bible attributions stand.
