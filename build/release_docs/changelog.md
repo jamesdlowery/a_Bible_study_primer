@@ -9,6 +9,10 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 120: the NET Bible and Scofield Contraception cells are checked at Genesis 38 — the NET notes describe Onan's act and fault his refusal of the levirate duty without ruling on contraception; the 1917 Scofield notes have no entry in the chapter. NET and Scofield now stand at 28 and 27 of 29 cells verified.
+
 ## v20261014d -- 14 October 2026
 
 ### Corrected
