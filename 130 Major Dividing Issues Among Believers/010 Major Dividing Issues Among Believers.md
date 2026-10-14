@@ -157,8 +157,8 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **The main positions.**
 - *Classical Pentecostal*: the gifts continue and tongues are the initial evidence of Spirit baptism (Assemblies of God, COGIC, UPCI).
 - *Charismatic / continuationist*: the gifts continue; no required evidence (the Catholic Charismatic Renewal, the Christian and Missionary Alliance's "seek not, forbid not," many non-denominational churches, the ESV Study Bible's general editor).
-- *Open but cautious*: the gifts are not denied in principle but not expected or emphasized (Catholic and Orthodox mainstream, most mainline bodies, Nazarenes).
-- *Cessationist*: the sign gifts ceased with the apostles or the completed canon (PCA and the Reformed tradition broadly, the MacArthur Study Bible, Churches of Christ, Jehovah's Witnesses, for whom the gifts ended with the apostolic generation); the LCMS has no cessationist decree but does not expect the gifts.
+- *Open but cautious*: the gifts are not denied in principle but not expected or emphasized (Catholic and Orthodox mainstream, most mainline bodies, Nazarenes; Haydock's Catholic commentary cites the Fathers for the gifts' continuance and faults only their "indiscreet use").
+- *Cessationist*: the sign gifts ceased with the apostles or the completed canon (PCA and the Reformed tradition broadly, the MacArthur Study Bible, the 1917 Scofield notes ("tongues and the sign gifts are to cease"), Churches of Christ, Jehovah's Witnesses, for whom the gifts ended with the apostolic generation); the LCMS has no cessationist decree but does not expect the gifts.
 
 **Passages each side rests on.** 1 Corinthians 12--14, and especially 13:8--10 ("when the perfect comes") and 14:5, 39 (1COR-011); Acts 2 (JOEL-002 on Joel's promise), 8, 10 and 19 as the Pentecostal pattern texts; Mark 16:17--18 inside the disputed ending (Manuscript and Translation Differences, Mark §1); Ephesians 2:20 on apostles and prophets as foundation; 1 Maccabees 4:46 and 9:27 on the "ceasing" of prophets (1MACC-004) as an Old Testament analogue.
 
@@ -649,7 +649,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Tithe required as doctrine or membership expectation*: Latter-day Saints (a condition of temple recommend), Seventh-day Adventists, Nazarene ("storehouse tithing"), COGIC, UPCI, AME and AME Zion (membership expectations), the National Baptist conventions (taught as a biblical obligation), Assemblies of God (expected of ministers).
-- *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe affirmed as "the standard of giving" in 1982 and as the "minimum standard" in later reaffirmations), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (the tithe as law, Christian giving as grace), MacArthur (tithing not a New Testament requirement).
+- *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe affirmed as "the standard of giving" in 1982 and as the "minimum standard" in later reaffirmations), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (Scofield: the tithe "a proportion which antedates the law," Christian giving "voluntary" and "proportioned to income"), MacArthur (tithing not a New Testament requirement).
 - *No tithing, voluntary contributions only*: Jehovah's Witnesses.
 - *Prosperity teaching*: no body in this book holds it officially; the Assemblies of God formally criticized it in 1980, and the AME, COGIC, National Baptist and non-denominational entries acknowledge its presence in some congregations.
 
