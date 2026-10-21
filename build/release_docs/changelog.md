@@ -9,6 +9,17 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 120: the *Ignatius Catholic Study Bible* entry is rewritten from the volume itself — the complete 2024 Ignatius Press edition, read as a PDF supplied by the author. All thirty-one cells now quote its introductions, essays or notes (ledger: 31 Verified rows), and the Format line now dates the complete one-volume edition to 2024 rather than describing it as "expanded through the 2010s–2020s". Cells that had asserted a position the notes do not take now say so: Gambling and Dancing are "not addressed", War/pacifism records that no just-war exposition appears in the notes read, Worship that Sunday is not discussed, and Baptism that the mode is not discussed.
+- Section 090, Ephesians 1:1: the entry said all ten first-checked translations, including the RSV2CE, read "in Ephesus"; the RSV2CE itself omits the words ("To the saints who are also faithful in Christ Jesus", footnote "Other ancient authorities read who are at Ephesus and faithful"), so it joins the RSV in the shorter-text camp.
+- Sections 090 and 100, 2 Chronicles 36:9: two sentences said the RSV reads "eighteen" there while the same entries recorded the RSV reading "eight"; the RSV and RSV2CE read "eight" at 2 Chronicles 36:9 (and "eighteen" at 2 Kings 24:8), and the sentences now say so.
+- Section 090, Sirach 33:1: the RSV2CE "would be expected to" read singular "evil"; it does ("No evil will befall the man who fears the Lord"), and the expectation is now a finding.
+
+### Also
+
+- The twelve RSV2CE verse checks that had rested by proxy on the 1966 RSV Catholic Edition (Job 13:15; Judges 16:13–14; 2 Chronicles 22:2 and 36:9 in both catalogs; Luke 17:36; Philippians 2:7; Zechariah 12:10; Matthew 12:40; Ephesians 1:1; Sirach 33:1) are now read in the RSV2CE as printed in the 2024 Ignatius edition and quoted; the proxy parentheticals are gone, and Section 140 no longer lists the RSV2CE or the Ignatius volume as pending.
+
 ## v20261014e -- 14 October 2026
 
 ### Corrected
