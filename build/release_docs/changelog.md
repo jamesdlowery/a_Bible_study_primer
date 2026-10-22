@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022c -- 22 October 2026
+
 ### Restructured
 
 - Section 120: the *CSB Study Bible* entry is replaced by *The Perry Stone Hebraic Prophetic Study Bible* (KJV; Perry Stone Ministries, 2019, Old and New Testament volumes), at the author's direction; the *Baker CSB Illustrated Study Bible* remains. The study-Bible sources workbook, the ledger and Section 140 follow the change.
