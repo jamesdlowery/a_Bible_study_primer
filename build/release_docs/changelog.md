@@ -18,6 +18,7 @@ with the previous release after these notes.
 
 ### Also
 
+- Build: the workflow now runs on the `ubuntu-24.04` image rather than `ubuntu-latest`, whose newer LibreOffice hung indefinitely in the field-update/PDF-export step (run #230), and the two LibreOffice render steps are capped at 40 minutes so a hang fails fast instead of consuming the six-hour job limit.
 - The twelve RSV2CE verse checks that had rested by proxy on the 1966 RSV Catholic Edition (Job 13:15; Judges 16:13–14; 2 Chronicles 22:2 and 36:9 in both catalogs; Luke 17:36; Philippians 2:7; Zechariah 12:10; Matthew 12:40; Ephesians 1:1; Sirach 33:1) are now read in the RSV2CE as printed in the 2024 Ignatius edition and quoted; the proxy parentheticals are gone, and Section 140 no longer lists the RSV2CE or the Ignatius volume as pending.
 
 ## v20261014e -- 14 October 2026

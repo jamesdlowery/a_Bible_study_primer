@@ -24,7 +24,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest's newer LibreOffice hangs in update_fields_and_export.py (run #230, 21-22 Oct 2026)
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -108,6 +108,7 @@ jobs:
         run: python3 build/assemble.py docx "$GITHUB_WORKSPACE"
 
       - name: DOCX pass 1 - build and render to PDF for measurement
+        timeout-minutes: 40
         run: |
           pandoc build/full_document_docx.md -o pass1_docx.docx \
             -f markdown+raw_attribute-yaml_metadata_block --wrap=none \
@@ -141,6 +142,7 @@ jobs:
         run: python3 build/assemble.py odt "$GITHUB_WORKSPACE"
 
       - name: ODT pass 1 - build and render to PDF for measurement
+        timeout-minutes: 40
         run: |
           pandoc build/full_document_odt.md -o pass1_odt.odt \
             -f markdown+raw_attribute-yaml_metadata_block --wrap=none \
