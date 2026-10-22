@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022f -- 22 October 2026
+
 ### Corrected
 
 - Section 120: the *Catholic Study Bible* entry is rewritten from the volume itself — the Oxford University Press second edition with the NABRE (2011), read as a scanned PDF supplied by the author. All thirty-one cells now quote its Reading Guides or the NABRE notes (ledger: 31 Verified rows), the header now gives the publisher, edition history and editors, and the ethical table is restored to its normal place. The old entry had labelled nearly every cell "Catholic teaching, reflected in the notes"; the notes are historical-critical and restate Church teaching only occasionally, so Eschatology now records the notes' explicitly non-literal (amillennial) reading of Revelation 20, Women's ordination that *Ordinatio Sacerdotalis* is not cited while 1 Corinthians 14:34–35 is called a probable interpolation and 1 Timothy 3:11 read of women deacons, Divorce that Matthew's exceptive clause is read of unlawful unions, Mary that 2 Maccabees 12 is "similar to, but not quite the same as, the Catholic doctrine of purgatory," and Abortion, Alcohol, Contraception, Gambling, Dancing, War, Death penalty, Race and Tithing that the notes and guides do not address them.
