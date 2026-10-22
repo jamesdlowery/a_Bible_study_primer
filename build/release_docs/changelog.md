@@ -9,6 +9,11 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 120: the *Baker CSB Illustrated Study Bible* entry is rewritten from the volume itself — the 2018 Baker Books ebook edition, read as an EPUB supplied by the author. All thirty-one cells now quote its notes, articles, definitions or introductions (ledger: 31 Verified rows), and the editorial-credit and leaning paragraphs now name the five contributing editors and the cross-denominational contributor base. Seven cells had been wrong or unverified: Salvation (not a Baptist "Arminian-to-moderately-Reformed" span but Reformation faith-alone with perseverance), Baptism (immersion noted and believers in view, but not "the Baptist position of the publisher's tradition"), Church government (the offices are treated — two offices, plural elders), Eschatology (all three millennial views and both rapture timings set out without verdict, not "premillennial views predominate"), Women's ordination (three readings presented, not the Baptist Faith and Message's reservation of the pastorate), Alcohol (drunkenness condemned, no abstinence call), War/pacifism (both Christian positions named, not "just-war"), and Marriage roles (mutual submission pressed — "husbands are to submit to their wives" — rather than "complementarian in tone"). Abortion, Contraception, Gambling and Dancing are recorded as not addressed, verified by whole-text search.
+- Section 130: the Marriage roles chapter now names the Baker CSB Illustrated Study Bible among the mutual-submission positions.
+
 ## v20261022c -- 22 October 2026
 
 ### Restructured
