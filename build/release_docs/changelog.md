@@ -9,6 +9,14 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Restructured
+
+- Section 120: the *Thomas Nelson KJV Open Bible, Expanded Edition* entry is replaced by the NKJV Open Bible, Expanded Edition, at the author's direction; the study-Bible sources workbook, the ledger and Section 140 follow.
+
+### Corrected
+
+- Section 120: the Open Bible entry is rewritten from the volume itself — the Thomas Nelson ebook edition (study material 1997), read as an EPUB supplied by the author. All thirty-one cells now quote its Biblical Cyclopedic Index, "The Christian's Guide to the New Life," study helps or prefaces (ledger: 31 Verified rows), and the editorial-credit paragraph now names the contributors the volume credits. The old entry had recorded eighteen cells as "Not addressed"; the volume in fact addresses Salvation (free gift, eternal security), Baptism (public profession), the Lord's Supper (memorial), Church government (elders and deacons), Eschatology (a premillennial survey with four views named), Spiritual gifts (for every believer), Homosexuality (forbidden), Alcohol (total abstinence "recommended" in the Temperance index), Divorce (adultery the one ground), Dancing (catalogued), Premarital sex (fornication condemned), Death penalty (instituted by God), Church and state (a full Guide outline) and Tithing (proportionate giving with Malachi 3:8 applied); View of Scripture is plenary-verbal inspiration of the originals rather than "inerrant," and the translation cell now rests on the NKJV preface's defense of the Received and Majority Texts.
+
 ## v20261022d -- 22 October 2026
 
 ### Corrected
