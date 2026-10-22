@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022e -- 22 October 2026
+
 ### Restructured
 
 - Section 120: the *Thomas Nelson KJV Open Bible, Expanded Edition* entry is replaced by the NKJV Open Bible, Expanded Edition, at the author's direction; the study-Bible sources workbook, the ledger and Section 140 follow.
