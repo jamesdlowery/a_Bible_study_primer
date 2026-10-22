@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022b -- 22 October 2026
+
 ### Corrected
 
 - Section 120: the *Henry Morris KJV Study Bible* entry is rewritten from the volume itself — *The Henry Morris Study Bible* (Master Books, 2012 edition), read as a PDF supplied by the author. All thirty-one cells now quote its Introduction, appendices or notes (ledger: 31 Verified rows). Six cells had been wrong: Salvation and Baptism had described contributors spanning Reformed and Arminian views and notes that "describe both believer's and infant baptism," but the volume is a single-author work that calls itself "moderately Calvinistic in soteriology" and reads Romans 6 as implying immersion; Church government had said polity is "not addressed," but the Introduction calls the notes "Baptistic in ecclesiology" and the notes identify bishop, elder and pastor as one local-church office; Alcohol had read "Not verified," and the notes call for "total abstinence from alcohol"; Gambling had said "not addressed directly," but 1 Corinthians 6:12 names gambling among behaviors to "steer clear of"; Tithing had said tithing is "commended as a principle of giving," but the notes say "tithing as such is nowhere commanded in the New Testament." Contraception and Dancing are recorded as not addressed (verified by absence against the notes and the volume's topic index). The Publisher line now carries the edition's own printing and copyright data.
