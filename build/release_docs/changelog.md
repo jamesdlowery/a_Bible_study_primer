@@ -9,6 +9,15 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Restructured
+
+- Section 120: the *CSB Study Bible* entry is replaced by *The Perry Stone Hebraic Prophetic Study Bible* (KJV; Perry Stone Ministries, 2019, Old and New Testament volumes), at the author's direction; the *Baker CSB Illustrated Study Bible* remains. The study-Bible sources workbook, the ledger and Section 140 follow the change.
+
+### Added
+
+- Section 120: the Perry Stone entry is written entirely from the volume, read as a PDF supplied by the author — all thirty-one cells quote its letter, introduction, notes or articles (ledger: 31 Verified rows), including the author's own statements of a pretribulation rapture, nine present-day gifts of the Spirit, women "in all forms of ministry," total abstinence (in the signed French Arrington article), tithing beyond ten percent, eternal punishment against annihilation, and literal creation days with the Gap Theory presented as an option.
+- Section 130: the Eschatology, Spiritual gifts, Women's ordination, Alcohol and Tithing chapters now name the Perry Stone volume where its verified cells place it (and Henry Morris joins the dispensational and no-tithe-mandate lists).
+
 ## v20261022b -- 22 October 2026
 
 ### Corrected

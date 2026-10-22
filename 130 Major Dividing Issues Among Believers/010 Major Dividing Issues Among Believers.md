@@ -134,7 +134,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 **The main positions.**
 - *Amillennial*: Catholic, Orthodox, Lutheran, Reformed, most mainline bodies.
 - *Historic premillennial*: many Baptists and evangelicals; the Christian and Missionary Alliance.
-- *Dispensational premillennial* with a pretribulation rapture: the Assemblies of God, the UPCI, many Southern Baptists and non-denominational churches, the Scofield, Ryrie and MacArthur study Bibles.
+- *Dispensational premillennial* with a pretribulation rapture: the Assemblies of God, the UPCI, many Southern Baptists and non-denominational churches, the Scofield, Ryrie, MacArthur and Henry Morris study Bibles, and the Perry Stone Hebraic Prophetic Study Bible ("I lean toward a pre-tribulation catching away").
 - *Postmillennial*: a minority in Reformed circles, historically dominant in American Puritanism (Jonathan Edwards).
 - *Distinctive systems*: Seventh-day Adventists' investigative judgment and premillennial return; Jehovah's Witnesses' 1914 chronology and earthly paradise; the Latter-day Saints' premillennial expectation with a Zion in America.
 
@@ -156,7 +156,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Classical Pentecostal*: the gifts continue and tongues are the initial evidence of Spirit baptism (Assemblies of God, COGIC, UPCI).
-- *Charismatic / continuationist*: the gifts continue; no required evidence (the Catholic Charismatic Renewal, the Christian and Missionary Alliance's "seek not, forbid not," many non-denominational churches, the ESV Study Bible's general editor).
+- *Charismatic / continuationist*: the gifts continue; no required evidence (the Catholic Charismatic Renewal, the Christian and Missionary Alliance's "seek not, forbid not," many non-denominational churches, the ESV Study Bible's general editor); Pentecostal, with the gifts expected (the Perry Stone Hebraic Prophetic Study Bible: the nine gifts "will continue until the return of Christ").
 - *Open but cautious*: the gifts are not denied in principle but not expected or emphasized (Catholic and Orthodox mainstream, most mainline bodies, Nazarenes; Haydock's Catholic commentary cites the Fathers for the gifts' continuance and faults only their "indiscreet use").
 - *Cessationist*: the sign gifts ceased with the apostles or the completed canon (PCA and the Reformed tradition broadly, the MacArthur Study Bible, the 1917 Scofield notes ("tongues and the sign gifts are to cease"), the Henry Morris notes ("that which is perfect" as the completed canon), Churches of Christ, Jehovah's Witnesses, for whom the gifts ended with the apostolic generation); the LCMS has no cessationist decree but does not expect the gifts.
 
@@ -178,7 +178,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Ordination closed to women as a matter of doctrine*: Catholic (*Ordinatio Sacerdotalis*, 1994), Orthodox, LCMS, PCA, Southern Baptist Convention (*Baptist Faith and Message* 2000), COGIC, Churches of Christ, Latter-day Saints (priesthood), Jehovah's Witnesses.
-- *Ordination open to women*: Methodist bodies (UMC, AME, AME Zion, GMC), Episcopal, ELCA, PC(USA), UCC, ABCUSA, Assemblies of God, Church of the Nazarene, Seventh-day Adventists in some regions (though the 2015 General Conference vote declined to authorize it), UPCI (licensing).
+- *Ordination open to women*: Methodist bodies (UMC, AME, AME Zion, GMC), Episcopal, ELCA, PC(USA), UCC, ABCUSA, Assemblies of God, Church of the Nazarene, Seventh-day Adventists in some regions (though the 2015 General Conference vote declined to authorize it), UPCI (licensing); among the study Bibles, the Perry Stone Hebraic Prophetic Study Bible ("God has and will continue to use women in all forms of ministry").
 - *Divided or local*: the Christian and Missionary Alliance (women may be "pastors" but not elders, 2023), the National Baptist conventions (left to local churches), non-denominational churches.
 
 **Passages each side rests on.** 1 Timothy 2:11--15 (and 1TIM-002 on "saved through childbearing"), 1 Corinthians 14:34--35 and 11:2--16 (1COR-005 on "because of the angels") against Galatians 3:28, Romans 16:1--7 (Phoebe the deacon, Junia "among the apostles"), Acts 18:26 (ACTS-008 on Priscilla), Judges 4--5 (JUDG-008 on Deborah) and Acts 2:17--18 (daughters prophesying). Sirach 25:24's "from a woman sin had its beginning" (SIR-002) is the deuterocanonical text behind one reading of 1 Timothy 2:14.
@@ -244,7 +244,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Sacramental and moderate use accepted*: Catholic, Orthodox, Lutheran, Episcopal, Presbyterian, most mainline bodies.
-- *Abstinence as an official expectation*: Southern Baptist resolutions, Assemblies of God, Church of the Nazarene, Seventh-day Adventists (health doctrine), Latter-day Saints (Word of Wisdom), COGIC and UPCI (Holiness tradition); among the study Bibles, the Henry Morris notes ("total abstinence from alcohol" at Ephesians 5:18).
+- *Abstinence as an official expectation*: Southern Baptist resolutions, Assemblies of God, Church of the Nazarene, Seventh-day Adventists (health doctrine), Latter-day Saints (Word of Wisdom), COGIC and UPCI (Holiness tradition); among the study Bibles, the Henry Morris notes ("total abstinence from alcohol" at Ephesians 5:18) and the Perry Stone Hebraic Prophetic Study Bible (its signed article recommends "total abstinence from all strong drink").
 - *Historic temperance, now a matter of conscience*: Methodist bodies (abstinence still commended as "a faithful witness" in the UMC Book of Resolutions; unfermented grape juice remains customary at Communion), Churches of Christ, most Baptist bodies outside the SBC.
 
 **Passages each side rests on.** Psalm 104:15 and John 2:1--11 (Cana) on wine as gift; Numbers 15:5--10 on wine in the drink offerings (EXOD-026); Proverbs 20:1 and 23:29--35 (PROV-015); Ephesians 5:18; 1 Timothy 5:23; Romans 14:21 on not causing a brother to stumble, the key text for voluntary abstinence; and the "two-wine" theory that New Testament *oinos* could mean grape juice, which the abstinence side has sometimes argued and most lexicons reject.
@@ -649,7 +649,7 @@ The chapters are grouped as the position tables are grouped, and numbered straig
 
 **The main positions.**
 - *Tithe required as doctrine or membership expectation*: Latter-day Saints (a condition of temple recommend), Seventh-day Adventists, Nazarene ("storehouse tithing"), COGIC, UPCI, AME and AME Zion (membership expectations), the National Baptist conventions (taught as a biblical obligation), Assemblies of God (expected of ministers).
-- *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe affirmed as "the standard of giving" in 1982 and as the "minimum standard" in later reaffirmations), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (Scofield: the tithe "a proportion which antedates the law," Christian giving "voluntary" and "proportioned to income"), MacArthur (tithing not a New Testament requirement).
+- *Tithe commended as a guide; giving proportionate and free*: Catholic (support according to means), Orthodox, Lutheran, Reformed, Baptist, Methodist, Episcopal (the tithe affirmed as "the standard of giving" in 1982 and as the "minimum standard" in later reaffirmations), Churches of Christ (weekly giving, not a tithe), the dispensational study Bibles (Scofield: the tithe "a proportion which antedates the law," Christian giving "voluntary" and "proportioned to income"), MacArthur and Henry Morris (tithing not a New Testament requirement); the Perry Stone Hebraic Prophetic Study Bible keeps the tithe as a standing principle and would "not limit God or ourselves to just 10 percent."
 - *No tithing, voluntary contributions only*: Jehovah's Witnesses.
 - *Prosperity teaching*: no body in this book holds it officially; the Assemblies of God formally criticized it in 1980, and the AME, COGIC, National Baptist and non-denominational entries acknowledge its presence in some congregations.
 
