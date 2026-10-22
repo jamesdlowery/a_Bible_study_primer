@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022a -- 22 October 2026
+
 ### Corrected
 
 - Section 120: the *Ignatius Catholic Study Bible* entry is rewritten from the volume itself — the complete 2024 Ignatius Press edition, read as a PDF supplied by the author. All thirty-one cells now quote its introductions, essays or notes (ledger: 31 Verified rows), and the Format line now dates the complete one-volume edition to 2024 rather than describing it as "expanded through the 2010s–2020s". Cells that had asserted a position the notes do not take now say so: Gambling and Dancing are "not addressed", War/pacifism records that no just-war exposition appears in the notes read, Worship that Sunday is not discussed, and Baptism that the mode is not discussed.
