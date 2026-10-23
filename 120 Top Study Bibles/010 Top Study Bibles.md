@@ -1,6 +1,6 @@
 # Prominent English Study Bibles
 
-This section profiles 27 study Bibles available in English, chosen for a combination of reach (sales and general use), denominational/traditional breadth (so the list is not accidentally dominated by one publisher or tradition), and representation of the 27 Bible translations tracked throughout this book (see "Popular Bible Translations" and "Histories of English Bible Translations"). Entries are presented in an estimated order of overall reach -- combining known sales figures where available, general cultural and denominational reach, and the underlying translation's own popularity as a secondary factor. This ordering is necessarily an estimate rather than a precise, uniformly sourced ranking: a handful of entries near the top (the NIV Study Bible, the Life Application Study Bible, the ESV Study Bible, the Scofield Reference Bible) have real, checkable sales figures or well-documented historical influence behind their position, while entries further down the list, especially the last several, are ordered by genuinely weaker and more inferential evidence, and this section says so directly rather than presenting false precision.
+This section profiles 26 study Bibles available in English, chosen for a combination of reach (sales and general use), denominational/traditional breadth (so the list is not accidentally dominated by one publisher or tradition), and representation of the 27 Bible translations tracked throughout this book (see "Popular Bible Translations" and "Histories of English Bible Translations"). Entries are presented in an estimated order of overall reach -- combining known sales figures where available, general cultural and denominational reach, and the underlying translation's own popularity as a secondary factor. This ordering is necessarily an estimate rather than a precise, uniformly sourced ranking: a handful of entries near the top (the NIV Study Bible, the Life Application Study Bible, the ESV Study Bible, the Scofield Reference Bible) have real, checkable sales figures or well-documented historical influence behind their position, while entries further down the list, especially the last several, are ordered by genuinely weaker and more inferential evidence, and this section says so directly rather than presenting false precision.
 
 A number of the 27 tracked translations (WEB, Darby, YLT, Smith's Literal Translation, Webster's Bible, the AKJV, the ERV, the CPDV, TRB, and, so far as this research could confirm, the NRSV-CE and the BSB specifically) do not appear to have a comparable, widely available dedicated study Bible edition, typically because they are older public-domain works, specialty/niche translations, or free digital-first texts not usually paired with a full study apparatus; this section says so directly rather than manufacturing an entry that does not exist. The ASV is the one apparent exception among the otherwise-unrepresented older translations: a dedicated ASV-based study Bible was published in 1972, described below, though it was never followed by a second edition and today survives mainly as a historical curiosity.
 
@@ -522,66 +522,8 @@ Broadly evangelical and deliberately cross-denominational: the contributors come
 
 ---
 
-## 10. NLT Illustrated Study Bible
 
-**Translation used:** New Living Translation
-**Publisher:** Tyndale House Publishers, first published 2015 (winner, 2016 ECPA Christian Book Award, Bible of the Year).
-**Scale:** Over 1,000 photos, illustrations, and infographics; more than 25,000 study notes; over 120 profiles of biblical people and empires; 150+ full-color maps and photos; 300 theme notes; 200 Hebrew and Greek word studies.
-
-### Editorial credit
-Produced as an institutional, multi-scholar Tyndale House project distinct from the earlier, text-focused NLT Study Bible (entry 6 above); this edition's own distinguishing feature is its extensive visual apparatus (full-color photographs, artistic reconstructions, and infographic-style presentation of background material) rather than a different underlying theological orientation.
-
-### Denominational leaning
-Broadly evangelical, cross-denominational, in the same general category as the standard NLT Study Bible; reviewers have specifically noted the volume's conservative interpretive stance on questions where its notes engage historical-critical objections to traditional authorship or historicity.
-
-### Doctrinal positions
-| Category | Position |
-|---|---|
-| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
-| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
-| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
-| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
-| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
-| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
-| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
-| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
-
-### Ethical and lifestyle positions
-
-### Other divisive positions
-| Category | Position | Source |
-|---|---|---|
-| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
-| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
-| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
-| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
-| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
-| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
-| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
-| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
-| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
-| Creation and the age of the earth | The Genesis 1 notes and infographics present the literal-day and figurative readings without ruling; the volume defends the historicity of Genesis 1–11 against critical objections. | Volume's notes at Genesis 1 (general pattern; wording not independently verified) |
-| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
-| Bible translations and KJV-onlyism | Built on the New Living Translation; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
-| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
-Consistent with broad evangelical Protestantism generally; specific verse-note wording on abortion, homosexuality, or alcohol has not been independently confirmed.
-
-| Category | Position | Source |
-|---|---|---|
-| Abortion | Opposed; the notes on Psalm 139 and Exodus 21 reflect the uniform evangelical view that human life bears God's image from conception. | General pattern of the editorial tradition, not independently documented in the notes |
-| Homosexuality | Same-sex sexual conduct treated as sinful in the notes on Romans 1 and 1 Corinthians 6, with pastoral care distinguished from approval. | General pattern of the editorial tradition, not independently documented in the notes |
-| Alcohol | Moderate use not treated as sinful; drunkenness is. The notes do not counsel abstinence. | General pattern of the editorial tradition, not independently documented in the notes |
-| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
-| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
-| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
-| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
-| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
-| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
-| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
-
----
-
-## 11. Reformation Study Bible
+## 10. Reformation Study Bible
 
 **Translation used:** English Standard Version (current edition; earlier editions used the New King James Version)
 **Publisher:** Reformation Trust Publishing (the publishing arm of Ligonier Ministries)
@@ -637,7 +579,7 @@ Explicitly and confessionally Reformed/Calvinist — reflects confessional coven
 
 ---
 
-## 12. Ryrie Study Bible
+## 11. Ryrie Study Bible
 
 **Translation used:** Available in KJV, NASB, and NIV editions.
 **Publisher:** Moody Publishers, first published 1976 (revised 1994, 1995).
@@ -693,7 +635,7 @@ Broadly evangelical, explicitly dispensationalist in eschatology — the Ryrie S
 
 ---
 
-## 13. Ignatius Catholic Study Bible
+## 12. Ignatius Catholic Study Bible
 
 **Translation used:** Revised Standard Version, Second Catholic Edition (RSV2CE)
 **Publisher:** Ignatius Press
@@ -752,7 +694,7 @@ Explicitly and exclusively Catholic — the volume states its notes follow "the 
 
 ---
 
-## 14. Catholic Study Bible
+## 13. Catholic Study Bible
 
 **Translation used:** New American Bible, Revised Edition (NABRE, 2011; Old Testament and Psalms revised 2010, New Testament 1986), the translation of the U.S. bishops' conference.
 **Publisher:** Oxford University Press (Oxford introductions, Reading Guides and articles © 1990, 2006, 2011); the edition read here is the second edition as updated for the NABRE (2011; nihil obstat and imprimatur, Archdiocese of Chicago, September 2005, for the Oxford material), the first edition having used the 1970/1986 NAB and a third edition following in 2016.
@@ -809,7 +751,7 @@ Catholic, in the academic, historical-critical register of post-Vatican II Ameri
 
 ---
 
-## 15. Amplified Study Bible
+## 14. Amplified Study Bible
 
 **Translation used:** Amplified Bible (AMP), 2015 edition
 **Publisher:** Zondervan, in partnership with The Lockman Foundation (the same organization that holds the NASB translation).
@@ -868,7 +810,7 @@ Not verified on any of the three categories; this study Bible's notes are descri
 
 ---
 
-## 16. Full Life Study Bible / Fire Bible
+## 15. Full Life Study Bible / Fire Bible
 
 **Translation used:** New International Version (Full Life Study Bible); also published as the "Fire Bible" in other translations.
 **Publisher:** Zondervan (Full Life); Life Publishers International (Fire Bible), closely associated with the Assemblies of God.
@@ -924,7 +866,7 @@ Pentecostal/Assemblies of God — see the Assemblies of God entry in "Major U.S.
 
 ---
 
-## 17. Cultural Backgrounds Study Bible
+## 16. Cultural Backgrounds Study Bible
 
 **Translation used:** New International Version (the 2016 *NIV Cultural Backgrounds Study Bible*); the same notes and articles were reissued with the New King James Version as the *NKJV Cultural Backgrounds Study Bible* (Zondervan, 2017), which is the edition read for this entry.
 **Publisher:** Zondervan (study notes © 2017, drawing on the IVP Bible Background Commentaries and the *Zondervan Illustrated Bible Backgrounds Commentary: Old Testament*; twenty-four New Testament articles reused from the *NIV Archaeological Study Bible*).
@@ -981,7 +923,7 @@ Broadly evangelical and deliberately non-doctrinal. The editors' introduction sa
 
 ---
 
-## 18. Thomas Nelson NKJV Open Bible, Expanded Edition
+## 17. Thomas Nelson NKJV Open Bible, Expanded Edition
 
 **Translation used:** New King James Version (© 1982), "the latest revision of the trusted King James Version" (publisher's welcome).
 **Publisher:** Thomas Nelson, Nashville; The Open Bible study material © 1983, 1985, 1990, 1997 by Thomas Nelson, Inc. (the Expanded Edition read here is the 1997 revision, in its 2006–2008 printing), in a line that goes back to the original Open Bible of the 1970s and has since been reissued in KJV, NASB and NKJV editions.
@@ -1038,7 +980,7 @@ Broadly conservative evangelical, cross-denominational by design — Baptist, Pr
 
 ---
 
-## 19. The Orthodox Study Bible
+## 18. The Orthodox Study Bible
 
 **Translation used:** New Testament, New King James Version (1982), "a translation of the Received Text of the Greek New Testament, with notes showing major variants in the Majority Text and the critical text"; Old Testament, the St. Athanasius Academy Septuagint (SAAS, © 2008), prepared from Rahlfs's Greek text with Brenton's 1851 translation and the NKJV Old Testament "in the places where the English translation of the LXX would match that of the Masoretic (Hebrew) text," in the canonical order of the Church of Greece's 1928 *Old Testament According to the Seventy*. The volume's own introduction says the SAAS "does not claim to be a new or superior translation."
 **Publisher:** Thomas Nelson, 2008 (study material © St. Athanasius Academy of Orthodox Theology); the New Testament and Psalms edition appeared in 1993, "the first English Bible with study material reflecting the ancient faith of the Eastern Orthodox Church."
@@ -1095,7 +1037,7 @@ Eastern Orthodox, and unlike every other volume in this section the notes state 
 
 ---
 
-## 20. NET Bible, Full-Notes Edition
+## 19. NET Bible, Full-Notes Edition
 
 **Translation used:** New English Translation (NET Bible 2.1)
 **Publisher:** Thomas Nelson (text and notes © 1996, 2019 Biblical Studies Press).
@@ -1152,7 +1094,7 @@ Multi-denominational, broadly evangelical. The preface states the team's "deeply
 
 ---
 
-## 21. The Complete Jewish Study Bible
+## 20. The Complete Jewish Study Bible
 
 **Translation used:** Complete Jewish Bible (CJB)
 **Publisher:** Messianic Jewish Publishers / Hendrickson Publishers, first published 2016.
@@ -1212,7 +1154,7 @@ Messianic Judaism — a movement combining Jewish religious practice and identit
 
 ---
 
-## 22. The Evidence Study Bible
+## 21. The Evidence Study Bible
 
 **Translation used:** New King James Version
 **Publisher:** Bridge-Logos / Living Waters; the official Bible of the *Way of the Master* evangelism ministry and television program.
@@ -1269,7 +1211,7 @@ Broadly evangelical, cross-denominational, with a specific and sustained focus o
 
 ---
 
-## 23. Henry Morris KJV Study Bible
+## 22. Henry Morris KJV Study Bible
 
 **Translation used:** King James Version
 **Publisher:** Master Books (a division of New Leaf Publishing Group, the publishing arm associated with the Institute for Creation Research); the Master Books edition was first printed in March 2012 (the notes and appendices are copyright 1995, 2006 and 2012 by the Henry M. Morris Estate) and was in its sixth printing by July 2018.
@@ -1326,7 +1268,7 @@ Single-author and self-described: the Introduction says that, rather than take "
 
 ---
 
-## 24. Jonathan Edwards Study Bible
+## 23. Jonathan Edwards Study Bible
 
 **Translation used:** New King James Version
 **Publisher:** Thomas Nelson, first published 2025.
@@ -1385,7 +1327,7 @@ Given this volume's specific devotional and historical-theological orientation a
 
 ---
 
-## 25. Haydock's Catholic Bible and Commentary
+## 24. Haydock's Catholic Bible and Commentary
 
 **Translation used:** Douay-Rheims Bible
 **Publisher:** Originally published by Thomas Haydock (publisher) beginning 1811-1814, in installments affordable to ordinary Catholic families under the era's Penal Laws restricting Catholic publishing in England; still in print today through several independent Catholic publishers, most commonly reproducing the expanded 1859 edition.
@@ -1444,7 +1386,7 @@ Reflecting its early-19th-century original composition, Haydock's commentary doe
 
 ---
 
-## 26. New Oxford Annotated Bible with the Apocrypha (NRSV)
+## 25. New Oxford Annotated Bible with the Apocrypha (NRSV)
 
 **Translation used:** New Revised Standard Version with the Apocrypha (1989), the National Council of Churches' revision of the RSV; the volume prints the NRSV committee's "To the Reader."
 **Publisher:** Oxford University Press; the edition read here is the Fully Revised Fifth Edition (2018; study material © 1962, 1965, 1973, 1977, 1991, 2001, 2007, 2010, 2018), successor to the *Oxford Annotated Bible* (RSV, 1962; Herbert G. May and Bruce M. Metzger), the *New Oxford Annotated Bible with the Apocrypha, Expanded Edition* (RSV, 1977) and the NRSV editions of 1991, 2001 and 2010. Subtitled "An Ecumenical Study Bible."
@@ -1501,7 +1443,7 @@ Academic and ecumenical rather than confessional. The preface states the method:
 
 ---
 
-## 27. Logos Complete Study Bible
+## 26. Logos Complete Study Bible
 
 **Translation used:** American Standard Version (ASV), 1901
 **Publisher:** Logos International, published 1972; based on the earlier "Cross-Reference Bible" (1910, edited by J.W. Monser). No second edition was ever produced, and the publisher itself ceased operations not long after this volume's release, making it very much a historical curiosity today rather than an actively marketed product -- reflected in its placement at the end of this list -- though it remains the one identifiable dedicated study Bible built specifically on the ASV among the sources checked.

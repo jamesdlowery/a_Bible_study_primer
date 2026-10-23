@@ -7,7 +7,7 @@ The section's source file carries one marker per chapter:
     <!-- POSITIONS: <category> -->
 
 where <category> is one of positions_matrix.CATEGORIES. The build replaces
-each marker with two tables -- the 27 denominations and the 27 study
+each marker with two tables -- the 27 denominations and the 26 study
 Bibles -- showing the opening sentence of that body's position cell and
 the source label the text gives for it, read live from the position
 tables in the Denominations and Study Bibles sections so the summaries
