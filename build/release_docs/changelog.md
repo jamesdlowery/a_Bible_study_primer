@@ -9,6 +9,13 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Restructured
+- Section 120, entry 2: the *NIV Life Application Study Bible* is replaced by the *NLT Life Application Study Bible*, Third Edition (Tyndale House, 2019), at the author's direction; the notes are the same Life Application apparatus, now read in the NLT edition supplied by the author.
+
+### Corrected
+- *NLT Life Application Study Bible* (Section 120): all thirty-one cells, none of which had been verified (most rested on "general pattern of the editorial tradition"), now rest on the volume's own notes and front matter, with quotations. The old entry was wrong in substance in several places: the notes teach justification by faith alone (not "not confessionally fixed"), never mention infant baptism, define the three millennial views without a premillennial lean, oppose abortion and homosexual practice explicitly (not "not verified"), approve dancing in worship, treat alcohol as a gift to be used in moderation, do not discuss remarriage, list the separatist view of the state alongside the others, and do not rule on capital punishment. The header now names the general editor (Ronald A. Beers), the senior editorial team and the theological reviewers under Kenneth S. Kantzer.
+- Section 140: the Life Application volume moves from the print-only Pending list to the volumes read in copies supplied by the author (thirteen); twelve remain in print only. The study-Bible sources ledger row is retitled and its NIV-edition retailer links removed.
+
 ## v20261023b -- 23 October 2026
 
 ### Corrected
