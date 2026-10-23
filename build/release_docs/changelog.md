@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261023d -- 23 October 2026
+
 ### Restructured
 - Section 120: the *NLT Illustrated Study Bible* entry is removed at the author's direction; the section now profiles 26 volumes, and the entries after it are renumbered (Reformation Study Bible is now entry 10). Counts in the Introduction's "Purpose and Scope," Section 140's consulted paragraph and print-only Pending list (now 11), and the study-Bible sources ledger are updated to match. No position-ledger rows existed for the volume.
 
