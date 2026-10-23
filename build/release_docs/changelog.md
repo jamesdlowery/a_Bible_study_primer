@@ -9,6 +9,11 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+
+- Section 120: the *NIV Study Bible* entry is rewritten from the volume itself — the Fully Revised Edition of 2020, read as an EPUB supplied by the author. All thirty-one cells now quote its introduction, articles or study notes (ledger: 31 Verified rows), and the editorial-credit paragraph names the editors of every edition and the original contributors the volume lists. Twenty-four cells had carried the label "General pattern of the editorial tradition, not independently documented in the notes"; all are gone. Corrections of substance: View of Scripture no longer says "inerrancy affirmed" (the volume's word is "infallible"; "inerrant" does not occur); Eschatology drops the "premillennial lean" (the introduction itself names the "Thousand Years" article as its model of evenhandedness); Spiritual gifts records that the notes reject the canon-cessation reading of 1 Corinthians 13:10; Abortion moves from "consistent with broad evangelical Protestantism" to "not addressed as a question"; War records "Christians may debate pacifism vs. just war" rather than a just-war position; Hell records that annihilationism is named and rejected; Creation no longer attributes to the Genesis 1 notes a three-view survey they do not give (the article affirms creation ex nihilo and calls chronology the wrong question); Tithing records that the prosperity gospel is named and rejected; Marriage roles is no longer "complementarian in tone" (head is given as "authority or source," and the 2020 household-codes article stresses mutuality).
+- Section 140: the NIV Study Bible leaves the print-only list (15 remain) and joins the volumes read in copies supplied by the author.
+
 ## v20261022h -- 23 October 2026
 
 ### Corrected
