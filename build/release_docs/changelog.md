@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261023e -- 23 October 2026
+
 ### Restructured
 - Section 120, entry 7: the *NASB Study Bible* (Lockman/Zondervan) is replaced by *The New Inductive Study Bible* (NASB; Harvest House / Precept Ministries International, 2013 edition) at the author's direction. The new entry is written from the publisher's listings: because the volume by design carries no interpretive notes, thirty of its thirty-one cells read "not addressed" with the source given as the volume's stated design, and every cell is marked as not yet verified against the volume. Section 140's Pending list and the study-Bible sources ledger are updated; no position-ledger rows existed for the old entry.
 
