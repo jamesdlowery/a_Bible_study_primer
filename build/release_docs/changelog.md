@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022j -- 23 October 2026
+
 ### Corrected
 
 - Section 120: *The Orthodox Study Bible* entry is rewritten from the volume itself — the 2008 Thomas Nelson / St. Athanasius Academy edition, read as an EPUB supplied by the author. All thirty-one cells now quote its study articles, Bishop Kallistos's essay or the study notes (ledger: 31 Verified rows); the header now describes both translations as the volume's own introduction does, and the editorial paragraph records that the volume credits no general editor (Fr. Jack Sparks chairs the Academic Community; Fr. Gillquist is listed among the Old Testament contributors). Twenty-one cells had rested on "Orthodox teaching" or "general pattern" rather than the notes; all now rest on the notes, and several change in substance: Contraception and Death penalty no longer report jurisdictional positions the volume never states and become "not addressed"; Gambling likewise; War/pacifism records non-retaliation and that neither just-war nor pacifist theory is named (the old "soldiers historically subject to penance" is not in the volume); Church and state is no longer "not developed" (the 1 Peter 2 note rejects separating Church from state in favour of cooperation); Creation records the article's statement that the Church "has not dogmatized any particular view" on evolution while the Fathers hold instantaneous creation of species; Tithing is reversed — the notes defend tithing against "some modern Christians" rather than teaching "no required tithe"; Divorce now quotes the note's own second-third-never-fourth marriage rule; Abortion quotes the Psalm 138 note calling abortion "the sin of murder."
