@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261023c -- 23 October 2026
+
 ### Restructured
 - Section 120, entry 2: the *NIV Life Application Study Bible* is replaced by the *NLT Life Application Study Bible*, Third Edition (Tyndale House, 2019), at the author's direction; the notes are the same Life Application apparatus, now read in the NLT edition supplied by the author.
 
