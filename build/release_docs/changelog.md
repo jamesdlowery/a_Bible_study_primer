@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022h -- 23 October 2026
+
 ### Corrected
 
 - Section 120: the *Cultural Backgrounds Study Bible* entry is rewritten from the volume itself — the NKJV edition (Zondervan, 2017), which carries the same Walton–Keener notes and articles as the 2016 NIV edition, read as an EPUB supplied by the author. All thirty-one cells now quote its annotations, articles or editors' introduction (ledger: 31 Verified rows); the header records both editions, and the ethical table is restored to its normal place. The old entry had labelled twenty cells "Not addressed" on the strength of the volume's background-only editorial approach; the notes in fact speak to most of them, descriptively rather than confessionally — Eschatology has a full article surveying the three millennial views, Women's ordination sets out both readings of 1 Timothy 2 and ends "the matter is thus debated," Divorce records that Jesus "sides with" Shammai, Baptism and the Lord's Supper are explained through Jewish conversion immersion and Passover, Homosexuality has its own article, Alcohol describes dilution and moderation, and Creation's functional reading is stated in the Genesis 1 notes themselves rather than only in the editor's other books. Four cells remain "not addressed" (Contraception, Gambling, Dancing, Sanctification as doctrine), now with the passages checked.
