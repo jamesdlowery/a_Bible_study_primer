@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261022g -- 23 October 2026
+
 ### Corrected
 
 - Section 120: the *NLT Study Bible* entry is rewritten from the volume itself — the Tyndale House ebook edition (2008 study apparatus, NLT second edition text), read as an EPUB supplied by the author. All thirty-one cells now quote its theme notes, study notes, introductions or front matter (ledger: 31 Verified rows); the header now gives the edition, scale and the general reviewers and contributing scholars the volume names, and the ethical table is restored to its normal place. Eight cells had carried the label "General pattern of the editorial tradition, not independently documented in the notes" and five were wrong in substance: View of Scripture no longer says "inerrancy affirmed" (the word does not occur; the 2 Timothy 3:16 note says "true, reliable, authoritative"); Baptism no longer says infant baptism is described as practiced; Eschatology no longer reports a "premillennial lean" (the theme note sets out three views as equals); Abortion moves from "Opposed" to "not addressed as such"; War/pacifism records that the notes reject pacifism "per se" and crusading alike without a just-war exposition; and Hell records that annihilationism is named and rejected at Matthew 25:46 rather than unmentioned.
