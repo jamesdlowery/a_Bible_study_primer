@@ -9,6 +9,10 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Corrected
+- *NET Bible, Full-Notes Edition* (Section 120): the five cells still resting on the volume's "stated editorial approach" (Scripture and Tradition; Worship; Gambling; Dancing; Premarital sex/cohabitation) now rest on the NET Bible 2.1 Full Notes Edition (Thomas Nelson, 2019) supplied by the author, with the notes quoted; the Alcohol and Divorce cells' "not checked" gaps (Ephesians 5:18; Matthew 5:32, 19:9; 1 Corinthians 7:12–15) are closed; the ethical table is restored to its place before the "Other divisive positions" table; the header now gives the 2019 Thomas Nelson edition, NA28 and the preface's "more than twenty-five" scholars; and quotations taken in October from the older bible.org preface ("sectarian bias," "60,237 notes") and from earlier online wording of the notes at Genesis 1:5, Genesis 38:9, Romans 16:1 and 1 Corinthians 11:10 are replaced with the 2.1 wording. All thirty-one of its cells now rest on the volume itself.
+- Section 140: the NET Bible moves from the "notes online" group to the volumes read in copies supplied by the author (twelve); two volumes remain in the online-checked group.
+
 ## v20261023a -- 23 October 2026
 
 ### Restructured
