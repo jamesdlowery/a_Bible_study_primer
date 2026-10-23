@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261023a -- 23 October 2026
+
 ### Restructured
 
 - Section 120: the *Oxford Annotated Bible* (RSV, 1962) entry is replaced by the *New Oxford Annotated Bible with the Apocrypha* (NRSV), at the author's direction; the study-Bible sources workbook, the ledger and Section 140 follow. The edition read is the Fully Revised Fifth Edition (2018), the copy supplied; the header traces the line from the 1962 RSV edition through the 1977 Expanded Edition to the NRSV editions.
