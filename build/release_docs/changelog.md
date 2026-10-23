@@ -9,6 +9,16 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Restructured
+
+- Section 120: the *Oxford Annotated Bible* (RSV, 1962) entry is replaced by the *New Oxford Annotated Bible with the Apocrypha* (NRSV), at the author's direction; the study-Bible sources workbook, the ledger and Section 140 follow. The edition read is the Fully Revised Fifth Edition (2018), the copy supplied; the header traces the line from the 1962 RSV edition through the 1977 Expanded Edition to the NRSV editions.
+
+### Corrected
+
+- Section 120: the new entry is written from the volume itself — read as an EPUB supplied by the author. All thirty-one cells now quote its preface, essays or annotations (ledger: 31 Verified rows), and the editorial paragraph names the editors and some twenty of the sixty contributors. The old entry had marked twenty-four cells "Not addressed; the volume takes no confessional position" from its editorial approach alone; the notes in fact describe Paul's soteriology, baptism as the "rite of entry," the Supper as commemorative, the offices as developing, Romans 1 (raising and leaving open the question of orientation), the divorce texts (the exceptive clause "added by Matthew"), the household codes ("legitimized… female subordination," "used to suggest that Christian women should remain in abusive marital relationships") and the curse of Ham ("once widely misread… justifying slavery"), so those cells now record what the notes say while stating that no doctrine is adjudicated. Women's ordination no longer infers from "the mainline traditions of the contributors"; Creation replaces "myth and legend" with the notes' own terms; Bible translations is rewritten for the NRSV.
+- Section 130, Creation and the age of the earth: the Oxford Annotated reading is removed from the "evolution accepted as compatible with faith" bullet — the notes never mention evolution — and listed under "no position."
+- Section 140: the New Oxford Annotated Bible leaves the print-only list (13 remain) and joins the volumes read in copies supplied by the author.
+
 ## v20261022j -- 23 October 2026
 
 ### Corrected
