@@ -108,7 +108,7 @@ The entries in this section are printed in a different color because they have *
 
 - [*ESV Study Bible*. Crossway, 2008.]{custom-style="Pending"}
 - [*MacArthur Study Bible*, LSB edition. Thomas Nelson, with The Master's Seminary and The Lockman Foundation, 2nd ed. 2024.]{custom-style="Pending"}
-- [*NASB Study Bible*. The Lockman Foundation / Zondervan.]{custom-style="Pending"}
+- [*The New Inductive Study Bible* (NASB). Harvest House Publishers / Precept Ministries International, 2013 edition. (Replaces the *NASB Study Bible* in Section 120 at the author's direction; the volume carries no interpretive notes, so what remains to check is its front matter and book overviews.)]{custom-style="Pending"}
 - [*Reformation Study Bible*. Reformation Trust (Ligonier Ministries).]{custom-style="Pending"}
 - [*Ryrie Study Bible*. Moody Publishers, 1976; rev. 1994, 1995.]{custom-style="Pending"}
 - [*Amplified Study Bible*. Zondervan with The Lockman Foundation.]{custom-style="Pending"}

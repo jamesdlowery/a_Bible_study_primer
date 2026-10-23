@@ -355,56 +355,60 @@ Broadly evangelical and cross-denominational (the contributors page gives names 
 
 ---
 
-## 7. NASB Study Bible
+## 7. The New Inductive Study Bible (NASB)
 
-**Translation used:** New American Standard Bible
-**Publisher:** The Lockman Foundation (which also holds the NASB translation copyright) / Zondervan.
+**Translation used:** New American Standard Bible (the publisher's listing names only "NASB"; the 2013 edition is understood to carry the 1995 Updated text, which has not been confirmed against the volume). An ESV edition (2011 text) was issued alongside it in 2013.
+**Publisher:** Harvest House Publishers, with Precept Ministries International (founded 1970 by Jack and Kay Arthur); current edition August 2013, 2,296 pages; Gold Medallion winner. First published as *The International Inductive Study Bible* (1992), retitled *The New Inductive Study Bible* (2000).
+**Scale:** Not a commentary Bible. Its apparatus is a method rather than notes: "a guide to completing the steps of observation, interpretation, and application," "individualized overviews and study instructions for every book of the Bible," "23 pages of full-color charts, historical timelines, and maps," wide margins for the reader's own marking, and "a one-year Bible reading plan and a three-year Bible study plan" (publisher's feature list). The ESV edition's listing describes the same design as letting God's Word "serve as its own commentary."
+
+### General editor / project leadership
+Produced by Precept Ministries International under its co-founder Kay Arthur, whose inductive Bible-study method (observation, interpretation, application; marking key words and making lists) the volume teaches; no general editor is credited for the book overviews in the publisher's listing, and the volume is catalogued under the ministry's name.
 
 ### Denominational leaning
-Broadly evangelical, cross-denominational; the NASB itself is widely regarded as one of the most formally literal English translations, and this study Bible's notes are generally oriented toward close textual and grammatical study rather than one denomination's specific confessional framework.
+Nondenominational evangelical in the Precept Ministries tradition. The volume's distinguishing claim is that it tells the reader *how* to study rather than *what* to conclude — "letting Scripture speak for itself is the best way to experience its power" (publisher's description) — so, unlike every other volume in this section, it supplies no interpretive notes from which a confessional position could be read. The book overviews and study instructions direct attention to themes and key words rather than to doctrinal conclusions. Precept Ministries publishes a statement of faith (inspiration and inerrancy of Scripture, the Trinity, salvation by grace through faith), but that is the ministry's position, not something printed as commentary in the volume.
 
 ### Doctrinal positions
 | Category | Position |
 |---|---|
-| View of Scripture | Inerrancy affirmed; the volume's evangelical contributor base and preface treat Scripture as fully truthful and authoritative. |
-| Salvation | Not confessionally fixed; contributors span Reformed and Arminian views, and the notes generally present both where a passage is contested. |
-| Baptism | Not confessionally fixed; the notes describe both believer's and infant baptism as practiced in the contributing traditions without mandating either. |
-| The Lord's Supper | Not confessionally fixed; the notes describe the ordinance as a memorial and means of fellowship with Christ, in line with the broad evangelical range rather than one sacramental theology. |
-| Church government | Not addressed as a doctrine; the notes describe New Testament church offices (elders, deacons) without endorsing a particular polity. |
-| Eschatology | Not confessionally fixed; premillennial, amillennial, and postmillennial readings are noted where relevant, with a general evangelical premillennial lean in the tradition. |
-| Spiritual gifts | Not confessionally fixed; the notes neither deny nor emphasize the continuation of the miraculous gifts. |
-| Women's ordination | Not confessionally fixed; the notes generally present the complementarian and egalitarian readings of the relevant passages (1 Timothy 2, 1 Corinthians 11 and 14) without ruling. |
+| View of Scripture | The only doctrinal commitment the design itself expresses: the method presupposes that Scripture is authoritative and self-interpreting ("God's Word … its own commentary"). Inerrancy is affirmed in Precept Ministries' statement of faith; whether the volume's front matter states it has not been verified. |
+| Salvation | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
+| Baptism | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
+| The Lord's Supper | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
+| Church government | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
+| Eschatology | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
+| Spiritual gifts | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
+| Women's ordination | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. |
 
 ### Ethical and lifestyle positions
 | Category | Position | Source |
 |---|---|---|
-| Abortion | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
-| Homosexuality | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
-| Alcohol | Consistent with broad evangelical Protestantism; specific verse-note wording not verified. | General pattern of the editorial tradition, not independently documented in the notes |
-| Divorce and remarriage | The notes treat marriage as intended to be permanent and read Matthew 19:9 and 1 Corinthians 7:15 as permitting divorce for sexual immorality or abandonment, the majority evangelical view; remarriage after such a divorce is generally regarded as permissible. | General pattern of the editorial tradition, not independently documented in the notes |
-| Contraception | Not addressed; the evangelical tradition the volume reflects generally treats contraception within marriage as a matter of conscience. | General pattern of the editorial tradition, not independently documented in the notes |
-| Gambling | Not addressed directly; the tradition generally discourages gambling as poor stewardship and a form of covetousness, without treating it as a matter of doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
-| Dancing | Not addressed; no position taken. | Not addressed by the volume; no confessional position taken |
-| Premarital sex/cohabitation | Sexual relations are reserved for marriage; the notes on 1 Corinthians 6-7 and Hebrews 13:4 reflect the uniform evangelical position. | General pattern of the editorial tradition, not independently documented in the notes |
-| War/pacifism | Not addressed as a doctrine; the tradition generally holds a just-war rather than pacifist position, and the notes on Romans 13 treat governmental use of force as legitimate. | General pattern of the editorial tradition, not independently documented in the notes |
-| Death penalty | Not addressed as a doctrine; the notes on Genesis 9:6 and Romans 13:4 generally treat capital punishment as within the state's legitimate authority, without advocating it. | General pattern of the editorial tradition, not independently documented in the notes |
+| Abortion | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Homosexuality | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Alcohol | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Divorce and remarriage | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Contraception | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Gambling | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Dancing | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Premarital sex/cohabitation | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| War/pacifism | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Death penalty | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
 
 ### Other divisive positions
 | Category | Position | Source |
 |---|---|---|
-| Scripture and Tradition | Scripture is the final authority and historic creeds are respected but not treated as a second source; the notes do not appeal to church tradition to settle readings. | General pattern of the editorial tradition, not independently documented in the notes |
-| The Trinity and the person of Christ | Trinitarian and orthodox on the deity and humanity of Christ throughout the notes on the relevant passages (John 1, Philippians 2, Colossians 1). | General pattern of the editorial tradition, not independently documented in the notes |
-| Predestination and free will | Not confessionally fixed; the notes on Romans 9 and Ephesians 1 generally present both the Reformed and the Arminian reading rather than ruling between them. | General pattern of the editorial tradition, not independently documented in the notes |
-| Sanctification and holiness | Progressive sanctification; the notes do not teach a distinct second work of grace. | General pattern of the editorial tradition, not independently documented in the notes |
-| Hell, judgment and the fate of the lost | Eternal conscious punishment is assumed in the notes on Matthew 25:46 and Revelation 20; annihilationism is not presented as an option. | General pattern of the editorial tradition, not independently documented in the notes |
-| Mary, the saints and prayer for the dead | Protestant: Mary is honored but not venerated, Jesus' "brothers" (Matthew 12:46) are read as literal siblings, and the notes give no basis for invoking saints or praying for the dead. | General pattern of the editorial tradition, not independently documented in the notes |
-| Worship: day, style and liturgy | Sunday worship assumed; the notes on Colossians 2:16 and Romans 14:5 treat the Sabbath command as fulfilled in Christ rather than binding, and no liturgical style is commended. | General pattern of the editorial tradition, not independently documented in the notes |
-| Church and state / political engagement | The notes on Romans 13 and 1 Peter 2 teach submission to and prayer for governing authorities without advocating a particular political program. | General pattern of the editorial tradition, not independently documented in the notes |
-| Race, ethnicity and the church | The notes on Acts 10, Galatians 3:28 and Ephesians 2 affirm the unity of all peoples in Christ; racial questions are not otherwise treated as a doctrine. | General pattern of the editorial tradition, not independently documented in the notes |
-| Creation and the age of the earth | Notes adapted from the NIV Study Bible: the Genesis 1 notes present the literal-day, day-age and framework readings and decline to rule. | Volume's notes at Genesis 1, adapted from the NIV Study Bible (general pattern; wording not independently verified) |
-| Tithing and the prosperity gospel | The notes treat the tithe as Israel's law and New Testament giving as generous and proportionate (2 Corinthians 8–9) without mandating a tenth; prosperity teaching is not present. | General pattern of the editorial tradition, not independently documented in the notes |
-| Bible translations and KJV-onlyism | Built on the New American Standard Bible; the preface commends a committee translation from the original languages. KJV-onlyism is not a position of the volume. | Volume's own base translation and preface |
-| Marriage roles: complementarian and egalitarian | The notes on Ephesians 5 present the husband's headship as loving, sacrificial leadership and the wife's submission within mutual submission (5:21); complementarian in tone without pressing the question. | General pattern of the editorial tradition, not independently documented in the notes |
+| Scripture and Tradition | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| The Trinity and the person of Christ | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Predestination and free will | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Sanctification and holiness | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Hell, judgment and the fate of the lost | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Mary, the saints and prayer for the dead | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Worship: day, style and liturgy | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Church and state / political engagement | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Race, ethnicity and the church | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Creation and the age of the earth | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Tithing and the prosperity gospel | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
+| Bible translations and KJV-onlyism | Built on the New American Standard Bible, a formal-equivalence committee translation from the original languages; the inductive method asks the reader to compare translations and consult the original-language words. KJV-onlyism is not a position of the volume. | Volume's own base translation and publisher's description; not verified against the volume |
+| Marriage roles: complementarian and egalitarian | Not addressed: by design the volume carries no interpretive notes, so it takes no position; what the reader concludes is left to the reader's own inductive study. | Volume's stated design (publisher's description); not verified against the volume |
 
 ---
 
