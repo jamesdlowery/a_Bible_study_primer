@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261025a -- 25 October 2026
+
 ### Corrected
 - *The Evidence Study Bible* (Section 120): all thirty-one cells, none of which had been verified (most rested on "general pattern of the editorial tradition" or "tradition of the editor"), now rest on the 2011 Bridge-Logos NKJV volume supplied by the author, with quotations from the preface, "Why Christianity?", the verse comments, the Questions & Objections boxes and the Commentary Index. Corrections to the old entry: the volume teaches believer's baptism by immersion (not "both believer's and infant baptism"), a symbolic Lord's Supper, no millennial position (not "premillennial by tradition"), explicit support for capital punishment (not "not addressed"), abstinence from alcohol, and a reading of 1 Timothy 2 that bars women from church teaching while urging them to preach in the open air; it declines to choose between Calvinism and Arminianism; it does not comment on Matthew 19:9, 1 Corinthians 7:15 or Ephesians 5:22–33, which the old cells cited. Source lines that appealed to Comfort's other works ("Hell's Best Kept Secret", the film *180*) are replaced with the volume's own notes. The header now gives the 2011 edition, editor, the 2003 KJV first edition and the five labelled series.
 - Section 140: the volume moves from the print-only Pending list to the volumes read in copies supplied by the author (fifteen); nine remain in print only.
