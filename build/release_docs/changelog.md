@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261024a -- 25 October 2026
+
 ### Corrected
 - *The Complete Jewish Study Bible* (Section 120): all thirty-one cells, none of which had been verified (most rested on "general pattern of the editorial tradition"), now rest on the 2016 Hendrickson volume supplied by the author as a scanned PDF, with quotations from Stern's introduction, the general editor's introduction, the topical and theme articles and the study notes. The header now gives the Hendrickson copyright, the 2016 CJB update, the twelve theme series, the theological editor and the named contributors. Several old cells were corrected: the notes do not "avoid the term Trinity" (it appears in the Seder notes), say nothing about the *get* being retained in practice, carry no notes on Ephesians 5:21–33 or on war and self-defence, and where the volume takes a position on sexual ethics it does so through the CJB's own renderings (1 Corinthians 6:9; 1 Timothy 1:10) rather than in notes — the cells now say so. Many cells record that the volume's notes are silent at the usual proof texts.
 - Section 140: the volume moves from the print-only Pending list to the volumes read in copies supplied by the author (fourteen); ten remain in print only.
