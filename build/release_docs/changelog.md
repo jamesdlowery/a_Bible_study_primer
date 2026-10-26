@@ -9,6 +9,8 @@ with the previous release after these notes.
 
 ## Unreleased
 
+## v20261026a -- 26 October 2026
+
 ### Also
 - A new companion workbook, *Commandments, laws & traditions* (`a_Bible_study_primer_commandments_laws_traditions_<version>.xlsx`), is built and attached to every release and linked from the README above the release documents: 1,094 rows covering the pre-Mosaic commands, the Ten Commandments with their three numbering systems, the traditional 613 commandments with KJV proof-texts, other Old Testament statutes, the imperatives of the Prophets and wisdom books, the commands of Christ, the apostolic instructions and church ordinances, and the traditions and customs the text names, with the classical moral / ceremonial / civil division, how the New Testament treats each law, Temple- or land-dependence, a colour legend and a view tab per group. Rows live in `build/commandments/commandments.csv`; every reference is verified against the KJV text at build time.
 
