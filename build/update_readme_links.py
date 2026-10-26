@@ -30,6 +30,15 @@ END = "<!-- AUTO-GENERATED-DOWNLOAD-LINKS:END -->"
 VSTART = "<!-- AUTO-GENERATED-VERIFICATIONS-LINK:START -->"
 VEND = "<!-- AUTO-GENERATED-VERIFICATIONS-LINK:END -->"
 
+# A third marked block, the "Companion workbook" subsection that sits just
+# above "Release documents": the commandments, laws and traditions
+# workbook, offered for download in its own right rather than as a
+# release document. Rewritten with the versioned filename on every build;
+# if README does not yet carry the markers, the block is inserted
+# immediately above the Release documents block the first time.
+CSTART = "<!-- AUTO-GENERATED-COMMANDMENTS-LINK:START -->"
+CEND = "<!-- AUTO-GENERATED-COMMANDMENTS-LINK:END -->"
+
 
 def format_size(path):
     """'2.4 MB', or None if the file isn't there to measure -- e.g. a
@@ -144,6 +153,33 @@ def build_verifications_block(version, files_dir="."):
                       chk_para, "", srcs_para, VEND])
 
 
+def build_commandments_block(version, files_dir="."):
+    """The 'Companion workbook' subsection above 'Release documents': the
+    commandments, laws and traditions workbook, linked by its versioned
+    filename and annotated with its size."""
+    link = _doc_link("📖 **Commandments, laws & traditions (.xlsx)**",
+                     f"a_Bible_study_primer_commandments_laws_traditions_{version}.xlsx", version, files_dir)
+    para = (
+        f"{link} is a companion to the book: a filterable matrix of every "
+        f"commandment, law, ordinance, teaching and tradition in the KJV -- "
+        f"the pre-Mosaic commands of Genesis, the Ten Commandments with their "
+        f"three numbering systems, the traditional 613 commandments of the "
+        f"Torah (248 positive, 365 negative) with KJV proof-texts, the other "
+        f"Old Testament statutes, the imperatives of the Prophets and wisdom "
+        f"books, the commands of Christ, the apostolic instructions and "
+        f"church ordinances, and the traditions and customs the text itself "
+        f"names. Each row gives its category, the classical moral / "
+        f"ceremonial / civil division, how the New Testament treats it, "
+        f"whether it presupposes the Temple or the land, its references and "
+        f"the opening of the verse, with a colour legend and a view tab for "
+        f"each group. The rows come from "
+        f"[`build/commandments/commandments.csv`](build/commandments/commandments.csv) "
+        f"(edit that file, not the spreadsheet); every reference is checked "
+        f"against the KJV text on every build."
+    )
+    return "\n".join([CSTART, "### Companion workbook", "", para, CEND])
+
+
 def main():
     version = sys.argv[1]
     readme_path = sys.argv[2] if len(sys.argv) > 2 else "README.md"
@@ -168,6 +204,18 @@ def main():
         print(f"WARNING: could not find {VSTART} / {VEND} markers in "
               f"{readme_path}; the remaining-verifications paragraph was "
               f"left unchanged.")
+    cpattern = re.compile(re.escape(CSTART) + r".*?" + re.escape(CEND), re.DOTALL)
+    cblock = build_commandments_block(version, files_dir)
+    if cpattern.search(new_content):
+        new_content = cpattern.sub(cblock, new_content)
+    elif VSTART in new_content:
+        # First build after the workbook was added: put the block (and a
+        # blank line) directly above the Release documents block.
+        new_content = new_content.replace(VSTART, cblock + "\n\n" + VSTART, 1)
+        print("README: inserted the Companion workbook block above Release documents")
+    else:
+        print(f"WARNING: could not find {CSTART} / {CEND} (or {VSTART}) markers in "
+              f"{readme_path}; the commandments paragraph was left unchanged.")
     if new_content == content:
         print("README already up to date for this version; no changes made.")
         return

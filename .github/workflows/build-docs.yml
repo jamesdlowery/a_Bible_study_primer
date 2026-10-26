@@ -1,4 +1,4 @@
-name: Build Word / ODT / PDF / HTML / verifications, checklist and sources XLSX
+name: Build Word / ODT / PDF / HTML / verifications, checklist, sources and commandments XLSX
 
 # Runs whenever content changes on main, or manually via the Actions tab.
 on:
@@ -221,6 +221,20 @@ jobs:
             "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
             "a_Bible_study_primer_study_bible_sources_${{ steps.version.outputs.version }}.xlsx"
 
+      # --- The commandments, laws and traditions workbook: every
+      # commandment, law, ordinance, teaching and tradition in the KJV
+      # (pre-Mosaic, Decalogue, the 613, other OT statutes, Prophets and
+      # Wisdom, Christ, apostolic, traditions), each with its KJV reference
+      # and the opening of the verse. Rows come from
+      # build/commandments/commandments.csv; every reference is resolved
+      # against build/commandments/kjv_verses.json.gz and the build fails
+      # if one does not, so a wrong reference can never ship. ---
+      - name: Generate commandments, laws and traditions XLSX
+        run: |
+          python3 build/generate_commandments_xlsx.py \
+            "${{ steps.version.outputs.version }}" "$GITHUB_WORKSPACE" \
+            "a_Bible_study_primer_commandments_laws_traditions_${{ steps.version.outputs.version }}.xlsx"
+
       # --- Per-release documents: the feature list (what the book contains,
       # counts filled from the live text) and the change log (editor's notes
       # from build/release_docs/changelog.md plus a measured comparison with
@@ -253,6 +267,8 @@ jobs:
              "a_Bible_study_primer_manual_checklist.xlsx"
           cp "a_Bible_study_primer_study_bible_sources_${VERSION}.xlsx" \
              "a_Bible_study_primer_study_bible_sources.xlsx"
+          cp "a_Bible_study_primer_commandments_laws_traditions_${VERSION}.xlsx" \
+             "a_Bible_study_primer_commandments_laws_traditions.xlsx"
           cp "a_Bible_study_primer_feature_list_${VERSION}.pdf" "a_Bible_study_primer_feature_list.pdf"
           cp "a_Bible_study_primer_change_log_${VERSION}.pdf" "a_Bible_study_primer_change_log.pdf"
 
@@ -281,6 +297,8 @@ jobs:
             a_Bible_study_primer_manual_checklist_${{ steps.version.outputs.version }}.xlsx
             a_Bible_study_primer_study_bible_sources.xlsx
             a_Bible_study_primer_study_bible_sources_${{ steps.version.outputs.version }}.xlsx
+            a_Bible_study_primer_commandments_laws_traditions.xlsx
+            a_Bible_study_primer_commandments_laws_traditions_${{ steps.version.outputs.version }}.xlsx
             a_Bible_study_primer_feature_list.pdf
             a_Bible_study_primer_feature_list_${{ steps.version.outputs.version }}.pdf
             a_Bible_study_primer_change_log.pdf
