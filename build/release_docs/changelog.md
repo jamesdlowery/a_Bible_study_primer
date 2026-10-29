@@ -9,6 +9,9 @@ with the previous release after these notes.
 
 ## Unreleased
 
+### Prominent English Study Bibles
+- The *ESV Study Bible* entry has been verified against a scanned PDF of the volume supplied by the author: all thirty-one position cells are now checked against the volume itself and quote it. The old entry, none of whose cells had been verified, was wrong in several particulars: it cited articles that do not exist ("The Bible and Science," "The Bible and Government," "The Bible and Translation," "The Bible and Christian Theology," an "article on worship," an "article on wealth and poverty" — the real titles are the "Biblical Doctrine" and "Biblical Ethics" series, "Civil Government," "Stewardship," "Reading the Bible for Preaching and Worship" and the manuscript-reliability articles); it said covenantal infant baptism was the editors' confessional position, that the notes reject dispensational distinctions between Israel and the Church, that the sign gifts are not affirmed as continuing, that annihilationism is explicitly refuted, that the Genesis notes adopt the analogical-days view, and that contraception, war and the death penalty are not addressed — on each of these the volume either deliberately presents the evangelical options without choosing (baptism, millennium, gifts, creation days, contraception) or has a full article taking a position (just war, capital punishment for murder). Abortion, homosexuality and alcohol no longer rest on the general editor's separate books. The header now gives the volume's own figures (95 contributors; the "9 countries" and "20,000 notes" figures were not in the volume and have been dropped) and names the executive, theological, Old and New Testament and managing editors. Section 140 now counts sixteen volumes read in the author's copies and eight in print only, and the ESV Study Bible leaves the Pending list.
+
 ## v20261026a -- 26 October 2026
 
 ### Also
